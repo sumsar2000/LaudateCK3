@@ -1,7 +1,7 @@
 ﻿167840 = {
 	name = "Berthold"
 	dynasty = 9559
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	675.1.1 = {
 		birth = "675.1.1"
@@ -14,7 +14,7 @@
 167841 = {
 	name = "Alaholf"
 	dynasty = 9559
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 167840
 	710.1.1 = {
@@ -28,7 +28,7 @@
 167842 = {
 	name = "Chrodhoh"
 	dynasty = 9559
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 167841
 	730.1.1 = {
@@ -42,7 +42,7 @@
 167843 = {
 	name = "Berthold"
 	dynasty = 9559
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 167842
 	755.1.1 = {
@@ -56,7 +56,7 @@
 167844 = {
 	name = "Chadaloh"
 	dynasty = 9559
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 167843
 	775.1.1 = {
@@ -70,7 +70,7 @@
 167845 = {
 	name = "Berthold"
 	dynasty = 9559
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 167844
 	795.1.1 = {
@@ -84,7 +84,7 @@
 167846 = {
 	name = "Erchanger"
 	dynasty = 9559
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 167845
 	815.1.1 = {
@@ -99,7 +99,7 @@
 	name = "Richardis"
 	female = yes
 	dynasty = 9559
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 167846
 	837.1.1 = {
@@ -113,7 +113,7 @@
 167848 = {
 	name = "Berthold"
 	dynasty = 9559
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 167845
 	825.1.1 = {
@@ -127,7 +127,7 @@
 167849 = {
 	name = "Berthold"
 	dynasty = 9559
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 167848
 	855.1.1 = {
@@ -141,7 +141,7 @@
 167850 = {
 	name = "Erchanger"
 	dynasty = 9559
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 167848
 	860.1.1 = {
@@ -156,7 +156,7 @@
 	name = "Kunigunde"
 	female = yes
 	dynasty = 9559
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 167848
 	882.1.1 = {
@@ -170,7 +170,7 @@
 167852 = {
 	name = "Adalbert"
 	dynasty = 9559
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 167849
 	885.1.1 = {
@@ -184,7 +184,7 @@
 167853 = {
 	name = "Berthold"
 	dynasty = 9559
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 167852
 	910.1.1 = {
@@ -199,7 +199,7 @@
 	name = "Judith"
 	female = yes
 	dynasty = 9559
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 167852
 	915.1.1 = {
@@ -218,7 +218,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = honest
 	trait = education_stewardship_2
@@ -238,7 +238,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = diligent
 	trait = greedy
@@ -263,7 +263,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_1
 	father = 221518
@@ -279,7 +279,7 @@
 	name = "Sofie"
 	female = yes
 	dynasty = 179
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 221518
 	mother = 31538
@@ -299,7 +299,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 1610
@@ -323,7 +323,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_stewardship_2
 	father = 1610
@@ -343,7 +343,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = education_martial_2
@@ -375,7 +375,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_2
 	father = 1610
@@ -396,7 +396,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 1610
@@ -426,7 +426,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = generous
 	trait = honest
@@ -451,7 +451,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 212400
@@ -474,7 +474,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = calm
 	trait = honest
@@ -496,7 +496,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = greedy
 	trait = gluttonous
@@ -518,7 +518,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = calm
@@ -543,7 +543,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_1
 	father = 213146
@@ -563,7 +563,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = chaste
 	trait = diligent
@@ -586,7 +586,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = just
@@ -612,7 +612,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = education_intrigue_1
@@ -632,7 +632,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = temperate
 	trait = humble
@@ -655,7 +655,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lazy
 	trait = greedy
@@ -677,7 +677,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_3
 	father = 20245
@@ -700,7 +700,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = cynical
@@ -722,7 +722,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 10087
@@ -743,7 +743,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_diplomacy_2
 	father = 462316
@@ -762,7 +762,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = calm
 	trait = temperate
@@ -787,7 +787,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = honest
 	trait = arrogant
@@ -809,7 +809,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = humble
 	trait = generous
@@ -831,7 +831,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = calm
 	trait = temperate
@@ -856,7 +856,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_3
 	father = 462306
@@ -876,7 +876,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_2
 	father = 212402
@@ -897,7 +897,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_3
 	father = 462316
@@ -917,7 +917,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = diligent
 	trait = education_diplomacy_1
@@ -934,7 +934,7 @@
 7520 = {
 	name = "Hermann"
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212402
 	mother = 7637
@@ -953,7 +953,7 @@
 	name = "Friedrich"
 	# AKA: Frederick
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7520
 	mother = 7523
@@ -970,7 +970,7 @@
 	# AKA: Liutgard
 	female = yes
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 20245
 	mother = 213150
@@ -986,7 +986,7 @@
 	name = "Petrissa"
 	female = yes
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_stewardship_2
 	father = 20245
@@ -1002,7 +1002,7 @@
 33529 = {
 	name = "Adalbert"
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 213146
 	mother = 212693
@@ -1018,7 +1018,7 @@
 33530 = {
 	name = "Adalbert"
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33529
 	1165.1.1 = {
@@ -1033,7 +1033,7 @@
 	name = "Agathe"
 	female = yes
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33529
 	1166.1.1 = {
@@ -1048,7 +1048,7 @@
 33532 = {
 	name = "Konrad"
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33530
 	1195.1.1 = {
@@ -1062,7 +1062,7 @@
 33533 = {
 	name = "Berthold" #bishop of Strassburg  1223-1224
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_2
 	father = 33530
@@ -1077,7 +1077,7 @@
 33534 = {
 	name = "Heinrich"
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33530
 	1199.1.1 = {
@@ -1090,7 +1090,7 @@
 33535 = {
 	name = "Ludwig"
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33532
 	1220.1.1 = {
@@ -1104,7 +1104,7 @@
 33536 = {
 	name = "Konrad"
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33532
 	1226.1.1 = {
@@ -1119,7 +1119,7 @@
 	name = "Anna"
 	female = yes
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33532
 	1228.1.1 = {
@@ -1134,7 +1134,7 @@
 	name = "Agnes"
 	female = yes
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33532
 	1229.1.1 = {
@@ -1148,7 +1148,7 @@
 33539 = {
 	name = "Berthold"
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33532
 	1230.1.1 = {
@@ -1162,7 +1162,7 @@
 33540 = {
 	name = "Ludwig"
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33535
 	1250.1.1 = {
@@ -1176,7 +1176,7 @@
 33541 = {
 	name = "Hermann"
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33535
 	1255.1.1 = {
@@ -1191,7 +1191,7 @@
 	name = "Agnes"
 	female = yes
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33535
 	1258.1.1 = {
@@ -1206,7 +1206,7 @@
 	name = "Adelheid"
 	female = yes
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33540
 	1275.1.1 = {
@@ -1220,7 +1220,7 @@
 33544 = {
 	name = "Simon"
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33536
 	1260.1.1 = {
@@ -1234,7 +1234,7 @@
 33545 = {
 	name = "Konrad"
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33536
 	1264.1.1 = {
@@ -1248,7 +1248,7 @@
 33546 = {
 	name = "Ludwig"
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33536
 	1266.1.1 = {
@@ -1262,7 +1262,7 @@
 33547 = {
 	name = "Konrad"
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33544
 	1290.1.1 = {
@@ -1276,7 +1276,7 @@
 33548 = {
 	name = "Simon"
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33544
 	1294.1.1 = {
@@ -1290,7 +1290,7 @@
 33549 = {
 	name = "Friedrich"
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33546
 	1300.1.1 = {
@@ -1304,7 +1304,7 @@
 33550 = {
 	name = "Konrad"
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33549
 	1330.1.1 = {
@@ -1319,7 +1319,7 @@
 	name = "Mechthild"
 	female = yes
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212402
 	mother = 7637
@@ -1335,7 +1335,7 @@
 	name = "Elisabeth"
 	female = yes
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212402
 	mother = 7637
@@ -1351,7 +1351,7 @@
 	name = "Gertrud"
 	female = yes
 	dynasty_house = house_zahringen #von Zähringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212400
 	mother = 212401
@@ -1368,7 +1368,7 @@
 	name = "Judith"
 	female = yes
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 213153
 	1107.1.1 = {
@@ -1384,7 +1384,7 @@
 	name = "Agnes"
 	female = yes
 	dynasty_house = house_zahringen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7520
 	mother = 7523
@@ -1400,7 +1400,7 @@
 73316 = {
 	name = "Rudolf"
 	dynasty = 12242
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	1008.1.1 = {
 		birth = "1008.1.1"
@@ -1418,7 +1418,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = gluttonous
 	trait = education_diplomacy_2
@@ -1439,7 +1439,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_2
 	father = 33707
@@ -1461,7 +1461,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_3
 	father = 462306
@@ -1484,7 +1484,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = brave
 	trait = education_martial_2
@@ -1508,7 +1508,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = diligent
 	trait = education_martial_2
@@ -1532,7 +1532,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = wrathful
 	trait = education_martial_2
@@ -1553,7 +1553,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = calm
 	trait = education_martial_2
@@ -1575,7 +1575,7 @@
 33706 = {
 	name = "Konrad"
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	mother = 161550
 	1090.1.1 = {
@@ -1589,7 +1589,7 @@
 33707 = {
 	name = "Ludwig"
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33706
 	1119.1.1 = {
@@ -1603,7 +1603,7 @@
 33708 = {
 	name = "Emich"
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33706
 	1121.1.1 = {
@@ -1617,7 +1617,7 @@
 33709 = {
 	name = "Ludwig"
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212421
 	mother = 212422
@@ -1632,7 +1632,7 @@
 33710 = {
 	name = "Konrad"
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212420
 	1190.1.1 = {
@@ -1646,7 +1646,7 @@
 33711 = {
 	name = "Hermann"
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212420
 	1194.1.1 = {
@@ -1660,7 +1660,7 @@
 33712 = {
 	name = "Hartmann"
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33710
 	1220.1.1 = {
@@ -1674,7 +1674,7 @@
 33713 = {
 	name = "Eberhard"
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33711
 	1222.1.1 = {
@@ -1689,7 +1689,7 @@
 	name = "Adelheid"
 	female = yes
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33711
 	1224.1.1 = {
@@ -1703,7 +1703,7 @@
 33715 = {
 	name = "Heinrich"
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33711
 	1228.1.1 = {
@@ -1717,7 +1717,7 @@
 33718 = {
 	name = "Ulrich"
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462306
 	mother = 33716
@@ -1733,7 +1733,7 @@
 	name = "Agnes"
 	female = yes
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462306
 	mother = 33716
@@ -1749,7 +1749,7 @@
 	name = "Mechthild"
 	female = yes
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462306
 	mother = 33716
@@ -1764,7 +1764,7 @@
 33722 = {
 	name = "Ulrich"
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462300
 	1285.1.1 = {
@@ -1781,7 +1781,7 @@
 33723 = {
 	name = "Ulrich"
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33722
 	mother = 33721
@@ -1797,7 +1797,7 @@
 	name = "Agnes"
 	female = yes
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33722
 	mother = 33721
@@ -1813,7 +1813,7 @@
 	name = "Agnes"
 	female = yes
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462300
 	1288.1.1 = {
@@ -1829,7 +1829,7 @@
 	name = "Agnes"
 	female = yes
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462300
 	mother = 462301
@@ -1846,7 +1846,7 @@
 	name = "Adelheid"
 	female = yes
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462300
 	mother = 462301
@@ -1863,7 +1863,7 @@
 	name = "Irmgard"
 	female = yes
 	dynasty = 12446
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462300
 	mother = 462301
@@ -1884,7 +1884,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 161487
 	985.1.1 = {
@@ -1904,7 +1904,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_stewardship_2
 	father = 20289
@@ -1925,7 +1925,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 20289
 	mother = 4289
@@ -1945,7 +1945,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_1
 	father = 11006
@@ -1965,7 +1965,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 11006
@@ -1987,7 +1987,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = arrogant
 	trait = just
@@ -2011,7 +2011,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = humble
 	trait = just
@@ -2033,7 +2033,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = generous
 	trait = education_intrigue_1
@@ -2054,7 +2054,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = education_intrigue_1
@@ -2075,7 +2075,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = greedy
 	trait = arrogant
@@ -2095,7 +2095,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = diligent
@@ -2120,7 +2120,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = temperate
 	trait = education_intrigue_1
@@ -2139,7 +2139,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = just
 	trait = education_martial_2
@@ -2167,7 +2167,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = zealous
 	trait = education_martial_2
@@ -2191,7 +2191,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = arrogant
 	trait = education_martial_2
@@ -2215,7 +2215,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = arrogant
 	trait = education_martial_2
@@ -2242,7 +2242,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = education_martial_2
@@ -2267,7 +2267,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = education_stewardship_2
@@ -2288,7 +2288,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = bastard
 	trait = generous
@@ -2309,7 +2309,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = bastard
 	trait = deceitful
@@ -2331,7 +2331,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = temperate
 	trait = education_martial_2
@@ -2356,7 +2356,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = brave
 	trait = calm
@@ -2379,7 +2379,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = just
 	trait = chaste
@@ -2401,7 +2401,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = ill
 	trait = diligent
@@ -2430,7 +2430,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 462035
@@ -2450,7 +2450,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 462035
@@ -2470,7 +2470,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = bastard
 	trait = diligent
@@ -2491,7 +2491,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = bastard
 	trait = education_learning_2
@@ -2511,7 +2511,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = bastard
 	trait = honest
@@ -2533,7 +2533,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = bastard
 	trait = education_learning_2
@@ -2554,7 +2554,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = humble
 	trait = calm
@@ -2576,7 +2576,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 213135
@@ -2598,7 +2598,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 213135
@@ -2617,7 +2617,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 462046
@@ -2639,7 +2639,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 462047
@@ -2663,7 +2663,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_1
 	1267.1.1 = {
@@ -2681,7 +2681,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = arbitrary
 	trait = greedy
@@ -2707,7 +2707,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_1
 	1300.1.1 = {
@@ -2725,7 +2725,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = arbitrary
 	trait = greedy
@@ -2751,7 +2751,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_1
 	1300.1.1 = {
@@ -2769,7 +2769,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462052
 	mother = 462053
@@ -2789,7 +2789,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462052
 	mother = 462053
@@ -2808,7 +2808,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = arbitrary
 	trait = humble
@@ -2830,7 +2830,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = wrathful
 	trait = arrogant
@@ -2853,7 +2853,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = arrogant
 	trait = education_stewardship_2
@@ -2875,7 +2875,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = arrogant
 	trait = education_learning_2
@@ -2897,7 +2897,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = calm
 	trait = education_learning_2
@@ -2919,7 +2919,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = arrogant
 	trait = education_intrigue_1
@@ -2941,7 +2941,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lazy
 	trait = education_intrigue_2
@@ -2964,7 +2964,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = honest
 	trait = education_intrigue_2
@@ -2986,7 +2986,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_2
 	father = 462021
@@ -3003,7 +3003,7 @@
 	name = "Jutta"
 	female = yes
 	dynasty_house = house_habsburg
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462021
 	mother = 462022
@@ -3018,7 +3018,7 @@
 7630 = {
 	name = "Eberhard"
 	dynasty_house = house_habsburg
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462046
 	1225.1.1 = {
@@ -3040,7 +3040,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = content
 	trait = education_intrigue_1
@@ -3058,7 +3058,7 @@
 	name = "Anna"
 	female = yes
 	dynasty_house = house_habsburg
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462023
 	mother = 462713
@@ -3073,7 +3073,7 @@
 33636 = {
 	name = "Hartmann"
 	dynasty_house = house_habsburg
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7630
 	mother = 7650
@@ -3091,7 +3091,7 @@
 33637 = {
 	name = "Hartmann"
 	dynasty_house = house_habsburg
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33636
 	mother = 33320
@@ -3107,7 +3107,7 @@
 33638 = {
 	name = "Eberhard"
 	dynasty_house = house_habsburg
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33636
 	mother = 33320
@@ -3127,7 +3127,7 @@
 	name = "Katharina"
 	female = yes
 	dynasty_house = house_habsburg
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33636
 	mother = 33320
@@ -3144,7 +3144,7 @@
 	name = "Anastasia"
 	female = yes
 	dynasty = 7293
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	1306.1.1 = {
 		birth = "1306.1.1"
@@ -3158,7 +3158,7 @@
 33641 = {
 	name = "Eberhard"
 	dynasty_house = house_habsburg
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33638
 	mother = 33640
@@ -3174,7 +3174,7 @@
 33642 = {
 	name = "Egon"
 	dynasty_house = house_habsburg
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33638
 	mother = 33640
@@ -3190,7 +3190,7 @@
 33643 = {
 	name = "Hartmann"
 	dynasty_house = house_habsburg
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33638
 	mother = 33640
@@ -3206,7 +3206,7 @@
 33645 = {
 	name = "Rudolf"
 	dynasty_house = house_habsburg
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462021
 	mother = 462022
@@ -3224,7 +3224,7 @@
 33646 = {
 	name = "Albrecht"
 	dynasty_house = house_habsburg
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = bastard
 	father = 462021
@@ -3240,7 +3240,7 @@
 33647 = {
 	name = "Johann"
 	dynasty_house = house_habsburg
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33645
 	mother = 96051
@@ -3259,7 +3259,7 @@
 33648 = {
 	name = "Rudolf" #bishop of Konstanz
 	dynasty_house = house_habsburg
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_2
 	father = 462046
@@ -3275,7 +3275,7 @@
 33649 = {
 	name = "Rudolf"
 	dynasty_house = house_habsburg
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = bastard
 	father = 462047
@@ -3291,7 +3291,7 @@
 33650 = {
 	name = "Peter"
 	dynasty_house = house_habsburg
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = bastard
 	father = 462048
@@ -3307,7 +3307,7 @@
 	name = "Katharina" # Katharina von Habsburg
 	female = yes
 	dynasty_house = house_habsburg
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462023
 	mother = 462713
@@ -3327,7 +3327,7 @@
 	diplomacy = 8
 	intrigue = 9
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = chaste
 	trait = education_learning_3
@@ -3349,7 +3349,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 7053
@@ -3369,7 +3369,7 @@
 	diplomacy = 3
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_stewardship_2
 	father = 7053
@@ -3389,7 +3389,7 @@
 	diplomacy = 3
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_stewardship_2
 	father = 7053
@@ -3411,7 +3411,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_2
 	father = 7053
@@ -3431,7 +3431,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = just
 	trait = education_intrigue_1
@@ -3459,7 +3459,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_stewardship_2
 	father = 212490
@@ -3479,7 +3479,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_2
 	father = 7054
@@ -3506,7 +3506,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = wrathful
 	trait = greedy
@@ -3531,7 +3531,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = diligent
 	trait = wrathful
@@ -3554,7 +3554,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = hunchbacked
 	trait = ill
@@ -3577,7 +3577,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = wrathful
 	trait = arrogant
@@ -3610,7 +3610,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = honest
 	trait = wrathful
@@ -3635,7 +3635,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_stewardship_2
 	father = 212501
@@ -3658,7 +3658,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = humble
@@ -3684,7 +3684,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = greedy
 	trait = honest
@@ -3707,7 +3707,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_2
 	father = 212501
@@ -3727,7 +3727,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = diligent
@@ -3754,7 +3754,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = chaste
 	trait = ambitious
@@ -3782,7 +3782,7 @@
 	name = "Elisabeth"
 	dynasty = 529
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212506
 	#mother = Eirene-Maria Angelos
@@ -3798,7 +3798,7 @@
 	name = "Agnes"
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7903
 	1110.1.1 = {
@@ -3812,7 +3812,7 @@
 30750 = {
 	name = "Friedrich"
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	997.1.1 = {
 		birth = "997.1.1"
@@ -3826,7 +3826,7 @@
 	name = "Adelheid"
 	female = yes
 	dynasty = 529 #von Hohenstauffen
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 30750
 	1022.1.1 = {
@@ -3841,7 +3841,7 @@
 	name = "Heinrich-Berengar"
 	# AKA: Heinrich Berengar
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7903
 	mother = 7672
@@ -3857,7 +3857,7 @@
 	name = "Gertrude"
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7903
 	mother = 30807
@@ -3872,7 +3872,7 @@
 30755 = {
 	name = "Leopold"
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = bastard
 	father = 7903
@@ -3887,7 +3887,7 @@
 30756 = {
 	name = "Konstantin"
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = bastard
 	father = 7903
@@ -3902,7 +3902,7 @@
 30757 = {
 	name = "Giselbert"
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = bastard
 	father = 7903
@@ -3918,7 +3918,7 @@
 	name = "Sophie"
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = bastard
 	father = 7903
@@ -3933,7 +3933,7 @@
 30759 = {
 	name = "Heinrich" #duke of Swabia (1216-1235)
 	dynasty = 529	
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212513
 	mother = 210503
@@ -3951,7 +3951,7 @@
 30760 = {
 	name = "Konrad" #duke of Swabia (1235-1254), k.of Sicily (1250-1254), E.of HRE (1250-1254)
 	dynasty = 529	
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212513
 	mother = 7510
@@ -3969,7 +3969,7 @@
 30762 = {
 	name = "Friedrich"
 	dynasty = 529	
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212513
 	#mother = 103003
@@ -3985,7 +3985,7 @@
 	name = "Margaretha"
 	female = yes
 	dynasty = 529	
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212513
 	#mother = 103003
@@ -4000,7 +4000,7 @@
 30774 = {
 	name = "Rainald"
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212506
 	mother = 215506
@@ -4015,7 +4015,7 @@
 30775 = {
 	name = "Friedrich"
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212506
 	mother = 215506
@@ -4031,7 +4031,7 @@
 	name = "Beatrix"
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212506
 	mother = 215506
@@ -4047,7 +4047,7 @@
 	name = "Kunigunde"
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212506
 	mother = 215506
@@ -4063,7 +4063,7 @@
 	name = "Sophia"
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212501
 	mother = 205599
@@ -4078,7 +4078,7 @@
 30779 = {
 	name = "Gottfried"
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212490
 	mother = 30819
@@ -4093,7 +4093,7 @@
 30780 = {
 	name = "Friedrich"
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212490
 	mother = 212491
@@ -4108,7 +4108,7 @@
 30781 = {
 	name = "Konrad"
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212490
 	mother = 212491
@@ -4123,7 +4123,7 @@
 30782 = {
 	name = "Friedrich"
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 30779
 	1186.1.1 = {
@@ -4137,7 +4137,7 @@
 30783 = {
 	name = "Heinrich"
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 30759
 	mother = 30810
@@ -4152,7 +4152,7 @@
 30784 = {
 	name = "Friedrich"
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 30759
 	mother = 30810
@@ -4167,7 +4167,7 @@
 30785 = {
 	name = "Konrad" #Duke of Swabia (1254-1268), k.of Sicily (1254-1258) k.of Jerusalem (1254-1268)
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = beauty_good_1
 	father = 30760
@@ -4183,7 +4183,7 @@
 30786 = {
 	name = "Konradin"
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = bastard
 	father = 30760
@@ -4199,7 +4199,7 @@
 	name = "Attilda"
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 30786
 	1268.1.1 = {
@@ -4215,7 +4215,7 @@
 	# AKA: Getrude
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7054
 	mother = 212547
@@ -4231,7 +4231,7 @@
 	name = "Richilde"
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7054
 	mother = 212547
@@ -4247,7 +4247,7 @@
 	name = "Heilika"
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7054
 	mother = 212547
@@ -4263,7 +4263,7 @@
 	name = "Bertrada"
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7054
 	mother = 212547
@@ -4279,7 +4279,7 @@
 	name = "Hildegardis"
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7054
 	mother = 212547
@@ -4295,7 +4295,7 @@
 	name = "Giselhildis"
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7054
 	mother = 212547
@@ -4310,7 +4310,7 @@
 30803 = {
 	name = "Heinrich"
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7054
 	mother = 212547
@@ -4326,7 +4326,7 @@
 	name = "Beatrix"
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7054
 	mother = 212547
@@ -4342,7 +4342,7 @@
 	name = "Sophia"
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7054
 	mother = 212547
@@ -4358,7 +4358,7 @@
 	name = "Kunigunde"
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7054
 	mother = 212547
@@ -4378,7 +4378,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = honest
 	trait = education_learning_3
@@ -4399,7 +4399,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 30750
 	1020.1.1 = {
@@ -4420,7 +4420,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = calm
 	trait = deceitful
@@ -4442,7 +4442,7 @@
 	name = "Margaret"
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212513
 	mother = 7510
@@ -4458,7 +4458,7 @@
 	name = "Marie"
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212506
 	mother = 215506
@@ -4474,7 +4474,7 @@
 	name = "Kunigunde"
 	female = yes
 	dynasty = 529
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212506
 	mother = 215506
@@ -4494,7 +4494,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_2
 	father = 7054
@@ -4520,7 +4520,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_2
 	father = 7903
@@ -4543,7 +4543,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = hunchbacked
 	trait = ill
@@ -4566,7 +4566,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = hunchbacked
 	trait = education_intrigue_2
@@ -4588,7 +4588,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = arrogant
 	trait = gluttonous
@@ -4610,7 +4610,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = brave
 	trait = education_martial_2
@@ -4633,7 +4633,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 212395
@@ -4652,7 +4652,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 40550
@@ -4671,7 +4671,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = ill
 	trait = education_martial_2
@@ -4691,7 +4691,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = brave
 	trait = education_martial_2
@@ -4714,7 +4714,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = chaste
 	trait = education_diplomacy_3
@@ -4734,7 +4734,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = chaste
 	trait = education_learning_2
@@ -4754,7 +4754,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = arrogant
@@ -4776,7 +4776,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = zealous
 	trait = education_intrigue_1
@@ -4797,7 +4797,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = generous
 	trait = education_stewardship_3
@@ -4817,7 +4817,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_3
 	father = 462352
@@ -4837,7 +4837,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_3
 	father = 462355
@@ -4861,7 +4861,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = brave
 	trait = education_martial_2
@@ -4881,7 +4881,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 462351
@@ -4900,7 +4900,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_3
 	father = 462356
@@ -4922,7 +4922,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 212393
@@ -4942,7 +4942,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_3
 	father = 212393
@@ -4962,7 +4962,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = diligent
@@ -4989,7 +4989,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = zealous
@@ -5014,7 +5014,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = chaste
 	trait = brave
@@ -5039,7 +5039,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = chaste
 	trait = education_learning_3
@@ -5060,7 +5060,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = education_martial_2
@@ -5081,7 +5081,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = honest
 	trait = education_learning_3
@@ -5103,7 +5103,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = diligent
 	trait = education_intrigue_1
@@ -5125,7 +5125,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = zealous
 	trait = education_intrigue_3
@@ -5147,7 +5147,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = honest
 	trait = education_stewardship_2
@@ -5169,7 +5169,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = cynical
 	trait = education_diplomacy_3
@@ -5191,7 +5191,7 @@
 	diplomacy = 3
 	intrigue = 7
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = greedy
 	trait = education_intrigue_2
@@ -5212,7 +5212,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = diligent
@@ -5231,7 +5231,7 @@
 	diplomacy = 3
 	intrigue = 7
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_stewardship_2
 	father = 487021
@@ -5246,7 +5246,7 @@
 33294 = {
 	name = "Ulrich"
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212395
 	1085.1.1 = {
@@ -5259,7 +5259,7 @@
 33299 = {
 	name = "Johann" #Nurnberg 1297-1300
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462359
 	mother = 161704
@@ -5277,7 +5277,7 @@
 33300 = {
 	name = "Konrad" #Nurnberg 1332-1334
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 487020
 	mother = 462719
@@ -5292,7 +5292,7 @@
 33301 = {
 	name = "Burchard" #Hohenberg 1220-1253
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212387
 	1190.1.1 = {
@@ -5306,7 +5306,7 @@
 33302 = {
 	name = "Albrecht" #Hohenberg 1253-1298
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33301
 	1235.1.1 = {
@@ -5326,7 +5326,7 @@
 33303 = {
 	name = "Burchard" #Hohenberg 1298-1318
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33301
 	1242.1.1 = {
@@ -5340,7 +5340,7 @@
 33304 = {
 	name = "Rudolf" #Hohenberg 1318-1336
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33302
 	mother = 33325
@@ -5355,7 +5355,7 @@
 33305 = {
 	name = "Albrecht" #Konstanz 1334-1335
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33304
 	1300.1.1 = {
@@ -5369,7 +5369,7 @@
 33306 = {
 	name = "Rudolf"
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33304
 	1302.1.1 = {
@@ -5383,7 +5383,7 @@
 33307 = {
 	name = "Rudolf"
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33306
 	1320.1.1 = {
@@ -5397,7 +5397,7 @@
 33308 = {
 	name = "Hugo"
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33304
 	1322.1.1 = {
@@ -5411,7 +5411,7 @@
 33309 = {
 	name = "Heinrich"
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33304
 	1323.1.1 = {
@@ -5425,7 +5425,7 @@
 	name = "Elisabeth"
 	female = yes
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212393
 	mother = 212392
@@ -5440,7 +5440,7 @@
 	name = "Hemma"
 	female = yes
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212395
 	mother = 33524
@@ -5455,7 +5455,7 @@
 	name = "Sophie"
 	female = yes
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462356
 	1221.1.1 = {
@@ -5470,7 +5470,7 @@
 	name = "Mechthild"
 	female = yes
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33302
 	1280.1.1 = {
@@ -5483,7 +5483,7 @@
 161705 = {
 	name = "Johann"
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462359
 	mother = 161703
@@ -5498,7 +5498,7 @@
 161706 = {
 	name = "Siegmund"
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462359
 	mother = 161703
@@ -5514,7 +5514,7 @@
 	name = "Adelheid"
 	female = yes
 	dynasty = 12476
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462359
 	mother = 161703
@@ -5534,7 +5534,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	trait = calm
 	trait = brave
@@ -5558,7 +5558,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = calm
 	trait = brave
@@ -5583,7 +5583,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = calm
 	trait = brave
@@ -5606,7 +5606,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = calm
 	trait = brave
@@ -5625,7 +5625,7 @@
 	name = "Dietpirch"
 	female = yes
 	dynasty = 1054
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 7955
 	875.1.1 = {
@@ -5640,7 +5640,7 @@
 	name = "Hicha"
 	female = yes
 	dynasty = 1054
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7956
 	mother = 168157
@@ -5655,7 +5655,7 @@
 161742 = {
 	name = "Hunfrid"
 	dynasty = 1054
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 190359
 	750.1.1 = {
@@ -5669,7 +5669,7 @@
 161743 = {
 	name = "Adalbert"
 	dynasty = 1054
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 161742
 	780.1.1 = {
@@ -5683,7 +5683,7 @@
 161744 = {
 	name = "Adalbert"
 	dynasty = 1054
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 161743
 	830.1.1 = {
@@ -5697,7 +5697,7 @@
 161745 = {
 	name = "Udalrich"
 	dynasty = 1054
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 161743
 	810.1.1 = {
@@ -5711,7 +5711,7 @@
 161746 = {
 	name = "Hunfrid"
 	dynasty = 1054
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 161742
 	785.1.1 = {
@@ -5725,7 +5725,7 @@
 163058 = {
 	name = "Hunfrid"
 	dynasty = 1054
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 161743
 	832.1.1 = {
@@ -5739,7 +5739,7 @@
 190359 = {
 	name = "Adalbert" #count of Schwyz
 	dynasty = 1054 #Hunfriding
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	730.1.1 = {
 		birth = yes
@@ -5757,7 +5757,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = wrathful
 	trait = education_learning_2
@@ -5777,7 +5777,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = wrathful
 	trait = education_learning_2
@@ -5807,7 +5807,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 1388
@@ -5830,7 +5830,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lazy
 	trait = gluttonous
@@ -5851,7 +5851,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_2
 	965.1.1 = {
@@ -5870,7 +5870,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_diplomacy_1
 	father = 1393
@@ -5890,7 +5890,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = wrathful
 	trait = education_learning_2
@@ -5912,7 +5912,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = just
 	trait = education_diplomacy_3
@@ -5931,7 +5931,7 @@
 	name = "Bertha"
 	female = yes
 	dynasty = 657
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 1388
 	mother = 1181
@@ -5951,7 +5951,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 6
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 161479
 	870.1.1 = {
@@ -5973,7 +5973,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 6
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	885.1.1 = {
 		birth = "885.1.1"
@@ -5990,7 +5990,7 @@
 	diplomacy = 8
 	intrigue = 3
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 1326
 	mother = 1327
@@ -6012,7 +6012,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_2
 	father = 1328
@@ -6033,7 +6033,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_2
 	father = 1330
@@ -6052,7 +6052,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = education_martial_2
@@ -6076,7 +6076,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = cynical
 	trait = lisping
@@ -6096,7 +6096,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_2
 	father = 1332
@@ -6117,7 +6117,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lisping
 	trait = education_intrigue_2
@@ -6138,7 +6138,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = gluttonous
 	trait = education_learning_2
@@ -6163,7 +6163,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = honest
 	trait = education_intrigue_1
@@ -6185,7 +6185,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_3
 	father = 1332
@@ -6209,7 +6209,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = cynical
 	trait = education_learning_2
@@ -6230,7 +6230,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = greedy
 	trait = education_learning_2
@@ -6255,7 +6255,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = gluttonous
 	trait = education_diplomacy_2
@@ -6276,7 +6276,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = arrogant
 	trait = education_diplomacy_3
@@ -6297,7 +6297,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 1340
@@ -6320,7 +6320,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = arrogant
 	trait = education_learning_2
@@ -6344,7 +6344,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = deceitful
 	trait = zealous
@@ -6363,7 +6363,7 @@
 	name = "Mechthild"
 	female = yes
 	dynasty = 664
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 1346
 	mother = 212700
@@ -6382,7 +6382,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = education_martial_2
@@ -6398,7 +6398,7 @@
 165023 = {
 	name = "Gerhard"
 	dynasty = 664
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 1328
 	mother = 1329
@@ -6417,7 +6417,7 @@
 	name = "Adelheid"
 	female = yes
 	dynasty = 664
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 165023
 	mother = 165022
@@ -6441,7 +6441,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = arrogant
 	trait = education_learning_2
@@ -6462,7 +6462,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = gluttonous
 	trait = clubfooted
@@ -6481,7 +6481,7 @@
 	name = "Heilwig"
 	female = yes
 	dynasty = 664
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 1342
 	1064.1.1 = {
@@ -6495,7 +6495,7 @@
 161461 = {
 	name = "Hugo"
 	dynasty = 664
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 1346
 	mother = 212700
@@ -6511,7 +6511,7 @@
 161462 = {
 	name = "Hugo"
 	dynasty = 664
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 161461
 	1120.1.1 = {
@@ -6528,7 +6528,7 @@
 161463 = {
 	name = "Hugo"
 	dynasty = 664
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 161462
 	mother = 206860
@@ -6544,7 +6544,7 @@
 161464 = {
 	name = "Albrecht"
 	dynasty = 664
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 161462
 	mother = 206860
@@ -6563,7 +6563,7 @@
 	name = "Luitgarde"
 	female = yes
 	dynasty = 664
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 161462
 	mother = 206860
@@ -6579,7 +6579,7 @@
 	name = "Gertrud"
 	female = yes
 	dynasty = 664
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 161462
 	mother = 206860
@@ -6596,7 +6596,7 @@
 	name = "Heinrich"
 	dynasty = 664
 	culture = swabian
-	religion = "catholic"
+	religion = "nicean"
 	father = 161464
 	mother = 161467
 	1178.1.1 = {
@@ -6611,7 +6611,7 @@
 	name = "Wilhelm"
 	dynasty = 664
 	culture = swabian
-	religion = "catholic"
+	religion = "nicean"
 	father = 161464
 	mother = 161467
 	1180.1.1 = {
@@ -6627,7 +6627,7 @@
 	female = yes
 	dynasty = 664
 	culture = swabian
-	religion = "catholic"
+	religion = "nicean"
 	father = 161464
 	mother = 161467
 	1190.1.1 = {
@@ -6642,7 +6642,7 @@
 	name = "Eticho"
 	dynasty = 664
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	620.1.1 = {
 		birth = "620.1.1"
 	}
@@ -6655,7 +6655,7 @@
 	name = "Adalbert"
 	dynasty = 664
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	father = 161471
 	660.1.1 = {
 		birth = "660.1.1"
@@ -6669,7 +6669,7 @@
 	name = "Liutfried"
 	dynasty = 664
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	father = 161472
 	685.1.1 = {
 		birth = "685.1.1"
@@ -6683,7 +6683,7 @@
 	name = "Batticho"
 	dynasty = 664
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	father = 161471
 	665.1.1 = {
 		birth = "665.1.1"
@@ -6697,7 +6697,7 @@
 	name = "Boro"
 	dynasty = 664
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	father = 161474
 	690.1.1 = {
 		birth = "690.1.1"
@@ -6711,7 +6711,7 @@
 	name = "Choros"
 	dynasty = 664
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	father = 161475
 	720.1.1 = {
 		birth = "720.1.1"
@@ -6725,7 +6725,7 @@
 	name = "Adalbert"
 	dynasty = 664
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	father = 161476
 	750.1.1 = {
 		birth = "750.1.1"
@@ -6739,7 +6739,7 @@
 	name = "Hugo"
 	dynasty = 664
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	father = 161477
 	770.1.1 = {
 		birth = "770.1.1"
@@ -6753,7 +6753,7 @@
 	name = "Eberhard"
 	dynasty = 664
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	father = 161478
 	815.1.1 = {
 		birth = "815.1.1"
@@ -6767,7 +6767,7 @@
 	name = "Eticho"
 	dynasty = 664
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	father = 161471
 	680.1.1 = {
 		birth = "680.1.1"
@@ -6781,7 +6781,7 @@
 	name = "Hugo"
 	dynasty = 664
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	father = 161480
 	710.1.1 = {
 		birth = "710.1.1"
@@ -6795,7 +6795,7 @@
 	name = "Eticho"
 	dynasty = 664
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	father = 161481
 	740.1.1 = {
 		birth = "740.1.1"
@@ -6811,7 +6811,7 @@
 	name = "Hugo" #Hugh of Tours
 	dynasty = 664
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	father = 161482
 	780.1.1 = {
 		birth = yes
@@ -6832,7 +6832,7 @@
 306000 = {
 	name = "Ava"
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	female = yes
 	780.1.1 = {
 		birth = yes
@@ -6847,7 +6847,7 @@
 	female = yes
 	dynasty = 664
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	father = 161483
 	mother = 306000
 	795.1.1 = {
@@ -6863,7 +6863,7 @@
 	female = yes
 	dynasty = 664
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	father = 161483
 	mother = 306000
 	820.1.1 = {
@@ -6877,7 +6877,7 @@
 161486 = {
 	name = "Guntram"
 	dynasty = 664
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 1326
 	mother = 1327
@@ -6892,7 +6892,7 @@
 161487 = {
 	name = "Lanzelin"
 	dynasty = 664
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 161486
 	950.1.1 = {
@@ -6907,7 +6907,7 @@
 	name = "Adela"
 	female = yes
 	dynasty = 664
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 1326
 	mother = 1327
@@ -6923,7 +6923,7 @@
 	name = "Liutfried"
 	dynasty = 664
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	father = 161483
 	mother = 306000
 	809.1.1 = {
@@ -6938,7 +6938,7 @@
 	name = "Liutfried"
 	dynasty = 664
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	father = 163055
 	839.1.1 = {
 		birth = "839.1.1"
@@ -6951,7 +6951,7 @@
 167877 = {
 	name = "Lanzelin"
 	dynasty = 664
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 161487
 	986.1.1 = {
@@ -6965,7 +6965,7 @@
 167878 = {
 	name = "Bezzelin"
 	dynasty = 664
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 167877
 	1002.1.1 = {
@@ -6980,7 +6980,7 @@
 	name = "Hupold"
 	dynasty = 664
 	culture = swabian
-	religion = nicean
+	religion = "nicean"
 	father = 163055
 	840.1.1 = {
 		birth = "840.1.1"
@@ -6997,7 +6997,7 @@
 167826 = {	
 	name = "Udalrich"	
 	dynasty = 9558	
-	religion = nicean	
+	religion = "nicean"	
 	culture = swabian
 	father = 167825		
 	778.1.1 = {		
@@ -7010,7 +7010,7 @@
 167831 = {	
 	name = "Ratbert"	
 	dynasty = 9558	
-	religion = nicean	
+	religion = "nicean"	
 	culture = swabian
 	father = 167826		
 	795.1.1 = {		
@@ -7024,7 +7024,7 @@
 167832 = {	
 	name = "Udalrich"	
 	dynasty = 9558	
-	religion = nicean	
+	religion = "nicean"	
 	culture = swabian
 	father = 167831		
 	815.1.1 = {		
@@ -7038,7 +7038,7 @@
 167833 = {	
 	name = "Udalrich"	
 	dynasty = 9558	
-	religion = nicean	
+	religion = "nicean"	
 	culture = swabian
 	father = 167832		
 	840.1.1 = {		
@@ -7052,7 +7052,7 @@
 167834 = {	
 	name = "Gerold"	
 	dynasty = 9558
-	religion = nicean	
+	religion = "nicean"	
 	culture = swabian
 	father = 167833		
 	860.1.1 = {		
@@ -7067,7 +7067,7 @@
 	name = "Irmintrud"
 	female = yes	
 	dynasty = 9558	
-	religion = nicean	
+	religion = "nicean"	
 	culture = swabian
 	father = 167833		
 	862.1.1 = {		
@@ -7086,7 +7086,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_3
 	father = 7645
@@ -7106,7 +7106,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_3
 	father = 462320
@@ -7128,7 +7128,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 462321
@@ -7152,7 +7152,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_1
 	1264.1.1 = {
@@ -7170,7 +7170,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 462322
@@ -7193,7 +7193,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 462324
@@ -7221,7 +7221,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_1
 	1311.1.1 = {
@@ -7240,7 +7240,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_stewardship_2
 	father = 462326
@@ -7260,7 +7260,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_3
 	father = 462324
@@ -7282,7 +7282,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_1
 	1272.1.1 = {
@@ -7300,7 +7300,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 462321
@@ -7324,7 +7324,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_diplomacy_2
 	father = 462332
@@ -7344,7 +7344,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_diplomacy_2
 	father = 462320
@@ -7363,7 +7363,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_diplomacy_2
 	father = 462334
@@ -7387,7 +7387,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_diplomacy_2
 	1270.1.1 = {
@@ -7405,7 +7405,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = ill
 	trait = education_martial_1
@@ -7429,7 +7429,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 2
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lazy
 	trait = temperate
@@ -7451,7 +7451,7 @@
 	diplomacy = 7
 	intrigue = 2
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = education_martial_2
@@ -7472,7 +7472,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = diligent
 	trait = education_martial_2
@@ -7494,7 +7494,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = zealous
 	trait = education_stewardship_1
@@ -7516,7 +7516,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = arbitrary
 	trait = education_learning_3
@@ -7538,7 +7538,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = diligent
 	trait = education_stewardship_3
@@ -7555,7 +7555,7 @@
 7645 = {
 	name = "Egino"
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33518
 	mother = 33517
@@ -7575,7 +7575,7 @@
 	#AKA Urach
 	female = yes
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7645
 	mother = 213144
@@ -7590,7 +7590,7 @@
 33312 = {
 	name = "Rudolf"
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7645
 	mother = 213144
@@ -7606,7 +7606,7 @@
 	name = "Jolanthe"
 	female = yes
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7645
 	mother = 213144
@@ -7621,7 +7621,7 @@
 33314 = {
 	name = "Berthold"
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462320
 	1231.1.1 = {
@@ -7635,7 +7635,7 @@
 33315 = {
 	name = "Konrad"
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462321
 	mother = 33635
@@ -7651,7 +7651,7 @@
 	name = "Adelheid"
 	female = yes
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462321
 	mother = 33635
@@ -7666,7 +7666,7 @@
 33317 = {
 	name = "Heinrich"
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462322
 	mother = 462323
@@ -7681,7 +7681,7 @@
 33318 = {
 	name = "Gebhard" #Bishop of Strassbourg
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_2
 	father = 462322
@@ -7698,7 +7698,7 @@
 	name = "Sophie"
 	female = yes
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462322
 	mother = 462323
@@ -7714,7 +7714,7 @@
 	name = "Elisabeth"
 	female = yes
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462322
 	mother = 462323
@@ -7729,7 +7729,7 @@
 33321 = {
 	name = "Egino"
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462324
 	mother = 462325
@@ -7744,7 +7744,7 @@
 33322 = {
 	name = "Egino" #Furstenberg 1296-1307
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462334
 	1276.1.1 = {
@@ -7758,7 +7758,7 @@
 33323 = {
 	name = "Konrad"
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462334
 	1277.1.1 = {
@@ -7772,7 +7772,7 @@
 33324 = {
 	name = "Gebhard"
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462334
 	1278.1.1 = {
@@ -7787,7 +7787,7 @@
 	name = "Margareta"
 	female = yes
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 462334
 	1266.1.1 = {
@@ -7801,7 +7801,7 @@
 33518 = {
 	name = "Egino"
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33519
 	1100.1.1 = {
@@ -7818,7 +7818,7 @@
 33519 = {
 	name = "Egino"
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33520
 	1045.1.1 = {
@@ -7832,7 +7832,7 @@
 33520 = {
 	name = "Egino"
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	1000.1.1 = {
 		birth = "1000.1.1"
@@ -7845,7 +7845,7 @@
 33521 = {
 	name = "Gebhard"#bishop of Speyer
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33520
 	1046.1.1 = {
@@ -7859,7 +7859,7 @@
 33522 = {
 	name = "Kuno"#cardinal, papal legate
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33520
 	1048.1.1 = {
@@ -7873,7 +7873,7 @@
 33523 = {
 	name = "Gebhard" #bishop of Strassburg
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33519
 	1100.1.1 = {
@@ -7888,7 +7888,7 @@
 	name = "Udalhild"
 	female = yes
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33519
 	1070.1.1 = {
@@ -7903,7 +7903,7 @@
 	name = "Agnes"
 	female = yes
 	dynasty = 101718
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7645
 	mother = 213144
@@ -7919,7 +7919,7 @@
 167825 = {	
 	name = "Gerold"	
 	dynasty = 9557	
-	religion = nicean	
+	religion = "nicean"	
 	culture = swabian		
 	740.1.1 = {		
 		birth = "740.1.1"
@@ -7936,7 +7936,7 @@
 	name = "Hildegard"
 	female = yes	
 	dynasty = 9557	
-	religion = nicean	
+	religion = "nicean"	
 	culture = swabian
 	father = 167825		
 	756.1.1 = {		
@@ -7950,7 +7950,7 @@
 167828 = {
 	name = "Erbio"
 	dynasty = 9557	
-	religion = nicean	
+	religion = "nicean"	
 	culture = swabian
 	father = 167825		
 	780.1.1 = {		
@@ -7964,7 +7964,7 @@
 168152 = {	
 	name = "Gerold"	
 	dynasty = 9557	
-	religion = nicean	
+	religion = "nicean"	
 	culture = swabian
 	father = 167825		
 	760.1.1 = {		
@@ -7978,7 +7978,7 @@
 168153 = {	
 	name = "Gerold"	
 	dynasty = 9557	
-	religion = nicean	
+	religion = "nicean"	
 	culture = swabian
 	father = 168152	
 	790.1.1 = {		
@@ -7992,7 +7992,7 @@
 168154 = {	
 	name = "Gerold"	
 	dynasty = 9557	
-	religion = nicean	
+	religion = "nicean"	
 	culture = swabian
 	father = 168153	
 	820.1.1 = {		
@@ -8006,7 +8006,7 @@
 168155 = {	
 	name = "Adalgoz"	
 	dynasty = 9557	
-	religion = nicean	
+	religion = "nicean"	
 	culture = swabian
 	father = 168154
 	849.1.1 = {		
@@ -8020,7 +8020,7 @@
 168156 = {	
 	name = "Eberhard"	
 	dynasty = 9557	
-	religion = nicean	
+	religion = "nicean"	
 	culture = swabian
 	father = 168155
 	865.1.1 = {		
@@ -8035,7 +8035,7 @@
 	name = "Reginlind"	
 	female = yes
 	dynasty = 9557	
-	religion = nicean	
+	religion = "nicean"	
 	culture = swabian
 	father = 168156
 	888.1.1 = {		
@@ -8049,7 +8049,7 @@
 168158 = {
 	name = "Eberhard"	
 	dynasty = 9557	
-	religion = nicean	
+	religion = "nicean"	
 	culture = swabian
 	father = 168156
 	887.1.1 = {		
@@ -8068,7 +8068,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = deceitful
 	trait = education_diplomacy_2
@@ -8092,7 +8092,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = chaste
 	trait = education_martial_2
@@ -8116,7 +8116,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = temperate
@@ -8141,7 +8141,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 7640
@@ -8160,7 +8160,7 @@
 	name = "Hupold"
 	# AKA: Huchbald
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7641
 	950.1.1 = {
@@ -8174,7 +8174,7 @@
 7641 = {
 	name = "Mangold"
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7642
 	mother = 33610
@@ -8190,7 +8190,7 @@
 	name = "Hupold"
 	# AKA: Hucbald
 	dynasty_house = house_hupoldinger
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 168064
 	mother = 168065
@@ -8209,7 +8209,7 @@
 	name = "Hedwig"
 	female = yes
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 213162
 	mother = 213143
@@ -8224,7 +8224,7 @@
 7647 = {
 	name = "Werner"
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 213162
 	mother = 213143
@@ -8242,7 +8242,7 @@
 7649 = {
 	name = "Hartmann"
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7647
 	mother = 7646
@@ -8261,7 +8261,7 @@
 	name = "Anna"
 	female = yes
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7649
 	mother = 7648
@@ -8277,7 +8277,7 @@
 	name = "Hedwig"
 	female = yes
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 40570
 	mother = 33611
@@ -8292,7 +8292,7 @@
 33613 = {
 	name = "Hartmann"
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 20286
 	mother = 40571
@@ -8307,7 +8307,7 @@
 33614 = {
 	name = "Ulrich"
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 20286
 	mother = 40571
@@ -8323,7 +8323,7 @@
 	name = "Adelheid"
 	female = yes
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 20286
 	mother = 40571
@@ -8338,7 +8338,7 @@
 33617 = {
 	name = "Adalbert"
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 213160
 	mother = 33616
@@ -8353,7 +8353,7 @@
 33618 = {
 	name = "Hartmann"
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 213160
 	mother = 33616
@@ -8371,7 +8371,7 @@
 33619 = {
 	name = "Ulrich"
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 213160
 	mother = 33616
@@ -8386,7 +8386,7 @@
 33620 = {
 	name = "Hartmann"
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 213162
 	mother = 213143
@@ -8404,7 +8404,7 @@
 33621 = {
 	name = "Ulrich" #bishop of Chur
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 213162
 	mother = 213143
@@ -8421,7 +8421,7 @@
 	name = "Mechthild"
 	female = yes
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 213162
 	mother = 213143
@@ -8438,7 +8438,7 @@
 	name = "Adelheid"
 	female = yes
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 213162
 	mother = 213143
@@ -8455,7 +8455,7 @@
 	name = "Clementia"
 	female = yes
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7647
 	mother = 7646
@@ -8472,7 +8472,7 @@
 	name = "Adelheid"
 	female = yes
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7647
 	mother = 7646
@@ -8488,7 +8488,7 @@
 33626 = {
 	name = "Adalbert"
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33618
 	mother = 213161
@@ -8506,7 +8506,7 @@
 33627 = {
 	name = "Hartmann"
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33626
 	mother = 212952
@@ -8521,7 +8521,7 @@
 33628 = {
 	name = "Adalbert"
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33626
 	mother = 212952
@@ -8538,7 +8538,7 @@
 	name = "Richenza"
 	female = yes
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33626
 	mother = 212952
@@ -8555,7 +8555,7 @@
 	name = "Udilhild"
 	female = yes
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33626
 	mother = 212952
@@ -8571,7 +8571,7 @@
 33631 = {
 	name = "Friedrich"
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33627
 	1210.1.1 = {
@@ -8586,7 +8586,7 @@
 33632 = {
 	name = "Ludwig"
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33627
 	1215.1.1 = {
@@ -8601,7 +8601,7 @@
 33633 = {
 	name = "Adalbert"
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33627
 	1220.1.1 = {
@@ -8617,7 +8617,7 @@
 	name = "Udilhild"
 	female = yes
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33627
 	1225.1.1 = {
@@ -8632,7 +8632,7 @@
 33644 = {
 	name = "Hartmann"
 	dynasty_house = house_hupoldinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33627
 	1221.1.1 = {
@@ -8651,7 +8651,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_3
 	1019.1.1 = {
@@ -8670,7 +8670,7 @@
 	# AKA: Adelheid
 	female = yes
 	dynasty = 672
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 7643
 	1125.1.1 = {
@@ -8684,7 +8684,7 @@
 30650 = {
 	name = "Humbert"
 	dynasty = 672	
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian	
 	father = 40702	
 	1080.1.1 = {
@@ -8698,7 +8698,7 @@
 30651 = {
 	name = "Ulrich"
 	dynasty = 672
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 40702
 	1096.1.1 = {
@@ -8712,7 +8712,7 @@
 30652 = {
 	name = "Arnold"
 	dynasty = 672	
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian	
 	father = 40702	
 	1090.1.1 = {
@@ -8726,7 +8726,7 @@
 30653 = {
 	name = "Rudolf"
 	dynasty = 672
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 40702
 	1096.1.1 = {
@@ -8741,7 +8741,7 @@
 	name = "Bertha"
 	female = yes
 	dynasty = 672	
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian	
 	father = 40702	
 	1097.1.1 = {
@@ -8756,7 +8756,7 @@
 	name = "Hemma"
 	female = yes
 	dynasty = 100245
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	1069.1.1 = {
 		birth = "1069.1.1"
@@ -8769,7 +8769,7 @@
 30656 = {
 	name = "Ulrich"
 	dynasty = 672
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 40701
 	mother = 30655
@@ -8784,7 +8784,7 @@
 30657 = {
 	name = "Werner"
 	dynasty = 672
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 40701
 	mother = 30655
@@ -8799,7 +8799,7 @@
 30658 = {
 	name = "Kuno"
 	dynasty = 672
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 40701
 	mother = 30655
@@ -8818,7 +8818,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_stewardship_2
 	father = 20287
@@ -8838,7 +8838,7 @@
 	diplomacy = 8
 	intrigue = 9
 	stewardship = 10
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_stewardship_3
 	father = 20287
@@ -8858,7 +8858,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_2
 	father = 20287
@@ -8875,7 +8875,7 @@
 	name = "Arnold"
 	#Was deleted but has daughter and title c_bern
 	dynasty = 672
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 40701
 	1093.1.1 = {
@@ -8894,7 +8894,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = arrogant
 	trait = education_learning_2
@@ -8914,7 +8914,7 @@
 	diplomacy = 7
 	intrigue = 3
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = brave
 	trait = zealous
@@ -8941,7 +8941,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = humble
 	trait = clubfooted
@@ -8967,7 +8967,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = arrogant
 	trait = calm
@@ -8992,7 +8992,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 9
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = calm
 	trait = education_learning_1
@@ -9013,7 +9013,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = calm
 	trait = education_diplomacy_3
@@ -9032,7 +9032,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212018
 	1185.1.1 = {
@@ -9050,7 +9050,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212013
 	mother = 212016
@@ -9069,7 +9069,7 @@
 	diplomacy = 6
 	intrigue = 9
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 32761
@@ -9084,7 +9084,7 @@
 32760 = {
 	name = "Kuno" #bishop of Lausanne
 	dynasty = 87
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_2
 	father = 40560
@@ -9099,7 +9099,7 @@
 32761 = {
 	name = "Ulrich" #real name unkown
 	dynasty = 87
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	990.1.1 = {
 		birth = "990.1.1"
@@ -9112,7 +9112,7 @@
 32762 = {
 	name = "Rudolf" #count of Neuchatel 1070-1099
 	dynasty = 87
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32761
 	1030.1.1 = {
@@ -9126,7 +9126,7 @@
 32765 = {
 	name = "Mangold"
 	dynasty = 87
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212010
 	mother = 212011
@@ -9141,7 +9141,7 @@
 32763 = {
 	name = "Berthold" #bishop of Basel
 	dynasty = 87
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212010
 	mother = 212011
@@ -9156,7 +9156,7 @@
 32768 = {
 	name = "Ulrich" #count of Neuchatel 1196-1225
 	dynasty = 87
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 212013
 	mother = 212016
@@ -9174,7 +9174,7 @@
 32769 = {
 	name = "Rudolf" #count of Neuchatel 1225-1257
 	dynasty = 87
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32768
 	mother = 33313
@@ -9189,7 +9189,7 @@
 32770 = {
 	name = "Rudolf" #count of Neuchatel 1257-1309
 	dynasty = 87
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32769
 	1223.1.1 = {
@@ -9204,7 +9204,7 @@
 	name = "Richenza"
 	female = yes
 	dynasty = 87
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32769
 	1224.1.1 = {
@@ -9218,7 +9218,7 @@
 32771 = {
 	name = "Rudolf" #count of Neuchatel 1309-1339
 	dynasty = 87
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32770
 	1270.1.1 = {
@@ -9232,7 +9232,7 @@
 32772 = {
 	name = "Rudolf"
 	dynasty = 87
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32771
 	1300.1.1 = {
@@ -9246,7 +9246,7 @@
 32773 = {
 	name = "Otto"
 	dynasty = 87
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32768
 	mother = 33313
@@ -9261,7 +9261,7 @@
 32774 = {
 	name = "Berthold"
 	dynasty = 87
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32768
 	mother = 33313
@@ -9276,7 +9276,7 @@
 32775 = {
 	name = "Heinrich" #bishop of Basel
 	dynasty = 87
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32768
 	mother = 33313
@@ -9291,7 +9291,7 @@
 32776 = {
 	name = "Ulrich"
 	dynasty = 87
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32768
 	mother = 33313
@@ -9307,7 +9307,7 @@
 	name = "Agnes"
 	female = yes
 	dynasty = 87
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32768
 	mother = 33313
@@ -9323,7 +9323,7 @@
 33551 = {
 	name = "Hugo"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	1100.1.1 = {
 		birth = "1100.1.1"
@@ -9339,7 +9339,7 @@
 33553 = {
 	name = "Hugo"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33551
 	mother = 33552
@@ -9354,7 +9354,7 @@
 33554 = {
 	name = "Rudolf"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33553
 	1160.1.1 = {
@@ -9368,7 +9368,7 @@
 33555 = {
 	name = "Rudolf"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33554
 	1190.1.1 = {
@@ -9382,7 +9382,7 @@
 33556 = {
 	name = "Wilhelm"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33554
 	1192.1.1 = {
@@ -9396,7 +9396,7 @@
 33557 = {
 	name = "Hugo"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33555
 	1220.1.1 = {
@@ -9410,7 +9410,7 @@
 33558 = {
 	name = "Rudolf"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33555
 	1224.1.1 = {
@@ -9424,7 +9424,7 @@
 33559 = {
 	name = "Ludwig"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33557
 	1250.1.1 = {
@@ -9439,7 +9439,7 @@
 	name = "Liutgard"
 	female = yes
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33557
 	1252.1.1 = {
@@ -9453,7 +9453,7 @@
 33561 = {
 	name = "Eberhard"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33558
 	1254.1.1 = {
@@ -9467,7 +9467,7 @@
 33562 = {
 	name = "Rudolf"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33558
 	1260.1.1 = {
@@ -9481,7 +9481,7 @@
 33563 = {
 	name = "Konrad"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33562
 	1300.1.1 = {
@@ -9495,7 +9495,7 @@
 33564 = {
 	name = "Konrad"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33563
 	1330.1.1 = {
@@ -9509,7 +9509,7 @@
 33565 = {
 	name = "Rudolf"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33556
 	1222.1.1 = {
@@ -9523,7 +9523,7 @@
 33566 = {
 	name = "Ulrich"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33556
 	1226.1.1 = {
@@ -9537,7 +9537,7 @@
 33567 = {
 	name = "Gottfried"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33565
 	1255.1.1 = {
@@ -9551,7 +9551,7 @@
 33568 = {
 	name = "Wilhelm"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33567
 	1285.1.1 = {
@@ -9565,7 +9565,7 @@
 33569 = {
 	name = "Gottfried"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33568
 	1310.1.1 = {
@@ -9579,7 +9579,7 @@
 33570 = {
 	name = "Ulrich"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33566
 	1260.1.1 = {
@@ -9593,7 +9593,7 @@
 33666 = {
 	name = "Hugo"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33553
 	1180.1.1 = {
@@ -9607,7 +9607,7 @@
 33667 = {
 	name = "Heinrich" #bishop of Chur
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_2
 	father = 33666
@@ -9622,7 +9622,7 @@
 33668 = {
 	name = "Hugo"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33666
 	1215.1.1 = {
@@ -9636,7 +9636,7 @@
 33669 = {
 	name = "Friedrich" #bishop of Chur
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33668
 	1234.1.1 = {
@@ -9650,7 +9650,7 @@
 33670 = {
 	name = "Wilhelm" #bishop of St. Gallen
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33668
 	1244.1.1 = {
@@ -9664,7 +9664,7 @@
 33671 = {
 	name = "Rudolf"
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33668
 	1230.1.1 = {
@@ -9678,7 +9678,7 @@
 33672 = {
 	name = "Rudolf" #bishop of Chur
 	dynasty = 260
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 33671
 	1260.1.1 = {
@@ -9697,7 +9697,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 73466
 	trait = calm
@@ -9720,7 +9720,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	father = 213100
@@ -9740,7 +9740,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 213100
 	mother = 213101
@@ -9755,7 +9755,7 @@
 73466 = {
 	name = "Ridelulf"
 	dynasty = 12480
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	1130.1.1 = {
 		birth = "1130.1.1"
@@ -9768,7 +9768,7 @@
 73467 = {
 	name = "Heinrich"
 	dynasty = 12480
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 213100
 	mother = 213101
@@ -9783,7 +9783,7 @@
 73468 = {
 	name = "Berthold"
 	dynasty = 12480
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 213100
 	mother = 213101
@@ -9799,7 +9799,7 @@
 144212 = {
 	name = "Herman"
 	dynasty = 111
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 144213
 	1030.1.1 = {
@@ -9813,7 +9813,7 @@
 144213 = {
 	name = "Rudolf"
 	dynasty = 111
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 144214
 	984.1.1 = {
@@ -9827,7 +9827,7 @@
 144214 = {
 	name = "Hermann"
 	dynasty = 111
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	940.1.1 = {
 		birth = "940.1.1"
@@ -9840,7 +9840,7 @@
 144215 = {
 	name = "Hermann"
 	dynasty = 111
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 144214
 	983.1.1 = {
@@ -9854,7 +9854,7 @@
 144216 = {
 	name = "Bernhard"
 	dynasty = 111
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 144215
 	1028.1.1 = {
@@ -9868,7 +9868,7 @@
 144217 = {
 	name = "Heinrich"
 	dynasty = 111
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 144216
 	1050.1.1 = {
@@ -9882,7 +9882,7 @@
 144218 = {
 	name = "Konrad"
 	dynasty = 111
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 144216
 	1049.1.1 = {
@@ -9899,7 +9899,7 @@
 144219 = {
 	name = "Heinrich"
 	dynasty = 111
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 144218
 	mother = 112607
@@ -9915,7 +9915,7 @@
 	name = "Eilika"
 	female = yes
 	dynasty = 111
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 144219
 	1100.1.1 = {
@@ -9934,7 +9934,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = greedy
 	trait = arrogant
@@ -9952,7 +9952,7 @@
 32719 = {
 	name = "Wilhelm"
 	dynasty = 7257
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	1050.1.1 = {
 		birth = "1050.1.1"
@@ -9965,7 +9965,7 @@
 32720 = {
 	name = "Raymond"
 	dynasty = 7257
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32719
 	1080.1.1 = {
@@ -9979,7 +9979,7 @@
 32721 = {
 	name = "Wilhelm"
 	dynasty = 7257
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32720
 	1100.1.1 = {
@@ -9993,7 +9993,7 @@
 32722 = {
 	name = "Rudolf"
 	dynasty = 7257
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32721
 	1140.1.1 = {
@@ -10007,7 +10007,7 @@
 32723 = {
 	name = "Peter"
 	dynasty = 7257
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32722
 	1160.1.1 = {
@@ -10021,7 +10021,7 @@
 32724 = {
 	name = "Rudolf"
 	dynasty = 7257
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32722
 	1170.1.1 = {
@@ -10035,7 +10035,7 @@
 32725 = {
 	name = "Rudolf"
 	dynasty = 7257
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32724
 	1210.1.1 = {
@@ -10049,7 +10049,7 @@
 32726 = {
 	name = "Peter"
 	dynasty = 7257
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32725
 	1240.1.1 = {
@@ -10063,7 +10063,7 @@
 32727 = {
 	name = "Peter"
 	dynasty = 7257
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	father = 32726
 	1270.1.1 = {
@@ -10083,7 +10083,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = honest
 	trait = education_learning_3
@@ -10100,7 +10100,7 @@
 	# AKA: Getrude
 	female = yes
 	dynasty = 7178
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	1092.1.1 = {
 		birth = "1092.1.1"
@@ -10115,7 +10115,7 @@
 	# AKA: Gertude
 	female = yes
 	dynasty = 7178 #von Komburg
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian	
 	1094.1.1 = {
 		birth = "1094.1.1"
@@ -10128,7 +10128,7 @@
 31553 = {
 	name = "Konrad" #also chancellor of the HRE
 	dynasty = 7223
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_3
 	1165.1.2 = {
@@ -10148,7 +10148,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = humble
 	trait = education_learning_3
@@ -10167,7 +10167,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = gluttonous
 	trait = cynical
@@ -10187,7 +10187,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_3
 	1291.1.1 = {
@@ -10206,7 +10206,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_1
 	1140.1.2 = {
@@ -10225,7 +10225,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = honest
 	trait = humble
@@ -10245,7 +10245,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = lustful
 	trait = deceitful
@@ -10265,7 +10265,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = calm
 	trait = gluttonous
@@ -10281,7 +10281,7 @@
 260576 = {
 	name = "Emich"
 	dynasty = 1062247
-	religion = catholic
+	religion = nicean
 	culture = swabian
 	915.1.1 = {
 		birth = yes
@@ -10295,7 +10295,7 @@
 	name = "Adelheid"
 	female = yes
 	dynasty = 7292
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	1025.1.1 = {
 		birth = "1025.1.1"
@@ -10312,7 +10312,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = diligent
 	trait = brave
@@ -10341,7 +10341,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = intellect_good_1
 	trait = blademaster_1
@@ -10366,7 +10366,7 @@
 190365 = {
 	name = "Berthilo" #count of St Gallen
 	dynasty = 1044088 #Berthilding
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	728.1.1 = {
 		birth = yes
@@ -10378,7 +10378,7 @@
 190366 = {
 	name = "Berthold" #count of St Gallen
 	dynasty = 1044088 #Berthilding
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 190365
 	747.1.1 = {
@@ -10394,7 +10394,7 @@
 190355 = {
 	name = "Wado" #count of St Gallen
 	dynasty = 1044088 #Berthilding
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 190366
 	mother = 190358
@@ -10408,7 +10408,7 @@
 190356 = {
 	name = "Chadalhoh" #duke of friuli
 	dynasty = 1044088 #Berthilding
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 190366
 	mother = 190358
@@ -10422,7 +10422,7 @@
 190357 = {
 	name = "Berthold" #count of St Gallen
 	dynasty = 1044088 #Berthilding
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	father = 190356
 	787.1.1 = {
@@ -10435,7 +10435,7 @@
 260037 = {		# Placeholder Pitten 867
 	name = "Leopold"
 	dynasty = 1062021
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	838.1.1 = {
 		birth = yes
@@ -10453,7 +10453,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_martial_2
 	1050.1.1 = {
@@ -10484,7 +10484,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_intrigue_2
 	1027.1.2 = {
@@ -10498,7 +10498,7 @@
 swabian0001 = {
 	name = "Solomon" #Prince-Bishop of Konstanz, I
 	dynasty = swabian_von_konstanz
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_3
 	trait = ambitious
@@ -10512,7 +10512,7 @@ swabian0001 = {
 
 swabian0002 = {
 	name = "Gebhard" #Prince-Bishop of Konstanz
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_1
 	803.1.1 = {
@@ -10527,7 +10527,7 @@ swabian0003 = {
 	name = "Solomon" #Prince-Bishop of Konstanz, II
 	dynasty = swabian_von_konstanz
 	father = swabian0001 # Solomon I
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_3
 	824.1.1 = {
@@ -10542,7 +10542,7 @@ swabian0004 = {
 	name = "Solomon" #Prince-Bishop of Konstanz, III
 	dynasty = swabian_von_konstanz
 	father = swabian0003 # Solomon II
-	religion = nicean
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_2
 	857.1.1 = {
@@ -10555,7 +10555,7 @@ swabian0004 = {
 
 swabian0005 = {
 	name = "Gunzelin" #Prince-Bishop Gaminolf of Konstanz
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_3
 	902.1.1 = {
@@ -10568,7 +10568,7 @@ swabian0005 = {
 
 swabian0006 = {
 	name = "Lambert" #Prince-Bishop Lambert of Konstanz
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_2
 	942.1.1 = {
@@ -10581,7 +10581,7 @@ swabian0006 = {
 
 swabian0007 = {
 	name = "Heymeri" #Prince-Bishop Heimo of Konstanz
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_1
 	967.1.1 = {
@@ -10594,7 +10594,7 @@ swabian0007 = {
 
 swabian0008 = {
 	name = "Warmond" #Prince-Bishop Warmann of Konstanz
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_2
 	974.1.1 = {
@@ -10607,7 +10607,7 @@ swabian0008 = {
 
 swabian0009 = {
 	name = "Eberhard" #Prince-Bishop Eberhard of Konstanz
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_3
 	982.1.1 = {
@@ -10620,7 +10620,7 @@ swabian0009 = {
 
 swabian0010 = {
 	name = "Theodorich" #Prince-Bishop Theodorich of Konstanz
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_2
 	979.1.1 = {
@@ -10633,7 +10633,7 @@ swabian0010 = {
 
 swabian0011 = {
 	name = "Romuald" #Prince-Bishop Rumold of Konstanz
-	religion = "catholic"
+	religion = "nicean"
 	culture = swabian
 	trait = education_learning_2
 	998.1.1 = {

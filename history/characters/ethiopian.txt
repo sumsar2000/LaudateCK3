@@ -645,7 +645,7 @@
 
 166186 = {
 	name = "Frumentius"
-	religion = nicean
+	religion = "nicean"
 	culture = "levantine" #assyrian
 	trait = education_learning_3
 	305.1.1 = {
@@ -662,7 +662,7 @@
 
 166187 = {
 	name = "Minas"
-	religion = nicean
+	religion = "nicean"
 	culture = "ethiopian"
 	trait = education_learning_3
 	311.1.1 = {
@@ -675,7 +675,7 @@
 
 166188 = {
 	name = "Elyas"
-	religion = nicean
+	religion = "nicean"
 	culture = "ethiopian"
 	trait = education_learning_3
 	315.1.1 = {
@@ -688,7 +688,7 @@
 
 166189 = {
 	name = "Abreham"
-	religion = nicean
+	religion = "nicean"
 	culture = "ethiopian"
 	trait = education_learning_3
 	352.1.1 = {
@@ -701,7 +701,7 @@
 
 166190 = {
 	name = "Petros"
-	religion = nicean
+	religion = "nicean"
 	culture = "ethiopian"
 	trait = education_learning_3
 	387.1.1 = {
@@ -717,7 +717,7 @@
 
 166191 = {
 	name = "Petros"
-	religion = nicean
+	religion = "nicean"
 	culture = "ethiopian"
 	trait = education_learning_3
 	405.1.1 = {
@@ -733,7 +733,7 @@
 
 166192 = {
 	name = "Abba_Afse"
-	religion = nicean
+	religion = "nicean"
 	culture = "ethiopian"
 	trait = education_learning_3
 	437.1.1 = {

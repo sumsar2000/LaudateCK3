@@ -1,7 +1,7 @@
 ﻿190122 = {
 	name = "Audoin" # Audoin Gausi, King of the Lombards
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	510.1.1 = {
@@ -21,7 +21,7 @@
 	name = "Rodelinda" # Rodelinda, wife of Audoin Gausi
 	female = yes
 	dynasty = 9619
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	mother = 168779
@@ -37,7 +37,7 @@
 190124 = {
 	name = "Alboin" # Alboin Gausi, Lombard King of Italy (565-572)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190122
@@ -56,7 +56,7 @@
 190125 = {
 	name = "Grasulf" # Grasulf (I) Gausi, Duke of Friuli (591-590)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190122
@@ -73,7 +73,7 @@
 190126 = {
 	name = "Gisulf" # Gisulf (I) Gausian, Duke of Friuli (569-591)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190125
@@ -91,7 +91,7 @@
 190127 = {
 	name = "Zotto" # Zotto Gausi, Duke of Benevento (571-591)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190125
@@ -112,7 +112,7 @@
 190128 = {
 	name = "Gisulf" # Gisulf (II) Gausi, Duke of Friuli (590-611)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190126
@@ -133,7 +133,7 @@
 190244 = {
 	name = "Taso" # Taso Gausi, Duke of Friuli (611-625)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190128
@@ -152,7 +152,7 @@
 190245 = {
 	name = "Caco" # Caco Gausi, Duke of Friuli (611)
 	dynasty = 1044031 #Gausi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190128
@@ -171,7 +171,7 @@
 190130 = {
 	name = "Radoald" # Radoald Gausi, Duke of Benevento (642-651)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190128
@@ -191,7 +191,7 @@
 	name = "Appa" # Appa Gausi, wife of the King of the Alemanni
 	female = yes
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190128
@@ -209,7 +209,7 @@
 	name = "Geila" # Geila Gausi, wife of Garibald II of Bavaria
 	female = yes
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190128
@@ -226,7 +226,7 @@
 190133 = {
 	name = "Grimoald" # Grimoald (I) Gausi, King of Lombard Italy (662-671) and Duke of Benevento (651-671)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190128
@@ -249,7 +249,7 @@
 	name = "Teudota" # Theodota Baiuvari, wife of Grimoald of Italy
 	female = yes
 	dynasty_house = house_baiuvari
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190181
@@ -265,7 +265,7 @@
 190135 = {
 	name = "Romoald" # Romoald (I) Gausi, Duke of Benevento (671-687)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190133
@@ -285,7 +285,7 @@
 190136 = {
 	name = "Garipald" # Garibald Gausi, Lombard King of Italy (671), Duke of Piedmonte (663-671)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190133
@@ -303,7 +303,7 @@
 	name = "Teuderada" # Theodrada Gausi, wife of Romoald I of Benvento
 	female = yes
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190248
@@ -319,7 +319,7 @@
 190138 = {
 	name = "Grimoald" # Grimoald (II) Gausi, Duke of Benevento (687-689)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190135
@@ -341,7 +341,7 @@
 190139 = {
 	name = "Gisulf" # Gisulf (I) Gausi, Duke of Benevento (689-706)
 	dynasty = 1044031 #Gausi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190135
@@ -363,7 +363,7 @@
 190140 = {
 	name = "Winiperga" # Winiperga, wife of Gisulf I of Benevento
 	female = yes
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	669.1.1 = {
@@ -377,7 +377,7 @@
 190141 = {
 	name = "Romoald" # Romoald (II) Gausi, Duke of Benevento (706-731)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190139
@@ -406,7 +406,7 @@
 	name = "Gumperga" # Gumperga, daughter of Aurona sister of King Liutprand
 	female = yes
 	dynasty = 1044037
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = lombard0095
@@ -423,7 +423,7 @@
 	name = "Ranigunda" #daughter of Duke Gaiduld of Brescia
 	female = yes
 	dynasty = 1044038 #Gaiduldling
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	709.1.1 = {
 		birth = yes
@@ -436,7 +436,7 @@
 190144 = {
 	name = "Gisulf" # Gisulf (II) Gausi, Duke of Benevento (742-751)
 	dynasty = 1044031 #Gausi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190141
 	mother = 190142
@@ -454,7 +454,7 @@
 190145 = {
 	name = "Scauniperga" # Scauniperga, wife of Gisulf II of Benevento
 	female = yes
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	701.1.1 = {
 		birth = yes
@@ -467,7 +467,7 @@
 190146 = {
 	name = "Liutprand" # Liutprand Gausi, Duke of Benevento (751-758)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190144
@@ -484,7 +484,7 @@
 190147 = {
 	name = "Arechis" # Arechis (II) Gausi, Duke of Benevento (758-787)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = lombard0093
@@ -509,7 +509,7 @@
 	name = "Adelperga" # Adelperga Desideridi, wife of Arechis II of Benevento
 	female = yes
 	dynasty = 1044053
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190347
@@ -526,7 +526,7 @@
 190149 = {
 	name = "Romoald" # Romoald Gausi
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190147
@@ -543,7 +543,7 @@
 190150 = {
 	name = "Grimoald" # Grimoald (III) Gausi, Duke of Benevento (787-806)
 	dynasty = 1044031 #Gausi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190147
@@ -568,7 +568,7 @@
 190151 = {
 	name = "Scauniperga" # Scauniperga, fictional wife of Grimoald III of Benevento
 	female = yes
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	750.1.1 = {
@@ -583,7 +583,7 @@
 	name = "Adelchisa" # Adelchisa Gausi, mother of Grimoald IV
 	dynasty = 1044031
 	female = yes
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190147
@@ -600,7 +600,7 @@
 190153 = {
 	name = "Arechis" # Arechis (I) Gausi, Duke of Benevento (591-641)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190126
@@ -618,7 +618,7 @@
 190154 = {
 	name = "Aio" # Aio (I) Gausi, Duke of Benevento (641-642)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190153
@@ -636,7 +636,7 @@
 190246 = {
 	name = "Grasulf" # Grasulf (II) Gausi, Duke of Friuli (625-653)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190126
@@ -652,7 +652,7 @@
 190247 = {
 	name = "Ago" # Ago Gausi, Duke of Friuli (653-662)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190246
@@ -668,7 +668,7 @@
 190248 = {
 	name = "Lupus" # Lupus Gausi, Duke of Friuli (662-663)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190247
 
@@ -685,7 +685,7 @@
 190249 = {
 	name = "Arnefrit" # Arnefrit Gausi, Duke of Friuli (663)
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190248
@@ -704,7 +704,7 @@
 190250 = {
 	name = "Wechtari" # Wechtar Wechtaridi, Duke of Friuli (663-671)
 	dynasty = 1044059
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	636.1.1 = {
@@ -720,7 +720,7 @@
 190251 = {
 	name = "Landari" # Landar Wechtaridi, Duke of Friuli (671)
 	dynasty = 1044059
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190250
@@ -736,7 +736,7 @@
 190252 = {
 	name = "Rodoald" # Radoald Wechtaridi, Duke of Friuli (671-695)
 	dynasty = 1044059
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190250
@@ -753,7 +753,7 @@
 	name = "Landeburga" # Landeburga Wechtaridi, wife of Ansfrid of Friuli
 	female = yes
 	dynasty = 1044059
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190250
@@ -769,7 +769,7 @@
 190254 = {
 	name = "Ado" # Ado Wechtaridi, Duke of Friuli (698-700)
 	dynasty = 1044059
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190250
@@ -785,7 +785,7 @@
 190255 = {
 	name = "Ansfrid" # Ansfrid Ansfrididi, Duke of Friuli (695-698)
 	dynasty = 1044060
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	trait = blind
 
@@ -805,7 +805,7 @@
 190256 = {
 	name = "Ferdulf" # Ferdulf Ansfrididi, Duke of Friuli (700-705)
 	dynasty = 1044060
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190255
@@ -822,7 +822,7 @@
 190257 = {
 	name = "Corvulus" # Corvulus Ansfrididi, Duke of Friuli (705)
 	dynasty = 1044060
-	religion = "catholic"
+	religion = "nicean"
 	culture = "lombard"
 	trait = blind
 
@@ -840,7 +840,7 @@
 190259 = {
 	name = "Munichis" # Munichis Munichisidi
 	dynasty = 1044052
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	701.1.1 = {
@@ -854,7 +854,7 @@
 190260 = {
 	name = "Anselm" # Anselm Munichisidi, Duke of Friuli (749-751)
 	dynasty = 1044052
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190259
@@ -875,7 +875,7 @@
 190262 = {
 	name = "Petrus" # Petrus Munichisidi, Duke of Friuli (751-767)
 	dynasty = 1044052
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190259
@@ -891,7 +891,7 @@
 190263 = {
 	name = "Ursus" # Ursus Munichisidi, Count of Padua (751-774)
 	dynasty = 1044052
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190259
@@ -907,7 +907,7 @@
 190264 = {
 	name = "Rodgoald" # Rotgaudo Munichisidi, Duke of Friuli (767-776)
 	dynasty = 1044052
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190262
@@ -924,7 +924,7 @@
 	name = "Gisaltruda" # Gisaltruda Munichisidi, wife of Aistulf of Italy
 	female = yes
 	dynasty = 1044052 #Munichingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190259
 	730.1.1 = {
@@ -938,7 +938,7 @@
 190155 = {
 	name = "Hermenric" # Ermenric Ermenricidi
 	dynasty = 1044042
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	753.1.1 = {
@@ -955,7 +955,7 @@
 190157 = {
 	name = "Grimoald" # Grimoald (IV) Ermenricidi, Duke of Benevento (806-817)
 	dynasty = 1044042
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190155
@@ -977,7 +977,7 @@
 190160 = {
 	name = "Sico" # Sico Siconidi, Duke of Benevento (817-832)
 	dynasty = 1044044
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	758.1.1 = {
@@ -993,7 +993,7 @@
 190161 = {
 	name = "Sicard" # Sicard Siconidi, Duke of Benevento (832-839)
 	dynasty = 1044044
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190160
@@ -1010,7 +1010,7 @@
 	name = "Itta" # Itta Siconidi, wife of Guy I of Spoletto
 	female = yes
 	dynasty = 1044044
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190160
@@ -1026,7 +1026,7 @@
 190163 = {
 	name = "Siconulf" # Siconulf Siconidi, Duke of Salerno (839-851)
 	dynasty = 1044044
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190160
@@ -1047,7 +1047,7 @@
 190164 = {
 	name = "Sico" # Sico (II) Siconidi, Duke of Salerno (851-855)
 	dynasty = 1044044
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190163
@@ -1068,7 +1068,7 @@
 	name = "Masane" # Masane Gausi, wife of Clef of Italy
 	female = yes
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190122
@@ -1086,7 +1086,7 @@
 	name = "Rodelinda" # Rodelinda Gausi, wife of Zotto of Benevento
 	female = yes
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190122
@@ -1103,7 +1103,7 @@
 190167 = {
 	name = "Beleo" # Beleo Beleos
 	dynasty = 1044045
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	507.1.1 = {
@@ -1117,7 +1117,7 @@
 190168 = {
 	name = "Clef" # Clef Beleos, Lombard King of Italy (572-574)
 	dynasty = 1044045
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190167
@@ -1138,7 +1138,7 @@
 190169 = {
 	name = "Authari" # Authari Beleos, Lombard King of Italy (584-590)
 	dynasty = 1044045
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190168
@@ -1159,7 +1159,7 @@
 190170 = {
 	name = "Agilolf" # Agilulf Anawas, Lombard King of Italy (591-616) and Duke of Piedmonte (575-590)
 	dynasty = anawas
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	559.1.1 = {
@@ -1182,7 +1182,7 @@
 	name = "Gundeberga" # Gundeberga Anawas, wife of Arioald of Italy and Rotari of Italy
 	female = yes
 	dynasty = anawas
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190170
@@ -1199,7 +1199,7 @@
 190173 = {
 	name = "Adaloald" # Adaloald Anawas, Lombard King of Italy (616-626)
 	dynasty = anawas
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190170
@@ -1218,7 +1218,7 @@
 190174 = {
 	name = "Arioald" # Arioald Arioaldidi, Lombard King of Italy (626-636) and Duke of Piedmonte (590-626)
 	dynasty = 1044047
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	578.1.1 = {
@@ -1237,7 +1237,7 @@
 190175 = {
    name = "Nandinig" # Nandinig Arodingi, Count of Brescia (603-626)
    dynasty = 1044048
-   religion = "catholic"
+   religion = "nicean"
    culture = "lombard"
 
    578.1.1 = {
@@ -1251,7 +1251,7 @@
 190176 = {
 	name = "Rothari" # Rothari Arodingi, Lombard King of Italy (636-652)
 	dynasty = 1044048
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190175
@@ -1272,7 +1272,7 @@
 190177 = {
 	name = "Rodoald" # Radoald Arodingi, Lombard King of Italy (652)
 	dynasty = 1044048
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190176
@@ -1291,7 +1291,7 @@
 190181 = {
 	name = "Aripert" # Aripert (I) Baiuvari, Lombard King of Italy (652-661)
 	dynasty_house = house_baiuvari
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190180
@@ -1307,7 +1307,7 @@
 190182 = {
 	name = "Godepert" # Godepert Baiuvari, Lombard King of Italy (661-662)
 	dynasty_house = house_baiuvari
-	religion = nicean #arian
+	religion = "nicean" #arian
 	culture = "lombard"
 
 	father = 190181
@@ -1326,7 +1326,7 @@
 190183 = {
 	name = "Raginpert" # Raginpert Baiuvari, Lombard King of Italy (701), Duke of Piedmonte (663-701)
 	dynasty_house = house_baiuvari
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190182
@@ -1344,7 +1344,7 @@
 190184 = {
 	name = "Aripert" # Aripert (II) Baiuvari, Lombard King of Italy (702-712) and Duke of Piedmonte (701-702)
 	dynasty_house = house_baiuvari
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190183
@@ -1362,7 +1362,7 @@
 190185 = {
 	name = "Perctarit" # Perctarit Baiuvari, Lombard King of Italy (662 & 671-688)
 	dynasty_house = house_baiuvari
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190181
@@ -1383,7 +1383,7 @@
 190186 = {
 	name = "Rodelinda" # Rodelinda, wife of Perctarit of Italy
 	female = yes
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	639.1.1 = {
@@ -1398,7 +1398,7 @@
 	name = "Wigilinda" # Wigilanda Baiuvari, wife of Grimoald II of Benevento
 	female = yes
 	dynasty_house = house_baiuvari
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190185
@@ -1415,7 +1415,7 @@
 190188 = {
 	name = "Cunicpert" # Cunicpert Baiuvari, Lombard King of Italy (688-689 & 689-700)
 	dynasty_house = house_baiuvari
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190185
@@ -1434,7 +1434,7 @@
 190189 = {
 	name = "Liutpert" # Liutpert Baiuvari, Lombard King of Italy (700-701 & 701-702)
 	dynasty_house = house_baiuvari
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190188
@@ -1454,7 +1454,7 @@
 	name = "Regintruda" # Regintruda Baiuvari, wife of Theodo II of Bavaria
 	female = yes
 	dynasty_house = house_baiuvari
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190182
@@ -1471,7 +1471,7 @@
 	name = "Ratperga" # Ratberga Baiuvari, wife of Pemmo of Friuli
 	female = yes
 	dynasty_house = house_baiuvari
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190184
@@ -1487,7 +1487,7 @@
 190193 = {
 	name = "Ansprand" # Ansprand Ansprandidi, Lombard King of Italy (712)
 	dynasty = 1044051
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	647.1.1 = {
@@ -1504,7 +1504,7 @@
 190194 = {
 	name = "Sigiprand" # Sigiprand Ansprandidi
 	dynasty = 1044051
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190193
@@ -1527,7 +1527,7 @@
 	name = "Aurona" # Aurona Ansprandidi, mother in law of Romoald II of Benevento
 	female = yes
 	dynasty = 1044051
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190193
@@ -1547,7 +1547,7 @@
 190196 = {
 	name = "Liutprand" # Liutprand Ansprandidi, Lombard King of Italy (712-744)
 	dynasty = 1044051
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190193
@@ -1569,7 +1569,7 @@
 190198 = {
 	name = "Hildeprand" # Hildeprand Ansprandidi, Lombard King of Italy (744)
 	dynasty = 1044051
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190194
@@ -1585,7 +1585,7 @@
 190340 = {
 	name = "Ansa" # Ansa, wife of Desiderius of Italy
 	female = yes
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	712.1.1 = {
@@ -1602,7 +1602,7 @@
 190341 = {
 	name = "Billo" # Billo Billonidi
 	dynasty = 1044050
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	658.1.1 = {
@@ -1616,7 +1616,7 @@
 190342 = {
 	name = "Pemmo" # Pemmo Billonidi, Duke of Friuli (705-737)
 	dynasty = 1044050
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190341
@@ -1635,7 +1635,7 @@
 190343 = {
 	name = "Ratchis" # Ratchis Billonidi, Lombard King of Italy (744-749 and 756-757), Duke of Friuli (737-744) and Duke of Spoleto (756-757)
 	dynasty = 1044050
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190342
@@ -1657,7 +1657,7 @@
 190331 = {
 	name = "Aistulf" # Aistulf Billonidi, Lombard King of Italy (749-756), Duke of Friuli (744-749) and Spoleto (752-756)
 	dynasty = 1044050
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190342
@@ -1703,7 +1703,7 @@
 	name = "Gerperga" # Gerberga Desideridi, wife of Carloman of France
 	female = yes
 	dynasty = 1044053
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190347
@@ -1740,7 +1740,7 @@
 	name = "Liutperga" # Liutberga Desideridi, wife of Tassilo IV of Bavaria
 	female = yes
 	dynasty = 1044053
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190347
@@ -1758,7 +1758,7 @@
 	name = "Anselperga" # Anselperga Desideridi, Abbess
 	female = yes
 	dynasty = 1044053
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	trait = devoted
 
@@ -1775,7 +1775,7 @@
 190353 = {
 	name = "Adelchis" # Adelchis Desideridi
 	dynasty = 1044053
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190347
@@ -1792,7 +1792,7 @@
 190354 = {
 	name = "Alachis" # Alachis, Lombard King of Italy (689)
 	dynasty = 1044054
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	654.1.1 = {
@@ -1809,7 +1809,7 @@
 190265 = {
 	name = "Theodicus" #duke of Spoleto
 	dynasty = 1044061 #Theodingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	727.1.1 = {
 		birth = yes
@@ -1824,7 +1824,7 @@
 190266 = {
 	name = "Giselberga" #wife of Theodicus
 	female = yes
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	731.1.1 = {
 		birth = yes
@@ -1836,7 +1836,7 @@
 190267 = {
 	name = "Hildeprand" #duke of Spoleto
 	dynasty = 1044061 #Theodingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190265
 	mother = 190266
@@ -1850,7 +1850,7 @@
 190268 = {
 	name = "Ursus" #count of Bologna (Persiceta)
 	dynasty = 1044063 #Ursingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	721.1.1 = {
 		birth = yes
@@ -1862,7 +1862,7 @@
 190269 = {
 	name = "Ioannes" #count of Bologna
 	dynasty = 1044063 #Ursingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190268
 	740.1.1 = {
@@ -1875,7 +1875,7 @@
 190270 = {
 	name = "Ursus" #count of Bologna
 	dynasty = 1044063 #Ursingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190269
 	760.1.1 = {
@@ -1888,7 +1888,7 @@
 190271 = {
 	name = "Ademar" #count of Verona
 	dynasty = 1044064 #Ademingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	701.1.1 = {
 		birth = yes
@@ -1900,7 +1900,7 @@
 190272 = {
 	name = "Ademar" #count of Verona
 	dynasty = 1044064 #Ademingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190271
 	742.1.1 = {
@@ -1914,7 +1914,7 @@
 	name = "Brunhilda" #wife of Ursus of Bologna
 	female = yes
 	dynasty = 1044064 #Ademingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190269
 	756.1.1 = { #postponed from 743
@@ -1927,7 +1927,7 @@
 190274 = {
 	name = "Adalpert" # Adalpert Adalpertidi, Count of Genoa and Luni (741-772)
 	dynasty = 1044065
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	
 	725.1.1 = {
@@ -1940,7 +1940,7 @@
 190275 = {
 	name = "Ademar" # Ademar Adalpertidi, Count of Genoa and Luni (772-774)
 	dynasty = 1044065
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190274
 	
@@ -1955,7 +1955,7 @@
 	name = "Adelperga" # Adalperga Adalpertidi, spouse of Alperto of Tuscany
 	female = yes
 	dynasty = 1044065
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190274
 	
@@ -1969,7 +1969,7 @@
 190277 = {
 	name = "Petrus" # Petrus Adalpertidi, Count of Corsica (769-774)
 	dynasty = 1044065 #Adalbertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190274
 	
@@ -1983,7 +1983,7 @@
 190278 = {
 	name = "Walpert" #duke of Tuscany
 	dynasty = 1044066 #Walpertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	702.1.1 = {
 		birth = yes
@@ -1995,7 +1995,7 @@
 190279 = {
 	name = "Alpert" #duke of Tuscany
 	dynasty = 1044066 #Walpertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190278
 	722.1.1 = {
@@ -2011,7 +2011,7 @@
 190280 = {
 	name = "Tachipert" #duke of Tuscany
 	dynasty = 1044066 #Walpertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190278
 	743.1.1 = {
@@ -2025,7 +2025,7 @@
 	name = "Tachiperga" #wife of Teuderic count of Ravenna
 	female = yes
 	dynasty = 1044066 #Walpertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190278
 	745.1.1 = {
@@ -2038,7 +2038,7 @@
 190282 = {
 	name = "Lupus" #count of Ferrara
 	dynasty = 1044066 #Walpertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190278
 	727.1.1 = {
@@ -2051,7 +2051,7 @@
 190283 = {
 	name = "Tachipert" #count of Ancona and Urbino
 	dynasty = 1044067 #Tachipertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	721.1.1 = {
 		birth = yes
@@ -2063,7 +2063,7 @@
 190284 = {
 	name = "Lupus" #count of Ancona
 	dynasty = 1044067 #Tachipertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190283
 	741.1.1 = {
@@ -2076,7 +2076,7 @@
 190285 = {
 	name = "Halo" #count of Urbino
 	dynasty = 1044067 #Tachipertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190283
 	747.1.1 = {
@@ -2090,7 +2090,7 @@
 	name = "Hilciperga" #wife of Hilderic of Ravenna
 	female = yes
 	dynasty = 1044067 #Tachipertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190283
 	753.1.1 = {
@@ -2103,7 +2103,7 @@
 190287 = {
 	name = "Teuderic" #count of Ravenna
 	dynasty = 1044068 #Teudericingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	743.1.1 = {
 		birth = yes
@@ -2118,7 +2118,7 @@
 190288 = {
 	name = "Hilderic" #count of Ravenna
 	dynasty = 1044068 #Teudericingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190287
 	mother = 190281
@@ -2135,7 +2135,7 @@
 190289 = {
 	name = "Daufer" # Daufer, Count of Salerno (763-818)
 	dynasty = 1044069
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	743.1.1 = {
@@ -2148,7 +2148,7 @@
 190290 = {
 	name = "Rofrit" # Rofrit, Count of Salerno (818-836)
 	dynasty = 1044069
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190289
@@ -2163,7 +2163,7 @@
 190291 = {
 	name = "Adelchis" # Adelchis, Count of Salerno (836-839)
 	dynasty = 1044069
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190290
@@ -2179,7 +2179,7 @@
 	name = "Rofrida" # Rotfreda, wife of Landolf I of Capua
 	female = yes
 	dynasty = 1044069
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190290
@@ -2195,7 +2195,7 @@
 190293 = {
 	name = "Potelfrit" # Potelfrit, son of Daufer of Salerno
 	dynasty = 1044069
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190289
@@ -2212,7 +2212,7 @@
 	name = "Potelfreda" # Potelfreda, wife of Landendolf II of Capua
 	female = yes
 	dynasty = 1044069
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190293
@@ -2228,7 +2228,7 @@
 190295 = {
 	name = "Rodoald" # Rodoald Rodoaldidi, Count of Rossano (740-766)
 	dynasty = 1044070
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	723.1.1 = {
@@ -2242,7 +2242,7 @@
 190296 = {
 	name = "Radulhin" # Radulhin Rodoaldidi, Count of Rossano (766-788)
 	dynasty = 1044070
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190295
@@ -2258,7 +2258,7 @@
 190297 = {
 	name = "Ermepert" # Ermepert Rodoaldidi, Count of Rossano (788-790)
 	dynasty = 1044070
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190295
@@ -2275,7 +2275,7 @@
 	name = "Eufemia" #Eufemia Rodoaldidi, wife of Roderissus of Camarda
 	female = yes
 	dynasty = 1044070
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190295
@@ -2291,7 +2291,7 @@
 190299 = {
 	name = "Roderissus" # Roderissus (I) Roderissidi, Count of Camarda (763-810)
 	dynasty = 1044086
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	745.1.1 = {
@@ -2308,7 +2308,7 @@
 190300 = {
 	name = "Rodegar" # Rodegar Roderissidi, Count of Camarda (810-811)
 	dynasty = 1044086
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190299
@@ -2325,7 +2325,7 @@
 190301 = {
 	name = "Roderissus" # Roderissus (II) Roderissidi, Count of Camarda (811-814)
 	dynasty = 1044086
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190300
@@ -2341,7 +2341,7 @@
 190302 = {
 	name = "Framicus" # Framicus Roderissidi
 	dynasty = 1044086
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190299
@@ -2358,7 +2358,7 @@
 190303 = {
 	name = "Gandulf" # Gandulf Gandulfidi, Count of Bari (742-766)
 	dynasty = 1044071
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	721.1.1 = {
@@ -2372,7 +2372,7 @@
 190304 = {
 	name = "Daufer" # Daufer Gandulfidi, Count of Bari (766-830)
 	dynasty = 1044071
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190303
@@ -2388,7 +2388,7 @@
 190305 = {
 	name = "Rodegar" # Rodegar Gandulfidi, Count of Bari (830-834)
 	dynasty = 1044071 #Gandulfingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190304
@@ -2405,7 +2405,7 @@
 	name = "Arnegisa" # Arnegisa Gandulfidi, wife of Maio of Aprutium
 	female = yes
 	dynasty = 1044071
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190303
@@ -2422,7 +2422,7 @@
 	name = "Radegisa" # Radegisa Gandulfidi, wife of Paldo of Apulia
 	female = yes
 	dynasty = 1044071
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190303
@@ -2438,7 +2438,7 @@
 190308 = {
 	name = "Maio" #count of Aprutium
 	dynasty = 1044072 #Maioingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	742.1.1 = {
 		birth = yes
@@ -2453,7 +2453,7 @@
 190309 = {
 	name = "Maio" #count of Aprutium
 	dynasty = 1044072 #Maioingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190308
 	mother = 190306
@@ -2468,7 +2468,7 @@
 190310 = {
 	name = "Paldo" # Paldo Paldonidi, Count of Apulia (762-807)
 	dynasty = 1044073
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	746.1.1 = {
@@ -2485,7 +2485,7 @@
 190311 = {
 	name = "Stefanus" # Stefanus Paldonidi, Count of Apulia (807-817)
 	dynasty = 1044073
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190310
@@ -2502,7 +2502,7 @@
 190312 = {
 	name = "Warpert" #count of Mantua
 	dynasty = 1044074 #Varbertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	736.1.1 = {
 		birth = yes
@@ -2518,7 +2518,7 @@
 	name = "Richilda" #wife of Varbert of Mantua
 	female = yes
 	dynasty = 1044074 #Varbertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	735.1.1 = {
 		birth = yes
@@ -2530,7 +2530,7 @@
 190314 = {
 	name = "Lantpert" #count of Parma
 	dynasty = 1044074 #Varbertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190312
 	mother = 190313
@@ -2544,7 +2544,7 @@
 190315 = {
 	name = "Grimoald"
 	dynasty = 1044074 #Varbertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190312
 	mother = 190313
@@ -2559,7 +2559,7 @@
 	name = "Warperga"
 	female = yes
 	dynasty = 1044074 #Varbertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190312
 	mother = 190313
@@ -2573,7 +2573,7 @@
 190317 = {
 	name = "Billo"
 	dynasty = 1044074 #Varbertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190312
 	mother = 190313
@@ -2587,7 +2587,7 @@
 190318 = {
 	name = "Drogo"
 	dynasty = 1044074 #Varbertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190312
 	mother = 190313
@@ -2601,7 +2601,7 @@
 190319 = {
 	name = "Daufer"
 	dynasty = 1044074 #Varbertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	father = 190312
 	mother = 190313
@@ -2615,7 +2615,7 @@
 190320 = {
 	name = "Paldo" # Paldo, Count of Lombardia (766-774)
 	dynasty = 1044075
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	746.1.1 = {
@@ -2628,7 +2628,7 @@
 190322 = {
 	name = "Lantpert" #count of Modena
 	dynasty = 1044077 #Lambertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	741.1.1 = {
 		birth = yes
@@ -2640,7 +2640,7 @@
 190323 = {
 	name = "Engelpert" #count of Treviso
 	dynasty = 1044078 #Engelbertingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	742.1.1 = {
 		birth = yes
@@ -2652,7 +2652,7 @@
 190324 = {
 	name = "Liutfred" # Liutfred, Count of Montferrato (757-774)
 	dynasty = 1044079
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	
 	737.1.1 = {
@@ -2665,7 +2665,7 @@
 190325 = {
 	name = "Potho" # Potho Gaidoaldidi, Count of Brescia (756-774)
 	dynasty = 1044080
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	
 	731.1.1 = {
@@ -2678,7 +2678,7 @@
 190326 = {
 	name = "Taso" #count of Sienna
 	dynasty = 1044081 #Tasingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	746.1.1 = {
 		birth = yes
@@ -2690,7 +2690,7 @@
 190328 = {
 	name = "Petrus" #count of Orvieto/Orbetello
 	dynasty = 1044082 #Petringi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	737.1.1 = {
 		birth = yes
@@ -2702,7 +2702,7 @@
 190329 = {
 	name = "Faroald" #count of Piombino
 	dynasty = 1044083 #Faroaldingi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	751.1.1 = {
 		birth = yes
@@ -2714,7 +2714,7 @@
 190330 = {
 	name = "Liutprand" # Liutprand, Count of Turin, Cuneo and Novara (756-774)
 	dynasty = 1044084
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	trait = education_stewardship_2
 	
@@ -2728,7 +2728,7 @@
 190332 = {
 	name = "Pando" # Pando Landolfidi, Placeholder Count of Capua (768-815)
 	dynasty = 7184
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	740.1.1 = {
@@ -2743,7 +2743,7 @@
 	name = "Gemma" # Gemma Landolfidi, wife of Guaimar IV of Salerno
 	female = yes
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_2
 
@@ -2760,7 +2760,7 @@
 73317 = {
 	name = "Pandolf" # Pandolf (IV) Landolfidi, Duke of Benevento (1073)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -2790,7 +2790,7 @@
 73318 = {
 	name = "Landolf" # Landolf (VI) Landolfidi, Duke of Benevento (1059-1073 & 1073-1077)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_2
 
@@ -2819,7 +2819,7 @@
 73319 = {
 	name = "Altruda" # Altruda, wife of Landolf IV of Benevento
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_intrigue_1
 
@@ -2834,7 +2834,7 @@
 73320 = {
 	name = "Maria" # Maria, wife of Landolf IV of Benevento
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -2849,7 +2849,7 @@
 73321 = {
 	name = "Pandolf" # Pandolf (III) Pandolfidi, Duke of Benevento (1034-1053 & 1054-1059)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73323
@@ -2869,7 +2869,7 @@
 73322 = {
 	name = "Altruda" # Altruda, wife of Pandolf III of Benevento
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_learning_1
 
@@ -2884,7 +2884,7 @@
 73323 = {
 	name = "Landolf" # Landolf (V) Landolfidi, Duke of Benevento (1014-1034)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73324
@@ -2903,7 +2903,7 @@
 73324 = {
 	name = "Pandolf" # Pandolf (II) Landolfidi, Duke of Benevento (981-1014) and Capua (1007-1014)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73325
@@ -2921,7 +2921,7 @@
 73325 = {
 	name = "Landolf" # Landolf (V) Landolfidi, Duke of Capua and Benevento (961-962)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73328
@@ -2939,7 +2939,7 @@
 73326 = {
 	name = "Landolf" # Landolf (VI) Landolfidi, Duke of Capua (981-982), Benevento and Spoleto (981)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73327
@@ -2957,7 +2957,7 @@
 73327 = {
 	name = "Pandolf" # Pandolf (I) Landolfidi 'Ironhead', Duke of Capua and Benevento (962-981), Spoleto (967-981) and Salerno (977-981)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73328
@@ -2975,7 +2975,7 @@
 73328 = {
 	name = "Landolf" # Landolf (IV) Landolfidi 'the Red', Duke of Capua and Benevento (943-961)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73330
@@ -2999,7 +2999,7 @@
 73329 = {
 	name = "Atenolf" # Atenolf (III) Landolfidi, Duke of Capua and Benevento (943)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_intrigue_1
 
@@ -3043,7 +3043,7 @@
 73331 = {
 	name = "Atenolf" # Atenolf (I) Landolfidi 'the Great', Count, Duke from 900, of Capua (887-912) and Benevento (900-912)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_3
 
@@ -3088,7 +3088,7 @@
 
 	father = 73327
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	958.1.1 = {
@@ -3105,7 +3105,7 @@
 73334 = {
 	name = "Laidolf" # Laidolf Landolfidi, Duke of Capua (993-999)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = kinslayer_3
 
@@ -3122,7 +3122,7 @@
 73335 = {
 	name = "Ademar" # Ademar Balsamidi, Duke of Spoleto (998-999) and Capua (999)
 	dynasty = balsamidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	956.1.1 = {
@@ -3136,7 +3136,7 @@
 73336 = {
 	name = "Landolf" # Landolf (VII) Landolfidi, Duke of Capua (999-1007)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73325
@@ -3152,7 +3152,7 @@
 73337 = {
 	name = "Pandolf" # Pandolf (III) Landolfidi, Duke of Capua (1014-1021)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73336
@@ -3170,7 +3170,7 @@
 73338 = {
 	name = "Pandolf" # Pandolf (IV) Landolfidi, Duke of Capua (1021-1022, 1024-1038 & 1046-1049)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73324
@@ -3188,7 +3188,7 @@
 73339 = {
 	name = "Gisulf" # Gisulf Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73327
@@ -3207,7 +3207,7 @@
 
 	father = 73339
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	982.1.1 = {
@@ -3223,7 +3223,7 @@
 73341 = {
 	name = "Ioannes" # Ioannes Landolfidi, Duke of Capua (1023-1024), corruler with his father
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73340
@@ -3239,7 +3239,7 @@
 73342 = {
 	name = "Pandolf" # Pandolf (VI) Landolfidi, Duke of Capua (1049-1057)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73338
@@ -3257,7 +3257,7 @@
 73343 = {
 	name = "Landolf" # Landolf (VIII) Landolfidi, Duke of Capua (1057-1059)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = content
 	trait = education_diplomacy_1
@@ -3284,7 +3284,7 @@
 
 	father = 73343
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	1041.1.1 = {
@@ -3299,7 +3299,7 @@
 	name = "Adelgrima" # Adelgrima Pandolfidi, wife of Lando d'Aquino
 	female = yes
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_2
 
@@ -3316,7 +3316,7 @@
 73346 = {
 	name = "Lando" # Lando d'Aquino
 	dynasty = 8682
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 214106
@@ -3335,7 +3335,7 @@
 73347 = {
 	name = "Atenolf" # Atenolf d'Aquino
 	dynasty = 8682
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_2
 
@@ -3353,7 +3353,7 @@
 73348 = {
 	name = "Landolf" # Landolf d'Aquino
 	dynasty = 8682
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_intrigue_1
 
@@ -3371,7 +3371,7 @@
 73349 = {
 	name = "Pandolf" # Pandolf d'Aquino
 	dynasty = 8682
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -3390,7 +3390,7 @@
 73350 = {
 	name = "Lando" # Lando (IV) d'Aquino, Duke of Capua (1092-1098)
 	dynasty = 8682
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_2
 
@@ -3408,7 +3408,7 @@
 73351 = {
 	name = "Atenolf" # Atenolf d'Aquino
 	dynasty = 8682
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73347
@@ -3425,7 +3425,7 @@
 	name = "Sichelgaita" # Sichelgaita d'Aquino
 	female = yes
 	dynasty = 8682
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73347
@@ -3441,7 +3441,7 @@
 73353 = {
 	name = "Petrus" # Petrus d'Aquino
 	dynasty = 8682
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73350
@@ -3457,7 +3457,7 @@
 73354 = {
 	name = "Laidolf" # Laidolf Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73338
@@ -3473,7 +3473,7 @@
 73355 = {
 	name = "Pandolf" # Pandolf (III) Landolfidi, Duke of Salerno (1052)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73354
@@ -3491,7 +3491,7 @@
 2012 = {
 	name = "Daufer" # Daufer Landolfidi, Pope Victor III (1087)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = theologian
 	trait = humble
@@ -3538,7 +3538,7 @@
 163073 = {
 	name = "Landenolf" # Landenolf (I) Landolfidi, Count of Capua (885-887)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_1
 
@@ -3556,7 +3556,7 @@
 163074 = {
 	name = "Lando" # Lando (III) Landolfidi, Count of Capua (882-885)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_intrigue_1
 
@@ -3652,7 +3652,7 @@
 163079 = {
 	name = "Landolf" # Landolf (II) Landolfidi 'the Bishop', Count of Capua (863-879)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = theologian
 	trait = architect
@@ -3676,7 +3676,7 @@
 	name = "Maria" # Maria Landolfidi, wife of Sergius III of Amalfi
 	female = yes
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73324
@@ -3692,7 +3692,7 @@
 145206 = {
 	name = "Lando" # Lando (II) Landolfidi, Count of Capua (843-861)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = content
 	trait = education_martial_3
@@ -3715,7 +3715,7 @@
 1116 = {
 	name = "Guaimar" # Guaimar (IV) Lampertidi, Duke of Salerno (1025-1035 & 1040-1052) and Capua (1038-1047)
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 30857
@@ -3742,7 +3742,7 @@
 	name = "Purpura"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	1010.1.1 = {
@@ -3756,7 +3756,7 @@
 1119 = {
 	name = "Gisulf" # Gisulf (II) Lampertidi, Duke of Salerno (1052-1076)
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = torturer
 	trait = vengeful
@@ -3777,7 +3777,7 @@
 	name = "Sichelgaita" # Sichelgaita Lampertidi, wife of Robert Guiscard of Apulia
 	female = yes
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_intrigue_2
 
@@ -3796,7 +3796,7 @@
 	name = "Gaitelgrima" # Gaitelgrima Lampertidi
 	female = yes
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_2
 
@@ -3815,7 +3815,7 @@
 	name = "Maria" # Maria Widi, wife of William de Hauteville
 	female = yes
 	dynasty_house = house_widi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -3834,7 +3834,7 @@
 	name = "Gaitelgrima" # Gaitelgrima Lampertidi, wife of Jordan of Capua
 	female = yes
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -3852,7 +3852,7 @@
 30856 = {
 	name = "Guido" # Wido Widi
 	dynasty_house = house_widi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_intrigue_2
 
@@ -3873,7 +3873,7 @@
 30857 = {
 	name = "Guaimar" # Guaimar (III) Lampertidi, Duke of Salerno (999-1027)
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0002
@@ -3894,7 +3894,7 @@
 30858 = {
 	name = "Landolf" # Landolf Lampertidi
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -3915,7 +3915,7 @@
 30859 = {
 	name = "Guido" # Wido Lampertidi
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_2
 
@@ -3933,7 +3933,7 @@
 30860 = {
 	name = "Ioannes" # Ioannes Lampertidi
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_learning_1
 
@@ -3954,7 +3954,7 @@
 30861 = {
 	name = "Guaimar" # Guaimar Lampertidi
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -4064,7 +4064,7 @@
 145215 = {
 	name = "Guaimar" # Guaimar (I) Dauferidi, Duke of Salerno (880-901)
 	dynasty = 1022178
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_1
 
@@ -4170,7 +4170,7 @@
 168421 = {
 	name = "Leo" # Leo (I) Ursidi, Duke of Amalfi (930-931)
 	dynasty = 9593
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168419
@@ -4186,7 +4186,7 @@
 168422 = {
 	name = "Ioannes" # Ioannes (I) Ursidi, Duke of Amalfi (931-947)
 	dynasty = 9593
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168419
@@ -4202,7 +4202,7 @@
 168423 = {
 	name = "Mastalo" # Mastalo (II) Ursidi, Duke of Amalfi (954-958)
 	dynasty = 9593
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168422
@@ -4219,7 +4219,7 @@
 168424 = {
 	name = "Manso" # Manso Ursidi
 	dynasty = 9593
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168420
@@ -4235,7 +4235,7 @@
 168425 = {
 	name = "Leo" # Leo Ursidi
 	dynasty = 9593
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168424
@@ -4251,7 +4251,7 @@
 168426 = {
 	name = "Constantinus" # Constantinus Ursidi
 	dynasty = 9593
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168425
@@ -4267,7 +4267,7 @@
 168427 = {
 	name = "Manso" # Manso Ursidi
 	dynasty = 9593
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_2
 
@@ -4287,7 +4287,7 @@
 168428 = {
 	name = "Mastalo" # Mastalo Ursidi
 	dynasty = 9593
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_2
 
@@ -4304,7 +4304,7 @@
 168429 = {
 	name = "Maria" # Maria, wife of Manso Ursidi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -4319,7 +4319,7 @@
 168430 = {
 	name = "Leo" # Leo Ursidi
 	dynasty = 9593
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_learning_1
 
@@ -4337,7 +4337,7 @@
 168431 = {
 	name = "Manso" # Manso Ursidi
 	dynasty = 9593
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_1
 
@@ -4355,7 +4355,7 @@
 168432 = {
 	name = "Ioannes" # Ioannes Ursidi
 	dynasty = 9593
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -4373,7 +4373,7 @@
 168433 = {
 	name = "Ursulinus" # Ursulinus Ursidi
 	dynasty = 9593
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168431
@@ -4473,7 +4473,7 @@
 168439 = {
 	name = "Sergius" # Sergius (II) Musconidi, Duke of Amalfi (958-966)
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168438
@@ -4489,7 +4489,7 @@
 168440 = {
 	name = "Manso" # Manso (II) Musconidi, Duke of Amalfi (981-984 & 986-1004) and Salerno (981-983)
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168439
@@ -4505,7 +4505,7 @@
 168441 = {
 	name = "Ioannes" # Ioannes Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168439
@@ -4521,7 +4521,7 @@
 168442 = {
 	name = "Adelfer" # Adelfer (I) Musconidi, Duke of Amalfi (984-986)
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168439
@@ -4537,7 +4537,7 @@
 168443 = {
 	name = "Sergius" # Sergius Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168442
@@ -4553,7 +4553,7 @@
 168444 = {
 	name = "Maurus" # Maurus Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168442
@@ -4569,7 +4569,7 @@
 168445 = {
 	name = "Ademar" # Ademar Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168442
@@ -4585,7 +4585,7 @@
 168446 = {
 	name = "Leo" # Leo Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168439
@@ -4602,7 +4602,7 @@
 	name = "Purpura" # Purpura Musconidi
 	female = yes
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168446
@@ -4618,7 +4618,7 @@
 168448 = {
 	name = "Ioannes" # Ioannes (II) Musconidi, Duke of Amalfi (1004-1006) and Salerno (983)
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168440
@@ -4634,7 +4634,7 @@
 168449 = {
 	name = "Marinus" # Marinus Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168440
@@ -4650,7 +4650,7 @@
 168450 = {
 	name = "Sergius" # Sergius Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168440
@@ -4666,7 +4666,7 @@
 168451 = {
 	name = "Manso" # Manso Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168440
@@ -4682,7 +4682,7 @@
 168452 = {
 	name = "Landolf" # Landolf Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168440
@@ -4699,7 +4699,7 @@
 	name = "Carda" # Carda Musconidi, wife of Landolf V of Benevento
 	female = yes
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168440
@@ -4715,7 +4715,7 @@
 168454 = {
 	name = "Sergius" # Sergius (III) Musconidi, Duke of Salerno (1006-1028)
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168448
@@ -4737,7 +4737,7 @@
 
 	father = 168448
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	988.1.1 = {
@@ -4751,7 +4751,7 @@
 168456 = {
 	name = "Arechis" # Arechis Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168448
@@ -4767,7 +4767,7 @@
 168457 = {
 	name = "Sergius" # Sergius Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -4784,7 +4784,7 @@
 168458 = {
 	name = "Sergius" # Sergius Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -4801,7 +4801,7 @@
 168459 = {
 	name = "Ioannes" # Ioannes Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_2
 
@@ -4818,7 +4818,7 @@
 168460 = {
 	name = "Manso" # Manso Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_1
 
@@ -4835,7 +4835,7 @@
 168461 = {
 	name = "Arechis" # Arechis Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_2
 
@@ -4852,7 +4852,7 @@
 168462 = {
 	name = "Ioannes" # Ioannes Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -4870,7 +4870,7 @@
 	name = "Aloara" # Aloara Musconidi
 	female = yes
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_2
 
@@ -4888,7 +4888,7 @@
 	name = "Stefania" # Stefania Musconidi
 	female = yes
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -4906,7 +4906,7 @@
 	name = "Regalia" # Regalia Musconidi
 	female = yes
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -4923,7 +4923,7 @@
 168466 = {
 	name = "Ioannes" # Ioannes (III) Musconidi, Duke of Amalfi (1029-1034, 1038-1039 & 1052-1069)
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_intrigue_3
 
@@ -4941,7 +4941,7 @@
 168467 = {
 	name = "Manso" # Manso (III) Musconidi, Duke of Amalfi (1028-1029, 1034-1038 & 1043-1051)
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168454
@@ -4964,7 +4964,7 @@
 168468 = {
 	name = "Rofrit" # Rofrit Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168454
@@ -4981,7 +4981,7 @@
 168469 = {
 	name = "Atenolf" # Atenolf Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_1
 
@@ -4999,7 +4999,7 @@
 168470 = {
 	name = "Alberic" # Alberic Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_2
 
@@ -5018,7 +5018,7 @@
 	name = "Regalia" # Regalia Musconidi, wife of Rainulf Drengot
 	female = yes
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -5036,7 +5036,7 @@
 168472 = {
 	name = "Pandolf" # Pandolf Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_1
 
@@ -5054,7 +5054,7 @@
 	name = "Regalia" # Regalia Musconidi
 	female = yes
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168472
@@ -5071,7 +5071,7 @@
 168474 = {
 	name = "Guaimar" # Guaimar (II) Musconidi, Duke of Amalfi (1051-1052)
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168467
@@ -5087,7 +5087,7 @@
 168475 = {
 	name = "Sergius" # Sergius (IV) Musconidi, Duke of Amalfi (1069-1072)
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -5104,7 +5104,7 @@
 168476 = {
 	name = "Ioannes" # Ioannes (IV) Musconidi (1072-1073)
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -5225,7 +5225,7 @@
 
 	father = 168482
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	900.1.1 = {
@@ -5242,7 +5242,7 @@
 
 	father = 168483
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	930.1.1 = {
@@ -5259,7 +5259,7 @@
 
 	father = 168484
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	960.1.1 = {
@@ -5276,7 +5276,7 @@
 
 	father = 168485
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	990.1.1 = {
@@ -5293,7 +5293,7 @@
 
 	father = 168486
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	1020.1.1 = {
@@ -5311,7 +5311,7 @@
 	name = "Gaita"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	1020.1.1 = {
@@ -5329,7 +5329,7 @@
 	father = 168487
 	mother = 168488
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	1040.1.1 = {
@@ -5347,7 +5347,7 @@
 	father = 168487
 	mother = 168488
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	1042.1.1 = {
@@ -5365,7 +5365,7 @@
 	father = 168487
 	mother = 168488
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	1044.1.1 = {
@@ -5384,7 +5384,7 @@
 	father = 168487
 	mother = 168488
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	1046.1.1 = {
@@ -5450,7 +5450,7 @@
 168497 = {
 	name = "Sergius" # Sergius Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -5468,7 +5468,7 @@
 	name = "Maria" # Maria Musconidi
 	female = yes
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -5486,7 +5486,7 @@
 73472 = {
 	name = "Ulderit" # Ulderit, Bishop of Benevento
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = theologian
 	trait  =  education_learning_1
@@ -5502,7 +5502,7 @@
 73474 = {
 	name = "Rofrit" # Rofrit (I), Bishop of Benevento (1081-1107)
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = theologian
 	trait = education_learning_1
@@ -5518,7 +5518,7 @@
 73475 = {
 	name = "Landolf" # Landolf (II), Bishop of Benevento (1107-1119)
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait =  education_learning_1
 
@@ -5536,7 +5536,7 @@
 73476 = {
 	name = "Rofrit" # Rofrit (II), Bishop of Benevento (1119-1130)
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = theologian
 	trait = education_learning_1
@@ -5552,7 +5552,7 @@
 73477 = {
 	name = "Landolf" # Landolf (III), Bishop of Benevento (1130-1132)
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = theologian
 	trait = education_learning_1
@@ -5568,7 +5568,7 @@
 200298 = {
 	name = "Guaimar" # Guaimar (II) Dauferidi, Duke of Salerno (900-946)
 	dynasty = 1022178
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_intrigue_2
 
@@ -5591,7 +5591,7 @@
 200299 = {
 	name = "Gisulf" # Gisulf (I) Dauferidi, Duke of Salerno (946-973 and 973-977)
 	dynasty = 1022178
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200298
@@ -5643,7 +5643,7 @@
 200302 = {
 	name = "Truppoald" # Truppoald Dauferidi
 	dynasty_house = house_dauferidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200301
@@ -5659,7 +5659,7 @@
 200303 = {
 	name = "Alfan" # Alfan Dauferidi
 	dynasty_house = house_dauferidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200302
@@ -5675,7 +5675,7 @@
 200304 = {
 	name = "Petrus" # Petrus Dauferidi
 	dynasty_house = house_dauferidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_2
 
@@ -5692,7 +5692,7 @@
 200305 = {
 	name = "Alfan" # Alfan Dauferidi
 	dynasty_house = house_dauferidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -5712,7 +5712,7 @@
 200306 = {
 	name = "Petrus" # Petrus Dauferidi
 	dynasty_house = house_dauferidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_2
 
@@ -5747,7 +5747,7 @@
 200308 = {
 	name = "Guaimar" # Guaimar Dauferidi
 	dynasty = 1022178
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200307
@@ -5763,7 +5763,7 @@
 200309 = {
 	name = "Guido" # Wido Guaimaridi
 	dynasty_house = house_guaimaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200308
@@ -5779,7 +5779,7 @@
 200310 = {
 	name = "Gisulf" # Gisulf Guaimaridi
 	dynasty_house = house_guaimaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200309
@@ -5795,7 +5795,7 @@
 200311 = {
 	name = "Astolf" # Astolf Guaimaridi
 	dynasty_house = house_guaimaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -5812,7 +5812,7 @@
 200312 = {
 	name = "Lando" # Lando Guaimaridi
 	dynasty_house = house_guaimaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_2
 
@@ -5829,7 +5829,7 @@
 200313 = {
 	name = "Guido" # Wido Guaimaridi
 	dynasty_house = house_guaimaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -5846,7 +5846,7 @@
 200314 = {
 	name = "Guaifer" # Guaifer Guaimaridi
 	dynasty_house = house_guaimaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_1
 
@@ -5863,7 +5863,7 @@
 200315 = {
 	name = "Guido" # Wido Guaimaridi
 	dynasty_house = house_guaimaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_2
 
@@ -5880,7 +5880,7 @@
 200316 = {
 	name = "Iaquintus" # Iaquintus Guaimaridi
 	dynasty_house = house_guaimaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200315
@@ -5896,7 +5896,7 @@
 200317 = {
 	name = "Guaifer" # Guaifer Dauferidi
 	dynasty = 1022178
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200307
@@ -5912,7 +5912,7 @@
 200318 = {
 	name = "Guaimar" # Guaimar Guaiferidi
 	dynasty_house = house_guaiferidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200317
@@ -5928,7 +5928,7 @@
 200319 = {
 	name = "Guaimar" # Guaimar Guaiferidi
 	dynasty_house = house_guaiferidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200318
@@ -5944,7 +5944,7 @@
 200320 = {
 	name = "Guaimar" # Guaimar Guaiferidi
 	dynasty_house = house_guaiferidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200319
@@ -5960,7 +5960,7 @@
 200321 = {
 	name = "Guaimar" # Guaimar Guaiferidi
 	dynasty_house = house_guaiferidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -5977,7 +5977,7 @@
 200322 = {
 	name = "Petrus" # Petrus Guaiferidi
 	dynasty_house = house_guaiferidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_learning_1
 
@@ -5994,7 +5994,7 @@
 200323 = {
 	name = "Guaifer" # Guaifer Guaiferidi
 	dynasty_house = house_guaiferidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_2
 
@@ -6011,7 +6011,7 @@
 	name = "Guida" # Wida Widi, wife of William I of Apulia
 	female = yes
 	dynasty_house = house_widi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_learning_1
 
@@ -6029,7 +6029,7 @@
 200325 = {
 	name = "Guaimar" # Guaimar Widi
 	dynasty_house = house_widi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_1
 
@@ -6050,7 +6050,7 @@
 200326 = {
 	name = "Sichelgarda" # Sichelgarda, wife of Guaimar Widi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	1060.1.1 = {
@@ -6064,7 +6064,7 @@
 200327 = {
 	name = "Ioannes" # Ioannes Widi
 	dynasty_house = house_widi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200325
@@ -6080,7 +6080,7 @@
 200328 = {
 	name = "Guaimar" # Guaimar Widi
 	dynasty_house = house_widi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200325
@@ -6097,7 +6097,7 @@
 	name = "Mabilia" # Mabilia Widi, wife of Simon de Theville
 	female = yes
 	dynasty_house = house_widi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200325
@@ -6115,7 +6115,7 @@
 200331 = {
 	name = "Pandolf" # Pandolf Widi
 	dynasty_house = house_widi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -6136,7 +6136,7 @@
 200332 = {
 	name = "Landolf" # Landolf Widi
 	dynasty_house = house_widi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200331
@@ -6154,7 +6154,7 @@
 200333 = {
 	name = "Paldolf" # Paldolf Paldolfidi
 	dynasty_house = house_paldolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 30857
@@ -6176,7 +6176,7 @@
 200335 = {
 	name = "Guaimar" # Guaimar Paldolfidi
 	dynasty_house = house_paldolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -6201,7 +6201,7 @@
 	father = 200335
 	mother = 73344
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	1060.1.1 = {
@@ -6215,7 +6215,7 @@
 200342 = {
 	name = "Gregorius" # Gregorius Paldolfidi
 	dynasty_house = house_paldolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200335
@@ -6232,7 +6232,7 @@
 200343 = {
 	name = "Hermann" # Hermann Paldolfidi
 	dynasty_house = house_paldolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200342
@@ -6249,7 +6249,7 @@
 	name = "Guaimar" # Guaimar Paldolfidi
 	dynasty_house = house_paldolfidi
 	culture = lombard
-	religion = catholic
+	religion = nicean
 
 	father = 200335
 	mother = 73344
@@ -6269,7 +6269,7 @@
 200349 = {
 	name = "Gisulf" # Gisulf Paldolfidi
 	dynasty_house = house_paldolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200335
@@ -6286,7 +6286,7 @@
 200351 = {
 	name = "Tudinus" # Tudinus Paldolfidi
 	dynasty_house = house_paldolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200335
@@ -6303,7 +6303,7 @@
 200352 = {
 	name = "Gregorius" # Gregorius Paldolfidi
 	dynasty_house = house_paldolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_2
 
@@ -6324,7 +6324,7 @@
 200353 = {
 	name = "Aripert" # Aripert Paldolfidi
 	dynasty_house = house_paldolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200352
@@ -6340,7 +6340,7 @@
 200354 = {
 	name = "Ioannes" # Ioannes Paldolfidi
 	dynasty_house = house_paldolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200352
@@ -6360,7 +6360,7 @@
 200355 = {
 	name = "Guglielmus" # William Paldolfidi
 	dynasty_house = house_paldolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200352
@@ -6382,7 +6382,7 @@
 	name = "Sofia" # Sophia Paldolfidi
 	female = yes
 	dynasty_house = house_paldolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200352
@@ -6399,7 +6399,7 @@
 200360 = {
 	name = "Ioannes" # Ioannes Paldolfidi
 	dynasty_house = house_paldolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_2
 
@@ -6420,7 +6420,7 @@
 200361 = {
 	name = "Jordan" # Jordan Paldolfidi
 	dynasty_house = house_paldolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200360
@@ -6442,7 +6442,7 @@
 	name = "Emma" # Emma Paldolfidi
 	female = yes
 	dynasty_house = house_paldolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200360
@@ -6462,7 +6462,7 @@
 200363 = {
 	name = "Guido" # Wido Paldolfidi
 	dynasty_house = house_paldolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_1
 
@@ -6481,7 +6481,7 @@
 	name = "Sichelgaita" # Sichelgaita Paldolfidi, wife of Asclettin di Sicignano
 	female = yes
 	dynasty_house = house_paldolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -6505,7 +6505,7 @@
 	father = 200333
 	mother = 200334
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	1044.1.1 = {
@@ -6519,7 +6519,7 @@
 200367 = {
 	name = "Landolf" # Landolf Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73340
@@ -6535,7 +6535,7 @@
 200368 = {
 	name = "Ioannes" # Ioannes Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -6555,7 +6555,7 @@
 200369 = {
 	name = "Paldo" # Paldo Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200368
@@ -6573,7 +6573,7 @@
 	name = "Altruda" # Altruda Landolfidi
 	female = yes
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200368
@@ -6591,7 +6591,7 @@
 	name = "Sichelgaita" # Sichelgaita Landolfidi, wife of Gregorius Paldolfidi
 	female = yes
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200368
@@ -6608,7 +6608,7 @@
 200373 = {
 	name = "Landolf" # Landolf Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_learning_1
 
@@ -6625,7 +6625,7 @@
 200374 = {
 	name = "Gisulf" # Gisulf Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73339
@@ -6641,7 +6641,7 @@
 200375 = {
 	name = "Ioannes" # Ioannes Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200374
@@ -6657,7 +6657,7 @@
 200376 = {
 	name = "Petrus" # Petrus Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_2
 
@@ -6677,7 +6677,7 @@
 
 	father = 200376
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	1055.1.1 = {
@@ -6691,7 +6691,7 @@
 200378 = {
 	name = "Laidolf" # Laidolf Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200374
@@ -6707,7 +6707,7 @@
 200379 = {
 	name = "Pandolf" # Pandolf Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -6724,7 +6724,7 @@
 200380 = {
 	name = "Pandolf" # Pandolf Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200379
@@ -6743,7 +6743,7 @@
 200381 = {
 	name = "Hector" # Hector Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200380
@@ -6760,7 +6760,7 @@
 200382 = {
 	name = "Laidolf" # Laidolf Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200380
@@ -6777,7 +6777,7 @@
 200383 = {
 	name = "Pandolf" # Pandolf Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200380
@@ -6794,7 +6794,7 @@
 200384 = {
 	name = "Gisulf" # Gisulf Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200380
@@ -6811,7 +6811,7 @@
 200385 = {
 	name = "Landenolf" # Landenolf Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200379
@@ -6827,7 +6827,7 @@
 200386 = {
 	name = "Landolf" # Landolf Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200385
@@ -6843,7 +6843,7 @@
 200387 = {
 	name = "Laidolf" # Laidolf Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200385
@@ -6859,7 +6859,7 @@
 200388 = {
 	name = "Landolf" # Landolf Landolfidi, Duke of Salerno (973)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73332
@@ -6875,7 +6875,7 @@
 200389 = {
 	name = "Landolf" # Landolf Landenolfidi
 	dynasty_house = house_landenolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0076
@@ -6891,7 +6891,7 @@
 200390 = {
 	name = "Landolf" # Landolf Landenolfidi
 	dynasty_house = house_landenolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_1
 
@@ -6908,7 +6908,7 @@
 200391 = {
 	name = "Landolf" # Landolf Landenolfidi
 	dynasty_house = house_landenolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -6926,7 +6926,7 @@
 	name = "Ageltruda" # Ageltruda Landenolfidi, wife of Ioannes Pandolfidi
 	female = yes
 	dynasty_house = house_landenolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_learning_1
 
@@ -6943,7 +6943,7 @@
 200393 = {
 	name = "Lando" # Lando Landenolfidi
 	dynasty_house = house_landenolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -6961,7 +6961,7 @@
 	name = "Offa" # Offa Landenolfidi
 	female = yes
 	dynasty_house = house_landenolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200393
@@ -6977,7 +6977,7 @@
 214098 = {
 	name = "Lando" # Lando d'Aquino
 	dynasty = 8682
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73350
@@ -6994,7 +6994,7 @@
 	name = "Landolf" # Landolf d'Aquino
 	dynasty = 8682
 	culture = "lombard"
-	religion = "catholic"
+	religion = "nicean"
 	trait = education_martial_1
 
 	father = 73348
@@ -7011,7 +7011,7 @@
 	name = "Landolf" # Landolf d'Aquino
 	dynasty = 8682
 	culture = "lombard"
-	religion = "catholic"
+	religion = "nicean"
 
 	father = 214106
 
@@ -7027,7 +7027,7 @@
 	name = "Atenolf" # Atenolf d'Aquino
 	dynasty = 8682
 	culture = "lombard"
-	religion = "catholic"
+	religion = "nicean"
 
 	996.1.1 = {
 		birth = yes
@@ -7078,7 +7078,7 @@
 	name = "Gaitelgrima" # Gaitelgrima Landolfidi, wife of Guaimar II of Salerno
 	dynasty = 7184
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_3
 
@@ -7096,7 +7096,7 @@
 	name = "Rotilda" # Rotilda Dauferidi, wife of Atenolf III of Capua
 	dynasty = 1022178
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200298
@@ -7112,7 +7112,7 @@
 lombard0001 = {
 	name = "Pandolf" # Pandolf (II) Landolfidi, Duke of Salerno (981)
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73327
@@ -7130,7 +7130,7 @@ lombard0001 = {
 lombard0002 = {
 	name = "Ioannes" # Ioannes (II) Lampertidi 'the Accursed', Duke of Salerno (983-999)
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0003
@@ -7151,7 +7151,7 @@ lombard0002 = {
 lombard0003 = {
 	name = "Ioannes" # Ioannes Lampertidi, Regent of Salerno (981)
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0004
@@ -7184,7 +7184,7 @@ lombard0004 = {
 lombard0005 = {
 	name = "Guido" # Wido Lampertidi
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0002
@@ -7200,7 +7200,7 @@ lombard0005 = {
 lombard0006 = {
 	name = "Pandolf" # Pandolf Lampertidi
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0002
@@ -7216,7 +7216,7 @@ lombard0006 = {
 lombard0007 = {
 	name = "Lantpert" # Lampert Lampertidi
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0002
@@ -7232,7 +7232,7 @@ lombard0007 = {
 lombard0008 = {
 	name = "Petrus" # Petrus Lampertidi
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0002
@@ -7248,7 +7248,7 @@ lombard0008 = {
 lombard0009 = {
 	name = "Ioannes" # Ioannes Lampertidi
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0002
@@ -7264,7 +7264,7 @@ lombard0009 = {
 lombard0010 = {
 	name = "Lantpert" # Lampert Lampertidi, real name unknown
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0009
@@ -7280,7 +7280,7 @@ lombard0010 = {
 lombard0011 = {
 	name = "Ioannes" # Ioannes Lampertidi
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_1
 
@@ -7300,7 +7300,7 @@ lombard0011 = {
 lombard0012 = {
 	name = "Pandolf" # Pandolf Lampertidi
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_2
 
@@ -7318,7 +7318,7 @@ lombard0012 = {
 lombard0013 = {
 	name = "Ioannes" # Ioannes Lampertidi
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -7336,7 +7336,7 @@ lombard0013 = {
 lombard0014 = {
 	name = "Bartholomeus" # Bartholomeus Lampertidi
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_learning_1
 
@@ -7354,7 +7354,7 @@ lombard0014 = {
 lombard0015 = {
 	name = "Pandolf" # Pandolf Lampertidi
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_3
 
@@ -7374,7 +7374,7 @@ lombard0015 = {
 lombard0016 = {
 	name = "Gaitelgrima" # Gaitelgrima, wife of Pandolf Lampertidi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -7389,7 +7389,7 @@ lombard0016 = {
 lombard0017 = {
 	name = "Liutperga" # Liutberga, name unkown, wife of Ioannes Lampertidi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_learning_1
 
@@ -7404,7 +7404,7 @@ lombard0017 = {
 lombard0018 = {
 	name = "Ioannes" # Ioannes Lampertidi
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -7422,7 +7422,7 @@ lombard0018 = {
 lombard0019 = {
 	name = "Robert" # Robert Lampertidi
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_2
 
@@ -7440,7 +7440,7 @@ lombard0019 = {
 lombard0020 = {
 	name = "Bartholomeus" # Bartholomeus Lampertidi, children not coded
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_2
 
@@ -7459,7 +7459,7 @@ lombard0021 = {
 	name = "Sichelgaita" # Sichelgaita Lampertidi
 	dynasty_house = house_lampertidi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -7477,7 +7477,7 @@ lombard0021 = {
 lombard0022 = {
 	name = "Gisulf" # Gisulf Lampertidi
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 30860
@@ -7494,7 +7494,7 @@ lombard0022 = {
 lombard0023 = {
 	name = "Gemma" # Gemma, name unkown, wife of Ioannes Lampertidi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -7511,7 +7511,7 @@ lombard0023 = {
 lombard0024 = {
 	name = "Ioannes" # Ioannes (III) Lampertidi, Duke of Salerno (1035-1040)
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 1116
@@ -7527,7 +7527,7 @@ lombard0024 = {
 lombard0025 = {
 	name = "Raingarda" # Raingarda, wife of Wido Widi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -7542,7 +7542,7 @@ lombard0025 = {
 lombard0026 = {
 	name = "Amalperga" # Amalberga, unknown name, wife of Pandolf Widi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_intrigue_1
 
@@ -7557,7 +7557,7 @@ lombard0026 = {
 lombard0027 = {
 	name = "Petrus" # Petrus Landenolfidi
 	dynasty_house = house_landenolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200389
@@ -7574,7 +7574,7 @@ lombard0028 = {
 	name = "Bibianus" # Bibianus d'Aquino
 	dynasty = 8682
 	culture = "lombard"
-	religion = "catholic"
+	religion = "nicean"
 	trait = education_learning_1
 
 	father = 73348
@@ -7591,7 +7591,7 @@ lombard0029 = {
 	name = "Guglielmus" # William d'Aquino
 	dynasty = 8682
 	culture = "lombard"
-	religion = "catholic"
+	religion = "nicean"
 
 	father = 73349
 
@@ -7607,7 +7607,7 @@ lombard0030 = {
 	name = "Atenolf" # Atenolf d'Aquino
 	dynasty = 8682
 	culture = "lombard"
-	religion = "catholic"
+	religion = "nicean"
 
 	father = 73350
 
@@ -7623,7 +7623,7 @@ lombard0031 = {
 	name = "Atenolf" # Atenolf d'Aquino
 	dynasty = 8682
 	culture = "lombard"
-	religion = "catholic"
+	religion = "nicean"
 
 	father = 214106
 
@@ -7639,7 +7639,7 @@ lombard0032 = {
 	name = "Atenolf" # Atenolf d'Aquino
 	dynasty = 8682
 	culture = "lombard"
-	religion = "catholic"
+	religion = "nicean"
 
 	father = lombard0031
 
@@ -7656,7 +7656,7 @@ lombard0033 = {
 	dynasty = 8682
 	female = yes
 	culture = "lombard"
-	religion = "catholic"
+	religion = "nicean"
 
 	father = lombard0031
 
@@ -7673,7 +7673,7 @@ lombard0034 = {
 	dynasty_house = house_lampertidi
 	female = yes
 	culture = "lombard"
-	religion = "catholic"
+	religion = "nicean"
 
 	father = 30858
 	mother = lombard0033
@@ -7691,7 +7691,7 @@ lombard0035 = {
 	dynasty_house = house_lampertidi
 	female = yes
 	culture = "lombard"
-	religion = "catholic"
+	religion = "nicean"
 
 	father = 30858
 	mother = lombard0033
@@ -7709,7 +7709,7 @@ lombard0036 = {
 	dynasty_house = house_lampertidi
 	female = yes
 	culture = "lombard"
-	religion = "catholic"
+	religion = "nicean"
 
 	father = 30858
 	mother = lombard0033
@@ -7800,7 +7800,7 @@ lombard0041 = {
 
 	father = lombard0040
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	915.1.1 = {
@@ -7817,7 +7817,7 @@ lombard0042 = {
 
 	father = lombard0041
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	938.1.1 = {
@@ -7835,7 +7835,7 @@ lombard0043 = {
 
 	father = lombard0042
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	956.1.1 = {
@@ -7852,7 +7852,7 @@ lombard0044 = {
 
 	father = lombard0040
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	917.1.1 = {
@@ -7869,7 +7869,7 @@ lombard0045 = {
 
 	father = lombard0040
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	919.1.1 = {
@@ -7886,7 +7886,7 @@ lombard0046 = {
 
 	father = lombard0045
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	943.1.1 = {
@@ -7932,7 +7932,7 @@ lombard0048 = {
 lombard0049 = {
 	name = "Daufer" # Daufer Dauferidi
 	dynasty_house = house_dauferidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0048
@@ -7949,7 +7949,7 @@ lombard0050 = {
 	name = "Aloara" # Aloara Dauferidi
 	dynasty_house = house_dauferidi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0048
@@ -7966,7 +7966,7 @@ lombard0051 = {
 	name = "Imelaita" # Imelaita Dauferidi
 	dynasty_house = house_dauferidi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0048
@@ -7982,7 +7982,7 @@ lombard0051 = {
 lombard0052 = {
 	name = "Maio" # Maio Dauferidi
 	dynasty_house = house_dauferidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200301
@@ -7998,7 +7998,7 @@ lombard0052 = {
 lombard0053 = {
 	name = "Maio" # Maio Dauferidi
 	dynasty_house = house_dauferidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0052
@@ -8014,7 +8014,7 @@ lombard0053 = {
 lombard0054 = {
 	name = "Iaquintus" # Iaquintus Dauferidi
 	dynasty_house = house_dauferidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200301
@@ -8031,7 +8031,7 @@ lombard0055 = {
 	name = "Iaquinta" # Iaquinta Dauferidi
 	dynasty_house = house_dauferidi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0054
@@ -8048,7 +8048,7 @@ lombard0056 = {
 	name = "Aloara" # Aloara Dauferidi, wife of Adelfer Ademaridi
 	dynasty_house = house_dauferidi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200302
@@ -8064,7 +8064,7 @@ lombard0056 = {
 lombard0057 = {
 	name = "Ademar" # Ademar Dauferidi
 	dynasty_house = house_dauferidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_1
 
@@ -8082,7 +8082,7 @@ lombard0057 = {
 lombard0058 = {
 	name = "Guaifer" # Guaifer Guaimaridi
 	dynasty_house = house_guaimaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200308
@@ -8098,7 +8098,7 @@ lombard0058 = {
 lombard0059 = {
 	name = "Guaimar" # Guaimar Guaimaridi
 	dynasty_house = house_guaimaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0058
@@ -8117,7 +8117,7 @@ lombard0059 = {
 lombard0060 = {
 	name = "Guaifer" # Guaifer Guaimaridi
 	dynasty_house = house_guaimaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0058
@@ -8137,7 +8137,7 @@ lombard0061 = {
 	name = "Gemma" # Gemma Guaiferidi
 	dynasty_house = house_guaiferidi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200319
@@ -8153,7 +8153,7 @@ lombard0061 = {
 lombard0062 = {
 	name = "Ioannes" # Ioannes Guaiferidi
 	dynasty_house = house_guaiferidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 200320
@@ -8178,7 +8178,7 @@ lombard0063 = {
 	father = 30856
 	mother = lombard0025
 
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	1035.1.1 = {
@@ -8192,7 +8192,7 @@ lombard0063 = {
 lombard0064 = {
 	name = "Landolf" # Landolf Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = content
 	trait = education_martial_2
@@ -8315,7 +8315,7 @@ lombard0070 = {
 lombard0071 = {
 	name = "Atenolf" # Atenolf Landolfidi, descendents missing
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73332
@@ -8331,7 +8331,7 @@ lombard0071 = {
 lombard0072 = {
 	name = "Landenolf" # Landenolf Landolfidi
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73332
@@ -8347,7 +8347,7 @@ lombard0072 = {
 lombard0073 = {
 	name = "Atenolf" # Atenolf Landenolfidi
 	dynasty_house = house_landenolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0072
@@ -8363,7 +8363,7 @@ lombard0073 = {
 lombard0074 = {
 	name = "Atenolf" # Atenolf Landenolfidi
 	dynasty_house = house_landenolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0073
@@ -8379,7 +8379,7 @@ lombard0074 = {
 lombard0075 = {
 	name = "Landenolf" # Landenolf Landenolfidi
 	dynasty_house = house_landenolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0073
@@ -8395,7 +8395,7 @@ lombard0075 = {
 lombard0076 = {
 	name = "Landolf" # Landolf Landenolfidi
 	dynasty_house = house_landenolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0072
@@ -8411,7 +8411,7 @@ lombard0076 = {
 lombard0077 = {
 	name = "Landenolf" # Landenolf Landenolfidi
 	dynasty_house = house_landenolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0076
@@ -8427,7 +8427,7 @@ lombard0077 = {
 lombard0078 = {
 	name = "Laidolf" # Laidolf Landenolfidi
 	dynasty_house = house_landenolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0076
@@ -8443,7 +8443,7 @@ lombard0078 = {
 lombard0079 = {
 	name = "Bernard" # Bernard Landenolfidi
 	dynasty_house = house_landenolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0078
@@ -8459,7 +8459,7 @@ lombard0079 = {
 lombard0080 = {
 	name = "Bernard" # Bernard Landenolfidi
 	dynasty_house = house_landenolfidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0079
@@ -8476,7 +8476,7 @@ lombard0081 = {
 	name = "Ageltruda" # Ageltruda Pandolfidi, wife of Rudolf III of Burgundy
 	dynasty = 7184
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73327
@@ -8495,7 +8495,7 @@ lombard0081 = {
 lombard0082 = {
 	name = "Landenolf" # Landenolf Paldefridi
 	dynasty = paldefridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	989.1.1 = {
@@ -8509,7 +8509,7 @@ lombard0082 = {
 lombard0083 = {
 	name = "Pandolf" # Pandolf Paldefridi
 	dynasty = paldefridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_1
 
@@ -8526,7 +8526,7 @@ lombard0083 = {
 lombard0084 = {
 	name = "Paldo" # Pado Paldefridi
 	dynasty = paldefridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_2
 
@@ -8544,7 +8544,7 @@ lombard0085 = {
 	name = "Atta" # Atta Paldefridi, wife of Ioannes Landolfidi
 	dynasty = paldefridi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -8561,7 +8561,7 @@ lombard0085 = {
 lombard0086 = {
 	name = "Maria" # Maria, wife of Pandolf Landolfidi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	1058.1.1 = {
@@ -8576,7 +8576,7 @@ lombard0087 = {
 	name = "Gaitelgrima" # Gaitelgrima Landolfidi, wife of Guaimar III of Salerno
 	female = yes
 	dynasty = 7184
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 73324
@@ -8611,7 +8611,7 @@ lombard0089 = {
 	name = "Gisa" # Gisa Gausi, wife of Trasimond I of Spoleto
 	dynasty = 1044031 #Gausi
 	female = yes
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190133
@@ -8628,7 +8628,7 @@ lombard0089 = {
 lombard0090 = {
 	name = "Audelais" # Audelais Audelaisidi, Duke of Benevento (732)
 	dynasty = audelaisidi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	700.1.1 = {
@@ -8642,7 +8642,7 @@ lombard0090 = {
 lombard0091 = {
 	name = "Godescalc" # Godescalc Godescalcidi, Duke of Benevento (739-742)
 	dynasty = godescalcidi
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	702.1.1 = {
@@ -8658,7 +8658,7 @@ lombard0091 = {
 lombard0092 = {
 	name = "Arechis" # Arechis Gausi
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190135
@@ -8675,7 +8675,7 @@ lombard0092 = {
 lombard0093 = {
 	name = "Romoald" # Romoald Gausi
 	dynasty = 1044031
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = lombard0092
@@ -8692,7 +8692,7 @@ lombard0094 = {
 	name = "Winiperga" # Winiperga Beleos, wife of Agilolf of Italy
 	dynasty = 1044045
 	female = yes
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190168
@@ -8708,7 +8708,7 @@ lombard0094 = {
 lombard0095 = {
 	name = "Nordepert" # Nordepert, fictional husband of Aurona of Italy
 	dynasty = 1044037
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	660.1.1 = {
@@ -8726,7 +8726,7 @@ lombard0096 = {
 	name = "Imperga" # Imberga Ansprandidi, wife of Teodone of Asti
 	female = yes
 	dynasty = 1044051
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190193
@@ -8743,7 +8743,7 @@ lombard0096 = {
 lombard0097 = {
 	name = "Agiprand" # Agiprand Ansprandidi, Duke of Spoleto (742-744)
 	dynasty = 1044051
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190194
@@ -8759,7 +8759,7 @@ lombard0097 = {
 lombard0098 = {
 	name = "Gregorius" # Gregorius Ansprandidi, Duke of Benevento (732-739)
 	dynasty = 1044051
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190194
@@ -8775,7 +8775,7 @@ lombard0098 = {
 lombard0099 = {
 	name = "Manso" # Manso Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168441
@@ -8792,7 +8792,7 @@ lombard0100 = {
 	name = "Maria" # Maria Musconidi
 	dynasty = 9592
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168441
@@ -8808,7 +8808,7 @@ lombard0100 = {
 lombard0101 = {
 	name = "Manso" # Manso Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_2
 
@@ -8825,7 +8825,7 @@ lombard0101 = {
 lombard0102 = {
 	name = "Ioannes" # Ioannes Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_2
 
@@ -8842,7 +8842,7 @@ lombard0102 = {
 lombard0103 = {
 	name = "Manso" # Manso Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_2
 
@@ -8859,7 +8859,7 @@ lombard0103 = {
 lombard0104 = {
 	name = "Sergius" # Sergius Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -8876,7 +8876,7 @@ lombard0104 = {
 lombard0105 = {
 	name = "Ioannes" # Ioannes Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_2
 
@@ -8893,7 +8893,7 @@ lombard0105 = {
 lombard0106 = {
 	name = "Ioannes" # Ioannes Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -8910,7 +8910,7 @@ lombard0106 = {
 lombard0107 = {
 	name = "Ademar" # Ademar Musconidi
 	dynasty = 9592
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = 168439
@@ -8926,7 +8926,7 @@ lombard0107 = {
 lombard0108 = {
 	name = "Ademar" # Ademar Ademaridi
 	dynasty_house = house_ademaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0107
@@ -8942,7 +8942,7 @@ lombard0108 = {
 lombard0109 = {
 	name = "Landolf" # Landolf Ademaridi
 	dynasty_house = house_ademaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0108
@@ -8958,7 +8958,7 @@ lombard0109 = {
 lombard0110 = {
 	name = "Ademar" # Ademar Ademaridi
 	dynasty_house = house_ademaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_1
 
@@ -8975,7 +8975,7 @@ lombard0110 = {
 lombard0111 = {
 	name = "Landolf" # Landolf Ademaridi
 	dynasty_house = house_ademaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0110
@@ -8991,7 +8991,7 @@ lombard0111 = {
 lombard0112 = {
 	name = "Landolf" # Landolf Ademaridi
 	dynasty_house = house_ademaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0110
@@ -9007,7 +9007,7 @@ lombard0112 = {
 lombard0113 = {
 	name = "Alfan" # Alfan Ademaridi
 	dynasty_house = house_ademaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0110
@@ -9024,7 +9024,7 @@ lombard0114 = {
 	name = "Grima" # Grima Ademaridi
 	dynasty_house = house_ademaridi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0110
@@ -9041,7 +9041,7 @@ lombard0115 = {
 	name = "Marotta" # Marotta Ademaridi
 	dynasty_house = house_ademaridi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0110
@@ -9057,7 +9057,7 @@ lombard0115 = {
 lombard0116 = {
 	name = "Landolf" # Landolf Ademaridi
 	dynasty_house = house_ademaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_martial_2
 
@@ -9074,7 +9074,7 @@ lombard0116 = {
 lombard0117 = {
 	name = "Ademar" # Ademar Ademaridi
 	dynasty_house = house_ademaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0116
@@ -9091,7 +9091,7 @@ lombard0118 = {
 	name = "Gaitelgrima" # Gaitelgrima Ademaridi
 	dynasty_house = house_ademaridi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_2
 
@@ -9109,7 +9109,7 @@ lombard0119 = {
 	name = "Gemma" # Gemma Ademaridi, wife of Rodelgrim Grimoaldidi
 	dynasty_house = house_ademaridi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -9127,7 +9127,7 @@ lombard0120 = {
 	name = "Alferada" # Alferana Ademaridi, wife of Petrus Grimoaldidi
 	dynasty_house = house_ademaridi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_2
 
@@ -9145,7 +9145,7 @@ lombard0121 = {
 	name = "Gumeltruda" # Gumeltruda Ademaridi
 	dynasty_house = house_ademaridi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -9162,7 +9162,7 @@ lombard0121 = {
 lombard0122 = {
 	name = "Grimoald" # Grimoald Grimoaldidi
 	dynasty = grimoaldidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	1005.1.1 = {
@@ -9176,7 +9176,7 @@ lombard0122 = {
 lombard0123 = {
 	name = "Rodelgrim" # Rodelgrim Grimoaldidi
 	dynasty = grimoaldidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	1028.1.1 = {
@@ -9193,7 +9193,7 @@ lombard0123 = {
 lombard0124 = {
 	name = "Petrus" # Petrus Grimoaldidi
 	dynasty = grimoaldidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	1030.1.1 = {
@@ -9210,7 +9210,7 @@ lombard0124 = {
 lombard0125 = {
 	name = "Adelfer" # Adelfer Ademaridi
 	dynasty_house = house_ademaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0107
@@ -9229,7 +9229,7 @@ lombard0125 = {
 lombard0126 = {
 	name = "Radelchis" # Radelchis Ademaridi
 	dynasty_house = house_ademaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0125
@@ -9247,7 +9247,7 @@ lombard0127 = {
 	name = "Purpura" # Purpura Ademaridi
 	dynasty_house = house_ademaridi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0126
@@ -9263,7 +9263,7 @@ lombard0127 = {
 lombard0128 = {
 	name = "Castelmann" # Castelmann Ademaridi
 	dynasty_house = house_ademaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_intrigue_3
 
@@ -9281,7 +9281,7 @@ lombard0128 = {
 lombard0129 = {
 	name = "Ioannes" # Ioannes Ademaridi
 	dynasty_house = house_ademaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_1
 
@@ -9298,7 +9298,7 @@ lombard0129 = {
 lombard0130 = {
 	name = "Castelmann" # Castelmann Ademaridi
 	dynasty_house = house_ademaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0129
@@ -9318,7 +9318,7 @@ lombard0130 = {
 lombard0131 = {
 	name = "Ioannes" # Ioannes Ademaridi
 	dynasty_house = house_ademaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0129
@@ -9334,7 +9334,7 @@ lombard0131 = {
 lombard0132 = {
 	name = "Madelfrid" # Madelfrid Ademaridi
 	dynasty_house = house_ademaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0129
@@ -9350,7 +9350,7 @@ lombard0132 = {
 lombard0133 = {
 	name = "Bartholomeus" # Bartholomeus Ademaridi
 	dynasty_house = house_ademaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0129
@@ -9367,7 +9367,7 @@ lombard0134 = {
 	name = "Aloara" # Aloara Ademaridi, wife of Alfan Dauferidi
 	dynasty_house = house_ademaridi
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_learning_2
 
@@ -9384,7 +9384,7 @@ lombard0134 = {
 lombard0135 = {
 	name = "Adelfer" # Adelfer Ademaridi
 	dynasty_house = house_ademaridi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0125
@@ -9401,7 +9401,7 @@ lombard0135 = {
 lombard0136 = {
 	name = "Lantpert" # Lampert Lampertidi
 	dynasty_house = house_lampertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0003
@@ -9417,7 +9417,7 @@ lombard0136 = {
 lombard0137 = {
 	name = "Ioannes" # Ioannes Lampertidi
 	dynasty_house = house_lantpertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0136
@@ -9433,7 +9433,7 @@ lombard0137 = {
 lombard0138 = {
 	name = "Guido" # Wido Lampertidi
 	dynasty_house = house_lantpertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0137
@@ -9449,7 +9449,7 @@ lombard0138 = {
 lombard0139 = {
 	name = "Ioannes" # Ioannes Lampertidi
 	dynasty_house = house_lantpertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0137
@@ -9465,7 +9465,7 @@ lombard0139 = {
 lombard0140 = {
 	name = "Alfan" # Alfan Lampertidi
 	dynasty_house = house_lantpertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0136
@@ -9481,7 +9481,7 @@ lombard0140 = {
 lombard0141 = {
 	name = "Leo" # Leo Lampertidi
 	dynasty_house = house_lantpertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0140
@@ -9497,7 +9497,7 @@ lombard0141 = {
 lombard0142 = {
 	name = "Romoald" # Romoald Lampertidi
 	dynasty_house = house_lantpertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0140
@@ -9513,7 +9513,7 @@ lombard0142 = {
 lombard0143 = {
 	name = "Iacobus" # Iacobus Lampertidi
 	dynasty_house = house_lantpertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0140
@@ -9529,7 +9529,7 @@ lombard0143 = {
 lombard0144 = {
 	name = "Grimoald" # Grimoald Lampertidi
 	dynasty_house = house_lantpertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 
 	father = lombard0140
@@ -9545,7 +9545,7 @@ lombard0144 = {
 lombard0145 = {
 	name = "Berengar" # Berengar Lampertidi
 	dynasty_house = house_lantpertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_diplomacy_2
 
@@ -9562,7 +9562,7 @@ lombard0145 = {
 lombard0146 = {
 	name = "Sichelgaita" # Sichelgaita Lampertidi
 	dynasty_house = house_lantpertidi
-	religion = catholic
+	religion = nicean
 	culture = lombard
 	trait = education_stewardship_1
 
@@ -9579,7 +9579,7 @@ lombard0146 = {
 145216 = {
 	name = "Radelchis" # Radelchis (I) Radelchisidi, Duke of Benevento (839-851)
 	dynasty = 804
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	790.1.1 = {
@@ -9595,7 +9595,7 @@ lombard0146 = {
 145217 = {
 	name = "Radelgar" # Radelgar Radelchisidi, Duke of Benevento (851-853)
 	dynasty = 804
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 145216
@@ -9613,7 +9613,7 @@ lombard0146 = {
 145218 = {
 	name = "Guaifer" # Guaifer Radelchisidi, Duke of Benevento (878-881)
 	dynasty = 804
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	trait = education_martial_2
 
@@ -9630,7 +9630,7 @@ lombard0146 = {
 145219 = {
 	name = "Radelchis" # Radelchis (II) Radelchisidi, Duke of Benevento (881-884 & 897-900)
 	dynasty = 804
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	trait = education_stewardship_1
 
@@ -9650,7 +9650,7 @@ lombard0146 = {
 145220 = {
 	name = "Aio" # Aio (II) Radelchisidi, Duke of Benevento (884-890)
 	dynasty = 804
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	trait = education_martial_2
 
@@ -9669,7 +9669,7 @@ lombard0146 = {
 145221 = {
 	name = "Ursus" # Ursus Radelchisidi, Duke of Benevento (890-891)
 	dynasty = 804
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 145220
@@ -9685,7 +9685,7 @@ lombard0146 = {
 163071 = {
 	name = "Adelchis" # Adelchis Radelchisidi, Duke of Benevento (853-878)
 	dynasty = 804
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	trait = education_martial_3
 
@@ -9704,7 +9704,7 @@ lombard0146 = {
 190180 = {
 	name = "Gundoald" # Gundoald Baiuvari, son of Garibald of Bavaria and father of Aripert of Italy
 	dynasty_house = house_baiuvari
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 
 	father = 190178
@@ -9749,7 +9749,7 @@ lombard0148 = {
 
 lombard0149 = {
 	name = "Dagipert" # Dagiberto, Bishop of Novara (902-940)
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	trait = education_learning_2
 
@@ -9769,7 +9769,7 @@ lombard0149 = {
 }
 lombard0150 = {
 	name = "Wulfred" # Wolfredo, Bishop of Cremona (816-818)
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	trait = chaste
 	trait = theologian
@@ -9785,7 +9785,7 @@ lombard0150 = {
 
 lombard0151 = {
 	name = "Otto" # Ottone, Bishop of Cremona (818-821)
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	trait = chaste
 	trait = theologian
@@ -9802,7 +9802,7 @@ lombard0151 = {
 lombard0152 = {
 	name = "Simpert" # Simperto Addobati, Bishop of Cremona (823-827)
 	dynasty = addobati
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	trait = chaste
 	trait = theologian
@@ -9818,7 +9818,7 @@ lombard0152 = {
 
 lombard0153 = {
 	name = "Pancoard" # Pancoardo, Bishop of Cremona (840-842)
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	trait = chaste
 	trait = theologian
@@ -9834,7 +9834,7 @@ lombard0153 = {
 
 lombard0154 = {
 	name = "Benedictus" # Benedetto, Bishop of Cremona (850-880)
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	trait = chaste
 	trait = theologian
@@ -9851,7 +9851,7 @@ lombard0154 = {
 lombard0155 = {
 	name = "Berthari" # Bertharidi di Brescia, Count of Brescia (865-888)
 	dynasty = brescia
-	religion = nicean
+	religion = "nicean"
 	culture = "lombard"
 	trait = education_stewardship_2
 
@@ -9868,7 +9868,7 @@ lombard0155 = {
 145922 = {
 	name = "Encagilio"
 	dynasty = 1022328
-	religion = nicean
+	religion = "nicean"
 	culture = lombard
 	727.1.1 = {
 		birth = "727.1.1"
@@ -9882,7 +9882,7 @@ lombard0155 = {
 145923 = {
 	name = "Obelerio"
 	dynasty = 1022328
-	religion = nicean
+	religion = "nicean"
 	culture = lombard
 	father = 145922
 	764.1.1 = {
@@ -9896,7 +9896,7 @@ lombard0155 = {
 145924 = {
 	name = "Beato"
 	dynasty = 1022328
-	religion = nicean
+	religion = "nicean"
 	culture = lombard
 	father = 145922
 	766.1.1 = {
@@ -9910,7 +9910,7 @@ lombard0155 = {
 145925 = {
 	name = "Valentino"
 	dynasty = 1022328
-	religion = nicean
+	religion = "nicean"
 	culture = lombard
 	father = 145922
 	768.1.1 = {
@@ -9925,7 +9925,7 @@ lombard0155 = {
 145919 = {
 	name = "Maurizio"
 	dynasty = 1022327
-	religion = nicean
+	religion = "nicean"
 	culture = lombard
 	trait = gregarious
 	trait = diligent
@@ -9942,7 +9942,7 @@ lombard0155 = {
 145920 = {
 	name = "Giovanni"
 	dynasty = 1022327
-	religion = nicean
+	religion = "nicean"
 	culture = lombard
 	father = 145919
 	trait = ambitious
@@ -9957,7 +9957,7 @@ lombard0155 = {
 145921 = {
 	name = "Maurizio"
 	dynasty = 1022327
-	religion = nicean
+	religion = "nicean"
 	culture = lombard
 	father = 145920
 	767.1.1 = {
@@ -9971,7 +9971,7 @@ lombard0155 = {
 145928 = {
 	name = "Leone"
 	dynasty = 1022327
-	religion = nicean
+	religion = "nicean"
 	culture = lombard
 	father = 145919
 	752.1.1 = {
@@ -9985,7 +9985,7 @@ lombard0155 = {
 145929 = {
 	name = "Cristoforo"
 	dynasty = 1022327
-	religion = nicean
+	religion = "nicean"
 	culture = lombard
 	father = 145928
 	trait = ambitious
@@ -10001,7 +10001,7 @@ lombard0155 = {
 145916 = {
 	name = "Domenico"
 	dynasty = 1022326
-	religion = nicean
+	religion = "nicean"
 	culture = lombard
 
 	720.1.1 = {
@@ -10018,7 +10018,7 @@ lombard0155 = {
 145917 = {
 	name = "Caesario"
 	dynasty = 1022326
-	religion = nicean
+	religion = "nicean"
 	culture = lombard
 	father = 145916
 	739.1.1 = {
@@ -10032,7 +10032,7 @@ lombard0155 = {
 145918 = {
 	name = "Sergio"
 	dynasty = 1022326
-	religion = nicean
+	religion = "nicean"
 	culture = lombard
 	father = 145916
 	746.1.1 = {
@@ -10047,7 +10047,7 @@ lombard0155 = {
 145915 = {
 	name = "Galla"
 	dynasty = 1022325
-	religion = nicean
+	religion = "nicean"
 	culture = lombard
 
 	722.1.1 = {
@@ -10065,7 +10065,7 @@ lombard0155 = {
 145910 = {
 	name = "Orso"
 	dynasty = 101562
-	religion = nicean
+	religion = "nicean"
 	culture = lombard
 	690.1.1 = {
 		birth = "690.1.1"
@@ -10078,7 +10078,7 @@ lombard0155 = {
 145911 = {
 	name = "Teodato"
 	dynasty = 101562
-	religion = nicean
+	religion = "nicean"
 	culture = lombard
 	father = 145910
 	715.1.1 = {
@@ -10095,7 +10095,7 @@ lombard0155 = {
 145912 = {
 	name = "Pietro"
 	dynasty = 101562
-	religion = nicean
+	religion = "nicean"
 	culture = lombard
 	father = 145911
 	740.1.1 = {
@@ -10109,7 +10109,7 @@ lombard0155 = {
 145913 = {
 	name = "Jacopo"
 	dynasty = 101562
-	religion = nicean
+	religion = "nicean"
 	culture = lombard
 	father = 145912
 	762.1.1 = {
@@ -10123,7 +10123,7 @@ lombard0155 = {
 145914 = {
 	name = "Pietro"
 	dynasty = 101562
-	religion = nicean
+	religion = "nicean"
 	culture = lombard
 	father = 145913
 	785.1.1 = {

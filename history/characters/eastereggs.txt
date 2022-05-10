@@ -41,7 +41,7 @@ easteregg_thomas_johansson = {
 	stewardship = 3
 	learning = 8
 
-	religion = "catholic"
+	religion = "nicean"
 	culture = "swedish"
 	trait = education_learning_2
 	trait = zealous
@@ -63,7 +63,7 @@ easteregg_martin_anward = {
 	name = "Martin"
 	dynasty = vanity_anward
 	dna = easteregg_martin_anward
-	religion = "catholic"
+	religion = "nicean"
 	culture = "swedish"
 	sexuality = heterosexual
 	health = 7
@@ -204,7 +204,7 @@ easteregg_emil_tisander = {
 	name = "Emil"
 	dynasty = vanity_tisander
 	dna = easteregg_emil_tisander
-	religion = "catholic"
+	religion = "nicean"
 	culture = "swedish"
 	sexuality = heterosexual
 
@@ -244,7 +244,7 @@ easteregg_alexander_oltner = {
 	name = "Alexander"
 	dynasty = vanity_oltner
 	dna = easteregg_alexander_oltner
-	religion = "catholic"
+	religion = "nicean"
 	culture = "swedish"
 	sexuality = heterosexual
 	health = 7
@@ -333,7 +333,7 @@ easteregg_charna_frostwhisper = {
 	learning = 14
 	prowess = 0
 	
-	religion="catholic"
+	religion="nicean"
 	culture = "swedish"
 	trait = education_intrigue_3
 	trait = stubborn
@@ -363,7 +363,7 @@ easteregg_lysann_schlegel = {
 	name = "Lysann"
 	dynasty = vanity_schlegel
 	dna = easteregg_lysann_schlegel
-	religion = "catholic"
+	religion = "nicean"
 	culture = "saxon"
 	female = yes
 
@@ -408,7 +408,7 @@ easteregg_sara_wendel = {
 	stewardship = 7
 	learning = 3
 
-	faith = "catholic"
+	faith = "nicean"
 	culture = "swedish"
 
 	trait = education_diplomacy_3
@@ -460,7 +460,7 @@ easteregg_mathilda_bjarnehed = {
 	name = Mathilda
 	dna = easteregg_mathilda_bjarnehed
 	dynasty = vanity_bjarnehed
-	religion = catholic
+	religion = nicean
 	culture = swedish
 	female = yes
 
@@ -491,7 +491,7 @@ easteregg_magne_skjaeran = {
 	name = "Magne"
 	dna = easteregg_magne_skjaeran
 	dynasty = vanity_skjaeran
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	sexuality = bisexual
 
@@ -532,7 +532,7 @@ easteregg_magne_skjaeran = {
 easteregg_matthew_frary = {
 	name = "Matthew"
 	dynasty = vanity_frary
-	religion = "catholic"
+	religion = "nicean"
 	culture = "anglo_saxon"
 
 	trait = education_martial_2
@@ -559,7 +559,7 @@ easteregg_matthew_clohessy = {
 	name = "Matthew"
 	dynasty = vanity_clohessy
 	dna = easteregg_matthew_clohessy
-	religion = "catholic"
+	religion = "nicean"
 	culture = "anglo_saxon"
 	sexuality = heterosexual
 
@@ -666,7 +666,7 @@ easteregg_flavio_verna = {
 	dynasty = vanity_verna
 
 
-	religion = "catholic"
+	religion = "nicean"
 	culture = "italian"
 	trait = education_learning_3
 	trait = blademaster_1
@@ -692,7 +692,7 @@ easteregg_sean_hughes = {
 	name = Sean
 	dna = easteregg_sean_hughes
 	dynasty = vanity_hughes
-	religion = catholic
+	religion = nicean
 	culture = saxon
 
 	trait = education_stewardship_3
@@ -735,7 +735,7 @@ easteregg_petter_vilberg = {
 	name = Petter
 	dna = easteregg_petter_vilberg
 	dynasty = vanity_vilberg
-	religion = catholic
+	religion = nicean
 	culture = norwegian
 	martial = 8
 	diplomacy = 8
@@ -776,7 +776,7 @@ easteregg_maximilian_olbers = {
 	name = Maximilian
 	dna = easteregg_maximilian_olbers
 	dynasty = vanity_olbers
-	religion = catholic
+	religion = nicean
 	culture = swedish
 	martial = 8
 	diplomacy = 9
@@ -854,7 +854,7 @@ easteregg_jakub_potapczyk = {
 	name = "Jakub"
 	dynasty = vanity_potapczyk
 	dna = easteregg_jakub_potapczyk
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	sexuality = heterosexual
 	health = 7
@@ -890,7 +890,7 @@ easteregg_jakub_potapczyk = {
 easteregg_ewan_cowhig_croft = {
 	name = "Ewan"
 	dynasty = vanity_cowhig_croft
-	religion = "catholic"
+	religion = "nicean"
 	culture = "anglo_saxon"
 	#Skills & Health
 	diplomacy = 10
@@ -980,7 +980,7 @@ easteregg_joacim_carlberg = {
 	name = "Joacim"
 	dynasty = vanity_carlberg
 	dna = easteregg_joacim_carlberg
-	religion = "catholic"
+	religion = "nicean"
 	culture = "swedish"
 	#Skills & Health
 	diplomacy = 8
@@ -1028,7 +1028,7 @@ easteregg_joacim_carlberg = {
 easteregg_david_horler = {
 	name = "David"
 	dynasty = vanity_horler
-	religion = "catholic"
+	religion = "nicean"
 	culture = "welsh"
 
 	1039.10.03 = {
@@ -1045,7 +1045,7 @@ easteregg_paul_depre = {
 	name = "Paul"
 	dna = easteregg_paul_depre
 	dynasty = vanity_depre
-	religion = catholic
+	religion = nicean
 	culture = franconian
 
 	martial = 6
@@ -1091,7 +1091,7 @@ easteregg_debbie_lane = {
 	name = "Debbie"
 	dna = easteregg_debbie_lane
 	dynasty = vanity_lane
-	religion = catholic
+	religion = nicean
 	culture = norse
 	female = yes
 
@@ -1192,7 +1192,7 @@ easteregg_petter_lundh = {
 easteregg_nicholas_meredith = {
 	name = "Nicholas"
 	dynasty = vanity_meredith
-	religion = catholic
+	religion = nicean
 	culture = anglo_saxon
 	
 	#Skills
@@ -1230,7 +1230,7 @@ easteregg_nicholas_meredith = {
 easteregg_william_riggott = {
 	name = "William"
 	dynasty = vanity_riggott
-	religion = catholic
+	religion = nicean
 	culture = anglo_saxon
 	
 	#Education
@@ -1302,7 +1302,7 @@ easteregg_anna_johansson = {
 easteregg_arkadiusz_majewski = {
 	name = "Arkadiusz"
 	dynasty = vanity_majewski
-	religion = catholic
+	religion = nicean
 	culture = polish
 	
 	#Skills
@@ -1340,7 +1340,7 @@ easteregg_arkadiusz_majewski = {
 easteregg_artur_kacprzak = {
 	name = "Artur"
 	dynasty = vanity_kacprzak
-	religion = catholic
+	religion = nicean
 	culture = polish
 
 	#Skills
@@ -1425,7 +1425,7 @@ easteregg_anton_leirnes = {
 easteregg_anton_sorokin = {
 	name = "Anton"
 	dynasty = vanity_sorokin
-	religion = "orthodox"
+	religion = "nicean"
 	culture = "russian"
 	
 	#Skills
@@ -1511,7 +1511,7 @@ easteregg_joel_hansson = {
 easteregg_malin_jonsson = {
 	name = "Malin"
 	dynasty = vanity_jonsson
-	religion = "catholic"
+	religion = "nicean"
 	culture = "swedish"
 	female = yes
 	dna = easteregg_malin_jonsson
@@ -1559,7 +1559,7 @@ easteregg_max_weltz = {
 	name = "Marc"
 	dynasty = vanity_du_welz
 	dna = easteregg_max_weltz
-	religion = catholic
+	religion = nicean
 	culture = french
 	
 	#Skills
@@ -1608,7 +1608,7 @@ easteregg_max_weltz = {
 easteregg_jonas_wickerstrom = {
 	name = "Jonas"
 	dynasty = vanity_wickerstrom
-	religion= "orthodox"
+	religion= "nicean"
 	culture = "swedish"
 	dna = easteregg_jonas_wickerstrom
 	
@@ -1650,7 +1650,7 @@ easteregg_jonas_wickerstrom = {
 easteregg_arthur_bialecki = {
 	name = "Arthur"
 	dynasty = vanity_bialecki
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 
 	trait = education_diplomacy_2
@@ -1676,7 +1676,7 @@ easteregg_arthur_bialecki = {
 easteregg_patrick_mauffrey = {
 	name = "Patrick"
 	dynasty = vanity_mauffrey
-	religion= "catholic"
+	religion= "nicean"
 	culture = "occitan"
 	
 	trait = education_intrigue_1
@@ -1707,7 +1707,7 @@ easteregg_patrick_mauffrey = {
 easteregg_viktor_stadler = {
 	name = "Viktor"
 	dynasty = vanity_stadler
-	religion = catholic
+	religion = nicean
 	culture = swedish
 	
 	#Skills
@@ -1753,7 +1753,7 @@ easteregg_viktor_stadler = {
 easteregg_jesse_henning = {
 	name = "Jesse"
 	dynasty = vanity_henning
-	religion = catholic
+	religion = nicean
 	culture = saxon
 	
 	#Education
@@ -1783,7 +1783,7 @@ easteregg_jesse_henning = {
 easteregg_rodrigue_delrue = {
 	name = "Rodrigue"
 	dynasty = vanity_delrue
-	religion = catholic
+	religion = nicean
 	culture = french
 
 	diplomacy = 6
@@ -1816,7 +1816,7 @@ easteregg_hanna_lohman = {
 	name = "Hanna"
 	dna = easteregg_hanna_lohman
 	dynasty = vanity_lohman
-	religion = catholic
+	religion = nicean
 	culture = norse
 	female = yes
 	
@@ -1866,7 +1866,7 @@ easteregg_hanna_lohman = {
 easteregg_daniel_moore = {
 	name = "Daniel"
 	dynasty = vanity_moore
-	religion = catholic
+	religion = nicean
 	culture = anglo_saxon
 	female = no
 
@@ -1911,7 +1911,7 @@ easteregg_daniel_moore = {
 easteregg_bartosz_byczynski = {
 	name = "Bartosz"
 	dynasty = vanity_byczynski
-	religion = catholic
+	religion = nicean
 	culture = polish
 
 	#Skills
@@ -1959,7 +1959,7 @@ easteregg_bartosz_byczynski = {
 easteregg_joseph_gardener = {
 	name = "Joseph"
 	dynasty = vanity_gardener
-	religion = catholic
+	religion = nicean
 	culture = anglo_saxon
 	female = no
 
@@ -2003,7 +2003,7 @@ easteregg_peter_johannesson = {
 	name = "Peter"
 	dna = easteregg_peter_johannesson
 	dynasty = vanity_johannesson
-	religion = catholic
+	religion = nicean
 	culture = swedish
 	female = no
 
@@ -2131,7 +2131,7 @@ easteregg_bianca_savazzi = {
 	name = "Bianca"
 	dna = easteregg_bianca_savazzi
 	dynasty = vanity_savazzi
-	religion = catholic
+	religion = nicean
 	culture = italian
 	female = yes
 
@@ -2187,7 +2187,7 @@ easteregg_bianca_savazzi = {
 easteregg_steacy_mcilwham = {
 	name = Steacy
 	dynasty = vanity_mcilwham
-	religion = catholic
+	religion = nicean
 	culture = scottish
 	sexuality = heterosexual
 	female = yes
@@ -2371,7 +2371,7 @@ easteregg_ismael_serrano = {
 	name = "Ismael"
 	dynasty = vanity_serrano
 	dna = easteregg_ismael_serrano # Serrano
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	sexuality = heterosexual
 
@@ -2408,7 +2408,7 @@ easteregg_ismael_serrano = {
 easteregg_fawn_rowe = {
 	name = "Fawn"
 	dynasty = vanity_rowe
-	religion = "catholic"
+	religion = "nicean"
 	culture = "anglo_saxon"
 	female = yes
 
@@ -2435,7 +2435,7 @@ easteregg_fawn_rowe = {
 easteregg_lenaic_riedinger = {
 	name = "Le_nai_c"
 	dynasty = vanity_riedinger
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	sexuality = heterosexual
 
@@ -2466,7 +2466,7 @@ easteregg_lenaic_riedinger = {
 easteregg_niall_bird = {
 	name = "Niall"
 	dynasty = vanity_bird
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 
 	diplomacy = 7
@@ -2495,7 +2495,7 @@ easteregg_christian_daflos = {
 	name = "Christian"
 	dna = easteregg_christian_daflos
 	dynasty = vanity_daflos
-	religion = "orthodox"
+	religion = "nicean"
 	culture = "greek"
 	female = no
 
@@ -2543,7 +2543,7 @@ easteregg_max_collin = {
 	name = "Max"
 	dna = easteregg_max_collin
 	dynasty = vanity_collin
-	religion = "catholic"
+	religion = "nicean"
 	culture = "anglo_saxon"
 	female = no
 
@@ -2592,7 +2592,7 @@ easteregg_tegan_harris = {
 	name = "Tegan"
 	dna = easteregg_tegan_harris
 	dynasty = vanity_harris
-	religion = "catholic"
+	religion = "nicean"
 	culture = "anglo_saxon"
 	female = yes
 
@@ -2685,7 +2685,7 @@ easteregg_nikolaos_kaltsogiannis = {
 	name = "Nikolaos"
 	dna = easteregg_nikolaos_kaltsogiannis
 	dynasty = vanity_kaltsogiannis
-	religion = "orthodox"
+	religion = "nicean"
 	culture = "greek"
 
 	#Skills
@@ -2729,7 +2729,7 @@ easteregg_pontus_olofsson = {
 	name = "Pontius"
 	dna = easteregg_pontus_olofsson
 	dynasty = vanity_springmountain
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norse"
 
 	#Skills
@@ -2775,7 +2775,7 @@ easteregg_pontus_olofsson = {
 easteregg_karl_cederslatt = {
 	name = "Karl"
 	dynasty = vanity_cederslatt
-	religion = "catholic"
+	religion = "nicean"
 	culture = "swedish"
 	female = no
 
@@ -2823,7 +2823,7 @@ easteregg_karl_cederslatt = {
 easteregg_sebastian_borg = {
 	name = "Sebastian"
 	dynasty = vanity_borg
-	religion = "catholic"
+	religion = "nicean"
 	culture = "swedish"
 	female = no
 
@@ -2867,7 +2867,7 @@ easteregg_elisabeth_gangenes = { #Programmer
 	name = "Elisabeth"
 	dynasty = easteregg_andriamasinavalona 
 	dna = easteregg_elisabeth_gangenes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	sexuality = homosexual
 	health = 8
@@ -2943,7 +2943,7 @@ easteregg_elisabeth_gangenes = { #Programmer
 easteregg_isabella_welch = {
 	name = "Beau"
 	dynasty = vanity_welch
-	religion = "catholic"
+	religion = "nicean"
 	culture = "anglo_saxon"
 	dna = easteregg_isabella_welch
 	sexuality = bisexual
@@ -3113,7 +3113,7 @@ easteregg_joe_parkin = {
 	name = "Joe"
 	dna = easteregg_joe_parkin
 	dynasty = vanity_parkin
-	religion = "catholic"
+	religion = "nicean"
 	culture = "anglo_saxon"
 
 	#Skills
@@ -3165,7 +3165,7 @@ easteregg_joe_parkin = {
 easteregg_krzysztof_bochenek = {
 	name = "Krzysztof"
 	dynasty = vanity_bochenek
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	female = no
 
@@ -3266,7 +3266,7 @@ easteregg_mateusz_mierzwa = {
 	name = "Mateusz"
 	dna = easteregg_mateusz_mierzwa
 	dynasty = vanity_mierzwa
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	female = no
 
@@ -3313,7 +3313,7 @@ easteregg_natalia_lechnata = {
 	name = "Natalia"
 	dna = easteregg_natalia_lechnata
 	dynasty = vanity_lechnata
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	female = yes
 
@@ -3360,7 +3360,7 @@ easteregg_natalia_poreba = {
 	name = "Natalia"
 	dna = easteregg_natalia_poreba
 	dynasty = vanity_poreba
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	female = yes
 
@@ -3552,7 +3552,7 @@ easteregg_fenni_johansson = {
 	name = "Fenni"
 	dna = easteregg_fenni_johansson
 	dynasty = vanity_johansson_3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "swedish"
 	female = yes
 

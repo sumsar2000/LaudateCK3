@@ -5,7 +5,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_diplomacy_3
 	990.1.2 = {
@@ -24,7 +24,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_diplomacy_2
 	trait = calm
@@ -43,7 +43,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_intrigue_4
 	999.1.1 = {
@@ -62,7 +62,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = norman
 	trait = education_diplomacy_2
 	father = 260
@@ -82,7 +82,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = greedy
 	1000.1.1 = {
@@ -100,7 +100,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = brave
 	trait = education_martial_3
@@ -125,7 +125,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = lustful
 	trait = just
@@ -148,7 +148,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = chaste
 	trait = education_intrigue_2
@@ -169,7 +169,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_3
 	father = 260
@@ -189,7 +189,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = generous
 	trait = education_martial_3
@@ -211,7 +211,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = generous
 	trait = arrogant
@@ -234,7 +234,7 @@
 110638 = {
 	name = "Robert" #de Toeni de Stafford
 	dynasty_house = house_stafford
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 110635
 	1031.1.1 = {
@@ -258,7 +258,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = honest
 	trait = arrogant
@@ -281,7 +281,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = brave
 	trait = education_stewardship_2
@@ -307,7 +307,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = greedy
 	trait = cynical
@@ -330,7 +330,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_2
 	trait = greedy
@@ -354,7 +354,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_learning_2
 	father = 1120
@@ -377,7 +377,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1120
 	mother = 10000
@@ -396,7 +396,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_2
 	father = 1120
@@ -416,7 +416,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_3
 	father = 1125
@@ -437,7 +437,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	disallow_random_traits = yes
 	trait = arbitrary
@@ -479,7 +479,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = honest
 	trait = education_learning_2
@@ -503,7 +503,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = just
 	trait = calm
@@ -533,7 +533,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = deceitful
 	father = 1132
@@ -553,7 +553,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_3
 	father = 1126
@@ -572,7 +572,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_learning_2
 	father = 1126
@@ -591,7 +591,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_2
 	father = 1126
@@ -610,7 +610,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = honest
 	trait = education_martial_2
@@ -629,7 +629,7 @@
 	female = yes
 	dynasty = 678
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	
 	father = 1124
@@ -649,7 +649,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_learning_2
 	father = 1130
@@ -672,7 +672,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_stewardship_2
 	father = 1130
@@ -696,7 +696,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1132
 	mother = 10014
@@ -715,7 +715,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	disallow_random_traits = yes
 	trait = disinherited # His parent's marriage was annulled, effectively making him a bastard and denying him of his inheritance.
@@ -746,7 +746,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = greedy
 	trait = hunchbacked
@@ -772,7 +772,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	disallow_random_traits = yes
 	trait = disinherited # Her parent's marriage was annulled, effectively making her a bastard.
@@ -797,7 +797,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = generous
 	trait = education_intrigue_1
@@ -818,7 +818,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = honest
 	trait = education_intrigue_1
@@ -838,7 +838,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = cynical
 	trait = education_stewardship_2
@@ -862,7 +862,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = diligent
 	trait = education_diplomacy_2
@@ -883,7 +883,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = diligent
 	trait = education_martial_2
@@ -903,7 +903,7 @@
 	name = "Eremburga"
 	female = yes
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1124
 	mother = 1129
@@ -918,7 +918,7 @@
 127065 = {
 	name = "Mauger"
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1132
 	mother = 160380
@@ -933,7 +933,7 @@
 127070 = {
 	name = "Simon"
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1132
 	mother = 70979
@@ -949,7 +949,7 @@
 	name = "William"
 	# AKA: Guillaume
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1142
 	mother = 369
@@ -971,7 +971,7 @@
 	intrigue = 10
 	stewardship = 6
 	prowess = 10
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	disallow_random_traits = yes
 	trait = ambitious
@@ -1107,7 +1107,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 140
 	mother = 367
@@ -1131,7 +1131,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	disallow_random_traits = yes
 	trait = bossy
@@ -1169,7 +1169,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_stewardship_2
 	father = 140
@@ -1193,7 +1193,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_learning_2
 	father = 140
@@ -1221,7 +1221,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	disallow_random_traits = yes
 	trait = brave
@@ -1255,7 +1255,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = arrogant
 	trait = education_stewardship_2
@@ -1279,7 +1279,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = greedy
 	trait = wrathful
@@ -1306,7 +1306,7 @@
 	# AKA: Maude
 	female = yes
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 152 #Roger II de Montgommery
 	mother = 449 #Maud de Belesme/Talvas
@@ -1325,7 +1325,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = humble
 	trait = content
@@ -1346,7 +1346,7 @@
 152 = {
 	name = "Roger" #Roger II de Montgomerie
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1012.1.1 = {
 		birth = "1012.1.1"
@@ -1369,7 +1369,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = just
 	trait = cynical
@@ -1391,7 +1391,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = honest
 	trait = education_intrigue_2
@@ -1412,7 +1412,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 150
 	mother = 149
@@ -1431,7 +1431,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 150
 	mother = 149
@@ -1453,7 +1453,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = honest
 	trait = clubfooted
@@ -1475,7 +1475,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = arrogant
 	trait = wrathful
@@ -1498,7 +1498,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_stewardship_2
 	father = 6820
@@ -1518,7 +1518,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = temperate
 	trait = education_intrigue_3
@@ -1538,7 +1538,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = arrogant
 	trait = bastard
@@ -1559,7 +1559,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = craven
 	trait = education_stewardship_2
@@ -1580,7 +1580,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = greedy
 	trait = hunchbacked
@@ -1607,7 +1607,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = honest
 	trait = education_learning_2
@@ -1632,7 +1632,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_intrigue_3
 	father = 1120
@@ -1652,7 +1652,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_intrigue_3
 	1000.1.1 = {
@@ -1669,7 +1669,7 @@
 171155 = {
 	name = "Geoffroy"
 	dynasty = 200080
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_2
 
@@ -1694,7 +1694,7 @@
 	diplomacy = 5
 	intrigue = 3
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = greedy
 	trait = education_martial_2
@@ -1717,7 +1717,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 9
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = calm
 	trait = education_stewardship_2
@@ -1736,7 +1736,7 @@
 171161 = {
 	name = "Alexander"
 	dynasty = 200080
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 
 	father = 171155
@@ -1761,7 +1761,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_learning_2
 	father = 171155
@@ -1780,7 +1780,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = honest
 	trait = education_learning_2
@@ -1807,7 +1807,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "dutch"
 	trait = education_stewardship_2
 	father = 167006
@@ -1826,7 +1826,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = honest
 	trait = education_martial_2
@@ -1845,7 +1845,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = chaste
 	trait = education_martial_3
@@ -1865,7 +1865,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_2
 	#father = 144700
@@ -1885,7 +1885,7 @@
 	diplomacy = 3
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_learning_2
 	#father = 144700
@@ -1903,7 +1903,7 @@
 	# AKA: Constance FitzRoy, Viscountess de Beaumont
 	female = yes
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	trait = education_martial_2
@@ -1925,7 +1925,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_learning_2
 	trait = ambitious
@@ -1954,7 +1954,7 @@
 	intrigue = 9
 	stewardship = 6
 	learning = 10
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_diplomacy_3
 	trait = diligent
@@ -1990,7 +1990,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = honest
 	trait = education_learning_3
@@ -2011,7 +2011,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = arrogant
 	trait = diligent
@@ -2034,7 +2034,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = wrathful
 	trait = brave
@@ -2057,7 +2057,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = wrathful
 	trait = honest
@@ -2080,7 +2080,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = arrogant
 	trait = honest
@@ -2102,7 +2102,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = calm
 	trait = diligent
@@ -2124,7 +2124,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_2
 	1075.1.1 = {
@@ -2142,7 +2142,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = deceitful
 	trait = arrogant
@@ -2162,7 +2162,7 @@
 	diplomacy = 8
 	intrigue = 9
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1022.1.1 = {
 		birth = "1022.1.1"
@@ -2180,7 +2180,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_intrigue_1
 	father = 140
@@ -2204,7 +2204,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = arbitrary
 	trait = education_intrigue_2
@@ -2221,7 +2221,7 @@
 211521 = {
 	name = "William"
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	father = 1142
@@ -2244,7 +2244,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_intrigue_1
 	father = 1132
@@ -2265,7 +2265,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = generous
 	trait = just
@@ -2291,7 +2291,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = wrathful
 	trait = arrogant
@@ -2314,7 +2314,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = gregarious
 	trait = wrathful
@@ -2336,7 +2336,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1097.1.1 = {
 		birth = "1097.1.1"
@@ -2354,7 +2354,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = lustful
 	trait = greedy
@@ -2376,7 +2376,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = gluttonous
 	trait = education_diplomacy_2
@@ -2398,7 +2398,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_intrigue_2
 	father = 244
@@ -2422,7 +2422,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_learning_2
 	father = 246
@@ -2446,7 +2446,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_intrigue_1
 	father = 248
@@ -2467,7 +2467,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = cynical
 	trait = education_learning_3
@@ -2489,7 +2489,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = gluttonous
 	trait = education_martial_3
@@ -2512,7 +2512,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = lazy
 	trait = deceitful
@@ -2535,7 +2535,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_stewardship_2
 	father = 252
@@ -2555,7 +2555,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = temperate
 	trait = education_intrigue_2
@@ -2576,7 +2576,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_diplomacy_3
 	father = 246
@@ -2600,7 +2600,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_learning_2
 	father = 246
@@ -2620,7 +2620,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = honest
 	trait = education_intrigue_1
@@ -2641,7 +2641,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = norman
 	trait = just
 	trait = education_martial_2
@@ -2668,7 +2668,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1132
 	1080.1.2 = {
@@ -2682,7 +2682,7 @@
 30826 = {
 	name = "Richard" #real name unknown
 	dynasty = 676
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	960.1.1 = {
 		birth = "960.1.1"
@@ -2695,7 +2695,7 @@
 30827 = {
 	name = "Rainulf"
 	dynasty = 676
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 30826
 	986.1.1 = {
@@ -2712,7 +2712,7 @@
 30828 = {
 	name = "Riccardo"
 	dynasty = 676
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 144703
 	1055.1.1 = {
@@ -2726,7 +2726,7 @@
 30831 = {
 	name = "Richard"
 	dynasty = 676
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1154
 	# mother = Gaitelgrima II di Salerno
@@ -2741,7 +2741,7 @@
 30832 = {
 	name = "Richard"
 	dynasty = 676
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 98014
 	# mother =
@@ -2756,7 +2756,7 @@
 30833 = {
 	name = "Jordan"
 	dynasty = 676
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1154
 	# mother = Gaitelgrima II di Salerno
@@ -2773,7 +2773,7 @@
 	name = "Gaitelgrima"
 	female = yes
 	dynasty = 676
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 30833
 	# mother = Gaitelgrima di Sorrento
@@ -2788,7 +2788,7 @@
 30836 = {
 	name = "Jonathan"
 	dynasty = 676
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1154
 	# mother = Gaitelgrima II di Salerno
@@ -2803,7 +2803,7 @@
 30837 = {
 	name = "Jonathan"
 	dynasty = 676
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1152
 	mother = 1153
@@ -2820,7 +2820,7 @@
 	# AKA: Eva
 	female = yes
 	dynasty = 7182 #Ridel
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1079.1.1 = {
 		birth = "1079.1.1"
@@ -2834,7 +2834,7 @@
 30864 = {
 	name = "Robert"
 	dynasty = 200080
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 
 	father = 171155
@@ -2851,7 +2851,7 @@
 30865 = {
 	name = "Silvester"
 	dynasty = 200080
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 
 	father = 171155
@@ -2869,7 +2869,7 @@
 	name = "Radulf"
 	# AKA: Rodolph
 	dynasty = 200080
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 
 	father = 171155
@@ -2886,7 +2886,7 @@
 30867 = {
 	name = "Richard"
 	dynasty = 200080
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 
 	father = 171155
@@ -2903,7 +2903,7 @@
 30868 = {
 	name = "Geoffroy"
 	dynasty = 200080
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 171161
 	1090.1.1 = {
@@ -2920,7 +2920,7 @@
 30869 = {
 	name = "Robert"
 	dynasty = 200080
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 171161
 	1092.1.1 = {
@@ -2934,7 +2934,7 @@
 30870 = {
 	name = "William"
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 85003
 	1060.1.1 = {
@@ -2948,7 +2948,7 @@
 30871 = {
 	name = "Tancred"
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = deceitful
 	trait = education_martial_3
@@ -2969,7 +2969,7 @@
 30872 = {
 	name = "William"
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 7730
 	mother = 1143
@@ -2989,7 +2989,7 @@
 	name = "Altrude"
 	female = yes
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 7730
 	mother = 1143
@@ -3005,7 +3005,7 @@
 30874 = {
 	name = "Guy"
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 7730
 	mother = 1143
@@ -3021,7 +3021,7 @@
 30877 = {
 	name = "Roger"
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 11361
 	mother = 30873
@@ -3040,7 +3040,7 @@
 	name = "Marie"
 	female = yes
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 11361
 	mother = 30873
@@ -3056,7 +3056,7 @@
 30883 = {
 	name = "Rainulf"
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1130
 	mother = 1137
@@ -3074,7 +3074,7 @@
 30884 = {
 	name = "Tancred"
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1130
 	mother = 1137
@@ -3092,7 +3092,7 @@
 30885 = {
 	name = "William"
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1130
 	mother = 1137
@@ -3110,7 +3110,7 @@
 30890 = {
 	name = "Godfrey"
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 85005
 	1070.1.1 = {
@@ -3124,7 +3124,7 @@
 30891 = {
 	name = "Raimond"
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 85005
 	1075.1.1 = {
@@ -3141,7 +3141,7 @@
 30892 = {
 	name = "Thomas"
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 85005
 	1080.1.1 = {
@@ -3156,7 +3156,7 @@
 30899 = {
 	name = "Robert"
 	dynasty = 7192 #de Bassonville
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1080.1.1 = {
 		birth = "1080.1.1"
@@ -3173,7 +3173,7 @@
 	name = "Godechilde"
 	female = yes
 	dynasty = 385 #de Tosny
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 110637
 	mother = 41223
@@ -3189,7 +3189,7 @@
 	name = "William"
 	# AKA: William Clito
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 142
 	mother = 171162
@@ -3213,7 +3213,7 @@
 31156 = {
 	name = "Richard"
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	father = 142
@@ -3228,7 +3228,7 @@
 31157 = {
 	name = "William" #count of Tortosa 1110 ?
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	father = 142
@@ -3248,7 +3248,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = arbitrary
 	trait = calm
@@ -3269,7 +3269,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_stewardship_3
 	1128.1.1 = {
@@ -3290,7 +3290,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_2
 	trait = brave
@@ -3306,7 +3306,7 @@
 	name = "Beatrix" #de Normandie
 	female = yes
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 246
 	mother = 6801
@@ -3326,7 +3326,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	#father = 360
 	#mother = 1411
@@ -3346,7 +3346,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_learning_2
 	father = 40999
@@ -3373,7 +3373,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1003.1.2 = {
 		birth = yes
@@ -3386,7 +3386,7 @@
 41004 = {
 	name = "Robert" #3rd Earl of Shrewsbury
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 152 #Roger II de Montgommery
 	mother = 449 #Maud de Belesme/Talvas
@@ -3406,7 +3406,7 @@
 41005 = {
 	name = "Philip" #son of the earl of shrewsbury who dies at the siege of antioch
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 152 #Roger II de Montgommery
 	mother = 449 #Maud de Belesme/Talvas
@@ -3425,7 +3425,7 @@
 	name = "Emma" #de Montgommery
 	female = yes
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 152 #Roger II de Montgommery
 	mother = 449 #Maud de Belesme/Talvas
@@ -3441,7 +3441,7 @@
 	name = "Mabel"
 	female = yes
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 152 #Roger II de Montgommery
 	mother = 449 #Maud de Belesme/Talvas
@@ -3460,7 +3460,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	trait = education_martial_2
@@ -3485,7 +3485,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_2
 	father = 41012
@@ -3501,7 +3501,7 @@
 41014 = {
 	name = "Richard" # de Tonbridge FitzGilbert de Clare
 	dynasty_house = house_brionne # may need changing to Clare if later start dates are introduced
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 41013
 	1030.1.1 = {
@@ -3522,7 +3522,7 @@
 	name = "Rohese" #Giffard
 	female = yes
 	dynasty = 4011
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 32142 #Walter Giffard
 	1034.1.1 = {
@@ -3541,7 +3541,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 41014
 	mother = 41015
@@ -3560,7 +3560,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_intrigue_3
 	1060.1.1 = {
@@ -3575,7 +3575,7 @@
 	name = "Sibyl"
 	female = yes
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 152 #Roger II de Montgommery
 	mother = 449 #Maud de Belesme/Talvas
@@ -3591,7 +3591,7 @@
 	name = "Matilda"
 	female = yes
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 152 #Roger II de Montgommery
 	mother = 449 #Maud de Belesme/Talvas
@@ -3606,7 +3606,7 @@
 41032 = {
 	name = "Hugh" # 2nd earl of Shrewsbury
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 152 #Roger II de Montgommery
 	mother = 449 #Maud de Belesme/Talvas
@@ -3621,7 +3621,7 @@
 41211 = {
 	name = "Nicholas"#de Toeni de Stafford
 	dynasty_house = house_stafford
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 110638 #Robert de Toeni de Stafford
 	1066.1.1 = {
@@ -3639,7 +3639,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_2
 	father = 41232
@@ -3662,7 +3662,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_2
 	father = 41233
@@ -3685,7 +3685,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_2
 	father = 41234
@@ -3709,7 +3709,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_intrigue_1
 	father = 41234
@@ -3728,7 +3728,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = just
 	trait = arrogant
@@ -3754,7 +3754,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = norman
 	trait = temperate
 	trait = chaste
@@ -3775,7 +3775,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 41236
 	mother = 41237
@@ -3795,7 +3795,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = lustful
 	trait = brave
@@ -3818,7 +3818,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = arrogant
 	trait = education_diplomacy_1
@@ -3837,7 +3837,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_2
 	father = 41241
@@ -3861,7 +3861,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = gluttonous
 	trait = arrogant
@@ -3887,7 +3887,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = gluttonous
 	trait = wrathful
@@ -3911,7 +3911,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = just
 	trait = humble
@@ -3934,7 +3934,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = honest
 	trait = zealous
@@ -3957,7 +3957,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = honest
 	trait = zealous
@@ -3979,7 +3979,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_2
 	father = 41256
@@ -3998,7 +3998,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = diligent
 	trait = education_martial_2
@@ -4024,7 +4024,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = humble
 	father = 41260
@@ -4044,7 +4044,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 41260
 	mother = 41252
@@ -4063,7 +4063,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 41260
 	mother = 41252
@@ -4083,7 +4083,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_stewardship_2
 	father = 41260
@@ -4103,7 +4103,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = lustful
 	trait = diligent
@@ -4125,7 +4125,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	trait = deceitful
@@ -4150,7 +4150,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_2
 	father = 1128
@@ -4171,7 +4171,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = deceitful
 	trait = education_martial_3
@@ -4190,7 +4190,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1120
 	mother = 10008
@@ -4210,7 +4210,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_intrigue_3
 	father = 1120
@@ -4230,7 +4230,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_diplomacy_2
 	1005.1.2 = {
@@ -4251,7 +4251,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_intrigue_2
 	father = 42006
@@ -4274,7 +4274,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_2
 	father = 85016
@@ -4300,7 +4300,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = deceitful
 	trait = education_intrigue_1
@@ -4322,7 +4322,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = zealous
 	trait = education_learning_2
@@ -4343,7 +4343,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_3
 	1002.1.2 = {
@@ -4358,7 +4358,7 @@
 	name = "Mabel" #Talvas
 	female = yes
 	dynasty = 709 #de Belesme
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_diplomacy_3
 	father = 448
@@ -4378,7 +4378,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = honest
 	trait = education_learning_2
@@ -4402,7 +4402,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = craven
 	trait = education_martial_2
@@ -4421,7 +4421,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_learning_3
 	1038.1.2 = {
@@ -4442,7 +4442,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = calm
 	trait = education_learning_2
@@ -4461,7 +4461,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = arrogant
 	trait = cynical
@@ -4478,7 +4478,7 @@
 	name = "Cundo" #Condoha Vagéna d'Eu
 	female = yes
 	dynasty_house = house_eu
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 6820
 	mother = 6821
@@ -4499,7 +4499,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = just
 	trait = education_intrigue_1
@@ -4519,7 +4519,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = generous
 	trait = education_diplomacy_3
@@ -4540,7 +4540,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_learning_2
 	father = 6800
@@ -4559,7 +4559,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_learning_2
 	father = 6802
@@ -4581,7 +4581,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = lustful
 	trait = education_martial_3
@@ -4608,7 +4608,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = arrogant
 	trait = deceitful
@@ -4631,7 +4631,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = arrogant
 	trait = gluttonous
@@ -4654,7 +4654,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = lustful
 	trait = honest
@@ -4677,7 +4677,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 6806
 	mother = 110639
@@ -4696,7 +4696,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = temperate
 	trait = chaste
@@ -4719,7 +4719,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = arbitrary
 	trait = cynical
@@ -4743,7 +4743,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = honest
 	trait = education_learning_2
@@ -4762,7 +4762,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	disallow_random_traits = yes
 	trait = honest
@@ -4788,7 +4788,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = greedy
 	trait = temperate
@@ -4813,7 +4813,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = humble
 	trait = education_intrigue_2
@@ -4839,7 +4839,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = lazy
 	trait = education_intrigue_1
@@ -4858,7 +4858,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = calm
 	trait = brave
@@ -4879,7 +4879,7 @@
 7430 = {
 	name = "Robert"
 	dynasty = 352
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 41241
 	mother = 41242
@@ -4894,7 +4894,7 @@
 7582 = {
 	name = "Edward"
 	dynasty_house = house_evreux
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 10016
 	1060.1.1 = {
@@ -4908,7 +4908,7 @@
 7583 = {
 	name = "Walter"
 	dynasty = 22001
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 7582
 	1100.1.1 = {
@@ -4927,7 +4927,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = gluttonous
 	trait = education_martial_3
@@ -4945,7 +4945,7 @@
 	name = "Roger" #eldest son of 1st Shrewsbury earl
 	# AKA: Roger 'Parvulus'
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 152 #Roger II de Montgommery
 	mother = 449 #Maud de Belesme/Talvas
@@ -4961,7 +4961,7 @@
 	name = "Roger" # lord of Lancaster and Westmorland who revolted against Rufus and was expelled by henry
 	# AKA: Roger 'the Poitevin'
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 152  #Roger II de Montgommery
 	mother = 449 #Maud de Belesme/Talvas
@@ -4979,7 +4979,7 @@
 82053 = {
 	name = "Arnulf" # youngest son of earl of Shrewsbury, briefly earl of Holderness, who married daughter of Muirchertach Ó Briaín
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 152 #Roger II de Montgommery
 	mother = 449 #Maud de Belesme/Talvas
@@ -4999,7 +4999,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = cynical
 	trait = education_stewardship_3
@@ -5023,7 +5023,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 82086
 	1047.1.1 = {
@@ -5044,7 +5044,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 82055
 	mother = 82058
@@ -5067,7 +5067,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 41250
 	mother = 156
@@ -5087,7 +5087,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1035.1.1 = {
 		birth = "1035.1.1"
@@ -5107,7 +5107,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 82060
 	mother = 82059
@@ -5130,7 +5130,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_stewardship_3
 	trait = education_martial_2
@@ -5154,7 +5154,7 @@
 	diplomacy = 5
 	intrigue = 3
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 82060
 	mother = 82059
@@ -5174,7 +5174,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 82060
 	mother = 82059
@@ -5194,7 +5194,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1060.1.1 = {
 		birth = "1060.1.1"
@@ -5217,7 +5217,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1004.1.1 = {
 		birth = "1004.1.1"
@@ -5234,7 +5234,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 82066
 	1030.1.1 = {
@@ -5252,7 +5252,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 82066
 	1024.1.1 = {
@@ -5270,7 +5270,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 82069
 	1062.1.1 = {
@@ -5294,7 +5294,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 82065
 	mother = 82075
@@ -5313,7 +5313,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 204803
 	1201.1.1 = {
@@ -5331,7 +5331,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 82065
 	mother = 82075
@@ -5354,7 +5354,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1101.1.1 = {
 		birth = "1101.1.1"
@@ -5371,7 +5371,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = wrathful
 	trait = education_martial_2
@@ -5391,7 +5391,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1024.1.1 = {
 		birth = "1024.1.1"
@@ -5408,7 +5408,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_4
 
@@ -5433,7 +5433,7 @@
 	diplomacy = 7
 	intrigue = 3
 	stewardship = 9
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_3
 	father = 85002
@@ -5453,7 +5453,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_4
 	father = 85002
@@ -5472,7 +5472,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = zealous
 	trait = education_learning_2
@@ -5493,7 +5493,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_stewardship_2
 	father = 85002
@@ -5512,7 +5512,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_2
 	father = 1120
@@ -5532,7 +5532,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_learning_2
 	father = 1120
@@ -5552,7 +5552,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_diplomacy_1
 	father = 1120
@@ -5572,7 +5572,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_3
 	father = 1120
@@ -5593,7 +5593,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_intrigue_1
 	father = 1132
@@ -5613,7 +5613,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_intrigue_3
 	father = 98014
@@ -5633,7 +5633,7 @@
 	diplomacy = 6
 	intrigue = 3
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_stewardship_3
 	father = 1154
@@ -5651,7 +5651,7 @@
 	# AKA: Matilda FitzRoy, Duchess of Brittany
 	female = yes
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	trait = education_intrigue_3
@@ -5668,7 +5668,7 @@
 	name = "Adeliza"
 	female = yes
 	dynasty = 349
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 32501
 	1075.1.1 = {
@@ -5682,7 +5682,7 @@
 32501 = {
 	name = "William"
 	dynasty = 349
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1054.1.1 = {
 		birth = "1054.1.1"
@@ -5695,7 +5695,7 @@
 32502 = {
 	name = "William"
 	dynasty = 349
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 32501
 	1100.1.1 = {
@@ -5709,7 +5709,7 @@
 32503 = {
 	name = "William"
 	dynasty = 101857
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 41265
 	mother = 32500
@@ -5725,7 +5725,7 @@
 	name = "Helisende"
 	female = yes
 	dynasty = 4047
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 41250
 	mother = 156
@@ -5740,7 +5740,7 @@
 32211 = {
 	name = "Henry" #count of Eu 1096 - 1140
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 6822
 	mother = 32210
@@ -5755,7 +5755,7 @@
 32212 = {
 	name = "Robert"
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 6822
 	mother = 32210
@@ -5770,7 +5770,7 @@
 32213 = {
 	name = "William"
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 6822
 	mother = 32210
@@ -5791,7 +5791,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_learning_2
 	1110.1.1 = {
@@ -5806,7 +5806,7 @@
 138054 = {
 	name = "Aldebert"  #Aldebert III de la marche/montgommery
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 82052  #Roger le Poitevin
 	mother = 138045 #Almodis de la marche
@@ -5822,7 +5822,7 @@
 138055 = {
 	name = "Boson"  #Boson IV de la marche/montgommery
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 82052  #Roger le Poitevin
 	mother = 138045 #Almodis de la marche
@@ -5837,7 +5837,7 @@
 138056 = {
 	name = "Eudes"  #Eudes II de la marche/montgommery
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 82052  #Roger le Poitevin
 	mother = 138045 #Almodis de la marche
@@ -5853,7 +5853,7 @@
 	name = "Pontia"  #Pontia de la Marche/montgommery
 	female = yes
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 82052  #Roger le Poitevin
 	mother = 138045 #Almodis de la marche
@@ -5869,7 +5869,7 @@
 138062 = {
 	name = "Adelbert"  #Adelbert IV de la marche
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 138054  #Adelbert III de la marche/montgommery
 	1148.1.1 = {
@@ -5886,7 +5886,7 @@
 138064 = {
 	name = "Boson"  #Boson V de la marche
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 138054  #Adelbert III de la marche/montgommery
 	1146.1.1 = {
@@ -5899,7 +5899,7 @@
 
 32265 = {
 	name = "Arnulf"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_learning_2
 	1060.1.1 = {
@@ -5914,7 +5914,7 @@
 	name = "Sibylle"
 	female = yes
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1128
 	mother = 1123
@@ -5933,7 +5933,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = wrathful
 	trait = education_martial_3
@@ -5956,7 +5956,7 @@
 	dynasty = 101754 #Conteville
 	father = 150 #Robert, baron de Shrewsbury
 	mother = 149 #Mathilda de Montgommey
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1070.1.1 = {
 		birth = "1070.1.1"
@@ -5970,7 +5970,7 @@
 	name = "Emma"
 	female = yes
 	dynasty = 4011
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 32139
 	1082.1.2 = {
@@ -5984,7 +5984,7 @@
 32139 = {
 	name = "William" #count of Arques, baron of Folkestone
 	dynasty = 4011
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 32140
 	1044.1.2 = {
@@ -5998,7 +5998,7 @@
 32140 = {
 	name = "Godfrey" #count of Arques, baron of Folkestone
 	dynasty = 4011
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 32141
 	994.1.1 = {
@@ -6012,7 +6012,7 @@
 32141 = {
 	name = "Osbern"
 	dynasty = 4011
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	950.1.1 = {
 		birth = "950.1.1"
@@ -6025,7 +6025,7 @@
 32142 = {
 	name = "Walter"
 	dynasty = 4011
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 32141
 	991.1.1 = {
@@ -6039,7 +6039,7 @@
 32143 = {
 	name = "Walter" #earl of Buckingham
 	dynasty = 4011
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 32142
 	1030.1.1 = {
@@ -6053,7 +6053,7 @@
 72123 = {
 	name = "Roger"
 	dynasty = 12118
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1100.1.1 = {
 		birth = "1100.1.1"
@@ -6075,7 +6075,7 @@
 72124 = {
 	name = "Sybilla"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1114.1.1 = {
 		birth = "1114.1.1"
@@ -6087,7 +6087,7 @@
 
 129017 = {
 	name = "William"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1028.1.1 = {
 		birth = "1028.1.1"
@@ -6103,7 +6103,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 9
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_stewardship_4
 	1060.1.1 = {
@@ -6116,7 +6116,7 @@
 
 129020 = {
 	name = "William"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1092.1.1 = {
 		birth = "1092.1.1"
@@ -6128,7 +6128,7 @@
 
 129021 = {
 	name = "William"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1096.1.1 = {
 		birth = "1096.1.1"
@@ -6141,7 +6141,7 @@
 129057 = {
 	name = "Onfroi"
 	dynasty = 5061
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	992.1.1 = {
 		birth = "992.1.1"
@@ -6158,7 +6158,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 129057
 	1020.1.2 = {
@@ -6179,7 +6179,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = greedy
 	trait = education_stewardship_2
@@ -6215,7 +6215,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 204576
 	mother = 204577
@@ -6230,7 +6230,7 @@
 129083 = {
 	name = "Ilbert" #Ilbert de Lacie
 	dynasty = 4037
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1045.1.1 = {
 		birth = "1045.1.1"
@@ -6242,7 +6242,7 @@
 
 138442 = {
 	name = "Guillaume" #Bishop Guillaume de Sure of Lyon/StJeanBaptiste
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1280.1.1 = {
 		birth = "1280.1.1" #unknown
@@ -6255,7 +6255,7 @@
 73270 = {
 	name = "Geoffroy"
 	dynasty = 100345
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 73272
 	1030.1.1 = {
@@ -6272,7 +6272,7 @@
 73271 = {
 	name = "Gunnora"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1047.1.1 = {
 		birth = "1047.1.1"
@@ -6285,7 +6285,7 @@
 73272 = {
 	name = "Acciard"
 	dynasty = 100345
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1006.1.1 = {
 		birth = "1006.1.1"
@@ -6298,7 +6298,7 @@
 73273 = {
 	name = "Arnald"
 	dynasty = 100345
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 73272
 	1032.1.1 = {
@@ -6312,7 +6312,7 @@
 73274 = {
 	name = "Rayner"
 	dynasty = 100345
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 73272
 	1034.1.1 = {
@@ -6326,7 +6326,7 @@
 73275 = {
 	name = "Roger"
 	dynasty = 100345
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 73272
 	1036.1.1 = {
@@ -6340,7 +6340,7 @@
 73276 = {
 	name = "Geoffroy"
 	dynasty = 100345
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 73270
 	mother = 73271
@@ -6355,7 +6355,7 @@
 73277 = {
 	name = "Rayner"
 	dynasty = 100345
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 73270
 	mother = 73271
@@ -6370,7 +6370,7 @@
 73278 = {
 	name = "Robert"
 	dynasty = 100345
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 73270
 	mother = 73271
@@ -6385,7 +6385,7 @@
 73279 = {
 	name = "Serlo"
 	dynasty = 100345
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 73270
 	mother = 73271
@@ -6401,7 +6401,7 @@
 	name = "Alberada"
 	female = yes
 	dynasty = 100345
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 73270
 	mother = 73271
@@ -6416,7 +6416,7 @@
 211528 = {
 	name = "Roger"
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 211521
 	mother = 73280
@@ -6431,7 +6431,7 @@
 211529 = {
 	name = "William"
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_learning_1
 	father = 211521
@@ -6450,7 +6450,7 @@
 	dynasty_house = house_brionne # may need changing to Clare if later start dates are introduced
 	father = 41014 #Richard de Tonbridge FitzGilbert de Clare
 	mother = 41015 #Rohese Giffard
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1058.1.1 = {
 		birth = "1058.1.1"
@@ -6468,7 +6468,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1081.1.1 = {
 		birth = "1081.1.1"
@@ -6485,7 +6485,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"	
+	religion = "nicean"	
 	culture = "norman"
 	father = 83303
 	1100.1.1 = {
@@ -6503,7 +6503,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 83303
 	1102.1.1 = {
@@ -6517,7 +6517,7 @@
 138455 = {
 	name = "Robert" #FitzHamon
 	dynasty = 13115
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1050.1.1 = {
 		birth = "1050.1.1"
@@ -6534,7 +6534,7 @@
 	name = "Mabel" #FitzHamon of Gloucester
 	female = yes
 	dynasty = 13115
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 138455 #Robert FitzHamon
 	mother = 41030 #Sibyl de Montgommery
@@ -6549,7 +6549,7 @@
 34605 = {
 	name = "Dagobert"
 	dynasty = 20066
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1020.1.1 = {
 		birth = "1020.1.1"
@@ -6562,7 +6562,7 @@
 34606 = {
 	name = "Raoul"
 	dynasty = 20066
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 34605
 	1045.1.1 = {
@@ -6576,7 +6576,7 @@
 93497 = {
 	name = "Raimbaud"
 	dynasty = 7372
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1030.1.1 = {
 		birth = "1030.1.1"
@@ -6590,7 +6590,7 @@
 	name = "William"
 	# William II de Roumare
 	dynasty = 9110
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 82056
 	mother = 155242
@@ -6609,7 +6609,7 @@
 	name = "Hawise"
 	female = yes
 	dynasty = 101857
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 41265
 	mother = 32500
@@ -6624,7 +6624,7 @@
 155245 = {
 	name = "Walkelin"
 	dynasty = 1027027
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1035.1.1 = {
 		birth = "1035.1.1"
@@ -6638,7 +6638,7 @@
 	name = "William"
 	#William Giffard
 	dynasty = 4011
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 32142
 	1060.1.1 = {
@@ -6653,7 +6653,7 @@
 	name = "Godfrey"
 	#Godfrey de Luci
 	dynasty = 1027029
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1140.9.1 = {
 		birth = "1140.9.1"
@@ -6666,7 +6666,7 @@
 34220 = {
 	name = "Roussel"
 	dynasty = 7299
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_3
 	1032.1.1 = {
@@ -6680,7 +6680,7 @@
 144949 = {  	
 	name = "Robert"
 	dynasty = 3123
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 144950
 	1078.1.1 = {
@@ -6694,7 +6694,7 @@
 144950 = {  	
 	name = "Robert"
 	dynasty = 3123
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1040.1.1 = {
 		birth = "1040.1.1"
@@ -6711,7 +6711,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_1
 	father = 41014
@@ -6730,7 +6730,7 @@
 129048 = {
 	name = "Geoffrey" #Geoffrey de Mandeville
 	dynasty = 344
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1040.1.1 = {
 		birth = "1040.1.1"
@@ -6743,7 +6743,7 @@
 129049 = {
 	name = "William" #William de Mandeville
 	dynasty = 344
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 129048
 	1065.1.1 = {
@@ -6761,7 +6761,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_2
 	father = 204792
@@ -6777,7 +6777,7 @@
 	name = "Mabel"
 	female = yes
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1128
 	mother = 1123
@@ -6793,7 +6793,7 @@
 	name = "Eria"
 	female = yes
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1128
 	mother = 1123
@@ -6808,7 +6808,7 @@
 161114 = {
 	name = "Robert"
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1128
 	mother = 1123
@@ -6823,7 +6823,7 @@
 	name = "Olympias"
 	female = yes
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1128
 	mother = 1123
@@ -6839,7 +6839,7 @@
 	name = "CE_cile"
 	female = yes
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1128
 	mother = 1123
@@ -6855,7 +6855,7 @@
 	name = "Gaitelgrima"
 	female = yes
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 1128
 	mother = 1123
@@ -6872,7 +6872,7 @@
 	# AKA: Sibylla of Normandy, Queen of Scots
 	female = yes
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	trait = education_learning_2
@@ -6889,7 +6889,7 @@
 	name = "Denise"
 	female = yes
 	dynasty = 101754
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 150
 	mother = 149
@@ -6904,7 +6904,7 @@
 161259 = {
 	name = "John"
 	dynasty = 101754
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	father = 148
@@ -6918,7 +6918,7 @@
 
 161329 = {
 	name = "Ralph"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_learning_1
 	1060.1.1 = {
@@ -6932,7 +6932,7 @@
 161450 = {
 	name = "Raoul"
 	dynasty = 385 #de Tosny
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 110637
 	mother = 41223
@@ -6950,7 +6950,7 @@
 161600 = {
 	name = "Raoul"
 	dynasty = 385 #de Tosny
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 161450
 	mother = 161451
@@ -6968,7 +6968,7 @@
 161601 = {
 	name = "Raoul"
 	dynasty = 385 #de Tosny
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 161600
 	mother = 31141
@@ -6990,7 +6990,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "french"
 	trait = arbitrary
 	trait = generous
@@ -7017,7 +7017,7 @@
 168182 = {
 	name = "William"
 	dynasty = 751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 41004
 	mother = 168181
@@ -7038,7 +7038,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = arbitrary
 	trait = education_learning_2
@@ -7060,7 +7060,7 @@
 	# AKA: Elizabeth FitzRoy, Duchess of Galloway
 	female = yes
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	trait = education_intrigue_1
@@ -7078,7 +7078,7 @@
 	# AKA: Matilda FitzRoy, Countess of Perche
 	female = yes
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	trait = education_stewardship_2
@@ -7095,7 +7095,7 @@
 	name = "Richard"
 	# AKA: Richard of Lincoln
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	trait = education_martial_2
@@ -7112,7 +7112,7 @@
 	name = "Gilbert"
 	# AKA: Gilbert FitzRoy
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	trait = education_learning_3
@@ -7130,7 +7130,7 @@
 	# AKA: Alice FitzRoy, Viscountess de Montmorency
 	female = yes
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	trait = education_stewardship_2
@@ -7147,7 +7147,7 @@
 	name = "Fulk"
 	# AKA: Fulk FitzRoy
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	trait = education_learning_1
@@ -7165,7 +7165,7 @@
 	# AKA: Juliana FitzRoy
 	female = yes
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	trait = education_diplomacy_1
@@ -7183,7 +7183,7 @@
 	# AKA: Gundred FitzRoy
 	female = yes
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = twin
 	trait = bastard
@@ -7202,7 +7202,7 @@
 	# AKA: Rohese FitzRoy
 	female = yes
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = twin
 	trait = bastard
@@ -7220,7 +7220,7 @@
 	name = "Henry"
 	# AKA: Henry FitzRoy
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	trait = education_martial_1
@@ -7238,7 +7238,7 @@
 	name = "Robert"
 	# AKA: Robert FitzRoy, Lord Okehampton
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	trait = education_stewardship_3
@@ -7255,7 +7255,7 @@
 	name = "William"
 	# AKA: William FitzRoy / Constable
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	trait = education_martial_2
@@ -7272,7 +7272,7 @@
 	name = "William"
 	# AKA: William de Tracy, Baron of Bradninch
 	dynasty = 752
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = bastard
 	trait = education_diplomacy_2
@@ -7288,7 +7288,7 @@
 183011 = {
 	name = "Fredesendis"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	1020.1.2 = {
 		birth = "1020.1.2"
@@ -7305,7 +7305,7 @@
 	name = "Radulf"
 	# AKA: Raoul de Conteville
 	dynasty = 101754
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_martial_1
 	father = 41000
@@ -7328,7 +7328,7 @@
 	name = "Jean"
 	# AKA: Jean de Conteville
 	dynasty = 101754
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_stewardship_1
 	father = 41000
@@ -7351,7 +7351,7 @@
 	name = "Richard"
 	# AKA: Richard de Conteville
 	dynasty = 101754
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_diplomacy_1
 	father = 41000
@@ -7381,7 +7381,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = chaste
 	trait = education_diplomacy_2
@@ -7398,7 +7398,7 @@
 7474 = {
 	name = "William"
 	dynasty = 721
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = greedy
 	trait = education_intrigue_1
@@ -7414,7 +7414,7 @@
 180691 = {
 	name = "Robert"
 	# Archbishop of Canterbury
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_stewardship_3
 	995.1.1 = {
@@ -7431,7 +7431,7 @@
 	father = 72123
 	mother = 72125
 
-	religion = catholic
+	religion = nicean
 	culture = norman
 
 	1136.1.1 = {
@@ -7452,7 +7452,7 @@
 	father = 72123
 	mother = 72125
 
-	religion = catholic
+	religion = nicean
 	culture = norman
 
 	1138.1.1 = {
@@ -7470,7 +7470,7 @@
 	father = 72123
 	mother = 72125
 
-	religion = catholic
+	religion = nicean
 	culture = norman
 
 	1140.1.1 = {
@@ -7488,7 +7488,7 @@
 	father = 72123
 	mother = 72125
 
-	religion = catholic
+	religion = nicean
 	culture = norman
 
 	1142.1.1 = {
@@ -7502,7 +7502,7 @@
 	name = Simon
 	dynasty = 1046036
 
-	religion = catholic
+	religion = nicean
 	culture = norman
 
 	1100.1.1 = {
@@ -7523,7 +7523,7 @@
 	father = 85002
 	#mother = 200365
 
-	religion = catholic
+	religion = nicean
 	culture = norman
 
 	1071.1.1 = {
@@ -7537,7 +7537,7 @@
 30842 = {
 	name = "Rainolf" # Rainolf Drengot
 	dynasty = 676
-	religion = catholic
+	religion = nicean
 	culture = norman
 	father = 144702
 	
@@ -7559,7 +7559,7 @@
 30843 = {
 	name = "Richard" # Richard Drengot
 	dynasty = 676
-	religion = catholic
+	religion = nicean
 	culture = norman
 	father = 144702
 	
@@ -7575,7 +7575,7 @@
 	name = "Gaitelgrima" # Gaitelgrima Drengot
 	female = yes
 	dynasty = 676
-	religion = catholic
+	religion = nicean
 	culture = norman
 	father = 144702
 	
@@ -7590,7 +7590,7 @@
 norman0001 = {
 	name = "Asclettin" # Asclettin di Sicignano
 	dynasty = sicignano
-	religion = catholic
+	religion = nicean
 	culture = norman
 	trait = education_martial_2
 
@@ -7608,7 +7608,7 @@ norman0001 = {
 norman0002 = {
 	name = "Geoffroy" # Geoffroy de Medania
 	dynasty = medania
-	religion = catholic
+	religion = nicean
 	culture = norman
 
 	father = norman0003
@@ -7627,7 +7627,7 @@ norman0002 = {
 norman0003 = {
 	name = "Robert" # Robert de Medania
 	dynasty = medania
-	religion = catholic
+	religion = nicean
 	culture = norman
 	trait = education_martial_1
 
@@ -7642,7 +7642,7 @@ norman0003 = {
 norman0004 = {
 	name = "Roger" # Roger de Sanseverino
 	dynasty = 101843
-	religion = catholic
+	religion = nicean
 	culture = norman
 
 	father = norman0005
@@ -7661,7 +7661,7 @@ norman0004 = {
 norman0005 = {
 	name = "Turgise" # Turgise de Sanseverino
 	dynasty = 101843
-	religion = catholic
+	religion = nicean
 	culture = norman
 	trait = education_martial_2
 
@@ -7679,7 +7679,7 @@ norman0005 = {
 norman0006 = {
 	name = "Robert" # Robert de Sanseverino
 	dynasty = 101843
-	religion = catholic
+	religion = nicean
 	culture = norman
 
 	father = norman0005
@@ -7695,7 +7695,7 @@ norman0006 = {
 norman0007 = {
 	name = "Robert" # Robert de Sanseverino
 	dynasty = 101843
-	religion = catholic
+	religion = nicean
 	culture = norman
 
 	father = norman0004
@@ -7712,7 +7712,7 @@ norman0007 = {
 norman0008 = {
 	name = "Turgise" # Turgise de Sanseverino
 	dynasty = 101843
-	religion = catholic
+	religion = nicean
 	culture = norman
 
 	father = norman0004
@@ -7729,7 +7729,7 @@ norman0008 = {
 norman0009 = {
 	name = "Roger" # Roger de Sanseverino
 	dynasty = 101843
-	religion = catholic
+	religion = nicean
 	culture = norman
 
 	father = norman0004
@@ -7746,7 +7746,7 @@ norman0009 = {
 norman0010 = {
 	name = "Geoffrey" # Geoffrey di Marsico
 	dynasty_house = house_marsico
-	religion = catholic
+	religion = nicean
 	culture = norman
 
 	father = 1132
@@ -7764,7 +7764,7 @@ norman0011 = {
 	name = "Flandine" # Flandine de Hauteville, wife of Enrico del Vasto
 	female = yes
 	dynasty = 678
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	trait = education_diplomacy_1
 
@@ -7782,7 +7782,7 @@ norman0011 = {
 norman0012 = {
 	name = "Manfred" # Manfred di Paternò
 	dynasty_house = house_paterno
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 
 	father = 70978
@@ -7799,7 +7799,7 @@ norman0012 = {
 norman0013 = {
 	name = "Jordan" # Jordan di Paternò
 	dynasty_house = house_paterno
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 
 	father = 70978
@@ -7816,7 +7816,7 @@ norman0013 = {
 norman0014 = {
 	name = "Folbert"
 	dynasty = 101755
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	978.1.1 = {
 		birth = "978.1.1"
@@ -7829,7 +7829,7 @@ norman0014 = {
 norman0015 = {
 	name = "Walkelin" # father of Henry de Ferrers
 	dynasty = 352
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	983.1.1 = {
 		birth = yes
@@ -7842,7 +7842,7 @@ norman0015 = {
 norman0016 = {
 	name = "William" # son of Walkelin de Ferrers
 	dynasty = 352
-	religion = "catholic"
+	religion = "nicean"
 	culture = norman
 	father = norman0015
 	1028.1.1 = {
@@ -7856,7 +7856,7 @@ norman0016 = {
 norman0017 = {
 	name = "William" # son of Henry de Ferrers
 	dynasty = 352
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 41241
 	1060.1.1 = {
@@ -7871,7 +7871,7 @@ norman0018 = {
 	name = "Amicia" # daughter of Henry de Ferrers
 	female = yes
 	dynasty = 352
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norman"
 	father = 41241
 	1066.1.1 = {

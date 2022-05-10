@@ -1497,7 +1497,7 @@
 	diplomacy = 3
 	intrigue = 4
 	stewardship = 5
-	religion = "orthodox"
+	religion = "nicean"
 	culture = "bedouin"
 	trait = education_martial_2
 	trait = brave

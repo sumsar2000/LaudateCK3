@@ -4,7 +4,7 @@
 # Joel's dad: here so that Joel gets his preferred patronymic. 
 easteregg_joel_hansson_father = {
 	name="Hans" # Father to get "Hansson" for easteregg_joel_hansson
-	religion="catholic"
+	religion="nicean"
 	culture="danish"
 	
 	1010.2.7 = {
@@ -23,7 +23,7 @@ easteregg_alexia_belfort = {
 	name = "Alexia"
 	dynasty = easteregg_de_belfort
 	dna = easteregg_alexia_belfort
-	religion = catholic
+	religion = nicean
 	culture = french
 	female = yes
 	sexuality = bisexual

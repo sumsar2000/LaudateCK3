@@ -6,7 +6,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_learning_3
 	father = 101543
@@ -27,7 +27,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = generous
 	trait = temperate
@@ -49,7 +49,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = diligent
 	trait = brave
@@ -74,7 +74,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = humble
 	trait = education_learning_2
@@ -96,7 +96,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = diligent
 	trait = education_learning_2
@@ -118,7 +118,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = humble
 	trait = hunchbacked
@@ -141,7 +141,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = just
 	trait = education_intrigue_2
@@ -162,7 +162,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = catholic
+	religion = nicean
 	culture = norwegian
 	trait = zealous
 	trait = greedy
@@ -243,7 +243,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = greedy
 	trait = honest
@@ -271,7 +271,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_stewardship_2
 	father = 102531
@@ -291,7 +291,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = generous
 	trait = calm
@@ -319,7 +319,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 102531
 	mother = 633
@@ -340,7 +340,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = lustful
 	trait = just
@@ -363,7 +363,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = zealous
 	trait = hunchbacked
@@ -393,7 +393,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = lustful
 	trait = lisping
@@ -424,7 +424,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_learning_3
 	1038.1.2 = {
@@ -442,7 +442,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norse"
 	trait = generous
 	trait = temperate
@@ -469,7 +469,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = greedy
 	trait = education_stewardship_3
@@ -490,7 +490,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = calm
 	trait = temperate
@@ -515,7 +515,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = wrathful
 	trait = education_diplomacy_2
@@ -537,7 +537,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_intrigue_2
 	father = 102553
@@ -558,7 +558,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = chaste
 	trait = honest
@@ -579,7 +579,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = craven
 	trait = education_martial_3
@@ -599,7 +599,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = diligent
 	trait = greedy
@@ -623,7 +623,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = lustful
 	trait = education_learning_2
@@ -648,7 +648,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = just
 	trait = temperate
@@ -672,7 +672,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_learning_3
 	father = 102567
@@ -692,7 +692,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 102568
 	mother = 101522
@@ -711,7 +711,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = just
 	trait = education_intrigue_1
@@ -735,7 +735,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = calm
 	trait = education_intrigue_2
@@ -754,7 +754,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = cynical
 	trait = lisping
@@ -776,7 +776,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = ill
 	trait = education_stewardship_2
@@ -792,7 +792,7 @@
 144248 = {
 	name = "Ogmund"
 	dynasty = 455
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 102547
 	mother = 102506
@@ -807,7 +807,7 @@
 144250 = {
 	name = "Jon"
 	dynasty = 101706
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 202021
 	1215.1.1 = {
@@ -821,7 +821,7 @@
 144632 = {
 	name = "Teitur"
 	dynasty = 101891
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norse"
 	father = 20579
 	1041.1.1 = {
@@ -835,7 +835,7 @@
 144633 = {
 	name = "Hallur"
 	dynasty = 101891
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 144632
 	1075.1.1 = {
@@ -849,7 +849,7 @@
 144647 = {
 	name = "Gissur"
 	dynasty = 101891
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 202012
 	1208.1.1 = {
@@ -868,7 +868,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = diligent
 	trait = education_martial_2
@@ -887,7 +887,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = zealous
 	trait = education_learning_2
@@ -906,7 +906,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_martial_3
 	1039.1.1 = {
@@ -924,7 +924,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_martial_3
 	1039.1.1 = {
@@ -942,7 +942,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = zealous
 	trait = education_learning_2
@@ -961,7 +961,7 @@
 	diplomacy = 2
 	intrigue = 10
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = deceitful
 	trait = greedy
@@ -981,7 +981,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_martial_2
 	1150.1.1 = {
@@ -999,7 +999,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = lazy
 	trait = honest
@@ -1021,7 +1021,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = brave
 	trait = education_martial_3
@@ -1040,7 +1040,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = temperate
 	trait = education_intrigue_1
@@ -1059,7 +1059,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = zealous
 	trait = diligent
@@ -1081,7 +1081,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_martial_2
 	1150.1.1 = {
@@ -1099,7 +1099,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = arbitrary
 	trait = cynical
@@ -1119,7 +1119,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_learning_2
 	1150.1.1 = {
@@ -1137,7 +1137,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = brave
 	trait = education_martial_3
@@ -1156,7 +1156,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = deceitful
 	trait = education_diplomacy_2
@@ -1176,7 +1176,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = generous
 	trait = calm
@@ -1197,7 +1197,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = greedy
 	trait = education_martial_3
@@ -1216,7 +1216,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = diligent
 	trait = education_stewardship_2
@@ -1235,7 +1235,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_learning_3
 	1101.1.1 = {
@@ -1254,7 +1254,7 @@
 	diplomacy = 6
 	intrigue = 9
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = chaste
 	trait = arrogant
@@ -1276,7 +1276,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = lustful
 	trait = gluttonous
@@ -1298,7 +1298,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = greedy
 	trait = education_martial_3
@@ -1321,7 +1321,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = humble
 	trait = education_martial_2
@@ -1342,7 +1342,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = deceitful
 	trait = education_martial_2
@@ -1364,7 +1364,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_intrigue_1
 	father = 202024
@@ -1385,7 +1385,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = calm
 	trait = just
@@ -1413,7 +1413,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_intrigue_1
 	1130.1.1 = {
@@ -1431,7 +1431,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_learning_3
 	father = 20581
@@ -1454,7 +1454,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = legitimized_bastard
 	trait = education_intrigue_1
@@ -1475,7 +1475,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = humble
 	trait = honest
@@ -1499,7 +1499,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = bastard
 	trait = honest
@@ -1523,7 +1523,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = humble
 	trait = education_martial_2
@@ -1547,7 +1547,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_intrigue_1
 	1155.1.1 = {
@@ -1565,7 +1565,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 202030
 	mother = 202506
@@ -1584,7 +1584,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = temperate
 	trait = humble
@@ -1606,7 +1606,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = lustful
 	trait = education_diplomacy_3
@@ -1629,7 +1629,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_diplomacy_3
 	father = 202034 # Skule Bårdsson
@@ -1648,7 +1648,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = honest
 	trait = education_martial_2
@@ -1675,7 +1675,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_diplomacy_3
 	1119.1.1 = {
@@ -1693,7 +1693,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_intrigue_1
 	1128.1.1 = {
@@ -1712,7 +1712,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_intrigue_1
 	father = 202040
@@ -1732,7 +1732,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = clubfooted
 	trait = education_martial_2
@@ -1759,7 +1759,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = diligent
 	trait = education_martial_2
@@ -1783,7 +1783,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = arrogant
 	trait = education_martial_2
@@ -1804,7 +1804,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = arrogant
 	trait = diligent
@@ -1824,7 +1824,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = diligent
 	trait = cynical
@@ -1852,7 +1852,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = legitimized_bastard
 	trait = gluttonous
@@ -1874,7 +1874,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_martial_2
 	father = 202500
@@ -1894,7 +1894,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = chaste
 	trait = greedy
@@ -1917,7 +1917,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = greedy
 	trait = gluttonous
@@ -1941,7 +1941,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = humble
 	father = 202500
@@ -1962,7 +1962,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = arrogant
 	trait = lustful
@@ -1984,7 +1984,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = gregarious
 	trait = education_martial_2
@@ -2005,7 +2005,7 @@
 	diplomacy = 5
 	intrigue = 3
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 202503
 	1200.1.1 = {
@@ -2024,7 +2024,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = lustful
 	trait = education_diplomacy_3
@@ -2047,7 +2047,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = gluttonous
 	trait = legitimized_bastard
@@ -2071,7 +2071,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = diligent
 	trait = legitimized_bastard
@@ -2096,7 +2096,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = hunchbacked
 	trait = education_martial_2
@@ -2121,7 +2121,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = lustful
 	trait = legitimized_bastard
@@ -2143,7 +2143,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = legitimized_bastard
 	trait = education_martial_2
@@ -2164,7 +2164,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = ill
 	trait = education_intrigue_2
@@ -2184,7 +2184,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = zealous
 	trait = wrathful
@@ -2205,7 +2205,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = just
 	trait = arrogant
@@ -2227,7 +2227,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = temperate
 	trait = diligent
@@ -2249,7 +2249,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norse"
 	trait = diligent
 	trait = education_intrigue_2
@@ -2268,7 +2268,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norse"
 	trait = greedy
 	trait = arbitrary
@@ -2290,7 +2290,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_learning_2
 	father = 20580
@@ -2310,7 +2310,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = temperate
 	trait = lustful
@@ -2333,7 +2333,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = just
 	trait = education_diplomacy_4
@@ -2361,7 +2361,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = greedy
 	trait = cynical
@@ -2388,7 +2388,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = greedy
 	trait = arrogant
@@ -2414,7 +2414,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 5788
 	1095.1.1 = {
@@ -2436,7 +2436,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 220036
 	1095.1.1 = {
@@ -2455,7 +2455,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 220023
 	mother = 220025
@@ -2475,7 +2475,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = humble
 	trait = education_learning_2
@@ -2495,7 +2495,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 102538
 	mother = 220035
@@ -2515,7 +2515,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 220036
 	1097.1.2 = {
@@ -2536,7 +2536,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = cynical
 	trait = education_intrigue_1
@@ -2557,7 +2557,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = wrathful
 	trait = education_martial_2
@@ -2579,7 +2579,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = wrathful
 	trait = education_stewardship_2
@@ -2601,7 +2601,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 220022
 	mother = 220047
@@ -2621,7 +2621,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = lunatic_1
 	trait = brave
@@ -2656,7 +2656,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = zealous
 	trait = education_intrigue_1
@@ -2678,7 +2678,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = brave
 	trait = legitimized_bastard
@@ -2700,7 +2700,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = legitimized_bastard
 	trait = education_stewardship_2
@@ -2717,7 +2717,7 @@
 	name = "Magnus" # Magnus The Blind IV of Norway
 	# AKA: Magnus Sigurdsson
 	dynasty = 499
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = legitimized_bastard
 	trait = education_intrigue_1
@@ -2742,7 +2742,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = brave
 	trait = education_martial_2
@@ -2762,7 +2762,7 @@
 	diplomacy = 9
 	intrigue = 8
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = diligent
 	trait = education_diplomacy_3
@@ -2785,7 +2785,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_intrigue_2
 	1021.1.1 = {
@@ -2804,7 +2804,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = lustful
 	trait = education_martial_2
@@ -2825,7 +2825,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = honest
 	trait = education_martial_2
@@ -2848,7 +2848,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = temperate
 	trait = education_intrigue_1
@@ -2866,7 +2866,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_martial_2
 	1050.1.1 = {
@@ -2885,7 +2885,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_learning_2
 	father = 450661
@@ -2906,7 +2906,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = humble
 	trait = education_martial_3
@@ -2930,7 +2930,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = legitimized_bastard
 	trait = education_learning_2
@@ -2951,7 +2951,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = greedy
 	trait = arrogant
@@ -2975,7 +2975,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = lustful
 	trait = lazy
@@ -3001,7 +3001,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_martial_3
 	1260.1.2 = {
@@ -3024,7 +3024,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_learning_2
 	1260.1.2 = {
@@ -3043,7 +3043,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = honest
 	trait = education_intrigue_1
@@ -3065,7 +3065,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = calm
 	trait = hunchbacked
@@ -3091,7 +3091,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_intrigue_2
 	1290.1.2 = {
@@ -3111,7 +3111,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = greedy
 	trait = education_stewardship_2
@@ -3134,7 +3134,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = chaste
 	trait = greedy
@@ -3157,7 +3157,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = honest
 	trait = greedy
@@ -3182,7 +3182,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = lustful
 	trait = just
@@ -3204,7 +3204,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_intrigue_2
 	father = 450781
@@ -3228,7 +3228,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = humble
 	trait = education_intrigue_1
@@ -3251,7 +3251,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = diligent
 	trait = education_learning_3
@@ -3272,7 +3272,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_intrigue_1
 	father = 450784
@@ -3293,7 +3293,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = just
 	trait = humble
@@ -3318,7 +3318,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = arrogant
 	trait = education_intrigue_2
@@ -3338,7 +3338,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_martial_2
 	father = 450780
@@ -3360,7 +3360,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 450780
 	mother = 450783
@@ -3381,7 +3381,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = lustful
 	trait = education_intrigue_1
@@ -3403,7 +3403,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = calm
 	trait = cynical
@@ -3429,7 +3429,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_diplomacy_3
 	1228.1.2 = {
@@ -3452,7 +3452,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_intrigue_2
 	1248.1.2 = {
@@ -3471,7 +3471,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = lustful
 	trait = greedy
@@ -3494,7 +3494,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = humble
 	trait = education_martial_2
@@ -3516,7 +3516,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = cynical
 	trait = education_learning_3
@@ -3541,7 +3541,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_intrigue_1
 	1300.1.2 = {
@@ -3560,7 +3560,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = generous
 	trait = education_martial_2
@@ -3582,7 +3582,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_learning_2
 	father = 450805
@@ -3603,7 +3603,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = calm
 	trait = education_intrigue_1
@@ -3626,7 +3626,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = deceitful
 	trait = wrathful
@@ -3649,7 +3649,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = craven
 	trait = education_learning_2
@@ -3672,7 +3672,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = humble
 	trait = wrathful
@@ -3696,7 +3696,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = clubfooted
 	trait = education_learning_2
@@ -3721,7 +3721,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = greedy
 	trait = education_learning_2
@@ -3744,7 +3744,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = calm
 	trait = zealous
@@ -3765,7 +3765,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = lustful
 	trait = education_intrigue_2
@@ -3785,7 +3785,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_intrigue_1
 	father = 452600
@@ -3806,7 +3806,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_learning_3
 	father = 452600
@@ -3828,7 +3828,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_learning_3
 	father = 452600
@@ -3849,7 +3849,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_learning_3
 	father = 452600
@@ -3870,7 +3870,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = lazy
 	trait = education_learning_2
@@ -3892,7 +3892,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = arrogant
 	trait = education_martial_3
@@ -3914,7 +3914,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = wrathful
 	trait = education_stewardship_2
@@ -3937,7 +3937,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = arrogant
 	trait = lisping
@@ -3958,7 +3958,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = calm
 	trait = education_stewardship_2
@@ -3983,7 +3983,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = generous
 	trait = arrogant
@@ -4004,7 +4004,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_diplomacy_3
 	1300.1.2 = {
@@ -4026,7 +4026,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_learning_2
 	father = 452620
@@ -4047,7 +4047,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = just
 	trait = honest
@@ -4068,7 +4068,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = calm
 	trait = greedy
@@ -4091,7 +4091,7 @@
 	diplomacy = 9
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_intrigue_2
 	father = 5793
@@ -4111,7 +4111,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = education_diplomacy_2
 	trait = lustful
@@ -4136,7 +4136,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = clubfooted
 	trait = education_learning_2
@@ -4160,7 +4160,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = brave
 	trait = education_martial_2
@@ -4188,7 +4188,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = clubfooted
 	trait = education_learning_2
@@ -4206,7 +4206,7 @@
 7349 = {
 	name = "Erlend"
 	dynasty = 461
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 7351
 	1114.1.1 = {
@@ -4220,7 +4220,7 @@
 7350 = {
 	name = "PAAl"
 	dynasty = 461
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 220036
 	1094.1.1 = {
@@ -4234,7 +4234,7 @@
 7351 = {
 	name = "Harald"
 	dynasty = 461
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 220036
 	1094.1.1 = {
@@ -4249,7 +4249,7 @@
 	name = "Magnus"
 	#AKA Saint Magnus
 	dynasty = 461
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = lustful
 	trait = lisping
@@ -4267,7 +4267,7 @@
 7392 = {
 	name = "Magnus"
 	dynasty_house = house_british_isles_crovan
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 220046
 	1195.1.1 = {
@@ -4281,7 +4281,7 @@
 7393 = {
 	name = "Ragnall"
 	dynasty_house = house_british_isles_crovan
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 220046
 	1194.1.1 = {
@@ -4295,7 +4295,7 @@
 7394 = {
 	name = "Harald"
 	dynasty_house = house_british_isles_crovan
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 220046
 	1193.1.1 = {
@@ -4313,7 +4313,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 5788
 	1094.1.1 = {
@@ -4331,7 +4331,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 83244
 	1069.1.1 = {
@@ -4349,7 +4349,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 83240
 	1102.1.1 = {
@@ -4367,7 +4367,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 83240
 	1104.1.1 = {
@@ -4385,7 +4385,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 83241
 	1124.1.1 = {
@@ -4403,7 +4403,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	1041.1.1 = {
 		birth = "1041.1.1"
@@ -4420,7 +4420,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 83244
 	1072.1.1 = {
@@ -4438,7 +4438,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 83245
 	1093.1.1 = {
@@ -4456,7 +4456,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 83246
 	1114.1.1 = {
@@ -4474,7 +4474,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 83246
 	1133.1.1 = {
@@ -4492,7 +4492,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 83241
 	1131.1.1 = {
@@ -4505,7 +4505,7 @@
 
 151013 = {
 	name = "Svend" #Nordmand
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = intellect_good_1
 	trait = education_learning_2
@@ -4524,7 +4524,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 83366
 	mother = 83369
@@ -4543,7 +4543,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 83370
 	1066.1.1 = {
@@ -4561,7 +4561,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 83371
 	1097.1.1 = {
@@ -4579,7 +4579,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 83372
 	1133.1.1 = {
@@ -4593,7 +4593,7 @@
 143129 = {
 	name = "Austmod"
 	dynasty = 444
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 102575
 	1050.1.1 = {
@@ -4607,7 +4607,7 @@
 143130 = {
 	name = "Austmod"
 	dynasty = 444
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 143129
 	1110.1.1 = {
@@ -4621,7 +4621,7 @@
 161125 = {
 	name = "Inge"
 	dynasty = 1030031
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = legitimized_bastard
 	father = 202051
@@ -4636,7 +4636,7 @@
 161126 = {
 	name = "Erling"
 	dynasty = 1030031
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = legitimized_bastard
 	father = 202051
@@ -4652,7 +4652,7 @@
 	name = "Ragnhild"
 	female = yes
 	dynasty = 2033
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 202040
 	mother = 202041
@@ -4668,7 +4668,7 @@
 	name = "Rangrid"
 	female = yes
 	dynasty = 2033
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	mother = 161127
 	1157.1.1 = {
@@ -4684,7 +4684,7 @@
 	name = "Ingebjorg"
 	female = yes
 	dynasty = 1030031
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 202051
 	mother = 161128
@@ -4700,7 +4700,7 @@
 	name = "Margret"
 	female = yes
 	dynasty = 1030031
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 202051
 	mother = 161128
@@ -4715,7 +4715,7 @@
 161124 = {
 	name = "Asulf"
 	dynasty = 2033
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 125
 	1075.1.1 = {
@@ -4732,7 +4732,7 @@
 161297 = {
 	name = "Erling"
 	dynasty = 461
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 102539
 	mother = 161327
@@ -4748,7 +4748,7 @@
 	name = "Gunhild"
 	female = yes
 	dynasty = 461
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 102539
 	mother = 161327
@@ -4764,7 +4764,7 @@
 	name = "Cecilia"
 	female = yes
 	dynasty = 461
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 102539
 	mother = 161327
@@ -4780,7 +4780,7 @@
 	name = "Jaddvor"
 	female = yes
 	dynasty = 461
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = bastard
 	father = 102539
@@ -4796,7 +4796,7 @@
 	name = "Thora"
 	female = yes
 	dynasty = 461
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 161326
 	1040.1.1 = {
@@ -4811,7 +4811,7 @@
 	name = "Ragnhild"
 	female = yes
 	dynasty = 499
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	trait = legitimized_bastard
 	father = 202511
@@ -4827,7 +4827,7 @@
 	name = "Kristina" #Sverresdotter
 	female = yes
 	dynasty = 499
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 202500
 	mother = 200506 #Margaret of Sweden
@@ -4843,7 +4843,7 @@
 	name = "Kristina" #Christina of Norway
 	female = yes
 	dynasty = 499
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 202509 # Håkon Håkonsson
 	mother = 202035 # Margareta Skulesdotter
@@ -4858,7 +4858,7 @@
 170007 = {
 	name = "HA_kon" # Håkon the Young
 	dynasty = 499
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 202509 # Håkon Håkonsson
 	mother = 202035 # Margareta Skulesdotter
@@ -4879,7 +4879,7 @@
 170008 = {
 	name = "Sverre" # Son of Håkon the Young
 	dynasty = 499
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 170007 # Håkon the Young
 	mother = 30605 # Rikissa Birgersdotter
@@ -4895,7 +4895,7 @@
 	name = "Ingeborg" #Ingeborg Eriksdottir
 	female = yes
 	dynasty = 499
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 6906 # Erik Prästhatare
 	mother = 453061 # Isabel Bruce
@@ -4910,7 +4910,7 @@
 166050 = {
 	name = "Bjolan"
 	dynasty_house = house_irakonungr
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 166047
 	1003.1.1 = {
@@ -4924,7 +4924,7 @@
 183902 = {
 	name = "Ogmund"
 	dynasty = 453
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 102553
 	mother = 102557
@@ -4939,7 +4939,7 @@
 183903 = {
 	name = "Finn"
 	dynasty = 453
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 102553
 	mother = 102557
@@ -4954,7 +4954,7 @@
 183904 = {
 	name = "Thord"
 	dynasty = 453
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 102553
 	mother = 102557
@@ -4970,7 +4970,7 @@
 	name = "Ragna"
 		female = yes
 	dynasty = 455
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 102547
 	mother = 102506
@@ -4985,7 +4985,7 @@
 183906 = {
 	name = "Munan"
 	dynasty = 455
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 144248
 	1100.1.1 = {
@@ -5000,7 +5000,7 @@
 	name = "Astrid"
 		female = yes
 	dynasty = 455
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 144248
 	1102.1.1 = {
@@ -5015,7 +5015,7 @@
 	name = "Ragnhild"
 		female = yes
 	dynasty = 756
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 125
 	1074.1.1 = {
@@ -5030,7 +5030,7 @@
 	name = "Sigrid"
 		female = yes
 	dynasty = 2033
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 161124
 		mother = 102558
@@ -5045,7 +5045,7 @@
 183910 = {
 	name = "Svein"
 	dynasty = 1030031
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	1048.1.1 = {
 		birth = "1048.1.1"
@@ -5061,7 +5061,7 @@
 183911 = {
 	name = "Orm"
 	dynasty = 1030031
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 183910
 	mother = 183905
@@ -5082,7 +5082,7 @@
 183912 = {
 	name = "Ogmund"
 	dynasty = 1030031
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	father = 183911
 	mother = 183908
@@ -5097,7 +5097,7 @@
 183913 = {
 	name = "Ragnhild"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "norwegian"
 	1088.1.1 = {
 		birth = "1088.1.1"
@@ -5109,7 +5109,7 @@
 194313 = {
 	name = "Arnvid"
 	dynasty = 1045068 # av Rogen
-	religion = catholic
+	religion = nicean
 	culture = norwegian
 	1191.1.1 = {
 			birth = yes
@@ -5121,7 +5121,7 @@
 194314 = {
 	name = "Haldor"
 	dynasty = 1045069 # av Bergen
-	religion = catholic
+	religion = nicean
 	culture = norwegian
 	1198.1.1 = {
 			birth = yes
@@ -5133,7 +5133,7 @@
 194315 = {
 	name = "Haldor"
 	dynasty = 1045070 # av Eidsborg
-	religion = catholic
+	religion = nicean
 	culture = norwegian
 	1198.1.1 = {
 			birth = yes
@@ -5145,7 +5145,7 @@
 194316 = {
 	name = "Torgil"
 	dynasty = 1045071 # av Finnmark
-	religion = catholic
+	religion = nicean
 	culture = norwegian
 	1196.1.1 = {
 			birth = yes
@@ -5157,7 +5157,7 @@
 194317 = {
 	name = "Ragnar"
 	dynasty = 1045072 # av Røst
-	religion = catholic
+	religion = nicean
 	culture = norwegian
 	1196.1.1 = {
 			birth = yes
@@ -5168,7 +5168,7 @@
 }
 norwegian.1001 = {	#Fictional holder to allow barony placement.
 	name = "Halfdan"
-	religion = catholic
+	religion = nicean
 	culture = norwegian
 	1030.1.1 = {
 		birth = yes
@@ -5179,7 +5179,7 @@ norwegian.1001 = {	#Fictional holder to allow barony placement.
 }
 norwegian.1002 = {	#Fictional holder to allow barony placement.
 	name = "Haldor"
-	religion = catholic
+	religion = nicean
 	culture = norwegian
 	1030.1.1 = {
 		birth = yes

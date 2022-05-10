@@ -5,7 +5,7 @@
 	# diplomacy = 5
 	# intrigue = 5
 	# stewardship = 5
-	# religion = "catholic"
+	# religion = "nicean"
 	# culture = anglo_saxon
 	# trait = lazy
 	
@@ -24,7 +24,7 @@
 	# diplomacy = 5
 	# intrigue = 5
 	# stewardship = 5
-	# religion = "catholic"
+	# religion = "nicean"
 	# culture = anglo_saxon
 	# trait = gregarious
 	
@@ -43,7 +43,7 @@
 	# diplomacy = 5
 	# intrigue = 5
 	# stewardship = 5
-	# religion = "catholic"
+	# religion = "nicean"
 	# culture = anglo_saxon
 	# trait = arbitrary
 	# trait = arrogant
@@ -64,7 +64,7 @@
 	# diplomacy = 5
 	# intrigue = 5
 	# stewardship = 5
-	# religion = "catholic"
+	# religion = "nicean"
 	# culture = anglo_saxon
 	# trait = arbitrary
 	# trait = arrogant
@@ -85,7 +85,7 @@
 	# diplomacy = 5
 	# intrigue = 5
 	# stewardship = 5
-	# religion = "catholic"
+	# religion = "nicean"
 	# culture = anglo_saxon
 	# trait = brave
 	
@@ -104,7 +104,7 @@
 	# diplomacy = 5
 	# intrigue = 5
 	# stewardship = 5
-	# religion = "catholic"
+	# religion = "nicean"
 	# culture = anglo_saxon
 	# trait = arbitrary
 	
@@ -123,7 +123,7 @@
 	# diplomacy = 5
 	# intrigue = 5
 	# stewardship = 5
-	# religion = "catholic"
+	# religion = "nicean"
 	# culture = anglo_saxon
 	# trait = arbitrary
 	# trait = arrogant
@@ -144,7 +144,7 @@
 	# diplomacy = 5
 	# intrigue = 5
 	# stewardship = 5
-	# religion = "catholic"
+	# religion = "nicean"
 	# culture = anglo_saxon
 	# trait = arbitrary
 	# trait = arrogant

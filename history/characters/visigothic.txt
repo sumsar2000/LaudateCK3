@@ -4,7 +4,7 @@
 
 	father = 200252
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 9
@@ -67,7 +67,7 @@
 
 	father = 70010
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 6
@@ -96,7 +96,7 @@
 	father = 70003
 	mother = 70002
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 6
@@ -131,7 +131,7 @@
 	father = 70004
 	mother = 70005
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 4
@@ -195,7 +195,7 @@
 
 	father = 70011
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 5
@@ -221,7 +221,7 @@
 
 	father = 70011
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 3
@@ -265,7 +265,7 @@
 	father = 70013
 	mother = 70014
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 7
@@ -313,7 +313,7 @@
 	father = 70015
 	mother = 70016
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 6
@@ -362,7 +362,7 @@
 	father = 70017
 	mother = 70018
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 7
@@ -404,7 +404,7 @@
 	intrigue = 5
 	stewardship = 7
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	trait = arrogant
@@ -433,7 +433,7 @@
 	father = 70019
 	mother = 73772
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 6
@@ -499,7 +499,7 @@
 	father = 70021
 	mother = 70022
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 6
@@ -539,7 +539,7 @@
 	father = 70019
 	mother = 73772
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 5
@@ -594,7 +594,7 @@
 	father = 70000
 	mother = 70001
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 6
@@ -627,7 +627,7 @@
 	father = 70003
 	trait = bastard
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 4
@@ -673,7 +673,7 @@
 	name = "Silo" # Silo I, King of Asturias
 	dynasty = 8625
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 5
@@ -716,7 +716,7 @@
 
 	father = 73785
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 6
@@ -772,7 +772,7 @@
 	father = 70150
 	mother = 70151
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 4
@@ -807,7 +807,7 @@
 	father = 70150
 	mother = 70151
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 5
@@ -838,7 +838,7 @@
 	father = 70242
 	mother = 70243
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	935.1.1 = {
@@ -855,7 +855,7 @@
 
 	father = 70272
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	910.1.1 = {
@@ -873,7 +873,7 @@
 	name = "Gonterote"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	920.1.1 = {
@@ -891,7 +891,7 @@
 	father = 70278
 	mother = 70279
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	950.1.1 = {
@@ -1474,7 +1474,7 @@
 	}
 	899.1.1 = {
 		name = "C_amuel"
-		religion = catholic
+		religion = nicean
 	}
 	900.1.1 = {
 		culture = andalusian
@@ -3518,7 +3518,7 @@
 	name = "Ercheswintha" #Ercheswinda, used as wife of Riculfe, the fantasy brother of Fulrad
 	female = yes
 
-	religion = nicean
+	religion = "nicean"
 	culture = "visigothic"
 	
 	690.1.1 = {
@@ -3536,7 +3536,7 @@
 	father = 107680
 	mother = 107681
 
-	religion = catholic
+	religion = nicean
 	culture = visigothic
 
 	martial = 6
@@ -3631,7 +3631,7 @@
 
 	father = 200273
 
-	religion = nicean
+	religion = "nicean"
 	culture = "visigothic"
 
 	550.1.1 = {
@@ -3655,7 +3655,7 @@
 	father = 168716
 	mother = 168717
 
-	religion = nicean
+	religion = "nicean"
 	culture = "visigothic"
 
 	583.1.1 = {
@@ -3675,7 +3675,7 @@
 
 	father = 200244
 
-	religion = nicean
+	religion = "nicean"
 	culture = "visigothic"
 
 	704.1.1 = {
@@ -3727,7 +3727,7 @@
 
 	father = 168720
 
-	religion = nicean
+	religion = "nicean"
 	culture = "visigothic"
 
 	724.1.1 = {
@@ -3745,7 +3745,7 @@
 	name = "Ricilo"
 	female = yes
 
-	religion = nicean
+	religion = "nicean"
 	culture = "visigothic"
 
 	730.1.1 = {
@@ -3760,7 +3760,7 @@
 	name = "Baddo"
 	female = yes
 
-	religion = nicean
+	religion = "nicean"
 	culture = "visigothic"
 
 	555.1.1 = {
@@ -3778,7 +3778,7 @@
 	father = 168723
 	mother = 168724
 
-	religion = nicean
+	religion = "nicean"
 	culture = "visigothic"
 
 	750.1.1 = {
@@ -3793,7 +3793,7 @@
 168730 = {
 	name = "Ricimero"
 	dynasty = 1046033
-	religion = nicean
+	religion = "nicean"
 	culture = "visigothic"
 	father = 200256
 	mother = 200260
@@ -3814,7 +3814,7 @@
 	father = 200243
 	mother = 200236
 
-	religion = nicean
+	religion = "nicean"
 	culture = "visigothic"
 
 	694.1.1 = {
@@ -3832,7 +3832,7 @@
 
 	father = 200276
 
-	religion = nicean
+	religion = "nicean"
 	culture = "visigothic"
 
 	549.1.1 = {
@@ -3847,7 +3847,7 @@
 	name = "Riciberga"
 	female = yes
 
-	religion = nicean
+	religion = "nicean"
 	culture = "visigothic"
 
 	620.1.1 = {
@@ -3862,7 +3862,7 @@
 	name = "Bego" #count of Narbonne
 	dynasty = 1044118 #Begonid
 
-	religion = nicean
+	religion = "nicean"
 	culture = "visigothic"
 
 	750.1.1 = {

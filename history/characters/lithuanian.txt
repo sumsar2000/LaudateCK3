@@ -22,10 +22,10 @@
 		birth = "1195.1.1"
 	}
 	1245.1.1 = {
-		religion = "orthodox"
+		religion = "nicean"
 	}
 	1251.1.1 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	1263.9.12 = {
 		death = "1263.9.12"
@@ -54,7 +54,7 @@
 		birth = "1223.1.1"
 	}
 	1245.1.2 = {
-		religion = "orthodox"
+		religion = "nicean"
 	}
 	1267.4.23 = {
 		death = "1267.4.23"
@@ -72,7 +72,7 @@
 		birth = "1230.1.1"
 	}
 	1245.1.2 = {
-		religion = "orthodox"
+		religion = "nicean"
 	}
 	1280.1.2 = {
 		death = "1280.1.2"
@@ -106,7 +106,7 @@
 		add_spouse = 125011
 	}
 	1250.1.1 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	1264.1.2 = {
 		death = "1264.1.2"
@@ -124,7 +124,7 @@
 		birth = "1230.1.1"
 	}
 	1250.1.1 = {
-		religion = "orthodox"
+		religion = "nicean"
 	}
 	1280.1.2 = {
 		death = "1280.1.2"
@@ -198,7 +198,7 @@
 		birth = "1230.1.1"
 	}
 	1265.1.1 = {
-		religion = "orthodox"
+		religion = "nicean"
 	}
 	1284.1.1 = {
 		add_spouse = 125215
@@ -219,7 +219,7 @@
 		birth = "1260.1.1"
 	}
 	1279.1.1 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	1288.1.1 = {
 		death = "1288.1.1"
@@ -257,7 +257,7 @@
 125316 = {
 	name = "Vladimir"
 	dynasty = 11
-	religion = "orthodox"
+	religion = "nicean"
 	culture = "lithuanian"
 	father = 473506
 	mother = 473512
@@ -272,7 +272,7 @@
 125317 = {
 	name = "Feodor"
 	dynasty = 11
-	religion = "orthodox"
+	religion = "nicean"
 	culture = "lithuanian"
 	father = 473506
 	mother = 473512
@@ -288,7 +288,7 @@
 	name = "Agrafena"
 	female = yes
 	dynasty = 11
-	religion = "orthodox"
+	religion = "nicean"
 	culture = "lithuanian"
 	father = 473506
 	mother = 473512
@@ -496,7 +496,7 @@
 		birth = "1309.1.2"
 	}
 	1325.1.2 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	1339.1.2 = {
 		death = "1339.1.2"
@@ -507,7 +507,7 @@
 	name = "Feodor"
 	# AKA: Teodoras
 	dynasty = 11
-	religion = "orthodox"
+	religion = "nicean"
 	culture = "lithuanian"
 	father = 472352
 	1292.1.1 = {
@@ -524,7 +524,7 @@
 472350 = {
 	name = "Lubko"
 	dynasty = 11
-	religion = "orthodox"
+	religion = "nicean"
 	culture = "lithuanian"
 	father = 472351
 	1305.1.1 = {
@@ -577,7 +577,7 @@
 		birth = "1317.1.2"
 	}
 	1333.1.2 = {
-		religion = "orthodox"
+		religion = "nicean"
 	}
 	1345.1.2 = {
 		death = "1345.1.2"
@@ -596,7 +596,7 @@
 		birth = "1305.1.2"
 	}
 	1320.1.2 = {
-		religion = "orthodox"
+		religion = "nicean"
 	}
 	1348.1.2 = {
 		death = "1348.1.2"
@@ -616,7 +616,7 @@
 		birth = "1316.1.2"
 	}
 	1331.1.2 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	1342.1.2 = {
 		death = "1342.1.2"
@@ -687,7 +687,7 @@
 		birth = "1294.1.2"
 	}
 	1332.1.2 = {
-		religion = "orthodox"
+		religion = "nicean"
 	}
 	1332.1.2 = {
 		name = "Gleb"
@@ -717,7 +717,7 @@
 		add_spouse = 473512
 	}
 	1318.1.2 = {
-		religion = "orthodox"
+		religion = "nicean"
 	}
 	1377.1.2 = {
 		death = "1377.1.2"
@@ -780,7 +780,7 @@
 		birth = "1303.1.2"
 	}
 	1325.1.2 = {
-		religion = "orthodox"
+		religion = "nicean"
 	}
 	1325.1.2 = {
 		name = "Dmitriy"
@@ -798,7 +798,7 @@
 	name = "Andrei"
 	# AKA: Vygantas
 	dynasty = 11
-	religion = "orthodox"
+	religion = "nicean"
 	culture = "lithuanian"
 	father = 473506
 	mother = 473512
@@ -813,7 +813,7 @@
 473514 = {
 	name = "Dmitriy"
 	dynasty = 11
-	religion = "orthodox"
+	religion = "nicean"
 	culture = "lithuanian"
 	father = 473506
 	mother = 473512
@@ -828,7 +828,7 @@
 473515 = {
 	name = "Konstantin"
 	dynasty = 11
-	religion = "orthodox"
+	religion = "nicean"
 	culture = "lithuanian"
 	father = 473506
 	mother = 473512
@@ -844,7 +844,7 @@
 	name = "Elzbieta"
 	female = yes
 	dynasty = 11
-	religion = "catholic"
+	religion = "nicean"
 	culture = "lithuanian"
 	father = 473500
 	mother = 473502
@@ -1948,7 +1948,7 @@
 		birth = "1155.1.1"
 	}
 	1174.1.1 = {
-		religion = "orthodox"
+		religion = "nicean"
 	}
 	1221.1.1 = {
 		death = "1221.1.1"
@@ -2598,7 +2598,7 @@
 	name = "Netimeras"
 	father = 82278
 	dynasty = 9126
-	religion = "catholic" #converted in 1009
+	religion = "nicean" #converted in 1009
 	culture = "lithuanian"
 	950.1.1 = {
 		birth = "950.1.1"

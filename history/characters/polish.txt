@@ -127,7 +127,7 @@
 	diplomacy = 7
 	stewardship = 8
 	learning = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_martial_3
 	trait = brave
@@ -158,7 +158,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = brave
 	trait = ambitious
@@ -190,7 +190,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = greedy
 	trait = arrogant
@@ -208,7 +208,7 @@
 168536 = {
 	name = "WL_adywoj" #duke of Bohemia 1002-1003
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 754
 	mother = 509
@@ -224,7 +224,7 @@
 168538 = {
 	name = "Mieszko"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 754
 	mother = 168525
@@ -240,7 +240,7 @@
 168539 = {
 	name = "SwiE_topeL_k"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 754
 	mother = 168525
@@ -256,7 +256,7 @@
 168540 = {
 	name = "Lambert"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 754
 	mother = 168525
@@ -278,7 +278,7 @@
 	trait = stubborn
 	trait = sadistic
 	trait = arbitrary
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 756
 	mother = 463
@@ -294,7 +294,7 @@
 	name = "Regelinda"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 756
 	mother = 757
@@ -314,7 +314,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = scholar
 	father = 756
@@ -335,7 +335,7 @@
 	name = "Otto"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 756
 	mother = 757
@@ -351,7 +351,7 @@
 	name = "Matilda"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 756
 	1019.1.2 = {
@@ -368,7 +368,7 @@
 	name = "Ryksa"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 758
 	mother = 427
@@ -387,7 +387,7 @@
 	#Removed from k_poland title history due to mucking things up for all the other Bolesławs. Good job, mate.
 	dynasty = 699
 	trait = sadistic
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 758
 	mother = 427
@@ -406,7 +406,7 @@
 	martial = 6
 	stewardship = 7
 	trait = education_stewardship_3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 758
 	mother = 427
@@ -426,7 +426,7 @@
 	name = "Gertruda"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 758
 	mother = 427
@@ -450,7 +450,7 @@
 	intrigue = 6
 	stewardship = 10
 	learning = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = strong
 	trait = diligent
@@ -489,7 +489,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = infirm
 	trait = shy
@@ -516,7 +516,7 @@
 302004 = {
 	name = "Mieszko"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 760
 	mother = 13501
@@ -531,7 +531,7 @@
 302005 = {
 	name = "Otto"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 760
 	mother = 13501
@@ -548,7 +548,7 @@
 	dna = 765_princess_swietoslawa
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 760
 	mother = 13501
@@ -569,7 +569,7 @@
 	name = "Zbigniew"	#Wladyslaw I Herman's first bastard son
 	#10th ruler of Poland
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = bastard
 	father = 764
@@ -599,7 +599,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = ambitious
 	father = 764
@@ -622,7 +622,7 @@
 	name = "Zofia"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 764
 	mother = 1476
@@ -638,7 +638,7 @@
 	name = "Agnieszka"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 764
 	mother = 1476
@@ -654,7 +654,7 @@
 	name = "Adelajda"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 764
 	mother = 1476
@@ -672,7 +672,7 @@
 	name = "WL_adysL_aw"	#Wladyslaw II the Exile
 	#12th ruler of Poland
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221515
 	mother = 222781
@@ -697,7 +697,7 @@
 302007 = {
 	name = "Judyta"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221515
 	mother = 222781
@@ -712,7 +712,7 @@
 302008 = {
 	name = "Leszek"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221515
 	mother = 221519
@@ -728,7 +728,7 @@
 	name = "Ryksa"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221515
 	mother = 221519
@@ -744,7 +744,7 @@
 	name = "Matylda"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221515
 	mother = 222781
@@ -759,7 +759,7 @@
 302009 = {
 	name = "Kazimierz"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221515
 	mother = 221519
@@ -775,7 +775,7 @@
 	name = "Gertruda"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221515
 	mother = 221519
@@ -791,7 +791,7 @@
 	name = "BolesL_aw"	#Boleslaw IV the Curly
 	#13th ruler of Poland
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221515
 	mother = 221519
@@ -810,7 +810,7 @@
 	name = "Mieszko"	#Mieszko III the Old
 	#14th ruler of Poland
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221515
 	mother = 221519
@@ -835,7 +835,7 @@
 	name = "Dobroniega"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221515
 	mother = 221519
@@ -851,7 +851,7 @@
 	name = "Judyta"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221515
 	mother = 221519
@@ -866,7 +866,7 @@
 221510 = {
 	name = "Henryk"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221515
 	mother = 221519
@@ -882,7 +882,7 @@
 	name = "Agnieszka"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221515
 	mother = 221519
@@ -904,7 +904,7 @@
 	stewardship = 7
 	trait = generous
 	trait = education_stewardship_2
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221515
 	mother = 221519
@@ -931,7 +931,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = wrathful
 	trait = greedy
@@ -953,7 +953,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = deceitful
 	trait = temperate
@@ -972,7 +972,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = humble
 	trait = zealous
@@ -992,7 +992,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = arbitrary
 	trait = education_intrigue_2
@@ -1011,7 +1011,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_martial_2
 	1034.1.1 = {
@@ -1029,7 +1029,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = deceitful
 	trait = temperate
@@ -1046,7 +1046,7 @@
 	name = "Maria"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221520
 	mother = 221521
@@ -1061,7 +1061,7 @@
 221524 = {
 	name = "Leszek"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221520
 	mother = 221521
@@ -1079,7 +1079,7 @@
 221525 = {
 	name = "Konrad"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221520
 	mother = 221521
@@ -1098,7 +1098,7 @@
 	name = "Richeza"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221531
 	mother = 212545
@@ -1113,7 +1113,7 @@
 221530 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221531
 	mother = 212545
@@ -1135,7 +1135,7 @@
 221532 = {
 	name = "JarosL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_learning_2
 	father = 221530
@@ -1152,7 +1152,7 @@
 	name = "Olga"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221530
 	mother = 125068
@@ -1167,7 +1167,7 @@
 221534 = {
 	name = "Konrad"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221530
 	mother = 221541
@@ -1182,7 +1182,7 @@
 221535 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221530
 	mother = 221541
@@ -1197,7 +1197,7 @@
 221536 = {
 	name = "Jan"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221530
 	mother = 221541
@@ -1212,7 +1212,7 @@
 221537 = {
 	name = "Henryk"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221530
 	mother = 221541
@@ -1230,7 +1230,7 @@
 221538 = {
 	name = "WL_adysL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221530
 	mother = 221541
@@ -1246,7 +1246,7 @@
 	name = "Berta"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221530
 	mother = 221541
@@ -1262,7 +1262,7 @@
 	name = "Adelajda"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221530
 	mother = 221541
@@ -1277,7 +1277,7 @@
 221550 = {
 	name = "Mieszko"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221531
 	mother = 212545
@@ -1295,7 +1295,7 @@
 221555 = {
 	name = "Kazimierz"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221550
 	mother = 221551
@@ -1310,7 +1310,7 @@
 221561 = {
 	name = "Odon"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221560
 	mother = 219505
@@ -1329,7 +1329,7 @@
 	name = "WierzchosL_awa"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221560
 	mother = 219505
@@ -1345,7 +1345,7 @@
 	name = "ElZ_bieta"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221560
 	mother = 219505
@@ -1361,7 +1361,7 @@
 	name = "Judyta"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221560
 	mother = 219505
@@ -1376,7 +1376,7 @@
 221565 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221560
 	mother = 222826
@@ -1391,7 +1391,7 @@
 221566 = {
 	name = "Mieszko"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221560
 	mother = 222826
@@ -1407,7 +1407,7 @@
 	name = "ZwinisL_awa"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221560
 	mother = 222826
@@ -1423,7 +1423,7 @@
 	name = "Anastazja"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221560
 	mother = 222826
@@ -1439,7 +1439,7 @@
 	name = "Salomea"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221560
 	mother = 222826
@@ -1454,7 +1454,7 @@
 221570 = {
 	name = "WL_adysL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221560
 	mother = 222826
@@ -1476,7 +1476,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_stewardship_3
 	father = 221760
@@ -1496,7 +1496,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_learning_2
 	father = 221750
@@ -1515,7 +1515,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = greedy
 	trait = humble
@@ -1541,7 +1541,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = calm
 	trait = deceitful
@@ -1566,7 +1566,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = just
 	trait = education_diplomacy_2
@@ -1582,7 +1582,7 @@
 	name = "S_wiE_topeL_k" #Swietopelk I
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	
 	father = 221750
@@ -1598,7 +1598,7 @@
 	name = "S_wiE_topeL_k" #Swietopelk II
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	
 	father = 221755
@@ -1616,7 +1616,7 @@
 	name = "WarcisL_aw" #Wartislaw I
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	
 	father = 221755
@@ -1634,7 +1634,7 @@
 	name = "Sambor" #Sambor II
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	
 	father = 221755
@@ -1655,7 +1655,7 @@
 	name = "Ratibor"
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	
 	father = 221755
@@ -1674,7 +1674,7 @@
 	female = yes
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	
 	father = 221755
@@ -1693,7 +1693,7 @@
 	female = yes
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	
 	father = 221755
@@ -1712,7 +1712,7 @@
 	female = yes
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	
 	father = 221755
@@ -1730,7 +1730,7 @@
 	name = "Mszczuj" #Mszczuj II
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	
 	father = 30451
@@ -1752,7 +1752,7 @@
 	name = "WarcisL_aw" #Wartislaw II
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	
 	father = 30451
@@ -1770,7 +1770,7 @@
 	name = "Jan"
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	
 	father = 30451
@@ -1789,7 +1789,7 @@
 	female = yes
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	
 	father = 30451
@@ -1808,7 +1808,7 @@
 	female = yes
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	
 	father = 30458
@@ -1826,7 +1826,7 @@
 	name = "SubisL_aw"
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	
 	father = 30453
@@ -1845,7 +1845,7 @@
 	female = yes
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	
 	father = 30453
@@ -1865,7 +1865,7 @@
 	female = yes
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	
 	father = 30453
@@ -1884,7 +1884,7 @@
 	female = yes
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	
 	father = 30453
@@ -1903,7 +1903,7 @@
 	female = yes
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	
 	father = 30453
@@ -1926,7 +1926,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = generous
 	trait = education_intrigue_1
@@ -1949,7 +1949,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = arrogant
 	trait = temperate
@@ -1969,7 +1969,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 9
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = intellect_good_3
 	trait = education_stewardship_4
@@ -1991,7 +1991,7 @@
 	name = "ElZ_bieta"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471510
 	mother = 471555
@@ -2007,7 +2007,7 @@
 	name = "Kunegunda"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471510
 	mother = 471555
@@ -2023,7 +2023,7 @@
 	name = "ElZ_bieta"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471500
 	mother = 471503
@@ -2039,7 +2039,7 @@
 	name = "Kunegunda"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471500
 	mother = 471503
@@ -2058,7 +2058,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = ambitious
 	trait = education_diplomacy_3
@@ -2078,7 +2078,7 @@
 471515 = {
 	name = "Trojden"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125990
 	mother = 125313
@@ -2100,7 +2100,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = chaste
 	trait = education_martial_3
@@ -2121,7 +2121,7 @@
 	name = "Eufemia"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471515
 	mother = 471516
@@ -2136,7 +2136,7 @@
 471520 = {
 	name = "Kazimierz"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221525
 	mother = 125073
@@ -2160,7 +2160,7 @@
 471521 = {
 	name = "Kazimierz"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471515
 	mother = 471516
@@ -2175,7 +2175,7 @@
 471530 = {
 	name = "SiemomysL_"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471520
 	mother = 125907
@@ -2193,7 +2193,7 @@
 471533 = {
 	name = "PrzemysL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471530
 	mother = 30469
@@ -2208,7 +2208,7 @@
 471534 = {
 	name = "Leszek"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471530
 	mother = 30469
@@ -2223,7 +2223,7 @@
 471535 = {
 	name = "Kazimierz"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471530
 	mother = 30469
@@ -2238,7 +2238,7 @@
 471536 = {
 	name = "WL_adysL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471535
 	1327.1.2 = {
@@ -2256,7 +2256,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = arrogant
 	trait = education_stewardship_2
@@ -2272,7 +2272,7 @@
 	name = "ElZ_bieta"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471535
 	1308.1.2 = {
@@ -2287,7 +2287,7 @@
 	name = "Eufrozyna"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221555
 	1228.1.2 = {
@@ -2301,7 +2301,7 @@
 471550 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 7689
 	1224.1.1 = {
@@ -2320,7 +2320,7 @@
 	name = "Jadwiga"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471550
 	mother = 98038
@@ -2339,7 +2339,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_martial_2
 	father = 471570
@@ -2361,7 +2361,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = chaste
 	trait = calm
@@ -2383,7 +2383,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = lustful
 	trait = education_martial_2
@@ -2402,7 +2402,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = diligent
 	trait = arbitrary
@@ -2423,7 +2423,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_intrigue_1
 	1261.1.2 = {
@@ -2441,7 +2441,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = honest
 	trait = arrogant
@@ -2461,7 +2461,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = greedy
 	trait = craven
@@ -2482,7 +2482,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = diligent
 	trait = education_martial_3
@@ -2503,7 +2503,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = arrogant
 	trait = cynical
@@ -2520,7 +2520,7 @@
 471652 = {
 	name = "Henryk"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125905
 	mother = 96042
@@ -2545,7 +2545,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = lustful
 	trait = arrogant
@@ -2562,7 +2562,7 @@
 471700 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_martial_2
 	father = 471710
@@ -2578,7 +2578,7 @@
 471710 = {
 	name = "Bernard"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471735
 	mother = 33740
@@ -2596,7 +2596,7 @@
 471720 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471722
 	mother = 471723
@@ -2615,7 +2615,7 @@
 	name = "ElZ_bieta"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471710
 	mother = 471502
@@ -2630,7 +2630,7 @@
 471722 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471724
 	mother = 125980
@@ -2648,7 +2648,7 @@
 471723 = {
 	name = "GrzymisL_awa"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1260.1.2 = {
 		birth = "1260.1.2"
@@ -2661,7 +2661,7 @@
 471724 = {
 	name = "WL_adysL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221555
 	1225.1.2 = {
@@ -2678,7 +2678,7 @@
 471725 = {
 	name = "WL_adysL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471720
 	mother = 471721
@@ -2693,7 +2693,7 @@
 471726 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471720
 	mother = 471721
@@ -2709,7 +2709,7 @@
 	name = "Euphemia"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471732
 	mother = 471733
@@ -2724,7 +2724,7 @@
 471730 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = generous
 	father = 471732
@@ -2746,7 +2746,7 @@
 471732 = {
 	name = "Henryk"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471734
 	mother = 125997
@@ -2769,7 +2769,7 @@
 	name = "ElZ_bieta"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471550
 	mother = 98038
@@ -2784,7 +2784,7 @@
 471734 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125905
 	mother = 96042
@@ -2805,7 +2805,7 @@
 471735 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = just
 	trait = greedy
@@ -2826,7 +2826,7 @@
 471736 = {
 	name = "WL_adysL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471732
 	mother = 471733
@@ -2847,7 +2847,7 @@
 471737 = {
 	name = "WacL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471730
 	mother = 96061
@@ -2862,7 +2862,7 @@
 471738 = {
 	name = "Ludwik"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = just
 	father = 471730
@@ -2879,7 +2879,7 @@
 	name = "Katarzyna"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471730
 	mother = 96061
@@ -2894,7 +2894,7 @@
 471740 = {
 	name = "Kazimierz"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471741
 	1280.1.2 = {
@@ -2911,7 +2911,7 @@
 471741 = {
 	name = "Mieszko"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471724
 	mother = 125980
@@ -2926,7 +2926,7 @@
 471742 = {
 	name = "WL_adysL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471740
 	mother = 471519
@@ -2941,7 +2941,7 @@
 471743 = {
 	name = "PrzemysL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471740
 	mother = 471519
@@ -2956,7 +2956,7 @@
 472900 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471515
 	mother = 471516
@@ -2965,7 +2965,7 @@
 	}
 	1325.1.2 = {
 		name = "Yuriy"
-		religion = "orthodox"
+		religion = "nicean"
 	}
 	1331.1.2 = {
 		add_spouse = 472901
@@ -2979,7 +2979,7 @@
 	name = "Eudoxia"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221525
 	mother = 125073
@@ -2998,7 +2998,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = calm
 	trait = education_intrigue_1
@@ -3014,7 +3014,7 @@
 	name = "Adleta"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 752
 	934.1.2 = {
@@ -3032,7 +3032,7 @@
 	diplomacy = 5
 	intrigue = 10
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_intrigue_2
 	1044.1.2 = {
@@ -3046,7 +3046,7 @@
 7689 = {
 	name = "WL_adysL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221561
 	mother = 222509
@@ -3061,7 +3061,7 @@
 7690 = {
 	name = "PrzemysL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 7689
 	1220.6.5 = {
@@ -3079,7 +3079,7 @@
 	name = "Konstancja"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 7690
 	mother = 125927
@@ -3098,7 +3098,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_learning_3
 	1020.1.2 = {
@@ -3112,7 +3112,7 @@
 125901 = {
 	name = "Mieszko"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 762
 	mother = 161257
@@ -3130,7 +3130,7 @@
 125903 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221537
 	mother = 212943
@@ -3145,7 +3145,7 @@
 125904 = {
 	name = "Konrad"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221537
 	mother = 212943
@@ -3160,7 +3160,7 @@
 125905 = {
 	name = "Henryk"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221537
 	mother = 212943
@@ -3183,7 +3183,7 @@
 	name = "Gertruda"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125905
 	mother = 96042
@@ -3199,7 +3199,7 @@
 	name = "Konstancja"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125905
 	mother = 96042
@@ -3214,7 +3214,7 @@
 125908 = {
 	name = "Mieszko"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125905
 	mother = 96042
@@ -3229,7 +3229,7 @@
 125909 = {
 	name = "Henryk"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = honest
 	father = 471652
@@ -3254,7 +3254,7 @@
 125910 = {
 	name = "Konrad"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125905
 	mother = 96042
@@ -3276,7 +3276,7 @@
 	name = "Anna"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125910
 	mother = 125979
@@ -3291,7 +3291,7 @@
 125912 = {
 	name = "Henryk"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125910
 	mother = 125979
@@ -3309,7 +3309,7 @@
 125913 = {
 	name = "Henryk"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125912
 	mother = 125998
@@ -3328,7 +3328,7 @@
 	name = "Jadwiga"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_learning_3
 	father = 125913
@@ -3344,7 +3344,7 @@
 125915 = {
 	name = "Henryk"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125913
 	mother = 33746
@@ -3361,7 +3361,7 @@
 	name = "Salomea"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125913
 	mother = 33746
@@ -3377,7 +3377,7 @@
 	name = "Agnieszka"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125913
 	mother = 33746
@@ -3392,7 +3392,7 @@
 125918 = {
 	name = "Konrad"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125912
 	mother = 125998
@@ -3413,7 +3413,7 @@
 125919 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125912
 	mother = 125998
@@ -3429,7 +3429,7 @@
 	name = "Agnieszka"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125912
 	mother = 125998
@@ -3444,7 +3444,7 @@
 125921 = {
 	name = "Jan"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125912
 	mother = 125998
@@ -3463,7 +3463,7 @@
 	name = "Katarzyna"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125912
 	mother = 125998
@@ -3478,7 +3478,7 @@
 125923 = {
 	name = "PrzemysL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125912
 	mother = 125998
@@ -3496,7 +3496,7 @@
 125924 = {
 	name = "Konrad"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_learning_3
 	father = 125910
@@ -3513,7 +3513,7 @@
 	name = "Eufemia"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125910
 	mother = 125979
@@ -3528,7 +3528,7 @@
 125926 = {
 	name = "PrzemysL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125910
 	mother = 125979
@@ -3544,7 +3544,7 @@
 	name = "ElZ_bieta"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125905
 	mother = 96042
@@ -3559,7 +3559,7 @@
 125928 = {
 	name = "WL_adysL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_learning_3
 	father = 125905
@@ -3576,7 +3576,7 @@
 	name = "Agnieszka"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471734
 	mother = 125997
@@ -3592,7 +3592,7 @@
 	name = "Hedwig"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471732
 	mother = 471733
@@ -3607,7 +3607,7 @@
 125931 = {
 	name = "Henryk"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = generous
 	trait = just
@@ -3631,7 +3631,7 @@
 	name = "ElZ_bieta"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125931
 	mother = 125999
@@ -3647,7 +3647,7 @@
 	name = "Eufemia"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125931
 	mother = 125999
@@ -3663,7 +3663,7 @@
 	name = "Jadwiga"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471734
 	mother = 125997
@@ -3679,7 +3679,7 @@
 	name = "Judyta"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471735
 	mother = 33740
@@ -3695,7 +3695,7 @@
 	name = "Anna"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471735
 	mother = 33740
@@ -3711,7 +3711,7 @@
 	name = "Konstancja"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471710
 	mother = 471502
@@ -3726,7 +3726,7 @@
 125938 = {
 	name = "Henryk"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471710
 	mother = 471502
@@ -3741,7 +3741,7 @@
 125939 = {
 	name = "Henryk"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471735
 	mother = 33740
@@ -3759,7 +3759,7 @@
 125940 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471735
 	mother = 33740
@@ -3777,7 +3777,7 @@
 125941 = {
 	name = "MikoL_aj"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125940
 	mother = 462144
@@ -3792,7 +3792,7 @@
 125942 = {
 	name = "Bernard"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471734
 	mother = 125997
@@ -3807,7 +3807,7 @@
 125943 = {
 	name = "Konrad"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221531
 	mother = 212545
@@ -3822,7 +3822,7 @@
 125944 = {
 	name = "Mieszko"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = gluttonous
 	father = 221555
@@ -3838,7 +3838,7 @@
 125946 = {
 	name = "WL_adysL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471741
 	1275.1.2 = {
@@ -3855,7 +3855,7 @@
 125947 = {
 	name = "Jan"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_learning_3
 	father = 125946
@@ -3872,7 +3872,7 @@
 	name = "Anna"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125946
 	mother = 125995
@@ -3888,7 +3888,7 @@
 	name = "Anna"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471740
 	mother = 471519
@@ -3904,7 +3904,7 @@
 	name = "Jolanta"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471740
 	mother = 471519
@@ -3919,7 +3919,7 @@
 125951 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471740
 	mother = 471519
@@ -3935,7 +3935,7 @@
 	name = "ElZ_bieta"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = beauty_good_1
 	father = 471741
@@ -3950,7 +3950,7 @@
 125953 = {
 	name = "Kazimierz"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471724
 	mother = 125980
@@ -3965,7 +3965,7 @@
 125954 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125953
 	1276.1.2 = {
@@ -3979,7 +3979,7 @@
 125955 = {
 	name = "WL_adysL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125953
 	1277.1.2 = {
@@ -3996,7 +3996,7 @@
 125956 = {
 	name = "Kazimierz"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125955
 	1312.1.2 = {
@@ -4011,7 +4011,7 @@
 	name = "Eufemia"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125955
 	1313.1.2 = {
@@ -4026,7 +4026,7 @@
 	name = "Agnieszka"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125955
 	mother = 451987
@@ -4042,7 +4042,7 @@
 	name = "Katarzyna"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125955
 	mother = 451987
@@ -4057,7 +4057,7 @@
 125960 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125955
 	mother = 451987
@@ -4073,7 +4073,7 @@
 	name = "Beata"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125955
 	mother = 451987
@@ -4089,7 +4089,7 @@
 	name = "Maria"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125953
 	1282.1.2 = {
@@ -4103,7 +4103,7 @@
 125963 = {
 	name = "Siemowit"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125953
 	1292.1.2 = {
@@ -4117,7 +4117,7 @@
 125964 = {
 	name = "Mieszko"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125953
 	1305.1.2 = {
@@ -4131,7 +4131,7 @@
 125965 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471722
 	mother = 471723
@@ -4149,7 +4149,7 @@
 125966 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125965
 	mother = 125933
@@ -4164,7 +4164,7 @@
 125967 = {
 	name = "WacL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125965
 	mother = 125933
@@ -4179,7 +4179,7 @@
 125968 = {
 	name = "Albert"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471722
 	mother = 471723
@@ -4195,7 +4195,7 @@
 	name = "Konstancja"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471724
 	mother = 125980
@@ -4210,7 +4210,7 @@
 125970 = {
 	name = "PrzemysL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471724
 	mother = 125980
@@ -4228,7 +4228,7 @@
 125971 = {
 	name = "Leszek"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125970
 	mother = 125989
@@ -4247,7 +4247,7 @@
 	name = "Anna"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125970
 	mother = 125989
@@ -4262,7 +4262,7 @@
 125974 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125973
 	mother = 222823
@@ -4277,7 +4277,7 @@
 125975 = {
 	name = "Leszek"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125973
 	1162.1.1 = {
@@ -4292,7 +4292,7 @@
 	name = "Jadwiga"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 7689
 	1218.1.1 = {
@@ -4306,7 +4306,7 @@
 125977 = {
 	name = "PrzemysL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 7690
 	mother = 125927
@@ -4331,7 +4331,7 @@
 	name = "Ryksa_ElZ_bieta"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125977
 	mother = 126001
@@ -4347,7 +4347,7 @@
 	name = "Salomea"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 7689
 	1225.1.1 = {
@@ -4362,7 +4362,7 @@
 	name = "Eufemia"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 7689
 	1230.1.1 = {
@@ -4377,7 +4377,7 @@
 	name = "Salomea"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221524
 	mother = 125134
@@ -4392,7 +4392,7 @@
 125982 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = chaste
 	father = 221524
@@ -4412,7 +4412,7 @@
 125983 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221525
 	mother = 125073
@@ -4433,7 +4433,7 @@
 125984 = {
 	name = "Leszek"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471520
 	mother = 125907
@@ -4451,7 +4451,7 @@
 125985 = {
 	name = "Siemowit"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471520
 	mother = 471540
@@ -4470,7 +4470,7 @@
 	name = "Eufemia"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471520
 	mother = 471540
@@ -4485,7 +4485,7 @@
 125987 = {
 	name = "Siemowit"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221525
 	mother = 125073
@@ -4503,7 +4503,7 @@
 125988 = {
 	name = "Konrad"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125987
 	mother = 125124
@@ -4522,7 +4522,7 @@
 	name = "Anna"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125988
 	mother = 125934
@@ -4537,7 +4537,7 @@
 125990 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125987
 	mother = 125124
@@ -4558,7 +4558,7 @@
 125991 = {
 	name = "Siemowit"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125990
 	mother = 125313
@@ -4573,7 +4573,7 @@
 125992 = {
 	name = "WacL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125990
 	mother = 96050
@@ -4591,7 +4591,7 @@
 125993 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125992
 	mother = 125319
@@ -4607,7 +4607,7 @@
 	name = "Anna"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125992
 	mother = 125319
@@ -4623,7 +4623,7 @@
 	name = "Eufrozyna"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125990
 	mother = 96050
@@ -4639,7 +4639,7 @@
 	name = "Judyta"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221525
 	mother = 125073
@@ -4653,7 +4653,7 @@
 
 96071 = {
 	name = "Hipolit"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_learning_3
 	965.1.1 = {
@@ -4666,7 +4666,7 @@
 
 96072 = {
 	name = "Stefan"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	971.1.1 = {
 		birth = "971.1.1"
@@ -4678,7 +4678,7 @@
 
 96075 = {
 	name = "Marcin"		#Archbishop of Gniezno
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1043.1.1 = {
 		birth = "1043.1.1"
@@ -4690,7 +4690,7 @@
 
 96076 = {
 	name = "Jakub"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1074.1.1 = {
 		birth = "1074.1.1"
@@ -4703,7 +4703,7 @@
 96077 = {
 	name = "JanisL_aw"
 	dynasty = 21012
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1099.1.1 = {
 		birth = "1099.1.1"
@@ -4715,7 +4715,7 @@
 
 96079 = {
 	name = "BogumiL_"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1125.1.1 = {
 		birth = "1125.1.1"
@@ -4727,7 +4727,7 @@
 
 96080 = {
 	name = "Piotr"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1125.1.1 = {
 		birth = "1125.1.1"
@@ -4739,7 +4739,7 @@
 
 96081 = {
 	name = "Henryk"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1150.1.1 = {
 		birth = "1150.1.1"
@@ -4751,7 +4751,7 @@
 
 96082 = {
 	name = "Wincenty"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1176.1.1 = {
 		birth = "1176.1.1"
@@ -4764,7 +4764,7 @@
 96083 = {
 	name = "PeL_ka"
 	dynasty = 21016
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1181.1.1 = {
 		birth = "1181.1.1"
@@ -4776,7 +4776,7 @@
 
 96084 = {
 	name = "Janusz"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1203.1.1 = {
 		birth = "1203.1.1"
@@ -4788,7 +4788,7 @@
 
 96085 = {
 	name = "Marcin"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_learning_3
 	1225.1.1 = {
@@ -4801,7 +4801,7 @@
 
 96086 = {
 	name = "Jakub"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_learning_4
 	1247.1.1 = {
@@ -4814,7 +4814,7 @@
 
 96087 = {
 	name = "BorzysL_aw"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1256.1.1 = {
 		birth = "1256.1.1"
@@ -4826,7 +4826,7 @@
 
 96088 = {
 	name = "JanisL_aw"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1279.1.1 = {
 		birth = "1279.1.1"
@@ -4839,7 +4839,7 @@
 96089 = {
 	name = "Krystyn"
 	dynasty = 21010
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_martial_2
 	1049.1.1 = {
@@ -4853,7 +4853,7 @@
 96090 = {
 	name = "Krystyn"
 	dynasty = 21010
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 96089
 	1083.1.1 = {
@@ -4867,7 +4867,7 @@
 96091 = {
 	name = "Maciej"
 	dynasty = 11114
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1043.1.1 = {
 		birth = "1043.1.1"
@@ -4880,7 +4880,7 @@
 96092 = {
 	name = "Andrzej"
 	dynasty = 11114
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 96091
 	1075.1.1 = {
@@ -4894,7 +4894,7 @@
 96093 = {
 	name = "WL_ost"
 	dynasty = 10111
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1045.1.1 = {
 		birth = "1045.1.1"
@@ -4907,7 +4907,7 @@
 96094 = {
 	name = "Piotr"
 	dynasty = 10111
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = generous
 	father = 96093
@@ -4925,7 +4925,7 @@
 96096 = {
 	name = "Wszebor"
 	dynasty = 10111
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 96094
 	mother = 96095
@@ -4940,7 +4940,7 @@
 96097 = {
 	name = "SwiE_tosL_aw"
 	dynasty = 10111
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 96094
 	mother = 96095
@@ -4954,7 +4954,7 @@
 
 96098 = {
 	name = "Lambert"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1005.1.1 = {
 		birth = "1005.1.1"
@@ -4966,7 +4966,7 @@
 
 96099 = {
 	name = "Lambert"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1035.1.1 = {
 		birth = "1035.1.1"
@@ -4978,7 +4978,7 @@
 
 96100 = {
 	name = "CzesL_aw"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1047.1.1 = {
 		birth = "1047.1.1"
@@ -4990,7 +4990,7 @@
 
 96105 = {
 	name = "Mateusz"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1099.1.1 = {
 		birth = "1099.1.1"
@@ -5002,7 +5002,7 @@
 
 96106 = {
 	name = "Gedko"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1127.1.1 = {
 		birth = "1127.1.1"
@@ -5014,7 +5014,7 @@
 
 96107 = {
 	name = "PeL_ka"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1127.1.1 = {
 		birth = "1127.1.1"
@@ -5026,7 +5026,7 @@
 
 96108 = {
 	name = "Wincenty"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = education_learning_4
 	1160.1.1 = {
@@ -5040,7 +5040,7 @@
 96109 = {
 	name = "Iwo"
 	dynasty = 21021
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	trait = humble
 	1163.1.1 = {
@@ -5053,7 +5053,7 @@
 
 96110 = {
 	name = "WiesL_aw"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1174.1.1 = {
 		birth = "1174.1.1"
@@ -5066,7 +5066,7 @@
 96111 = {
 	name = "Prendota"
 	dynasty = 21021
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1200.1.1 = {
 		birth = "1200.1.1"
@@ -5079,7 +5079,7 @@
 96112 = {
 	name = "PaweL_"
 	dynasty = 21023
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1226.1.1 = {
 		birth = "1226.1.1"
@@ -5091,7 +5091,7 @@
 
 96114 = {
 	name = "Jan"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1250.1.1 = {
 		birth = "1250.1.1"
@@ -5103,7 +5103,7 @@
 
 96115 = {
 	name = "Jan"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1279.1.1 = {
 		birth = "1279.1.1"
@@ -5115,7 +5115,7 @@
 
 96116 = {
 	name = "Jan"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1283.1.1 = {
 		birth = "1283.1.1"
@@ -5128,7 +5128,7 @@
 96117 = {
 	name = "PrzemysL_aw"
 	dynasty = 21025
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1046.1.1 = {
 		birth = "1046.1.1"
@@ -5141,7 +5141,7 @@
 96118 = {
 	name = "Jerzy"
 	dynasty = 21025
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 96117
 	1074.1.1 = {
@@ -5156,7 +5156,7 @@
 	name = "Hedwig"
 	female = yes
 	dynasty = 175
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 30451
 	1212.1.1 = {
@@ -5171,7 +5171,7 @@
 	name = "Beatrycza" # Beatrycza of Schweidnitz
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125912
 	mother = 125998
@@ -5239,7 +5239,7 @@
 82239 = {
 	name = "Niklot"
 	dynasty = 9122
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 82238
 	932.1.1 = {
@@ -5255,7 +5255,7 @@
 82240 = {
 	name = "Racibor"
 	dynasty = 9122
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 82239
 	967.1.1 = {
@@ -5271,7 +5271,7 @@
 82241 = {
 	name = "S_wiE_tobor"
 	dynasty = 9122
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 82240
 	1023.1.1 = {
@@ -5336,7 +5336,7 @@
 	name = "BogusL_aw"
 	dynasty = 9121
 	father = 82244
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	945.1.1 = {
 		birth = "945.1.1"
@@ -5352,7 +5352,7 @@
 	name = "WL_odzimierz"
 	dynasty = 9121
 	father = 82245
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	983.1.1 = {
 		birth = "983.1.1"
@@ -5368,7 +5368,7 @@
 	name = "WarcisL_aw"
 	dynasty = 9121
 	father = 82246
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1044.1.1 = {
 		birth = "1044.1.1"
@@ -5443,7 +5443,7 @@
 	dynasty = 9123
 	father = 82249
 	culture = "polish"
-	religion = "catholic"
+	religion = "nicean"
 	921.1.1 = {
 		birth = "921.1.1"
 	}
@@ -5457,7 +5457,7 @@
 	dynasty = 9123
 	father = 82252
 	culture = "polish"
-	religion = "catholic"
+	religion = "nicean"
 	972.1.1 = {
 		birth = "972.1.1"
 	}
@@ -5472,7 +5472,7 @@
 	dynasty = 9123
 	father = 82253
 	culture = "polish"
-	religion = "catholic"
+	religion = "nicean"
 	1020.1.1 = {
 		birth = "1020.1.1"
 	}
@@ -5503,7 +5503,7 @@
 	name = "Modlibog"
 	dynasty = 9123
 	father = 82255
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	951.1.1 = {
 		birth = "951.1.1"
@@ -5519,7 +5519,7 @@
 	name = "LutosL_aw"
 	dynasty = 9123
 	father = 82256
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1014.1.1 = {
 		birth = "1014.1.1"
@@ -5582,7 +5582,7 @@
 	name = "PeL_czybog"
 	dynasty = 9124
 	father = 82259
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	950.1.1 = {
 		birth = "950.1.1"
@@ -5631,7 +5631,7 @@
 	name = "Lederg"
 	dynasty = 9124
 	father = 82263
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	950.1.1 = {
 		birth = "950.1.1"
@@ -5647,7 +5647,7 @@
 	name = "MS_cigniew"
 	dynasty = 9124
 	father = 82264
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1022.1.1 = {
 		birth = "1022.1.1"
@@ -5851,7 +5851,7 @@
 	name = "Uniedrog"
 	dynasty = 9127
 	father = 82300
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	960.1.1 = {
 		birth = "960.1.1"
@@ -5867,7 +5867,7 @@
 	name = "Odolan"
 	dynasty = 9127
 	father = 82302
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1000.1.1 = {
 		birth = "1000.1.1"
@@ -6004,7 +6004,7 @@
 	name = "Strachomir"
 	dynasty = 9128
 	father = 82310
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	971.1.1 = {
 		birth = "971.1.1"
@@ -6020,7 +6020,7 @@
 	name = "Dargorad"
 	dynasty = 9128
 	father = 82311
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1029.1.1 = {
 		birth = "1029.1.1"
@@ -6143,7 +6143,7 @@
 	name = "Bytomir"
 	dynasty = 9129
 	father = 82318
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	960.1.1 = {
 		birth = "960.1.1"
@@ -6160,7 +6160,7 @@
 	name = "Niemironieg"
 	dynasty = 9129
 	father = 82319
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1001.1.1 = {
 		birth = "1001.1.1"
@@ -6177,7 +6177,7 @@
 	name = "Tatomir"
 	dynasty = 9129
 	father = 82320
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	1025.1.1 = {
 		birth = "1025.1.1"
@@ -6392,7 +6392,7 @@
 	name = "S_wiE_topeL_k"
 	father = 82333
 	dynasty = 9130
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	990.1.1 = {
 		birth = "990.1.1"
@@ -6405,7 +6405,7 @@
 168541 = {
 	name = "Dytryk"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 168538
 	995.1.1 = {
@@ -6420,7 +6420,7 @@
 170096 = {
 	name = "BolesL_aw"
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221520
 	mother = 221521
@@ -6436,7 +6436,7 @@
 	name = "Anna"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471732
 	mother = 471733
@@ -6452,7 +6452,7 @@
 	name = "Elisabeth"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471732
 	mother = 471733
@@ -6468,7 +6468,7 @@
 	name = "Helena"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 471732
 	mother = 471733
@@ -6484,7 +6484,7 @@
 	name = "Anna"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125990
 	mother = 125313
@@ -6500,7 +6500,7 @@
 	name = "MaL_gorzata"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125931
 	mother = 125999
@@ -6516,7 +6516,7 @@
 	name = "Alenta"
 	female = yes
 	dynasty = 175
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 30453
 	mother = 30470
@@ -6532,7 +6532,7 @@
 	name = "Agnes"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221537
 	mother = 212943
@@ -6548,7 +6548,7 @@
 	name = "Gertrud"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 221537
 	mother = 212943
@@ -6564,7 +6564,7 @@
 	name = "Ryksa"
 	female = yes
 	dynasty = 699
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polish"
 	father = 125973
 	mother = 222823
@@ -6766,7 +6766,7 @@
 ###Archbishops of Gniezno
 302011 = {
 	name = "Radzim_Gaudenty"	#Archbishop of Gniezno
-	religion = catholic
+	religion = nicean
 	culture = polish
 	trait = education_learning_3
 	970.1.1 = {
@@ -6778,7 +6778,7 @@
 }
 302012 = {
 	name = "Bossuta_Stefan"	#Archbishop of Gniezno
-	religion = catholic
+	religion = nicean
 	culture = polish
 	trait = education_learning_2
 	950.1.2 = {
@@ -6790,7 +6790,7 @@
 }
 302013 = {
 	name = "MichaL_"	#Fictional Archbishop of Gniezno
-	religion = catholic
+	religion = nicean
 	culture = polish
 	trait = education_learning_2
 	1006.1.2 = {
@@ -6802,7 +6802,7 @@
 }
 302015 = {
 	name = "ZdzisL_aw"	#Archbishop of Gniezno
-	religion = catholic
+	religion = nicean
 	culture = polish
 	trait = education_learning_2
 	1115.1.2 = {
@@ -6816,7 +6816,7 @@
 302016 = {
 	name = "PaweL_"	#Lords of Poznan
 	dynasty = 21005	#Ciolek
-	religion = catholic
+	religion = nicean
 	culture = polish
 	1012.6.9 = {
 		birth = yes
@@ -6828,7 +6828,7 @@
 302017 = {
 	name = "Jan"	#Lords of Poznan
 	dynasty = 21005
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302016
 	1035.12.22 = {
@@ -6841,7 +6841,7 @@
 302018 = {
 	name = "Sieciech"	#Lords of Poznan
 	dynasty = 21005
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302016
 	1037.9.6 = {
@@ -6854,7 +6854,7 @@
 302019 = {
 	name = "PaweL_"	#Lords of Poznan
 	dynasty = 21005
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302017
 	1065.1.30 = {
@@ -6868,7 +6868,7 @@
 	name = "Zofia"	#Lords of Poznan
 	female = yes
 	dynasty = 21005
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302017
 	1066.7.13 = {
@@ -6881,7 +6881,7 @@
 302021 = {
 	name = "JarosL_aw"	#Lords of Poznan
 	dynasty = 21005
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302019
 	1098.9.18 = {
@@ -6894,7 +6894,7 @@
 302022 = {
 	name = "Jan"	#Lords of Poznan
 	dynasty = 21005
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302019
 	1124.5.5 = {
@@ -6908,7 +6908,7 @@
 	name = "Krystyna"	#Lords of Poznan
 	female = yes
 	dynasty = 21005
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302019
 	1152.9.10 = {
@@ -6921,7 +6921,7 @@
 302025 = {
 	name = "JarosL_aw"	#Lords of Poznan
 	dynasty = 21005
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302019
 	1154.5.21 = {
@@ -6935,7 +6935,7 @@
 302026 = {
 	name = "Zygmunt"	#Lords of Plock
 	dynasty = 2001001	#Ossowski
-	religion = catholic
+	religion = nicean
 	culture = polish
 	1034.11.3 = {
 		birth = yes
@@ -6947,7 +6947,7 @@
 302027 = {
 	name = "Marcin"		#Lords of Plock
 	dynasty = 2001001	#Ossowski
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302026
 	1060.12.17 = {
@@ -6960,7 +6960,7 @@
 302028 = {
 	name = "Maciej"		#Lords of Plock
 	dynasty = 2001001	#Ossowski
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302026
 	1063.6.29 = {
@@ -6974,7 +6974,7 @@
 	name = "Anastazja"	#Lords of Plock
 	female = yes
 	dynasty = 2001001	#Ossowski
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302026
 	1066.1.12 = {
@@ -6987,7 +6987,7 @@
 302030 = {
 	name = "Zygmunt"		#Lords of Plock
 	dynasty = 2001001	#Ossowski
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302027
 	1087.8.7 = {
@@ -7000,7 +7000,7 @@
 302031 = {
 	name = "Andrzej"	#Lords of Plock
 	dynasty = 2001001	#Ossowski
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302030
 	1130.12.30 = {
@@ -7014,7 +7014,7 @@
 	name = MaL_gorzata	#Lords of Plock
 	female = yes
 	dynasty = 2001001	#Ossowski
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302031
 	1163.2.4 = {
@@ -7027,7 +7027,7 @@
 302033 = {
 	name = Mateusz		#Lords of Plock
 	dynasty = 2001001	#Ossowski
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302031
 	1166.5.19 = {
@@ -7040,7 +7040,7 @@
 302034 = {
 	name = Marcin		#Lords of Plock
 	dynasty = 2001001	#Ossowski
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302031
 	1168.12.12 = {
@@ -7053,7 +7053,7 @@
 302035 = {
 	name = Maciej		#Lords of Plock
 	dynasty = 2001001	#Ossowski
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302031
 	1170.4.23 = {
@@ -7067,7 +7067,7 @@
 302036 = {
 	name = WacL_aw		#Lords of Czersk
 	dynasty = 21016		#Lis
-	religion = catholic
+	religion = nicean
 	culture = polish
 	1028.7.1 = {
 		birth = yes
@@ -7079,7 +7079,7 @@
 302037 = {
 	name = Wincenty		#Lords of Czersk
 	dynasty = 21016		#Lis
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302036
 	1059.8.28 = {
@@ -7092,7 +7092,7 @@
 302038 = {
 	name = Olga			#Lords of Czersk
 	dynasty = 21016		#Lis
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302036
 	female = yes
@@ -7106,7 +7106,7 @@
 302039 = {
 	name = WacL_aw		#Lords of Czersk
 	dynasty = 21016		#Lis
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302037
 	1095.11.14 = {
@@ -7119,7 +7119,7 @@
 302040 = {
 	name = BogumiL_		#Lords of Czersk
 	dynasty = 21016		#Lis
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302039
 	1127.10.22 = {
@@ -7132,7 +7132,7 @@
 302041 = {
 	name = Lech		#Lords of Czersk
 	dynasty = 21016		#Lis
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302040
 	1159.4.12 = {
@@ -7145,7 +7145,7 @@
 302042 = {
 	name = Kazimierz	#Lords of Czersk
 	dynasty = 21016		#Lis
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302040
 	1159.4.12 = {
@@ -7159,7 +7159,7 @@
 	name = Beata		#Lords of Czersk
 	female = yes
 	dynasty = 21016		#Lis
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302040
 	1163.2.16 = {
@@ -7173,7 +7173,7 @@
 302044 = {
 	name = Marian	#Lords of Lublin
 	dynasty = 2001000	#Kurowie
-	religion = catholic
+	religion = nicean
 	culture = polish
 	1041.3.24 = {
 		birth = yes
@@ -7185,7 +7185,7 @@
 302045 = {
 	name = StanisL_aw	#Lords of Lublin
 	dynasty = 2001000	#Kurowie
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302044
 	1074.3.24 = {
@@ -7198,7 +7198,7 @@
 302046 = {
 	name = Henryk		#Lords of Lublin
 	dynasty = 2001000	#Kurowie
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302045
 	1100.5.15 = {
@@ -7211,7 +7211,7 @@
 302047 = {
 	name = Piotr		#Lords of Lublin
 	dynasty = 2001000	#Kurowie
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302046
 	1129.3.22 = {
@@ -7224,7 +7224,7 @@
 302048 = {
 	name = Konrad		#Lords of Lublin
 	dynasty = 2001000	#Kurowie
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302047
 	1154.9.12 = {
@@ -7238,7 +7238,7 @@
 	name = Jolanta		#Lords of Lublin
 	female = yes
 	dynasty = 2001000	#Kurowie
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302047
 	1157.5.24 = {
@@ -7252,7 +7252,7 @@
 	name = Helena		#Lords of Lublin
 	female = yes
 	dynasty = 2001000	#Kurowie
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302047
 	1160.10.14 = {
@@ -7266,7 +7266,7 @@
 302051 = {
 	name = DobiesL_aw
 	dynasty = 2001002	#Licicawski
-	religion = catholic
+	religion = nicean
 	culture = polish
 	1002.10.9 = {
 		birth = 1002.10.9
@@ -7278,7 +7278,7 @@
 302052 = {
 	name = Gaudenty
 	dynasty = 2001002	#Licicawski
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302051
 	1038.6.17 = {
@@ -7291,7 +7291,7 @@
 302053 = {
 	name = Henryk
 	dynasty = 2001002	#Licicawski
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302051
 	1044.5.19 = {
@@ -7304,7 +7304,7 @@
 302054 = {
 	name = Jakub
 	dynasty = 2001002	#Licicawski
-	religion = catholic
+	religion = nicean
 	culture = polish
 	father = 302052
 	1069.8.21 = {

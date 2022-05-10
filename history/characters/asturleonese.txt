@@ -5,7 +5,7 @@
 	father = 70021
 	mother = 70022
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	martial = 8
@@ -50,7 +50,7 @@
 	intrigue = 6
 	stewardship = 4
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	trait = gluttonous
@@ -87,7 +87,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = gregarious
 	trait = deceitful
@@ -107,7 +107,7 @@
 	father = 70023
 	mother = 70126
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	martial = 3
@@ -140,7 +140,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = legitimized_bastard
 	trait = cynical
@@ -164,7 +164,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = craven
 	trait = scholar
@@ -189,7 +189,7 @@
 	diplomacy = 3
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = ambitious
 	trait = brave
@@ -214,7 +214,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = generous
 	trait = gregarious
@@ -237,7 +237,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = arrogant
 	trait = temperate
@@ -260,7 +260,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = generous
 	trait = education_intrigue_1
@@ -281,7 +281,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = diligent
 	trait = honest
@@ -303,7 +303,7 @@
 	name = "Fronilde"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 	
 	1030.1.1 = {
@@ -325,7 +325,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = beauty_good_1
 	trait = education_diplomacy_2
@@ -346,7 +346,7 @@
 	father = 70038
 	mother = 70039
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1050.1.1 = {
@@ -364,7 +364,7 @@
 	father = 70038
 	mother = 70039
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	trait = education_learning_1
@@ -384,7 +384,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = lazy
 	trait = greedy
@@ -409,7 +409,7 @@
 	father = 70031
 	mother = 70113
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1030.1.1 = {
@@ -430,7 +430,7 @@
 	name = "Sancha"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 	
 	1032.1.1 = {
@@ -448,7 +448,7 @@
 	diplomacy = 3
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = humble
 	trait = honest
@@ -470,7 +470,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = shy
 	trait = content
@@ -496,7 +496,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = humble
 	trait = chaste
@@ -518,7 +518,7 @@
 	diplomacy = 6
 	intrigue = 3
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = arrogant
 	trait = arbitrary
@@ -541,7 +541,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = deceitful
 	trait = wrathful
@@ -562,7 +562,7 @@
 
 	father = 70030
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	900.1.1 = {
@@ -580,7 +580,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = greedy
 	trait = zealous
@@ -601,7 +601,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = just
 	trait = honest
@@ -628,7 +628,7 @@
 	diplomacy = 7
 	intrigue = 3
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = calm
 	trait = diligent
@@ -654,7 +654,7 @@
 	father = 108570
 	mother = 109624
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	martial = 4
@@ -682,7 +682,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = generous
 	trait = education_diplomacy_2
@@ -702,7 +702,7 @@
 	father = 108530
 	mother = 108531
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 	
 	1035.1.1 = {
@@ -721,7 +721,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = cynical
 	trait = arrogant
@@ -744,7 +744,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = greedy
 	trait = brave
@@ -768,7 +768,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = hunter_1
 	trait = calm
@@ -793,7 +793,7 @@
 	name = "Toda"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 	
 	1030.1.1 = {
@@ -811,7 +811,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = temperate
 	trait = brave
@@ -835,7 +835,7 @@
 	father = 70094
 	mother = 70095
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1057.1.1 = {
@@ -853,7 +853,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = intellect_good_1
 	trait = education_diplomacy_1
@@ -878,7 +878,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = honest
 	trait = education_stewardship_1
@@ -900,7 +900,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = ill
 	trait = lazy
@@ -922,7 +922,7 @@
 
 	father = 70106
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1043.1.1 = {
@@ -939,7 +939,7 @@
 71321 = {
 	name = "Sanchu" # Sancho Ovéquiz de León
 	dynasty = 436
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 70034
 	mother = 71320
@@ -955,7 +955,7 @@
 	name = "Urraca" # Urraca Ovéquiz de León
 	dynasty = 436
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 70034
 	mother = 71320
@@ -970,7 +970,7 @@
 71323 = {
 	name = "NuN_u" # Nuño
 	dynasty = 8738
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1040.1.1 = {
 		birth = "1040.1.1"
@@ -986,7 +986,7 @@
 71324 = {
 	name = "Fernando" # Fernando Núñez
 	dynasty = 8738
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 71323
 	mother = 70040
@@ -1001,7 +1001,7 @@
 71325 = {
 	name = "Pelayu" # Pelayo Bermúdez de León
 	dynasty = 436
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 70041
 	trait = bastard
@@ -1018,7 +1018,7 @@
 	name = "MarI_a"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1060.1.1 = {
@@ -1033,7 +1033,7 @@
 	name = "Elvira" # Elvira Fernández de León
 	dynasty = 436
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 70046
 	mother = 71326
@@ -1049,7 +1049,7 @@
 	name = "Sancha" # Sancha Fernández de León
 	dynasty = 436
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 70046
 	mother = 71326
@@ -1064,7 +1064,7 @@
 71329 = {
 	name = "A_lvaru" # Álvar Pérez
 	dynasty = 8740
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1070.1.1 = {
 		birth = "1070.1.1"
@@ -1084,7 +1084,7 @@
 	father = 71329
 	mother = 71328
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1098.1.1 = {
@@ -1098,7 +1098,7 @@
 71331 = {
 	name = "Rodrigu" # Rodrigo Álvarez
 	dynasty = 8740
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 71329
 	mother = 71328
@@ -1114,7 +1114,7 @@
 	name = "Sancha" # Sancha Álvarez
 	dynasty = 8740
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 71329
 	mother = 71328
@@ -1130,7 +1130,7 @@
 	name = "MarI_a" # María Fernández de Oviedo
 	dynasty = 402
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 108514
 	mother = 71355
@@ -1145,7 +1145,7 @@
 71355 = {
 	name = "Enderquina"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1070.1.1 = {
 		birth = "1070.1.1"
@@ -1159,7 +1159,7 @@
 	name = "Tegridia" # Tegridia Martínez Osorio
 	dynasty = 8620
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 70098
 	mother = 72364
@@ -1174,7 +1174,7 @@
 71949 = {
 	name = "NuN_u" # Nuño Menéndez
 	dynasty = 12114
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72901
 	mother = 72898
@@ -1196,7 +1196,7 @@
 	father = 73062
 	mother = 72864
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1131.1.1 = {
@@ -1213,7 +1213,7 @@
 72365 = {
 	name = "Osoriu" # Osorio Martínez Osorio
 	dynasty = 8620
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 70098
 	mother = 72364
@@ -1232,7 +1232,7 @@
 	name = "Aldonza" # Aldonza Osorio (Osorio)
 	dynasty = 8620
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72365
 	mother = 72360
@@ -1248,7 +1248,7 @@
 	name = "Constanza" # Constanza Osorio (Osorio)
 	dynasty = 8620
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72365
 	mother = 72360
@@ -1263,7 +1263,7 @@
 72369 = {
 	name = "Fernandu" # Fernando Osorio (Osorio)
 	dynasty = 8620
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72365
 	mother = 72360
@@ -1278,7 +1278,7 @@
 72370 = {
 	name = "Gonzalu" # Gonzalo Osorio (Osorio)
 	dynasty = 8620
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72365
 	mother = 72360
@@ -1296,7 +1296,7 @@
 72371 = {
 	name = "Marina"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1149.1.1 = {
 		birth = "1149.1.1"
@@ -1310,7 +1310,7 @@
 	name = "Ximena" # Jimena Osorio (Osorio)
 	dynasty = 8620
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72365
 	mother = 72360
@@ -1325,7 +1325,7 @@
 72373 = {
 	name = "Rodrigu" # Rodrigo Osorio (Osorio)
 	dynasty = 8620
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72365
 	mother = 72360
@@ -1340,7 +1340,7 @@
 72374 = {
 	name = "Rodrigu" # Rodrigo Rodríguez Osorio
 	dynasty = 8620
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72373
 	1190.1.1 = {
@@ -1354,7 +1354,7 @@
 72375 = {
 	name = "Rodrigu" # Rodrigo Rodríguez Osorio
 	dynasty = 8620
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72374
 	1232.1.1 = {
@@ -1369,7 +1369,7 @@
 	name = "Sancha" # Sancha Osorio (Osorio)
 	dynasty = 8620
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72365
 	mother = 72360
@@ -1385,7 +1385,7 @@
 	name = "Elvira" # Elvira Osorio (Osorio)
 	dynasty = 8620
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72365
 	mother = 72360
@@ -1400,7 +1400,7 @@
 72701 = {
 	name = "Diegu" # Diego Fernández de Oviedo
 	dynasty = 402
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 108514
 	mother = 71355
@@ -1415,7 +1415,7 @@
 72702 = {
 	name = "Muniu" # Munio Fernández de Oviedo
 	dynasty = 402
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 108514
 	mother = 71355
@@ -1431,7 +1431,7 @@
 	name = "Sancha" # Sancha Fernández de Oviedo
 	dynasty = 402
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 108514
 	mother = 71355
@@ -1447,7 +1447,7 @@
 	name = "Ximena" # Jimena Fernández de Oviedo
 	dynasty = 402
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 108514
 	mother = 71355
@@ -1463,7 +1463,7 @@
 	name = "Aldonza" # Aldonza Fernández de Oviedo
 	dynasty = 402
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 108514
 	mother = 71355
@@ -1478,7 +1478,7 @@
 72706 = {
 	name = "Gontroda"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1050.1.1 = {
 		birth = "1050.1.1"
@@ -1491,7 +1491,7 @@
 72707 = {
 	name = "A_lvaru" # Álvar
 	dynasty = 12156
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1081.1.1 = {
 		birth = "1081.1.1"
@@ -1507,7 +1507,7 @@
 72708 = {
 	name = "Pedru"
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1090.1.1 = {
@@ -1528,7 +1528,7 @@
 	father = 72708
 	mother = 72704
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1130.1.1 = {
@@ -1550,7 +1550,7 @@
 	father = 72709
 	mother = 72738
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1149.1.1 = {
@@ -1568,7 +1568,7 @@
 	father = 72709
 	mother = 72738
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1150.1.1 = {
@@ -1586,7 +1586,7 @@
 	father = 72709
 	mother = 72738
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1152.1.1 = {
@@ -1605,7 +1605,7 @@
 	father = 72709
 	mother = 72738
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1154.1.1 = {
@@ -1623,7 +1623,7 @@
 	father = 72709
 	mother = 72738
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1155.1.1 = {
@@ -1641,7 +1641,7 @@
 	father = 72709
 	mother = 72738
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1157.1.1 = {
@@ -1655,7 +1655,7 @@
 72716 = {
 	name = "Sanchu" # Sancho Díaz de Oviedo
 	dynasty = 402
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72701
 	1120.1.1 = {
@@ -1672,7 +1672,7 @@
 
 	father = 72701
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1122.1.1 = {
@@ -1687,7 +1687,7 @@
 	name = "Mayor" # Mayor Díaz de Oviedo
 	dynasty = 402
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72701
 	1124.1.1 = {
@@ -1702,7 +1702,7 @@
 	name = "Sancha" # Sancha Díaz de Oviedo
 	dynasty = 402
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72701
 	1126.1.1 = {
@@ -1716,7 +1716,7 @@
 72723 = {
 	name = "Diegu" # Diego Gutiérrez del Valle 
 	dynasty = 12159
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1050.1.1 = {
 		birth = "1050.1.1"
@@ -1733,7 +1733,7 @@
 	name = "Gotina"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1068.1.1 = {
@@ -1747,7 +1747,7 @@
 72725 = {
 	name = "Pedru" # Pedro Díaz del Valle
 	dynasty = 12159
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72723
 	mother = 72724
@@ -1765,7 +1765,7 @@
 72726 = {
 	name = "Fernandu" # Fernando Díaz del Valle
 	dynasty = 12159
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72723
 	mother = 72724
@@ -1780,7 +1780,7 @@
 72727 = {
 	name = "Facundu" # Facundo Díaz del Valle
 	dynasty = 12159
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72723
 	mother = 72724
@@ -1796,7 +1796,7 @@
 	name = "Gontroda" # Gontroda Díaz del Valle
 	dynasty = 12159
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72723
 	mother = 72724
@@ -1811,7 +1811,7 @@
 72729 = {
 	name = "Rodrigu" # Rodrigo Díaz del Valle
 	dynasty = 12159
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72723
 	mother = 72724
@@ -1826,7 +1826,7 @@
 72730 = {
 	name = "OrdoN_u" # Ordoño Pérez del Valle
 	dynasty = 12159
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72725
 	mother = 71350
@@ -1844,7 +1844,7 @@
 72731 = {
 	name = "Diegu" # Diego Pérez de las Asturias
 	dynasty = 12159
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72725
 	mother = 71350
@@ -1865,7 +1865,7 @@
 72732 = {
 	name = "Gonzalu" # Gonzalo Pérez del Valle
 	dynasty = 12159
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72725
 	mother = 71350
@@ -1886,7 +1886,7 @@
 72733 = {
 	name = "Rodrigu" # Rodrigo Pérez del Valle
 	dynasty = 12159
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72725
 	mother = 71350
@@ -1905,7 +1905,7 @@
 	name = "Gontroda" # Gontroda Pérez del Valle
 	dynasty = 12159
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72725
 	mother = 71350
@@ -1921,7 +1921,7 @@
 	name = "Urraca" # Urraca Pérez del Valle
 	dynasty = 12159
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72725
 	mother = 71350
@@ -1937,7 +1937,7 @@
 	name = "Sancha" # Sancha Pérez del Valle
 	dynasty = 12159
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72725
 	mother = 71350
@@ -1953,7 +1953,7 @@
 	name = "EstefanI_a" # Estefanía Pérez del Valle
 	dynasty = 12159
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72725
 	mother = 71350
@@ -1969,7 +1969,7 @@
 	name = "MarI_a" # María Pérez del Valle
 	dynasty = 12159
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72725
 	mother = 71350
@@ -1984,7 +1984,7 @@
 72739 = {
 	name = "Sancha"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1112.1.1 = {
 		birth = "1112.1.1"
@@ -1997,7 +1997,7 @@
 72740 = {
 	name = "Pelayu" # Pelayo Ordóñez del Valle
 	dynasty = 12159
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72730
 	mother = 72739
@@ -2012,7 +2012,7 @@
 72741 = {
 	name = "Iyana"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1113.1.1 = {
 		birth = "1113.1.1"
@@ -2025,7 +2025,7 @@
 72742 = {
 	name = "Sancha"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1140.1.1 = {
 		birth = "1140.1.1"
@@ -2038,7 +2038,7 @@
 72743 = {
 	name = "MarI_a"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1114.1.1 = {
 		birth = "1114.1.1"
@@ -2051,7 +2051,7 @@
 72744 = {
 	name = "Gutierre"
 	dynasty = 12160
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1100.1.1 = {
 		birth = "1100.1.1"
@@ -2067,7 +2067,7 @@
 72745 = {
 	name = "SebastiA_n" # Sebastián Gutiérrez de Entralgo
 	dynasty = 12160
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72744
 	mother = 72734
@@ -2082,7 +2082,7 @@
 72746 = {
 	name = "Diego" # Diego Gutiérrez de Entralgo
 	dynasty = 12160
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72744
 	mother = 72734
@@ -2101,7 +2101,7 @@
 	name = "Aldonza" # Aldonza Gutiérrez de Entralgo
 	dynasty = 12160
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72744
 	mother = 72734
@@ -2116,7 +2116,7 @@
 72748 = {
 	name = "Gutierre" # Gutierre Sebastiánez de Entrialgo
 	dynasty = 12160
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72745
 	1159.1.1 = {
@@ -2130,7 +2130,7 @@
 72749 = {
 	name = "SebastiA_n" # Sebastián Gutiérrez de Entrialgo
 	dynasty = 12160
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72748
 	1190.1.1 = {
@@ -2144,7 +2144,7 @@
 72750 = {
 	name = "MarI_a"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1132.1.1 = {
 		birth = "1132.1.1"
@@ -2157,7 +2157,7 @@
 72751 = {
 	name = "Sanchu" # Sancho Díaz de Entrialgo
 	dynasty = 12160
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72746
 	mother = 72750
@@ -2176,7 +2176,7 @@
 	father = 72746
 	mother = 72750
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1150.1.1 = {
@@ -2191,7 +2191,7 @@
 	name = "MarI_a" # María Díaz de Entrialgo
 	dynasty = 12160
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72746
 	mother = 72750
@@ -2207,7 +2207,7 @@
 	name = "Elvira" # Elvira Díaz de Entrialgo
 	dynasty = 12160
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72746
 	mother = 72750
@@ -2223,7 +2223,7 @@
 	name = "Velsquita" # Velasquita Díaz de Entrialgo
 	dynasty = 12160
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72746
 	mother = 72750
@@ -2238,7 +2238,7 @@
 72756 = {
 	name = "Elvira"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1134.1.1 = {
 		birth = "1134.1.1"
@@ -2252,7 +2252,7 @@
 	name = "Rodrigu" # Rodrigo Díaz del Valle
 	dynasty = 12159
 	trait = education_learning_1
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72731
 	mother = 72756
@@ -2267,7 +2267,7 @@
 72758 = {
 	name = "A_lvaru" # Álvaro Díaz del Valle, Founder of the House Álvarez de las Asturias
 	dynasty = 401
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72731
 	mother = 72756
@@ -2285,7 +2285,7 @@
 72759 = {
 	name = "OrdoN_u" # Ordoño Álvarez de las Asturias
 	dynasty = 401
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72758
 	mother = 72992
@@ -2300,7 +2300,7 @@
 72760 = {
 	name = "Pedru" # Pedro Álvarez de las Asturias
 	dynasty = 401
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72758
 	mother = 72992
@@ -2318,7 +2318,7 @@
 72761 = {
 	name = "Alfonsu" # Alfonso Álvarez de las Asturias
 	dynasty = 401
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72758
 	mother = 72992
@@ -2336,7 +2336,7 @@
 72762 = {
 	name = "A_lvaru" # Álvaro Álvarez de las Asturias
 	dynasty = 401
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72758
 	mother = 72992
@@ -2355,7 +2355,7 @@
 	name = "Mayor" # Mayor Álvarez de las Asturias
 	dynasty = 401
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72758
 	mother = 72992
@@ -2371,7 +2371,7 @@
 	name = "Nicor" # Nicor Álvarez de las Asturias
 	dynasty = 401
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72758
 	mother = 72992
@@ -2387,7 +2387,7 @@
 	name = "Taresa" # Teresa (Alfónsez) Álvarez de las Asturias
 	dynasty = 401
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72761
 	mother = 72530
@@ -2402,7 +2402,7 @@
 72767 = {
 	name = "Xuana"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1230.1.1 = {
 		birth = "1230.1.1"
@@ -2416,7 +2416,7 @@
 	name = "Taresa" # Teresa Álvarez de las Asturias
 	dynasty = 401
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72762
 	mother = 72767
@@ -2431,7 +2431,7 @@
 72769 = {
 	name = "Pedru" # Pedro (Pérez) Álvarez de las Asturias
 	dynasty = 401
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72760
 	mother = 72531
@@ -2449,7 +2449,7 @@
 72770 = {
 	name = "Rodrigu" # Rodrigo (Pérez) Álvarez de las Asturias
 	dynasty = 401
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72760
 	mother = 72531
@@ -2467,7 +2467,7 @@
 72771 = {
 	name = "MencI_a"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1262.1.1 = {
 		birth = "1262.1.1"
@@ -2480,7 +2480,7 @@
 72772 = {
 	name = "Xuana"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1263.1.1 = {
 		birth = "1263.1.1"
@@ -2493,7 +2493,7 @@
 72773 = {
 	name = "Rodrigu" # Rodrigo (Rodríguez) Álvarez de las Asturias
 	dynasty = 401
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72770
 	mother = 72772
@@ -2512,7 +2512,7 @@
 	name = "Sancha" # Sancha (Rodríguez) Álvarez de las Asturias
 	female = yes
 	dynasty = 401
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72770
 	mother = 72772
@@ -2528,7 +2528,7 @@
 	name = "Taresa" # Teresa (Rodríguez) Álvarez de las Asturias
 	female = yes
 	dynasty = 401
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72770
 	mother = 72772
@@ -2544,7 +2544,7 @@
 	name = "Sancha" # Sancha González
 	female = yes
 	dynasty = 12180
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 73066
 	mother = 73063
@@ -2560,7 +2560,7 @@
 	name = "Fronilde" # Fronilde Fernández de Ledesma
 	female = yes
 	dynasty = 12167
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72870
 	mother = 72938
@@ -2575,7 +2575,7 @@
 72867 = {
 	name = "GO_mez" # Gómez Núñez de Ledesma
 	dynasty = 12167
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72868
 	mother = 72869
@@ -2593,7 +2593,7 @@
 72868 = {
 	name = "NuN_u" # Nuño de Ledesma
 	dynasty = 12167
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1040.1.1 = {
 		birth = "1040.1.1"
@@ -2609,7 +2609,7 @@
 72869 = {
 	name = "Sancha"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1051.1.1 = {
 		birth = "1051.1.1"
@@ -2622,7 +2622,7 @@
 72870 = {
 	name = "Fernandu" # Fernando Núñez de Ledesma
 	dynasty = 12167
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72868
 	mother = 72869
@@ -2640,7 +2640,7 @@
 72871 = {
 	name = "Fernando" # Fernando Gómez de Ledesma
 	dynasty = 12167
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72867
 	mother = 72866
@@ -2656,7 +2656,7 @@
 	name = "MarI_a" # María Gómez de Ledesma
 	female = yes
 	dynasty = 12167
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72867
 	mother = 72866
@@ -2671,7 +2671,7 @@
 72873 = {
 	name = "Fernandu"
 	dynasty = 12168
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1100.1.1 = {
 		birth = "1100.1.1"
@@ -2687,7 +2687,7 @@
 72874 = {
 	name = "Pelayu" # Pelayo Fernández
 	dynasty = 12168
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72873
 	mother = 72872
@@ -2706,7 +2706,7 @@
 	name = "Varela" # Varela Fernández
 	dynasty = 12168
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72873
 	mother = 72872
@@ -2721,7 +2721,7 @@
 72876 = {
 	name = "MarI_a"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1160.1.1 = {
 		birth = "1160.1.1"
@@ -2734,7 +2734,7 @@
 72901 = {
 	name = "Melendu"
 	dynasty = 12114
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1083.1.1 = {
 		birth = "1083.1.1"
@@ -2751,7 +2751,7 @@
 	name = "Mayor" # Mayor Menéndez
 	dynasty = 12114
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72901
 	mother = 72898
@@ -2765,7 +2765,7 @@
 72950 = {
 	name = "EstE_banu" # Esteban, Bishop of Zamora
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	trait = education_learning_3
@@ -2781,7 +2781,7 @@
 72951 = {
 	name = "GuillE_n" # Guillén, Bishop of Zamora
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	trait = education_learning_3
@@ -2797,7 +2797,7 @@
 72952 = {
 	name = "MartI_n" # Martín Rodríguez, Bishop of Zamora
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	trait = education_learning_3
@@ -2813,7 +2813,7 @@
 72953 = {
 	name = "Pedru" # Pedro, Bishop of Zamora
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	trait = education_learning_3
@@ -2829,7 +2829,7 @@
 72954 = {
 	name = "Sueru" # Suero Pérez de Velasco, Bishop of Zamora
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	trait = education_learning_3
@@ -2845,7 +2845,7 @@
 72955 = {
 	name = "Alfonsu" # Alfonso, Bishop of Zamora
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	trait = education_learning_3
@@ -2861,7 +2861,7 @@
 72956 = {
 	name = "Pedru" # Pedro, Bishop of Zamora
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	trait = education_learning_3
@@ -2877,7 +2877,7 @@
 72957 = {
 	name = "Gonzalu" # Gonzalo Rodríguez Osorio, Bishop of Zamora
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	trait = education_learning_3
@@ -2893,7 +2893,7 @@
 72958 = {
 	name = "Diegu" # Diego Rodríguez, Bishop of Zamora
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	trait = education_learning_3
@@ -2909,7 +2909,7 @@
 72959 = {
 	name = "Rodrigu" # Rodrigo, Bishop of Zamora
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	trait = education_learning_3
@@ -2925,7 +2925,7 @@
 72960 = {
 	name = "Pedru" # Pedro, Bishop of Zamora
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	trait = education_learning_3
@@ -2941,7 +2941,7 @@
 72971 = {
 	name = "Diegu" # Diego de Carrión
 	dynasty = 12179
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1100.1.1 = {
 		birth = "1100.1.1"
@@ -2957,7 +2957,7 @@
 72972 = {
 	name = "BosO_n" # Bosón Díaz de Carrión
 	dynasty = 12179
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72971
 	mother = 72967
@@ -2976,7 +2976,7 @@
 	name = "Mayor" # Mayor Díaz de Carrión
 	female = yes
 	dynasty = 12179
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72971
 	mother = 72967
@@ -2991,7 +2991,7 @@
 72974 = {
 	name = "Urraca"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1134.1.1 = {
 		birth = "1134.1.1"
@@ -3004,7 +3004,7 @@
 72975 = {
 	name = "Diegu" # Diego Bosón de Carrión
 	dynasty = 12179
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72972
 	mother = 72974
@@ -3019,7 +3019,7 @@
 72976 = {
 	name = "MartI_n" # Martín Bosón de Carrión
 	dynasty = 12179
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72972
 	mother = 72974
@@ -3034,7 +3034,7 @@
 72977 = {
 	name = "Pedru" # Pedro Bosón de Carrión
 	dynasty = 12179
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72972
 	mother = 72974
@@ -3049,7 +3049,7 @@
 72978 = {
 	name = "Domingu" # Domingo Bosón de Carrión
 	dynasty = 12179
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72972
 	mother = 72974
@@ -3065,7 +3065,7 @@
 	name = "MarI_a" # María Bosón de Carrión
 	female = yes
 	dynasty = 12179
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72972
 	mother = 72974
@@ -3081,7 +3081,7 @@
 	name = "Mayor" # Mayor Bosón de Carrión
 	dynasty = 12179
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 72972
 	mother = 72974
@@ -3099,7 +3099,7 @@
 
 	father = 73898
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	976.1.1 = {
@@ -3116,7 +3116,7 @@
 
 	father = 73032
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1000.1.1 = {
@@ -3133,7 +3133,7 @@
 
 	father = 73032
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1002.1.1 = {
@@ -3153,7 +3153,7 @@
 
 	father = 73033
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1030.1.1 = {
@@ -3171,7 +3171,7 @@
 	name = "Elvira"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1039.1.1 = {
@@ -3189,7 +3189,7 @@
 	father = 73035
 	mother = 73036
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1056.1.1 = {
@@ -3210,7 +3210,7 @@
 	father = 73037
 	mother = 200170
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1076.1.1 = {
@@ -3229,7 +3229,7 @@
 	father = 73037
 	mother = 200170
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1078.1.1 = {
@@ -3247,7 +3247,7 @@
 	father = 73034
 	mother = 73044
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1039.1.1 = {
@@ -3264,7 +3264,7 @@
 73043 = {
 	name = "Rodrigu" # Rodrigo Ovéquiz Vela
 	dynasty_house = house_vela
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 73034
 	mother = 73044
@@ -3282,7 +3282,7 @@
 73044 = {
 	name = "Elvira"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1021.1.1 = {
 		birth = "1021.1.1"
@@ -3295,7 +3295,7 @@
 73045 = {
 	name = "Toda"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1034.1.1 = {
 		birth = "1034.1.1"
@@ -3308,7 +3308,7 @@
 73049 = {
 	name = "Ximena"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1030.1.1 = {
 		birth = "1030.1.1"
@@ -3325,7 +3325,7 @@
 	father = 73041
 	mother = 73049
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1056.1.1 = {
@@ -3346,7 +3346,7 @@
 	father = 73041
 	mother = 73049
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1058.1.1 = {
@@ -3363,7 +3363,7 @@
 73052 = {
 	name = "Enderquina"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1064.1.1 = {
 		birth = "1064.1.1"
@@ -3376,7 +3376,7 @@
 73053 = {
 	name = "Urraca"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1064.1.1 = {
 		birth = "1064.1.1"
@@ -3393,7 +3393,7 @@
 	father = 73051
 	mother = 73053
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1081.1.1 = {
@@ -3417,7 +3417,7 @@
 	father = 73051
 	mother = 73053
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1082.1.1 = {
@@ -3435,7 +3435,7 @@
 	father = 73051
 	mother = 73053
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1083.1.1 = {
@@ -3453,7 +3453,7 @@
 	father = 73051
 	mother = 73053
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1085.1.1 = {
@@ -3472,7 +3472,7 @@
 	father = 73051
 	mother = 73053
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1086.1.1 = {
@@ -3491,7 +3491,7 @@
 	father = 73051
 	mother = 73053
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1088.1.1 = {
@@ -3510,7 +3510,7 @@
 	father = 73051
 	mother = 73053
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1089.1.1 = {
@@ -3529,7 +3529,7 @@
 	father = 73054
 	mother = 72898
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1131.1.1 = {
@@ -3547,7 +3547,7 @@
 	father = 73041
 	mother = 73049
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	father = 73041
@@ -3572,7 +3572,7 @@
 	father = 73041
 	mother = 73049
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1062.1.1 = {
@@ -3591,7 +3591,7 @@
 	father = 73041
 	mother = 73049
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1064.1.1 = {
@@ -3610,7 +3610,7 @@
 	father = 73041
 	mother = 73049
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1066.1.1 = {
@@ -3624,7 +3624,7 @@
 73066 = {
 	name = "Gonzalu"
 	dynasty = 12180
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1056.1.1 = {
 		birth = "1056.1.1"
@@ -3640,7 +3640,7 @@
 73067 = {
 	name = "Pedru" # Pedro González
 	dynasty = 12180
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 73066
 	mother = 73063
@@ -3655,7 +3655,7 @@
 73068 = {
 	name = "Rodrigu" # Rodrigo González
 	dynasty = 12180
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 73066
 	mother = 73063
@@ -3671,7 +3671,7 @@
 	name = "Cristina" # Cristina González
 	female = yes
 	dynasty = 12180
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	father = 73066
 	mother = 73063
@@ -3690,7 +3690,7 @@
 	father = 72171
 	mother = 72170
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1162.1.1 = {
@@ -3708,7 +3708,7 @@
 	father = 72171
 	mother = 72170
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1163.1.1 = {
@@ -3726,7 +3726,7 @@
 	father = 72171
 	mother = 72170
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1165.1.1 = {
@@ -3747,7 +3747,7 @@
 	father = 72171
 	mother = 72170
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1166.1.1 = {
@@ -3768,7 +3768,7 @@
 	father = 72171
 	mother = 72170
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1168.1.1 = {
@@ -3786,7 +3786,7 @@
 	father = 72171
 	mother = 72170
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	trait = education_learning_1
@@ -3807,7 +3807,7 @@
 	father = 72171
 	mother = 72170
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	trait = education_learning_1
@@ -3827,7 +3827,7 @@
 	father = 73072
 	mother = 73077
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1191.1.1 = {
@@ -3845,7 +3845,7 @@
 	father = 73072
 	mother = 73077
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1192.1.1 = {
@@ -3863,7 +3863,7 @@
 	father = 73073
 	mother = 72998
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1191.1.1 = {
@@ -3881,7 +3881,7 @@
 	father = 73073
 	mother = 72998
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1193.1.1 = {
@@ -3899,7 +3899,7 @@
 	father = 73073
 	mother = 72998
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1194.10.19 = {
@@ -3923,7 +3923,7 @@
 	father = 108560
 	mother = 108592
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1015.1.1 = {
@@ -3948,7 +3948,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = content
 	trait = education_diplomacy_1
@@ -3975,7 +3975,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = education_martial_2
 	father = 70092
@@ -3999,7 +3999,7 @@
 	father = 108530
 	mother = 108531
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1029.1.1 = {
@@ -4017,7 +4017,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = education_martial_2
 	father = 108510
@@ -4040,7 +4040,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = education_intrigue_1
 	father = 108510
@@ -4067,7 +4067,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = wrathful
 	trait = education_stewardship_2
@@ -4088,7 +4088,7 @@
 	father = 108550
 	mother = 108551
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1002.1.1 = {
@@ -4110,7 +4110,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = greedy
 	trait = education_stewardship_2
@@ -4128,7 +4128,7 @@
 	name = "Fernandu" # Fernando Fernández (Gundemáriz)
 	dynasty = 8618
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	father = 108530
@@ -4154,7 +4154,7 @@
 	father = 108532
 	mother = 109630
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1063.1.1 = {
@@ -4172,7 +4172,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = honest
 	trait = education_martial_3
@@ -4195,7 +4195,7 @@
 	
 	father = 200087
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	973.1.1 = {
@@ -4213,7 +4213,7 @@
 	name = "Muniadona"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	982.1.1 = {
@@ -4231,7 +4231,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = education_intrigue_2
 	father = 108610
@@ -4253,7 +4253,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = education_martial_2
 	father = 108590
@@ -4283,7 +4283,7 @@
 	father = 108600
 	mother = 70244
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	martial = 4
@@ -4317,7 +4317,7 @@
 	name = "Velasquita"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	965.1.1 = {
@@ -4335,7 +4335,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = bastard
 	trait = clubfooted
@@ -4357,7 +4357,7 @@
 	father = 70024
 	mother = 70025
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	martial = 4
@@ -4388,7 +4388,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = deceitful
 	trait = brave
@@ -4413,7 +4413,7 @@
 	name = "Cristina" # Cristina González de las Asturias
 	female = yes
 	# dynasty = # de Asturias
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	1100.1.1 = {
 		birth = "1100.1.1"
@@ -4427,7 +4427,7 @@
 	name = "Gundemaru" # Gundemaro, founder of the Gundemáriz Family
 	dynasty = 8618
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	925.1.1 = {
@@ -4445,7 +4445,7 @@
 
 	father = 200086
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	950.1.1 = {
@@ -4463,7 +4463,7 @@
 	father = 70107
 	mother = 70108
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1079.1.1 = {
@@ -4482,7 +4482,7 @@
 	father = 70107
 	mother = 70108
 
-	religion = catholic
+	religion = nicean
 	culture = asturleonese
 
 	1081.1.1 = {
@@ -4496,7 +4496,7 @@
 208530 = {
 	name = "MartI_n" # Martín Pérez Arias
 	dynasty = 101884
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = zealous
 	trait = diligent
@@ -4517,7 +4517,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = gluttonous
 	trait = lustful
@@ -4540,7 +4540,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = temperate
 	trait = generous
@@ -4561,7 +4561,7 @@
 	diplomacy = 6
 	intrigue = 9
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "asturleonese"
 	trait = wrathful
 	trait = education_learning_2

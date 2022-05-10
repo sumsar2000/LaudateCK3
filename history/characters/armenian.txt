@@ -1283,7 +1283,7 @@
 	}
 	1200.1.1 = {
 		name = "Ioane"
-		faith = "orthodox"
+		faith = "nicean"
 		culture = "georgian"
 		dynasty = 101747
 	}
@@ -1655,7 +1655,7 @@
 	#Personality Traits
 	trait = diligent
 	trait = generous
-	trait = cynical	#A fairly loyal vassal to the Caliphate, despite being positioned at the heart of the Christian-Muslim Arab-Byzantine Wars, and resisted attempts by the Orthodox Church to unify Apostolic Christianity with Constantinople.
+	trait = cynical	#A fairly loyal vassal to the Caliphate, despite being positioned at the heart of the Christian-Muslim Arab-Byzantine Wars, and resisted attempts by the nicean Church to unify Apostolic Christianity with Constantinople.
 	
 	#Other Traits
 	trait = diplomat
@@ -2228,7 +2228,7 @@
 	809.1.1 = {
 		death = "809.1.1"
 		name = "Adanarse"
-		faith = "orthodox"
+		faith = "nicean"
 		culture = "georgian"
 	}
 }
@@ -2249,7 +2249,7 @@
 		birth = "765.1.1"
 	}
 	809.1.1 = {
-		faith = orthodox
+		faith = nicean
 		culture = "georgian"
 	}
 	826.1.29 = {
@@ -4014,9 +4014,9 @@
 	1299.1.1 = {
 		trait = blind
 	}
-	#converted to catholicism
+	#converted to niceanism
 	1299.3.4 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	1307.11.7 = {
 		death = "1307.11.7"
@@ -4898,7 +4898,7 @@
 	}
 }
 159229 = {
-	name = "Hovhannes" # John VII, Catholicos of Caucasian Albania
+	name = "Hovhannes" # John VII, niceanos of Caucasian Albania
 	dynasty_house = house_vakhtangian
 	religion = "armenian_apostolic"
 	culture = "armenian"
@@ -4912,7 +4912,7 @@
 	}
 }
 159230 = {
-	name = "Hovhannes" # John VIII, Catholicos of Caucasian Albania
+	name = "Hovhannes" # John VIII, niceanos of Caucasian Albania
 	dynasty_house = house_vakhtangian
 	religion = "armenian_apostolic"
 	culture = "armenian"
@@ -5599,7 +5599,7 @@
 	}
 	1025.1.1 = {
 		name = "Maria"
-		faith = "orthodox"
+		faith = "nicean"
 		effect = {
 			set_culture = culture:portuguese
 		}
@@ -8191,7 +8191,7 @@
 145225 = {
 	name = "Artavasdos"
 	dynasty = 101199
-	religion = nicean
+	religion = "nicean"
 	culture = "armenian"
 	trait = greedy
 	trait = ambitious

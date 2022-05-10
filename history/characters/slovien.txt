@@ -64,7 +64,7 @@
 		birth = "790.1.1"
 	}
 	831.1.1 = {
-		religion = nicean
+		religion = "nicean"
 	}
 	846.8.15 = {
 		death = "846.8.15"
@@ -81,7 +81,7 @@
 		birth = "815.1.1"
 	}
 	831.1.1 = {
-		religion = nicean
+		religion = "nicean"
 	}
 	869.1.1 = {
 		death = "869.1.1"
@@ -91,7 +91,7 @@
 	name = "Svatopluk"
 	# AKA: Svatopluk Mojmírovci
 	dynasty = 7508
-	religion = nicean
+	religion = "nicean"
 	culture = "slovien"
 	father = 187010
 	840.1.1 = {
@@ -110,7 +110,7 @@
 	name = "SlavomI_r"
 	# AKA: Slavomír Mojmírovci
 	dynasty = 7508
-	religion = nicean
+	religion = "nicean"
 	culture = "slovien"
 	father = 187010
 	842.1.1 = {
@@ -124,7 +124,7 @@
 #187005 = {
 #	name = "Sventozizna"
 #	female = yes
-#	religion = "catholic"
+#	religion = "nicean"
 #	culture = "slovien"
 #	840.1.1 = {
 #		birth = "840.1.1"
@@ -138,7 +138,7 @@
 	name = "MojmI_r"
 	# AKA: Mojmír II Mojmírovci
 	dynasty = 7508
-	religion = nicean
+	religion = "nicean"
 	culture = "slovien"
 	father = 187003
 	mother = 168068
@@ -154,7 +154,7 @@
 	name = "Svatopluk"
 	# AKA: Svatopluk II Mojmírovci
 	dynasty = 7508
-	religion = nicean
+	religion = "nicean"
 	culture = "slovien"
 	father = 187003
 	mother = 168068
@@ -170,7 +170,7 @@
 	name = "Predslav"
 	# AKA: Predslav Mojmírovci
 	dynasty = 7508
-	religion = nicean
+	religion = "nicean"
 	culture = "slovien"
 	father = 187003
 	mother = 168068
@@ -206,7 +206,7 @@
 		birth = "817.1.1"
 	}
 	831.1.1 = {
-		religion = nicean
+		religion = "nicean"
 	}
 	850.1.1 = {
 		death = "815.1.1"
@@ -223,7 +223,7 @@
 		birth = "800.1.1"
 	}
 	831.1.1 = {
-		religion = nicean
+		religion = "nicean"
 	}
 	861.1.1 = {
 		death = "861.1.1"
@@ -234,7 +234,7 @@
 	name = "Kocel"
 	# AKA: Kocel z Nitrava
 	dynasty = 7509
-	religion = nicean
+	religion = "nicean"
 	culture = "slovien"
 	father = 187011
 	833.1.1 = {
@@ -260,7 +260,7 @@
 260042 = {		# Placeholder Krems 867
 	name = "Smil"
 	dynasty = 1069070
-	religion = nicean
+	religion = "nicean"
 	culture = "slovien"
 	837.1.1 = {
 		birth = yes
@@ -285,7 +285,7 @@
 260054 = {		# Placeholder Freistadt 867
 	name = "Pravoslav"
 	dynasty = 1069076
-	religion = nicean
+	religion = "nicean"
 	culture = slovien
 	821.1.1 = {
 		birth = yes
@@ -297,7 +297,7 @@
 260634 = {
 	name = "BoZ_idar"
 	dynasty = 1062276
-	religion = catholic
+	religion = nicean
 	culture = slovien
 	901.1.1 = {
 		birth = yes
@@ -309,7 +309,7 @@
 260635 = {
 	name = "Hrdoslav"
 	dynasty = 10100
-	religion = catholic
+	religion = nicean
 	culture = slovien
 	912.1.1 = {
 		birth = yes
@@ -322,7 +322,7 @@
 260662 = {
 	name = "Vladan"
 	dynasty = 1069052
-	religion = catholic
+	religion = nicean
 	culture = slovien
 	father = 260668
 	900.1.1 =  {
@@ -335,7 +335,7 @@
 260663 = {
 	name = "Svatoslav"
 	dynasty = 1069052
-	religion = catholic
+	religion = nicean
 	culture = slovien
 	father = 260668
 	906.1.1 = {
@@ -348,7 +348,7 @@
 260664 = {
 	name = "BeneS_"
 	dynasty = 1062297
-	religion = catholic
+	religion = nicean
 	culture = slovien
 	908.1.1 = {
 		birth = yes
@@ -377,7 +377,7 @@
 	stewardship = 9
 	intrigue = 3
 	learning = 6
-	religion = catholic
+	religion = nicean
 	culture = slovien
 	trait = "just"
 	#trait = "midas_touched"
@@ -471,7 +471,7 @@
 273007 = { #Placeholder ruler of Trencin
 	name = "LubomI_r"
 	dynasty = 1069047
-	religion = catholic
+	religion = nicean
 	culture = slovien
 	father = 273001
 	919.1.1 = {
@@ -485,7 +485,7 @@
 	name = "Lubica"
 	female = yes
 	dynasty = 1069047
-	religion = catholic
+	religion = nicean
 	culture = slovien
 	father = 273001
 	917.1.1 = {
@@ -578,7 +578,7 @@
 273015 = { #Placeholder ruler of Orava/Arva
 	name = "Svorad"
 	dynasty = 1069050 #Divinsky
-	religion = catholic
+	religion = nicean
 	culture = slovien
 	father = 273014
 	915.1.1 = {
@@ -592,7 +592,7 @@
 	name = "Pravdomila"
 	female = yes
 	dynasty = 1069050 #Divinsky
-	religion = catholic
+	religion = nicean
 	culture = slovien
 	father = 273014
 	921.1.1 = {
@@ -633,7 +633,7 @@
 273019 = { #Placeholder ruler of Gemer 936
 	name = "Svorad"
 	dynasty = 1069050 #Divinsky
-	religion = catholic
+	religion = nicean
 	culture = slovien
 	father = 273014
 	915.1.1 = {

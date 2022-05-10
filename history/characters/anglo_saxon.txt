@@ -6,7 +6,7 @@
 	diplomacy = 10
 	intrigue = 10
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = honest
 	trait = education_diplomacy_4
@@ -27,7 +27,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_2
 	father = 98
@@ -50,7 +50,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 7
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = honest
 	trait = education_martial_2
@@ -75,7 +75,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = greedy
 	trait = education_stewardship_3
@@ -96,7 +96,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = honest
 	trait = education_martial_2
@@ -121,7 +121,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_intrigue_2
 	963.1.1 = {
@@ -142,7 +142,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_martial_3
 	father = 98
@@ -170,7 +170,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_intrigue_1
 	969.1.2 = {
@@ -189,7 +189,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_intrigue_1
 	father = 106
@@ -213,7 +213,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = lazy
 	trait = generous
@@ -237,7 +237,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_stewardship_2
 	trait = legitimized_bastard
@@ -262,7 +262,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_martial_2
 	trait = brave
@@ -301,7 +301,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = cynical
 	trait = education_learning_2
@@ -327,7 +327,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = generous
 	trait = chaste
@@ -356,7 +356,7 @@
 	diplomacy = 3
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_martial_2
 	trait = legitimized_bastard
@@ -380,7 +380,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_martial_2
 	trait = legitimized_bastard
@@ -405,7 +405,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = wrathful
 	trait = chaste
@@ -440,7 +440,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_stewardship_3
 	993.1.1 = {
@@ -462,7 +462,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = wrathful
 	trait = education_learning_2
@@ -484,7 +484,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	disallow_random_traits = yes
 	sexuality = heterosexual
@@ -570,7 +570,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = arrogant
 	trait = gluttonous
@@ -595,7 +595,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	disallow_random_traits = yes
 	trait = lustful
@@ -633,7 +633,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = calm
 	trait = education_stewardship_2
@@ -657,7 +657,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = hunchbacked
 	trait = education_stewardship_2
@@ -682,7 +682,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_2
 	trait = legitimized_bastard
@@ -703,7 +703,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = arbitrary
 	trait = education_martial_2
@@ -725,7 +725,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_2
 	trait = legitimized_bastard
@@ -746,7 +746,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_stewardship_2
 	father = 120
@@ -769,7 +769,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = beauty_good_2
 	trait = calm
@@ -797,7 +797,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	disallow_random_traits = yes
 	trait = calm
@@ -826,7 +826,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = cynical
 	trait = education_stewardship_3
@@ -845,7 +845,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = brave
 	trait = education_intrigue_2
@@ -865,7 +865,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_intrigue_2
 	father = 186
@@ -891,7 +891,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_3
 	father = 188
@@ -911,7 +911,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = honest
 	trait = just
@@ -934,7 +934,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = temperate
 	trait = wrathful
@@ -955,7 +955,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_diplomacy_2
 	father = 188
@@ -977,7 +977,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_diplomacy_3
 	father = 192
@@ -997,7 +997,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = brave
 	trait = education_martial_2
@@ -1019,7 +1019,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = deceitful
 	trait = education_diplomacy_2
@@ -1045,7 +1045,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = zealous
 	trait = education_learning_2
@@ -1067,7 +1067,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = humble
 	trait = education_learning_3
@@ -1086,7 +1086,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = twin
 	father = 122
@@ -1117,7 +1117,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = twin
 	father = 122
@@ -1143,7 +1143,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 9
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_3
 	father = 100
@@ -1162,7 +1162,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	995.1.1 = {
@@ -1180,7 +1180,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = arbitrary
 	trait = hunchbacked
@@ -1200,7 +1200,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = greedy
 	trait = humble
@@ -1226,7 +1226,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_martial_3
 	father = 5640
@@ -1250,7 +1250,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = greedy
 	trait = brave
@@ -1278,7 +1278,7 @@
 #	diplomacy = 5
 #	intrigue = 8
 #	stewardship = 4
-#	religion = "catholic"
+#	religion = "nicean"
 #	culture = anglo_saxon
 #	trait = craven
 #	trait = education_martial_2
@@ -1294,7 +1294,7 @@
 5660 = {
 	name = "Morcar"
 	dynasty = 560
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 5642
 	mother = 161280
@@ -1341,7 +1341,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = lustful
 	trait = temperate
@@ -1357,7 +1357,7 @@
 6890 = {
 	name = Ecgwyn # Fantasy
 	female = yes
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	828.1.1 = {
 		birth = yes
@@ -1384,7 +1384,7 @@
 	name = "Hextilda"
 	female = yes
 	dynasty = 745
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 7396
 	mother = 7388
@@ -1399,7 +1399,7 @@
 7396 = {
 	name = "Uhtred"
 	dynasty = 745
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 198
 	mother = 317
@@ -1487,7 +1487,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 82002
 	1040.1.2 = {
@@ -1505,7 +1505,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 188
 	mother = 161263
@@ -1523,7 +1523,7 @@
 	diplomacy = 9
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = generous
 	trait = education_learning_3
@@ -1542,7 +1542,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	1028.1.1 = {
 		birth = "1028.1.1"
@@ -1561,7 +1561,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 9
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 82057
 	1065.1.2 = {
@@ -1579,7 +1579,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_intrigue_1
 	father = 120
@@ -1600,7 +1600,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = wrathful
 	trait = brave
@@ -1622,7 +1622,7 @@
 	martial = 11 #A gifted military commander
 	diplomacy = 2 #...but not exactly a diplomat
 	prowess = 10 #Capable duelist
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_martial_3
 	trait = ambitious
@@ -1654,7 +1654,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 9
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 100
 	902.1.2 = {
@@ -1668,7 +1668,7 @@
 33350 = {
 	name = "E_thelstan"
 	dynasty_house = house_british_isles_wessex
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 100
 	893.1.1 = {
@@ -1682,7 +1682,7 @@
 33351 = {
 	name = "Eadred"
 	dynasty_house = house_british_isles_wessex
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 100
 	923.1.1 = {
@@ -1696,7 +1696,7 @@
 33352 = {
 	name = "Eadwig"
 	dynasty_house = house_british_isles_wessex
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 102
 	941.1.1 = {
@@ -1713,7 +1713,7 @@
 33354 = {
 	name = "Ecgberht"
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205189
 	769.1.1 = {
@@ -1727,7 +1727,7 @@
 306022 = {
 	name = Oslac
 	dynasty = 2004006 #af Oslac
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	780.1.1 = { birth = yes }
 	840.1.1 = { death = yes }
@@ -1738,7 +1738,7 @@
 	dynasty = 2004006  #af Oslac
 	female = yes
 	trait = zealous
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 306022
 	809.1.1 = {
@@ -1754,7 +1754,7 @@
 33355 = {
 	name = "E_thelwulf"
 	dynasty_house = house_british_isles_wessex
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 33354
 	795.1.1 = {
@@ -1777,7 +1777,7 @@
 33356 = {
 	name = "E_thelbald"
 	dynasty_house = house_british_isles_wessex
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 33355 #(?helwulf, King of Wessex)
 	mother = 306023 #Osburh
@@ -1795,7 +1795,7 @@
 33357 = {
 	name = "E_thelbert"
 	dynasty_house = house_british_isles_wessex
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 33355 #(?helwulf, King of Wessex)
 	mother = 306023 #Osburh
@@ -1810,7 +1810,7 @@
 33358 = {
 	name = "E_thelred"
 	dynasty_house = house_british_isles_wessex
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 33355 #(?helwulf, King of Wessex)
 	mother = 306023 #Osburh
@@ -1834,7 +1834,7 @@
 306015 = {
 	name = Wulfthryth
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = anglo_saxon
 	trait = callous
 	trait = arrogant
@@ -1879,7 +1879,7 @@
 
 129058 = {
 	name = "Samson"
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = lustful
 	1056.1.1 = {
@@ -1892,7 +1892,7 @@
 
 151014 = {
 	name = "Arnold"
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = trusting
 	trait = education_learning_1
@@ -1906,7 +1906,7 @@
 
 129059 = {
 	name = "Theulf"
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = greedy
 	1056.1.1 = {
@@ -1924,7 +1924,7 @@
 
 32703  = {
 	name = "Edmund"
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_2
 	1060.1.1 = {
@@ -1944,7 +1944,7 @@
 161260 = {
 	name = "E_lfwine"
 	dynasty_house = house_knytling
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = legitimized_bastard
 	trait = chaste
@@ -1968,7 +1968,7 @@
 	name = "E_lfgifu"
 	female = yes
 	dynasty_house = house_british_isles_wessex
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 106
 	mother = 105
@@ -1984,7 +1984,7 @@
 	name = "Godgifu" # aka Goda
 	female = yes
 	dynasty_house = house_british_isles_wessex
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 106
 	mother = 259
@@ -1999,7 +1999,7 @@
 161263 = {
 	name = "Ecgfrida"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	972.1.1 = {
 		birth = "972.1.1"
@@ -2013,7 +2013,7 @@
 	name = "E_lfgifu" #real name unknown
 	female = yes
 	dynasty = 744
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 188
 	mother = 161261
@@ -2027,7 +2027,7 @@
 
 161265 = {
 	name = "E_thelgar"
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	1010.1.1 = {
 		birth = "1010.1.1"
@@ -2043,7 +2043,7 @@
 161266 = {
 	name = "Siward"
 	dynasty = 744
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 161265
 	mother = 161264
@@ -2058,7 +2058,7 @@
 161267 = {
 	name = "Ealdred"
 	dynasty = 744
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 161265
 	mother = 161264
@@ -2073,7 +2073,7 @@
 161268 = {
 	name = "Halden"
 	dynasty = 744
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 190
 	1035.1.1 = {
@@ -2088,7 +2088,7 @@
 	name = "E_ldgyth"
 	female = yes
 	dynasty = 744
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 192
 	1025.1.1 = {
@@ -2102,7 +2102,7 @@
 161270 = {
 	name = "Ligulf"
 	dynasty = 562
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	1030.1.1 = {
 		birth = "1030.1.1"
@@ -2118,7 +2118,7 @@
 161271 = {
 	name = "Uhtred"
 	dynasty = 562
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 161270
 	mother = 161269
@@ -2133,7 +2133,7 @@
 161272 = {
 	name = "Morcar"
 	dynasty = 562
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 161270
 	mother = 161269
@@ -2148,7 +2148,7 @@
 161273 = {
 	name = "Ligulf"
 	dynasty = 562
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 161271
 	1066.1.1 = {
@@ -2163,7 +2163,7 @@
 	name = "Gytha"
 	female = yes
 	dynasty = 756
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 120
 	mother = 101534
@@ -2178,7 +2178,7 @@
 161275 = {
 	name = "E_thelric"
 	dynasty = 20022
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	960.1.1 = {
 		birth = "960.1.1"
@@ -2192,7 +2192,7 @@
 	name = "Eadric"
 	#Eadric Streona
 	dynasty = 20022
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 161275
 	980.1.1 = {
@@ -2210,7 +2210,7 @@
 	name = "Eadgyth"
 	female = yes
 	dynasty_house = house_british_isles_wessex
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 106
 	mother = 105
@@ -2226,7 +2226,7 @@
 161278 = {
 	name = "E_lfric"
 	dynasty = 20022
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 161275
 	990.1.1 = {
@@ -2241,7 +2241,7 @@
 	name = "Godgifu"
 	#AKA Lady Godiva
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	1002.1.1 = {
 		birth = "1002.1.1"
@@ -2254,7 +2254,7 @@
 161280 = {
 	name = "E_lgifu"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	1020.1.1 = {
 		birth = "1020.1.1"
@@ -2271,7 +2271,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 40418
 	mother = 161274
@@ -2287,7 +2287,7 @@
 	name = "Adelisa"
 	female = yes
 	dynasty = 745
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 198
 	mother = 317
@@ -2303,7 +2303,7 @@
 167002 = {
 	name = "Hacon"
 	dynasty = 756
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = legitimized_bastard
 	father = 128
@@ -2321,7 +2321,7 @@
 167003 = {
 	name = "E_lfgar"
 	dynasty = 756
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = chaste
 	trait = education_learning_1
@@ -2342,7 +2342,7 @@
 	name = "E_lfgifu"
 	female = yes
 	dynasty = 756
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 120
 	mother = 101534
@@ -2357,7 +2357,7 @@
 163064 = {
 	name = "Eadmund" # of East Anglia
 	dynasty = 626
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205021
 	840.1.1 = {
@@ -2371,7 +2371,7 @@
 163102 = {
 	name = "Burghred"
 	dynasty = 813 #Mercia
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205100
 	830.1.1 = {
@@ -2389,7 +2389,7 @@
 	name = "Eadburh" #A member of the Mercian royal family, but not technically Burghred's sister
 	female = yes
 	dynasty = 813 #Mercia
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205100
 	826.1.1 = {
@@ -2403,7 +2403,7 @@
 306018 = {
 	name = E_thelred
 	dynasty = 2004005 #Mucel
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	819.1.1 = {
 		birth = yes
@@ -2421,7 +2421,7 @@
 	name = "Ealhswith"
 	female = yes
 	dynasty = 2004005 #Mucel
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 306018 #Aethelred Mucel
 	mother = 306019 #Eadburh Mercia
@@ -2439,7 +2439,7 @@
 306021 = {
 	name = "E_thelwulf"
 	dynasty = 2004005 #Mucel
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 306018 #Aethelred Mucel
 	mother = 306019 #Eadburh Mercia
@@ -2454,7 +2454,7 @@
 163103 = {
 	name = "E_lla"
 	dynasty = 814
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205252
 	martial = 5
@@ -2484,7 +2484,7 @@
 	name = "BlE_ja" #Daughter of Aella, wife of Sigurdr Snake-in-the-eye
 	female = yes
 	dynasty = 814
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 163103
 	mother = 6890
@@ -2502,7 +2502,7 @@
 6875 = {
 	name = "E_lfgar"
 	dynasty = 814
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 163103
 	mother = 6890
@@ -2519,7 +2519,7 @@
 
 163120 = {
 	name = "Eardulf" # Bishop of Durham/Lindisfarne
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	learning = 5
 	trait = education_learning_3
@@ -2534,7 +2534,7 @@
 
 163121 = {
 	name = "Oswine" # Earl of Lancaster (made up)
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	
 	830.1.1 = {
@@ -2547,7 +2547,7 @@
 
 163122 = {
 	name = "E_lfwald" # Earl of Westmorland (made up)
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	
 	833.1.1 = {
@@ -2560,7 +2560,7 @@
 
 163123 = {
 	name = "SE_xrE_d" # Earl of Cumberland (made up)
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	
 	835.1.1 = {
@@ -2572,7 +2572,7 @@
 }
 159465 = {
 	name = "E_lfrE_d" #Alured
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	dynasty_house = house_british_isles_cornwall #of Cornwall
 	father = 159464
@@ -2585,7 +2585,7 @@
 }
 159470 = {
 	name = "Godwine"  #Godwyn
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	dynasty_house = house_british_isles_cornwall #of Cornwall
 	father = 159465
@@ -2601,7 +2601,7 @@
 }
 159471 = {
 	name = "Hereberht"
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	dynasty_house = house_british_isles_cornwall
 	father = 159470
@@ -2617,7 +2617,7 @@
 	name = "E_thelswith"
 	female = yes
 	dynasty_house = house_british_isles_wessex
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 33355 #(?helwulf, King of Wessex)
 	mother = 306023 #Osburh
@@ -2631,7 +2631,7 @@
 180665 = {
 	name = "Deusdedit"
 	# Archbishop of Canterbury
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	600.1.1 = {
@@ -2644,7 +2644,7 @@
 180667 = {
 	name = "Berhtwald"
 	# Archbishop of Canterbury
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	650.1.1 = {
@@ -2657,7 +2657,7 @@
 180668 = {
 	name = "Tatwine"
 	# Archbishop of Canterbury
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	670.1.1 = {
@@ -2670,7 +2670,7 @@
 180669 = {
 	name = "Nothhelm"
 	# Archbishop of Canterbury
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	675.1.1 = {
@@ -2683,7 +2683,7 @@
 180670 = {
 	name = "Cuthbert"
 	# Archbishop of Canterbury
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	690.1.1 = {
@@ -2696,7 +2696,7 @@
 180671 = {
 	name = "Bregowine"
 	# Archbishop of Canterbury
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	700.1.1 = {
@@ -2709,7 +2709,7 @@
 180672 = {
 	name = "Jaenbert"
 	# Archbishop of Canterbury
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	715.1.1 = {
@@ -2722,7 +2722,7 @@
 180673 = {
 	name = "E_thelhard"
 	# Archbishop of Canterbury
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	730.1.1 = {
@@ -2735,7 +2735,7 @@
 180674 = {
 	name = "Wulfred"
 	# Archbishop of Canterbury
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	760.1.1 = {
@@ -2748,7 +2748,7 @@
 180675 = {
 	name = "Ceolnoth"
 	# Archbishop of Canterbury
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	790.1.1 = {
@@ -2761,7 +2761,7 @@
 180676 = {
 	name = "Aethelred"
 	# Archbishop of Canterbury
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	820.1.1 = {
@@ -2774,7 +2774,7 @@
 180677 = {
 	name = "Plegmund"
 	# Archbishop of Canterbury
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	856.5.30 = {
@@ -2787,7 +2787,7 @@
 180678 = {
 	name = "E_thelm"
 	# Archbishop of Canterbury, Bishop of Wells
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	863.4.4 = {
@@ -2800,7 +2800,7 @@
 180679 = {
 	name = "Wulfhelm"
 	# Archbishop of Canterbury
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	870.1.1 = {
@@ -2813,7 +2813,7 @@
 180681 = {
 	name = "E_lfsige"
 	# Archbishop of Canterbury
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	895.1.1 = {
@@ -2826,7 +2826,7 @@
 180682 = {
 	name = "Byrhthelm"
 	# Archbishop of Canterbury, Bishop of Wells
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	910.1.1 = {
@@ -2839,7 +2839,7 @@
 180683 = {
 	name = "Dunstan"
 	# Archbishop of Canterbury, Bishop of London
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	909.1.1 = {
@@ -2852,7 +2852,7 @@
 180684 = {
 	name = "E_thelgar"
 	# Archbishop of Canterbury, Bishop of Selsey
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	915.1.1 = {
@@ -2865,7 +2865,7 @@
 180685 = {
 	name = "Sigeric"
 	# Archbishop of Canterbury, Bishop of Ramsbury
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	930.1.1 = {
@@ -2878,7 +2878,7 @@
 180686 = {
 	name = "E_lfric"
 	# Archbishop of Canterbury, Bishop of Winchester
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	940.1.1 = {
@@ -2891,7 +2891,7 @@
 180687 = {
 	name = "Aelfheath"
 	# Archbishop of Canterbury, Bishop of Winchester
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	954.1.1 = {
@@ -2904,7 +2904,7 @@
 180688 = {
 	name = "Lyfing"
 	# Archbishop of Canterbury, Bishop of Wells
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	949.1.1 = {
@@ -2917,7 +2917,7 @@
 168608 = {
 	name = "Aethelnoth"
 	# Archbishop of Canterbury
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	975.1.1 = {
@@ -2930,7 +2930,7 @@
 180690 = {
 	name = "Eadsige"
 	# Archbishop of Canterbury
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	trait = education_learning_4
 	995.1.1 = {
@@ -3027,7 +3027,7 @@
 		birth = "560.1.1"
 	}
 	600.1.1 = {
-		religion = nicean
+		religion = "nicean"
 	}
 	616.2.24 = {
 		death = "616.2.24"
@@ -3044,7 +3044,7 @@
 		birth = "590.1.1"
 	}
 	620.1.1 = {
-		religion = nicean
+		religion = "nicean"
 		#add_spouse = Emma Meroving
 	}
 	640.1.1 = {
@@ -3054,7 +3054,7 @@
 205033 = {
 	name = "E_thelwald"
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205031
 	#mother = Bertha Meroving
@@ -3069,7 +3069,7 @@
 	name = "E_thelburh"
 	female = yes
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205031
 	#mother = Bertha Meroving
@@ -3086,7 +3086,7 @@
 205035 = {
 	name = "Eormenred"
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205032
 	#mother = Emma Meroving
@@ -3100,7 +3100,7 @@
 205036 = {
 	name = "Eorcenberht"
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205032
 	#mother = Emma Meroving
@@ -3114,7 +3114,7 @@
 205037 = {
 	name = "E_thelberht"
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205035
 	630.1.1 = {
@@ -3127,7 +3127,7 @@
 205038 = {
 	name = "E_thelred"
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205035
 	632.1.1 = {
@@ -3140,7 +3140,7 @@
 205039 = {
 	name = "Ecgberht"
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205036
 	630.1.1 = {
@@ -3153,7 +3153,7 @@
 205040 = {
 	name = "Hlothere"
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205036
 	635.1.1 = {
@@ -3166,7 +3166,7 @@
 205041 = {
 	name = "Eadric"
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205039
 	650.1.1 = {
@@ -3179,7 +3179,7 @@
 205042 = {
 	name = "Oswine"
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205038
 	661.1.1 = {
@@ -3192,7 +3192,7 @@
 205043 = {
 	name = "WihtrE_d"
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205039
 	655.1.1 = {
@@ -3205,7 +3205,7 @@
 205044 = {
 	name = "E_thelberht"
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205043
 	685.1.1 = {
@@ -3218,7 +3218,7 @@
 205045 = {
 	name = "Eadberht"
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205043
 	680.1.1 = {
@@ -3231,7 +3231,7 @@
 205046 = {
 	name = "E_lfric"
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205043
 	679.1.1 = {
@@ -3244,7 +3244,7 @@
 205047 = {
 	name = "Eardwulf"
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205045
 	700.1.1 = {
@@ -3257,7 +3257,7 @@
 205048 = {
 	name = "Eadberht"
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205044
 	710.1.1 = {
@@ -3270,7 +3270,7 @@
 205049 = {
 	name = "Ecgberht"
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205048
 	735.1.1 = {
@@ -3283,7 +3283,7 @@
 205050 = {
 	name = "Eadberht" # III
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205049
 	755.1.1 = {
@@ -3355,13 +3355,13 @@
 	}
 	630.1.1 = {
 		death = "630.1.1"
-		religion = "catholic"
+		religion = "nicean"
 	}
 }
 205005 = {
 	name = "Sigeberht"
 	dynasty = 1047000
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205002
 	591.1.1 = {
@@ -3387,7 +3387,7 @@
 205007 = {
 	name = "Anna"
 	dynasty = 1047000
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205006
 	590.1.1 = {
@@ -3400,7 +3400,7 @@
 205008 = {
 	name = "E_thelhere"
 	dynasty = 1047000
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205006
 	592.1.1 = {
@@ -3413,7 +3413,7 @@
 205009 = {
 	name = "E_thelwold"
 	dynasty = 1047000
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205006
 	595.1.1 = {
@@ -3439,7 +3439,7 @@
 205011 = {
 	name = "Ealdwulf"
 	dynasty = 1047000
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205010
 	635.1.1 = {
@@ -3452,7 +3452,7 @@
 205012 = {
 	name = "Ealdwald"
 	dynasty = 1047000
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205011
 	675.1.1 = {
@@ -3465,7 +3465,7 @@
 205013 = {
 	name = "Beonna"
 	dynasty = 1047000
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205012
 	700.1.1 = {
@@ -3478,7 +3478,7 @@
 205014 = {
 	name = "E_thelberht"
 	dynasty = 1047000
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205012
 	702.1.1 = {
@@ -3491,7 +3491,7 @@
 205015 = {
 	name = "E_thelred"
 	dynasty = 1047000
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205013
 	725.1.1 = {
@@ -3504,7 +3504,7 @@
 205016 = {
 	name = "E_thelberht"
 	dynasty = 1047000
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205015
 	750.1.1 = {
@@ -3517,7 +3517,7 @@
 205017 = {
 	name = "E_thelric"
 	dynasty = 1047000
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205014
 	725.1.1 = {
@@ -3530,7 +3530,7 @@
 205018 = {
 	name = "Ealdwald"
 	dynasty = 1047000
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205017
 	751.1.1 = {
@@ -3543,7 +3543,7 @@
 205019 = {
 	name = "E_thelred"
 	dynasty = 1047000
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205018
 	769.1.1 = {
@@ -3556,7 +3556,7 @@
 205020 = {
 	name = "E_thelstan" # of East Anglia
 	dynasty = 626
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205019
 	790.1.1 = {
@@ -3569,7 +3569,7 @@
 205021 = {
 	name = "E_thelweard" # of East Anglia
 	dynasty = 626
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205020
 	810.1.1 = {
@@ -3582,7 +3582,7 @@
 205022 = {
 	name = "Beorhtric" # of East Anglia
 	dynasty = 626
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205020
 	811.1.1 = {
@@ -3595,7 +3595,7 @@
 205023 = {
 	name = "Oswald" # of East Anglia
 	dynasty = 626
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205021
 	841.1.1 = {
@@ -3608,7 +3608,7 @@
 205024 = {
 	name = "E_thelred" # of East Anglia
 	dynasty = 626
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205023
 	860.1.1 = {
@@ -3744,7 +3744,7 @@
 		birth = "630.1.1"
 	}
 	655.11.15 = {
-		religion = nicean
+		religion = "nicean"
 	}
 	656.4.17 = {
 		death = "656.4.17"
@@ -3760,7 +3760,7 @@
 		birth = "640.1.1"
 	}
 	655.11.15 = {
-		religion = nicean
+		religion = "nicean"
 	}
 	675.1.1 = {
 		death = "675.1.1"
@@ -3776,7 +3776,7 @@
 		birth = "645.1.1"
 	}
 	655.11.15 = {
-		religion = nicean
+		religion = "nicean"
 	}
 	704.1.1 = {
 		death = "704.1.1"
@@ -3785,7 +3785,7 @@
 205063 = {
 	name = "Coenred" #
 	dynasty = 1047002
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205061
 	670.1.1 = {
@@ -3798,7 +3798,7 @@
 205064 = {
 	name = "Ceolred" #
 	dynasty = 1047002
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205062
 	671.1.1 = {
@@ -3811,7 +3811,7 @@
 205065 = {
 	name = "Ceolwald" #
 	dynasty = 1047002
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205062
 	671.1.1 = {
@@ -3824,7 +3824,7 @@
 205066 = {
 	name = "Alweo" #
 	dynasty = 1047002
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205058
 	641.1.1 = {
@@ -3837,7 +3837,7 @@
 205067 = {
 	name = "E_thelbald" #
 	dynasty = 1047002
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205066
 	680.1.1 = {
@@ -3850,7 +3850,7 @@
 205068 = {
 	name = "Heardberht" #
 	dynasty = 1047002
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205066
 	685.1.1 = {
@@ -3863,7 +3863,7 @@
 205069 = {
 	name = "Osmod" #
 	dynasty = 1047002
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205058
 	642.1.1 = {
@@ -3876,7 +3876,7 @@
 205070 = {
 	name = "Eanwulf" #
 	dynasty = 1047002
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205069
 	670.1.1 = {
@@ -3889,7 +3889,7 @@
 205071 = {
 	name = "Thingfrith" #
 	dynasty = 1047002
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205070
 	705.1.1 = {
@@ -3902,7 +3902,7 @@
 205072 = {
 	name = "Offa" #
 	dynasty = 1047002
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205071
 	#mother = Marcellina
@@ -3919,7 +3919,7 @@
 205073 = {
 	name = "Ecgfrith" #
 	dynasty = 1047002
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205072
 	mother = 205074
@@ -3934,7 +3934,7 @@
 	name = "Cynethryth" #
 	dynasty = 1047003 #
 	female = yes
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205104
 	744.1.1 = {
@@ -3951,7 +3951,7 @@
 	name = "Eadburh" #
 	female = yes
 	dynasty = 1047002
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205072
 	mother = 205074
@@ -3966,7 +3966,7 @@
 	name = "E_lfflE_d" #
 	female = yes
 	dynasty = 1047002
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205072
 	mother = 205074
@@ -3981,7 +3981,7 @@
 	name = "E_thelburh" #
 	female = yes
 	dynasty = 1047002
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205072
 	mother = 205074
@@ -3996,7 +3996,7 @@
 	name = "E_thelswith" #
 	female = yes
 	dynasty = 1047002
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205072
 	mother = 205074
@@ -4010,7 +4010,7 @@
 205079 = {
 	name = "Wiglaf" #
 	dynasty = 1047004
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205063
 	700.1.1 = {
@@ -4023,7 +4023,7 @@
 205081 = {
 	name = "Wigheard" #
 	dynasty = 1047004
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205079
 	722.1.1 = {
@@ -4036,7 +4036,7 @@
 205082 = {
 	name = "Wigferth" #
 	dynasty = 1047004
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205081
 	740.1.1 = {
@@ -4049,7 +4049,7 @@
 205083 = {
 	name = "Wigberht" #
 	dynasty = 1047004
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205082
 	760.1.1 = {
@@ -4062,7 +4062,7 @@
 205084 = {
 	name = "Wiglaf" # I of Mercia
 	dynasty = 1047004
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205083
 	780.1.1 = {
@@ -4075,7 +4075,7 @@
 205085 = {
 	name = "Wigmund" # I of Mercia
 	dynasty = 1047004
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205084
 	796.1.1 = {
@@ -4088,7 +4088,7 @@
 205086 = {
 	name = "Coelwulf" #
 	dynasty = 1047004
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205085
 	#mother = Aelfflaed of Mercia
@@ -4102,7 +4102,7 @@
 194041 = {
 	name = "Wigstan" #
 	dynasty = 1047004
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205085
 	#mother = Aelfflaed of Mercia
@@ -4116,7 +4116,7 @@
 205087 = {
 	name = "Leofric" #
 	dynasty = 1047004
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205085
 	#mother = Aelfflaed of Mercia
@@ -4130,7 +4130,7 @@
 205088 = {
 	name = "E_thelred" # II of Mercia
 	dynasty = 1047004
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205087
 	850.1.1 = {
@@ -4143,7 +4143,7 @@
 205080 = {
 	name = "Beornwine" #
 	dynasty = 1047005
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205063
 	701.1.1 = {
@@ -4156,7 +4156,7 @@
 205089 = {
 	name = "Beornred" # I of Mercia
 	dynasty = 1047005
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205080
 	720.1.1 = {
@@ -4169,7 +4169,7 @@
 205090 = {
 	name = "Beornnoth" #
 	dynasty = 1047005
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205089
 	740.1.1 = {
@@ -4182,7 +4182,7 @@
 205091 = {
 	name = "Beorhtweald" #
 	dynasty = 1047005
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205090
 	760.1.1 = {
@@ -4195,7 +4195,7 @@
 205092 = {
 	name = "Beornwulf" #
 	dynasty = 1047005
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205091
 	782.1.1 = {
@@ -4208,7 +4208,7 @@
 205093 = {
 	name = "Beorhtwine" #
 	dynasty = 1047005
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205092
 	800.1.1 = {
@@ -4221,7 +4221,7 @@
 205094 = {
 	name = "Beorhtwulf" #
 	dynasty = 1047005
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205093
 	820.1.1 = {
@@ -4234,7 +4234,7 @@
 205095 = {
 	name = "Beorhtfrith" #
 	dynasty = 1047005
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205094
 	#mother = Saethryth
@@ -4248,7 +4248,7 @@
 205096 = {
 	name = "Beorhtric" #
 	dynasty = 1047005
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205094
 	#mother = Saethryth
@@ -4262,7 +4262,7 @@
 205097 = {
 	name = "Beornmund" #
 	dynasty = 813 #Mercia
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205090
 	762.1.1 = {
@@ -4275,7 +4275,7 @@
 205098 = {
 	name = "Beorhtwulf" #
 	dynasty = 813 #Mercia
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205097
 	780.1.1 = {
@@ -4288,7 +4288,7 @@
 205099 = {
 	name = "Beornwine" #
 	dynasty = 813 #Mercia
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205098
 	796.1.1 = {
@@ -4301,7 +4301,7 @@
 205100 = {
 	name = "Beornred" #
 	dynasty = 813 #Mercia
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205099
 	809.1.1 = {
@@ -4327,7 +4327,7 @@
 205102 = {
 	name = "Centwine" #
 	dynasty = 1047003
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205101
 	659.1.1 = {
@@ -4340,7 +4340,7 @@
 205103 = {
 	name = "Cynreow" #
 	dynasty = 1047003
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205102
 	680.1.1 = {
@@ -4353,7 +4353,7 @@
 205104 = {
 	name = "Bassa" #
 	dynasty = 1047003
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205103
 	700.1.1 = {
@@ -4366,7 +4366,7 @@
 205105 = {
 	name = "Cuthberht" #
 	dynasty = 1047003
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205104
 	720.1.1 = {
@@ -4379,7 +4379,7 @@
 205106 = {
 	name = "Cuthred" #
 	dynasty = 1047003
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205104
 	722.1.1 = {
@@ -4392,7 +4392,7 @@
 205107 = {
 	name = "Coenwulf" #
 	dynasty = 1047003
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205105
 	765.1.1 = {
@@ -4405,7 +4405,7 @@
 205108 = {
 	name = "Coelwulf" #
 	dynasty = 1047003
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205105
 	769.1.1 = {
@@ -4418,7 +4418,7 @@
 205109 = {
 	name = "Cynehelm" #
 	dynasty = 1047003
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205107
 	785.1.1 = {
@@ -4431,7 +4431,7 @@
 205110 = {
 	name = "Centwine" #
 	dynasty = 1047003
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205107
 	805.1.1 = {
@@ -4444,7 +4444,7 @@
 205111 = {
 	name = "Cuthberht" #
 	dynasty = 1047003
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205108
 	790.1.1 = {
@@ -4457,7 +4457,7 @@
 205112 = {
 	name = "Ceolwulf" #
 	dynasty = 1047003
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205111
 	820.1.1 = {
@@ -4469,7 +4469,7 @@
 }
 190565 = {
 	name = "Lullus" #archbishop of Mainz
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	710.1.1 = {
 		birth = yes
@@ -4558,7 +4558,7 @@
 205147 = {
 	name = "Cynegils" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205145
 	575.1.1 = {
@@ -4571,7 +4571,7 @@
 205148 = {
 	name = "Coenwalh" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205147
 	595.1.1 = {
@@ -4584,7 +4584,7 @@
 205149 = {
 	name = "Cwichelm" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205147
 	600.1.1 = {
@@ -4597,7 +4597,7 @@
 205150 = {
 	name = "Cuthred" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205149
 	620.1.1 = {
@@ -4610,7 +4610,7 @@
 205151 = {
 	name = "Centwine" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205147
 	610.1.1 = {
@@ -4623,7 +4623,7 @@
 205152 = {
 	name = "Cuthgils" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205146
 	586.1.1 = {
@@ -4636,7 +4636,7 @@
 205153 = {
 	name = "Coenferth" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205152
 	602.1.1 = {
@@ -4649,7 +4649,7 @@
 205154 = {
 	name = "Cenfus" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205153
 	618.1.1 = {
@@ -4662,7 +4662,7 @@
 205155 = {
 	name = "E_scwine" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205154
 	634.1.1 = {
@@ -4740,7 +4740,7 @@
 205161 = {
 	name = "CE_dwalla" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205159
 	630.1.1 = {
@@ -4753,7 +4753,7 @@
 205162 = {
 	name = "Ceolwald" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205156
 	620.1.1 = {
@@ -4766,7 +4766,7 @@
 205163 = {
 	name = "Coenred" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205162
 	637.1.1 = {
@@ -4779,7 +4779,7 @@
 205164 = {
 	name = "Ine" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205162
 	655.1.1 = {
@@ -4792,7 +4792,7 @@
 205165 = {
 	name = "Ingild" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205162
 	650.1.1 = {
@@ -4870,7 +4870,7 @@
 205171 = {
 	name = "E_thelheard" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205170
 	590.1.1 = {
@@ -4883,7 +4883,7 @@
 205172 = {
 	name = "Sigeberht" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205171
 	610.1.1 = {
@@ -4896,7 +4896,7 @@
 205173 = {
 	name = "Beorhtric" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205172
 	650.1.1 = {
@@ -4909,7 +4909,7 @@
 205174 = {
 	name = "Cynewald" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205171
 	610.1.1 = {
@@ -4922,7 +4922,7 @@
 205175 = {
 	name = "Coenheard" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205174
 	640.1.1 = {
@@ -4935,7 +4935,7 @@
 205176 = {
 	name = "Sigeheard" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205175
 	670.1.1 = {
@@ -4948,7 +4948,7 @@
 205177 = {
 	name = "Sigeberht" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205176
 	700.1.1 = {
@@ -4961,7 +4961,7 @@
 205178 = {
 	name = "Cyneheard" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205176
 	705.1.1 = {
@@ -4974,7 +4974,7 @@
 205179 = {
 	name = "Beorhtwulf" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205173
 	685.1.1 = {
@@ -4987,7 +4987,7 @@
 205180 = {
 	name = "Cynewulf" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205179
 	720.1.1 = {
@@ -5000,7 +5000,7 @@
 205181 = {
 	name = "Beorhtric" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205180
 	750.1.1 = {
@@ -5013,7 +5013,7 @@
 205182 = {
 	name = "Cynric" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205171
 	641.1.1 = {
@@ -5026,7 +5026,7 @@
 205183 = {
 	name = "E_thelred" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205182
 	665.1.1 = {
@@ -5039,7 +5039,7 @@
 205184 = {
 	name = "E_thelheard" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205183
 	686.1.1 = {
@@ -5052,7 +5052,7 @@
 205185 = {
 	name = "Cuthred" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205183
 	690.1.1 = {
@@ -5065,7 +5065,7 @@
 205186 = {
 	name = "Cynric" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205185
 	720.1.1 = {
@@ -5078,7 +5078,7 @@
 205187 = {
 	name = "Eoppa" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205165
 	706.1.1 = {
@@ -5091,7 +5091,7 @@
 205188 = {
 	name = "Eafa" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205187
 	mother = 205191
@@ -5105,7 +5105,7 @@
 205189 = {
 	name = "Ealhmund" #
 	dynasty = 1047006
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205188
 	750.1.1 = {
@@ -5120,7 +5120,7 @@
 	name = "Eadburh"
 	female = yes
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205049
 	753.1.1 = {
@@ -5135,7 +5135,7 @@
 	name = "Seaxburh"
 	female = yes
 	dynasty = 1047001
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205045
 	706.1.1 = {
@@ -5148,7 +5148,7 @@
 205113 = {
 	name = "Oshere" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205130
 	mother = 205137
@@ -5162,7 +5162,7 @@
 205114 = {
 	name = "Eanhere" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205113
 	mother = 205138
@@ -5176,7 +5176,7 @@
 205115 = {
 	name = "Eanfrith" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205113
 	mother = 205138
@@ -5191,7 +5191,7 @@
 	name = "Eafe" #
 	female = yes
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205115
 	650.1.1 = {
@@ -5204,7 +5204,7 @@
 205117 = {
 	name = "Osric" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205114
 	#mother = Osthryth of Northumbria
@@ -5218,7 +5218,7 @@
 205118 = {
 	name = "Oshere" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205114
 	#mother = Osthryth of Northumbria
@@ -5232,7 +5232,7 @@
 205119 = {
 	name = "Oswald" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205114
 	#mother = Osthryth of Northumbria
@@ -5246,7 +5246,7 @@
 205120 = {
 	name = "E_thelheard" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205118
 	mother = 205133
@@ -5260,7 +5260,7 @@
 205121 = {
 	name = "E_thelweard" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205118
 	mother = 205133
@@ -5274,7 +5274,7 @@
 205122 = {
 	name = "E_thelric" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205118
 	mother = 205133
@@ -5288,7 +5288,7 @@
 205123 = {
 	name = "Osred" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205118
 	mother = 205133
@@ -5302,7 +5302,7 @@
 205124 = {
 	name = "Ingeld" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205122
 	mother = 205134
@@ -5316,7 +5316,7 @@
 205125 = {
 	name = "E_thelmund" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205124
 	mother = 205131
@@ -5330,7 +5330,7 @@
 205126 = {
 	name = "E_thelric" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205125
 	760.1.1 = {
@@ -5343,7 +5343,7 @@
 205127 = {
 	name = "Eanberht" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205123
 	mother = 205132
@@ -5357,7 +5357,7 @@
 205128 = {
 	name = "Uhtred" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205123
 	mother = 205132
@@ -5371,7 +5371,7 @@
 205129 = {
 	name = "Ealdred" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205123
 	mother = 205132
@@ -5385,7 +5385,7 @@
 205130 = {
 	name = "Osmod" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205139
 	mother = 159751
@@ -5400,7 +5400,7 @@
 	name = "Cynetryth" #
 	female = yes
 	dynasty = 1047003
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205103
 	700.1.1 = {
@@ -5414,7 +5414,7 @@
 	name = "Wulfthryth" #
 	female = yes
 	dynasty = 1047003
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205102
 	689.1.1 = {
@@ -5428,7 +5428,7 @@
 	name = "SE_thryth" #
 	female = yes
 	dynasty = 1047003
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205101
 	659.1.1 = {
@@ -5442,7 +5442,7 @@
 	name = "SE_burh" #
 	female = yes
 	dynasty = 1047003
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205102
 	684.1.1 = {
@@ -5455,7 +5455,7 @@
 205135 = {
 	name = "E_thelmod" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205117
 	mother = 205136
@@ -5470,7 +5470,7 @@
 	name = "Cyneburh" #
 	female = yes
 	dynasty = 1047003
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205101
 	650.1.1 = {
@@ -5483,7 +5483,7 @@
 205139 = {
 	name = "Oswald" #
 	dynasty = 1047011
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	530.1.1 = {
 		birth = "530.1.1"
@@ -5533,7 +5533,7 @@
 194097 = {
 	name = "SE_berht"
 	dynasty = 1047012
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 194096
 	535.1.1 = {
@@ -5585,7 +5585,7 @@
 194101 = {
 	name = "Sigeberht"
 	dynasty = 1047012
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 194100
 	605.1.1 = {
@@ -5598,7 +5598,7 @@
 194102 = {
 	name = "Swithhelm"
 	dynasty = 1047012
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 194101
 	620.1.1 = {
@@ -5624,7 +5624,7 @@
 205256 = {
 	name = "Sebbi"
 	dynasty = 1047012
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 194102
 	635.1.1 = {
@@ -5637,7 +5637,7 @@
 205257 = {
 	name = "Sigeheard"
 	dynasty = 1047012
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205256
 	660.1.1 = {
@@ -5650,7 +5650,7 @@
 205258 = {
 	name = "SwE_fred"
 	dynasty = 1047012
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205256
 	655.1.1 = {
@@ -5663,7 +5663,7 @@
 205259 = {
 	name = "Offa"
 	dynasty = 1047012
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205257
 	676.1.1 = {
@@ -5676,7 +5676,7 @@
 205260 = {
 	name = "Sebbi"
 	dynasty = 1047012
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205257
 	677.1.1 = {
@@ -5689,7 +5689,7 @@
 205261 = {
 	name = "Sigered"
 	dynasty = 1047012
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205258
 	675.1.1 = {
@@ -5702,7 +5702,7 @@
 205262 = {
 	name = "SE_lred"
 	dynasty = 1047012
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205261
 	691.1.1 = {
@@ -5715,7 +5715,7 @@
 205263 = {
 	name = "Swithred"
 	dynasty = 1047012
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205260
 	700.1.1 = {
@@ -5728,7 +5728,7 @@
 205264 = {
 	name = "SE_lred"
 	dynasty = 1047012
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205262
 	725.1.1 = {
@@ -5741,7 +5741,7 @@
 205265 = {
 	name = "Sigeric"
 	dynasty = 1047012
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205264
 	745.1.1 = {
@@ -5754,7 +5754,7 @@
 205266 = {
 	name = "Sigered"
 	dynasty = 1047012
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205265
 	765.1.1 = {
@@ -5818,7 +5818,7 @@
 205196 = {
 	name = "Oswine"
 	dynasty = 1047009
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205195
 	585.1.1 = {
@@ -5844,7 +5844,7 @@
 205198 = {
 	name = "Eadwine"
 	dynasty = 1047009
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205193
 	585.1.1 = {
@@ -6022,7 +6022,7 @@
 205211 = {
 	name = "Eanfrith"
 	dynasty = 1047010
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205209
 	mother = 205210
@@ -6039,7 +6039,7 @@
 205212 = {
 	name = "Oswald"
 	dynasty = 1047010
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205209
 	mother = 205210
@@ -6053,7 +6053,7 @@
 205213 = {
 	name = "Oswiu"
 	dynasty = 1047010
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205209
 	mother = 205210
@@ -6071,7 +6071,7 @@
 	name = "EanflE_d"
 	female = yes
 	dynasty = 1047009
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205198
 	mother = 205034
@@ -6127,7 +6127,7 @@
 205218 = {
 	name = "Leodwald"
 	dynasty = 1047021
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205217
 	621.1.1 = {
@@ -6140,7 +6140,7 @@
 205219 = {
 	name = "Cuthwine"
 	dynasty = 1047021
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205218
 	654.1.1 = {
@@ -6153,7 +6153,7 @@
 205220 = {
 	name = "Eata"
 	dynasty = 1047021
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205218
 	655.1.1 = {
@@ -6166,7 +6166,7 @@
 205221 = {
 	name = "Coenred"
 	dynasty = 1047021
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205219
 	690.1.1 = {
@@ -6179,7 +6179,7 @@
 205222 = {
 	name = "Ceolwulf"
 	dynasty = 1047021
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205219
 	695.1.1 = {
@@ -6192,7 +6192,7 @@
 205223 = {
 	name = "Ecgberht"
 	dynasty = 1047021
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205220
 	685.1.1 = {
@@ -6205,7 +6205,7 @@
 205224 = {
 	name = "Eadberht"
 	dynasty = 1047021
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205220
 	690.1.1 = {
@@ -6218,7 +6218,7 @@
 205225 = {
 	name = "Oswulf"
 	dynasty = 1047021
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205224
 	720.1.1 = {
@@ -6231,7 +6231,7 @@
 205226 = {
 	name = "Oswulf"
 	dynasty = 1047021
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205224
 	725.1.1 = {
@@ -6245,7 +6245,7 @@
 	name = "Osgifu"
 	female = yes
 	dynasty = 1047021
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205224
 	730.1.1 = {
@@ -6261,7 +6261,7 @@
 194104 = {
 	name = "E_lfwald"
 	dynasty = 1047021
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205226
 	745.1.1 = {
@@ -6274,7 +6274,7 @@
 205228 = {
 	name = "Osbald"
 	dynasty = 1047021
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205226
 	750.1.1 = {
@@ -6287,7 +6287,7 @@
 205229 = {
 	name = "E_lf"
 	dynasty = 1047021
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205228
 	766.1.1 = {
@@ -6300,7 +6300,7 @@
 205230 = {
 	name = "E_lfwine"
 	dynasty = 1047021
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205228
 	767.1.1 = {
@@ -6313,7 +6313,7 @@
 205231 = {
 	name = "Bearn"
 	dynasty = 1047021
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205228
 	765.1.1 = {
@@ -6365,7 +6365,7 @@
 205235 = {
 	name = "Beornholm"
 	dynasty = 1047023
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205234
 	650.1.1 = {
@@ -6378,7 +6378,7 @@
 205236 = {
 	name = "Eanwine"
 	dynasty = 1047023
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205235
 	690.1.1 = {
@@ -6391,7 +6391,7 @@
 205237 = {
 	name = "Ealhred"
 	dynasty = 1047023
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205236
 	725.1.1 = {
@@ -6407,7 +6407,7 @@
 205238 = {
 	name = "Osred"
 	dynasty = 1047023
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205237
 	mother = 205227
@@ -6421,7 +6421,7 @@
 205239 = {
 	name = "Ealhmund"
 	dynasty = 1047023
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205237
 	mother = 205227
@@ -6435,7 +6435,7 @@
 205240 = {
 	name = "Eadwulf"
 	dynasty = 1047022
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	631.1.1 = {
 		birth = "631.1.1"
@@ -6447,7 +6447,7 @@
 205241 = {
 	name = "Eanwine"
 	dynasty = 1047022
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205240
 	665.1.1 = {
@@ -6460,7 +6460,7 @@
 205242 = {
 	name = "Moll"
 	dynasty = 1047022
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205240
 	680.1.1 = {
@@ -6473,7 +6473,7 @@
 205243 = {
 	name = "E_thelwald"
 	dynasty = 1047022
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205242
 	730.1.1 = {
@@ -6486,7 +6486,7 @@
 205244 = {
 	name = "E_thelred"
 	dynasty = 1047022
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205243
 	762.1.1 = {
@@ -6499,7 +6499,7 @@
 205245 = {
 	name = "Eardwulf"
 	dynasty = 1047022
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205241
 	700.1.1 = {
@@ -6512,7 +6512,7 @@
 205246 = {
 	name = "Eardwulf"
 	dynasty = 1047022
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205245
 	730.1.1 = {
@@ -6525,7 +6525,7 @@
 205247 = {
 	name = "Eanred"
 	dynasty = 1047022
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205246
 	760.1.1 = {
@@ -6538,7 +6538,7 @@
 205248 = {
 	name = "Oswulf"
 	dynasty = 1047022
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205246
 	761.1.1 = {
@@ -6551,7 +6551,7 @@
 205249 = {
 	name = "Eanwine"
 	dynasty = 1047022
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205245
 	735.1.1 = {
@@ -6564,7 +6564,7 @@
 205250 = {
 	name = "Oswald"
 	dynasty = 1047022
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205245
 	740.1.1 = {
@@ -6577,7 +6577,7 @@
 205251 = {
 	name = "Eardwulf"
 	dynasty = 1047022
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205249
 	770.1.1 = {
@@ -6590,7 +6590,7 @@
 205252 = {
 	name = "Oswulf"
 	dynasty = 814
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205250
 	775.1.1 = {
@@ -6603,7 +6603,7 @@
 205253 = {
 	name = "Osberht"
 	dynasty = 814
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205252
 	805.1.1 = {
@@ -6616,7 +6616,7 @@
 205254 = {
 	name = "RE_dwulf"
 	dynasty = 1047022
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205251
 	800.1.1 = {
@@ -6629,7 +6629,7 @@
 205255 = {
 	name = "E_thelred"
 	dynasty = 1047022
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	father = 205247
 	800.1.1 = {
@@ -6642,7 +6642,7 @@
 205267 = {
 	name = "Brorda"
 	dynasty = 1047013
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	740.1.1 = {
 		birth = "740.1.1"
@@ -6654,7 +6654,7 @@
 205268 = {
 	name = "Osmund"
 	dynasty = 1047017
-	religion = nicean
+	religion = "nicean"
 	culture = anglo_saxon
 	740.1.1 = {
 		birth = "740.1.1"
@@ -6666,7 +6666,7 @@
 205269 = {
 	name = "Copsige"
 	dynasty = 746
-	religion = "catholic"
+	religion = "nicean"
 	culture = anglo_saxon
 	1027.1.1 = {
 		birth = "1027.1.1"
@@ -6689,7 +6689,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 9
-	religion = nicean
+	religion = "nicean"
 	culture = "saxon"
 	trait = "education_learning_3"
 	father = 7627
@@ -6704,7 +6704,7 @@
 	name = "E_thelgifu" #Abbess of Shaftesbury
 	female = yes
 	dynasty = 100072
-	religion = nicean
+	religion = "nicean"
 	culture = "saxon"
 	trait = "education_learning_3"
 	father = 7627
@@ -6718,7 +6718,7 @@
 252379 = {
 	name = "E_thelweard" #son of Alfred the Great
 	dynasty = 100072
-	religion = nicean
+	religion = "nicean"
 	culture = "saxon"
 	trait = "education_learning_3"
 	father = 7627
@@ -6732,7 +6732,7 @@
 
 anglo_saxon.1001 = {	#Fictional holder to allow barony placement.
 	name = "Sigeberht"
-	religion = catholic
+	religion = nicean
 	culture = anglo_saxon
 	1030.1.1 = {
 		birth = yes

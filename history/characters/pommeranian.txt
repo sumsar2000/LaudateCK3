@@ -25,7 +25,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = education_intrigue_1
 	993.1.2 = {
@@ -93,7 +93,7 @@
 		birth = "1102.1.1"
 	}
 	1124.1.1 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	
 	1129.1.1 = {
@@ -120,7 +120,7 @@
 		birth = "1108.1.1"
 	}
 	1124.1.2 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	1150.1.1 = {
 		death = "1150.1.1"
@@ -135,7 +135,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = zealous
 	trait = lustful
@@ -176,7 +176,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = education_martial_2
 	father = 221700
@@ -199,7 +199,7 @@
 	name = "Walpurga"
 	female = yes
 	dynasty = 177
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 30520 #Swantibor
 	1132.1.1 = {
@@ -217,7 +217,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = gluttonous
 	trait = education_martial_2
@@ -242,7 +242,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = education_martial_2
 	father = 221710
@@ -259,7 +259,7 @@
 	name = "Dobroslawa"
 	female = yes
 	dynasty = 177
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 221710
 	mother = 221711
@@ -278,7 +278,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = education_martial_3
 	father = 221700
@@ -298,7 +298,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = lustful
 	trait = honest
@@ -322,7 +322,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = education_martial_3
 	father = 221710
@@ -345,7 +345,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = education_martial_2
 	father = 221703
@@ -353,7 +353,7 @@
 		birth = "1103.1.1"
 	}
 	1124.1.1 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	1136.1.1 = {
 		add_spouse = 222546
@@ -370,7 +370,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = lustful
 	trait = education_martial_2
@@ -391,7 +391,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = lazy
 	trait = education_learning_2
@@ -411,7 +411,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = just
 	trait = cynical
@@ -434,7 +434,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = cynical
 	trait = education_stewardship_2
@@ -455,7 +455,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = chaste
 	trait = education_martial_2
@@ -477,7 +477,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = chaste
 	trait = diligent
@@ -497,7 +497,7 @@
 	female = yes
 	dynasty = 175
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	
 	father = 30458
@@ -535,7 +535,7 @@
 		birth = "1104.1.1"
 	}
 	1124.1.1 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	1144.1.1 = {
 		death = "1144.1.1"
@@ -545,7 +545,7 @@
 30521 = {
 	name = "Wartislaw"
 	dynasty = 177
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 30520 #Swantibor
 	1130.1.1 = {
@@ -602,7 +602,7 @@
 	name = "Dobroslawa"
 	female = yes
 	dynasty = 177
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 221719
 	1172.1.1 = {
@@ -618,7 +618,7 @@
 	# AKA: Margareta
 	female = yes
 	dynasty = 177
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 221718
 	mother = 222546
@@ -633,7 +633,7 @@
 30527 = {
 	name = "Wratislaw"
 	dynasty = 177
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 221713
 	1209.1.1 = {
@@ -647,7 +647,7 @@
 30528 = {
 	name = "Barnim"
 	dynasty = 177
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 221713
 	1210.1.1 = {
@@ -662,7 +662,7 @@
 	name = "Woislawa"
 	female = yes
 	dynasty = 177
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 221712
 	mother = 30456
@@ -678,7 +678,7 @@
 	name = "Dobroslawa"
 	female = yes
 	dynasty = 177
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 221712
 	mother = 30456
@@ -694,7 +694,7 @@
 	name = "Miroslawa"
 	female = yes
 	dynasty = 177
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 451953
 	mother = 33739
@@ -710,7 +710,7 @@
 	name = "Beatrix"
 	female = yes
 	dynasty = 177
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 451953
 	mother = 33739
@@ -726,7 +726,7 @@
 	name = "Mechthild"
 	female = yes
 	dynasty = 177
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 451953
 	mother = 33739
@@ -741,7 +741,7 @@
 30534 = {
 	name = "Barnim"
 	dynasty = 177
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 451953
 	mother = 33739
@@ -757,7 +757,7 @@
 	name = "Judyta"
 	female = yes
 	dynasty = 177
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 471660
 	mother = 30502
@@ -773,7 +773,7 @@
 	name = "Otton"
 	# AKA: Otto
 	dynasty = 177
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 451952
 	1320.1.1 = {
@@ -787,7 +787,7 @@
 30537 = {
 	name = "Swenzo" #Real name unknown
 	dynasty = 7163 #Swacowie
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	1220.1.1 = {
 		birth = "1220.1.1"
@@ -800,7 +800,7 @@
 30538 = {
 	name = "Swenzo"
 	dynasty = 7163 #Swacowie
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 30537
 	1250.1.1 = {
@@ -814,7 +814,7 @@
 30539 = {
 	name = "Lorenz"
 	dynasty = 7163 #Swacowie
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 30537
 	1253.1.1 = {
@@ -828,7 +828,7 @@
 30540 = {
 	name = "Piotr"
 	dynasty = 7163 #Swacowie
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 30538
 	1276.1.1 = {
@@ -842,7 +842,7 @@
 30541 = {
 	name = "Jasko"
 	dynasty = 7163 #Swacowie
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 30538
 	1280.1.1 = {
@@ -856,7 +856,7 @@
 30542 = {
 	name = "Lorenz"
 	dynasty = 7163 #Swacowie
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 30538
 	1288.1.1 = {
@@ -870,7 +870,7 @@
 30543 = {
 	name = "Swenzka"
 	dynasty = 7163 #Swacowie
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 30539
 	1290.1.1 = {
@@ -884,7 +884,7 @@
 30544 = {
 	name = "Kazimierz"
 	dynasty = 7163 #Swacowie
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 30539
 	1292.1.1 = {
@@ -905,7 +905,7 @@
 		birth = "1122.1.1"
 	}
 	1160.8.2 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	1165.1.1 = {
 		death = "1165.1.1"
@@ -925,7 +925,7 @@
 		add_spouse = 30549
 	}
 	1160.8.2 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	1175.1.1 = {
 		death = "1175.1.1"
@@ -936,7 +936,7 @@
 	name = "Niklot" #Rostock
 	# AKA: Nikolaus
 	dynasty = 101893 #Niklotid
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 30550
 	1164.1.1 = {
@@ -950,7 +950,7 @@
 30556 = {
 	name = "Przybyslaw"
 	dynasty = 101893
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 452003
 	mother = 212610
@@ -965,7 +965,7 @@
 30558 = {
 	name = "Dobieslaw"
 	dynasty = 101893
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 452003
 	mother = 212610
@@ -980,7 +980,7 @@
 30561 = {
 	name = "Przybyslaw"
 	dynasty = 101893
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 452002
 	#mother = christina of Sweden
@@ -998,7 +998,7 @@
 30574 = {
 	name = "Barnim"
 	dynasty = 101893 #Niklotid
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 30572
 	mother = 30532
@@ -1013,7 +1013,7 @@
 30593 = {
 	name = "Przybyslaw"
 	dynasty = 101893
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 30561
 	mother = 30548
@@ -1031,7 +1031,7 @@
 30594 = {
 	name = "Prybko"
 	dynasty = 101893
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 30561
 	mother = 30548
@@ -1046,7 +1046,7 @@
 30595 = {
 	name = "Mszczuj"
 	dynasty = 101893
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 30593
 	mother = 30463
@@ -1067,7 +1067,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = education_intrigue_2
 	father = 471660
@@ -1088,7 +1088,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = greedy
 	trait = craven
@@ -1110,7 +1110,7 @@
 	name = "Matilde"
 	female = yes
 	dynasty = 177
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 451950
 	mother = 451976
@@ -1125,7 +1125,7 @@
 451952 = {
 	name = "Barnim"
 	dynasty = 177
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 451950
 	mother = 451976
@@ -1144,7 +1144,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = education_martial_2
 	father = 221712
@@ -1174,7 +1174,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = lustful
 	trait = humble
@@ -1211,7 +1211,7 @@
 		add_spouse = 221702 #Woislawa Gryfita
 	}
 	1160.8.2 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	1178.12.1 = {
 		death = "1178.12.1"
@@ -1244,7 +1244,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = education_learning_2
 	father = 471650
@@ -1265,7 +1265,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = education_martial_2
 	father = 471660
@@ -1288,7 +1288,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = education_martial_2
 	father = 471650
@@ -1309,7 +1309,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = calm
 	trait = greedy
@@ -1332,7 +1332,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = calm
 	trait = pneumonic
@@ -1355,7 +1355,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = greedy
 	trait = temperate
@@ -1377,7 +1377,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = education_diplomacy_2
 	father = 451953
@@ -1401,7 +1401,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	trait = humble
 	trait = education_diplomacy_2
@@ -1434,7 +1434,7 @@
 		birth = "890.1.1"
 	}
 	906.1.1 = {
-		religion = catholic #marries Vratislav I of Bohemia
+		religion = nicean #marries Vratislav I of Bohemia
 	}
 	935.1.2 = {
 		death = "935.1.2"
@@ -1443,7 +1443,7 @@
 
 96078 = {
 	name = "Zdislav"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	1120.1.1 = {
 		birth = "1120.1.1"
@@ -1455,7 +1455,7 @@
 
 96103 = {
 	name = "Radoslav"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	1075.1.1 = {
 		birth = "1075.1.1"
@@ -1592,7 +1592,7 @@
 168556 = {
 	name = "Liudolf"
 	dynasty = 1042805
-	religion = "catholic"
+	religion = "nicean"
 	culture = "pommeranian"
 	father = 168554
 	952.1.1 = {

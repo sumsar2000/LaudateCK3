@@ -2,7 +2,7 @@
 # PRE-NORMAN INVASION - (Died on or before 1167.1.1)
 #######################################################
 #	Insular Christianity is applied for almost everyone in this date bracket.
-##	The main exceptions are the Ivarings of Dublin after they naturalise to Irish, who remain Catholic. Diarmait mac Donnchad & his son Murchad (plus his other child & his grandkids) are also Catholic. This is mostly to represent Diarmait's extensive links and dealings with wider Britain, and to encourage the survival of Catholics in Meath & Leinster in 1066.
+##	The main exceptions are the Ivarings of Dublin after they naturalise to Irish, who remain nicean. Diarmait mac Donnchad & his son Murchad (plus his other child & his grandkids) are also nicean. This is mostly to represent Diarmait's extensive links and dealings with wider Britain, and to encourage the survival of niceans in Meath & Leinster in 1066.
 ##	Plus a bunch of generic pagans in the very old files.
 
 1000 = {
@@ -809,7 +809,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_martial_2
 	father = 5790
@@ -830,7 +830,7 @@
 	diplomacy = 4
 	intrigue = 3
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_martial_2
 	father = 131521
@@ -849,7 +849,7 @@
 	diplomacy = 5
 	intrigue = 3
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_martial_2
 	father = 131521
@@ -1259,7 +1259,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 924
 	mother = 925
@@ -3036,7 +3036,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = lustful
 	trait = education_stewardship_2
@@ -3059,7 +3059,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_learning_2
 	father = 922
@@ -3079,7 +3079,7 @@
 	diplomacy = 3
 	intrigue = 3
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = lustful
 	trait = honest
@@ -5657,7 +5657,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 923
 	1055.1.1 = {
@@ -5675,7 +5675,7 @@
 	diplomacy = 3
 	intrigue = 3
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 924
 	mother = 925
@@ -5694,7 +5694,7 @@
 	diplomacy = 3
 	intrigue = 3
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 924
 	mother = 925
@@ -8883,7 +8883,7 @@
 159291 = {
 	name = "Sihtric" #Swtrig ab Anlaff
 	dynasty_house = house_british_isles_ivaring
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 1027
 	mother = 1028
@@ -8903,7 +8903,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_intrigue_3
 	father = 5790
@@ -8926,7 +8926,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_martial_2
 	father = 1025
@@ -8950,7 +8950,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_intrigue_2
 	father = 1027
@@ -10144,7 +10144,7 @@
 	name = "MA_el_Muire"
 	female = yes
 	dynasty_house = house_british_isles_ivaring
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 5790
 	mother = 131520
@@ -17176,7 +17176,7 @@
 #######################################################
 # POST-NORMAN INVASION - (Died after 1167.1.1)
 #######################################################
-#	Catholicism is applied for almost everyone in this date bracket.
+#	niceanism is applied for almost everyone in this date bracket.
 
 214007 = {
 	name = "Muirchertach"
@@ -17185,7 +17185,7 @@
 	diplomacy = 6
 	intrigue = 2
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = generous
 	trait = education_stewardship_3
@@ -17205,7 +17205,7 @@
 	diplomacy = 2
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_martial_2
 	father = 214007
@@ -17224,7 +17224,7 @@
 	diplomacy = 3
 	intrigue = 3
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = clubfooted
 	trait = education_martial_2
@@ -17247,7 +17247,7 @@
 	diplomacy = 9
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = diligent
 	trait = education_martial_3
@@ -17267,7 +17267,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_martial_2
 	father = 7287 #Domnall mac Ualgairg
@@ -17287,7 +17287,7 @@
 	diplomacy = 4
 	intrigue = 2
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = just
 	trait = education_martial_1
@@ -17311,7 +17311,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = temperate
 	trait = cynical
@@ -17331,7 +17331,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = diligent
 	trait = generous
@@ -17353,7 +17353,7 @@
 	diplomacy = 4
 	intrigue = 2
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = lustful
 	trait = gluttonous
@@ -17376,7 +17376,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = gluttonous
 	trait = humble
@@ -17396,7 +17396,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = humble
 	trait = brave
@@ -17418,7 +17418,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_martial_3
 	father = 214510 #Ruaidrí mac Toirrdelbaig
@@ -17437,7 +17437,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = lazy
 	trait = education_intrigue_2
@@ -17457,7 +17457,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = clubfooted
 	trait = inbred
@@ -17478,7 +17478,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = calm
 	trait = education_martial_2
@@ -17498,7 +17498,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = generous
 	trait = education_learning_2
@@ -17519,7 +17519,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = diligent
 	trait = education_intrigue_1
@@ -17539,7 +17539,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = stuttering
 	trait = education_intrigue_2
@@ -17561,7 +17561,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = wrathful
 	trait = education_learning_3
@@ -17582,7 +17582,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = calm
 	trait = education_intrigue_2
@@ -17606,7 +17606,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = lazy
 	trait = education_learning_3
@@ -17627,7 +17627,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = honest
 	trait = education_intrigue_1
@@ -17648,7 +17648,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_learning_2
 	father = 214580
@@ -17668,7 +17668,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = cynical
 	trait = brave
@@ -17690,7 +17690,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = generous
 	trait = education_martial_3
@@ -17711,7 +17711,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = lisping
 	trait = education_learning_3
@@ -17732,7 +17732,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_martial_3
 	father = 214610
@@ -17751,7 +17751,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = wrathful
 	trait = craven
@@ -17772,7 +17772,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = arrogant
 	trait = hunchbacked
@@ -17793,7 +17793,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = cynical
 	trait = gluttonous
@@ -17815,7 +17815,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = cynical
 	trait = stuttering
@@ -17836,7 +17836,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = bastard
 	1165.1.2 = {
@@ -17854,7 +17854,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 14
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	1166.1.2 = {
 		birth = "1166.1.2"
@@ -17871,7 +17871,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = honest
 	1166.1.2 = {
@@ -17890,7 +17890,7 @@
 	diplomacy = 2
 	intrigue = 2
 	stewardship = 2
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	1186.1.2 = {
 		birth = "1186.1.2"
@@ -17907,7 +17907,7 @@
 	diplomacy = 2
 	intrigue = 2
 	stewardship = 2
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_martial_2
 	father = 220030
@@ -17927,7 +17927,7 @@
 	diplomacy = 2
 	intrigue = 2
 	stewardship = 1
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 220030
 	1187.1.1 = {
@@ -17947,7 +17947,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = honest
 	1131.1.1 = {
@@ -17966,7 +17966,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_diplomacy_3
 	trait = temperate
@@ -17987,7 +17987,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	1107.1.1 = {
 		birth = "1107.1.1"
@@ -18004,7 +18004,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_diplomacy_2
 	1042.1.2 = {
@@ -18022,7 +18022,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = brave
 	trait = arrogant
@@ -18043,7 +18043,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = honest
 	trait = education_intrigue_2
@@ -18062,7 +18062,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = honest
 	trait = wrathful
@@ -18084,7 +18084,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = humble
 	trait = greedy
@@ -18106,7 +18106,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_martial_2
 	father = 454205
@@ -18126,7 +18126,7 @@
 	diplomacy = 5
 	intrigue = 9
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = chaste
 	trait = education_martial_2
@@ -18146,7 +18146,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = deceitful
 	trait = arrogant
@@ -18167,7 +18167,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = greedy
 	trait = arbitrary
@@ -18191,7 +18191,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_martial_2
 	father = 83562
@@ -18210,7 +18210,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = greedy
 	trait = just
@@ -18231,7 +18231,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = humble
 	trait = lustful
@@ -18253,7 +18253,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = arrogant
 	trait = temperate
@@ -18273,7 +18273,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 454160
 	mother = 454164
@@ -18293,7 +18293,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = lustful
 	trait = education_intrigue_2
@@ -18312,7 +18312,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = greedy
 	trait = education_martial_3
@@ -18331,7 +18331,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = generous
 	trait = brave
@@ -18356,7 +18356,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 7193 #Domnall son of Murchad
 	1124.1.1 = {
@@ -18370,7 +18370,7 @@
 7281 = {
 	name = "Ruaidri"
 	dynasty = 819
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 7282
 	1122.1.1 = {
@@ -18388,7 +18388,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	1105.1.2 = {
 		birth = "1105.1.2"
@@ -18405,7 +18405,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83000
 	1149.1.2 = {
@@ -18423,7 +18423,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83001
 	1190.1.2 = {
@@ -18441,7 +18441,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83002
 	1230.1.2 = {
@@ -18462,7 +18462,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83003
 	1270.1.2 = {
@@ -18480,7 +18480,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83003
 	1272.1.2 = {
@@ -18499,7 +18499,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83003
 	1273.1.2 = {
@@ -18518,7 +18518,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83004
 	1295.1.2 = {
@@ -18536,7 +18536,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83007
 	1325.1.2 = {
@@ -18555,7 +18555,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83007
 	1323.1.2 = {
@@ -18573,7 +18573,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83005
 	1299.1.2 = {
@@ -18591,7 +18591,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83010
 	1326.7.2 = {
@@ -18609,7 +18609,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83005
 	1301.1.2 = {
@@ -18628,7 +18628,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83005
 	1325.1.2 = {
@@ -18646,7 +18646,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83005
 	1305.1.2 = {
@@ -18664,7 +18664,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83006
 	1299.1.2 = {
@@ -18682,7 +18682,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	1179.1.1 = {
 		birth = "1179.1.1"
@@ -18699,7 +18699,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	1183.1.1 = {
 		birth = "1183.1.1"
@@ -18716,7 +18716,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_martial_2
 	father = 83031
@@ -18735,7 +18735,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83050
 	1133.1.1 = {
@@ -18753,7 +18753,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = ambitious
 	trait = education_stewardship_3
@@ -18773,7 +18773,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_diplomacy_3
 	trait = cynical
@@ -18794,7 +18794,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_martial_1
 	father = 83056
@@ -18813,7 +18813,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83056
 	1210.1.1 = {
@@ -18831,7 +18831,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83056
 	1215.1.1 = {
@@ -18849,7 +18849,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = craven
 	father = 83054
@@ -18868,7 +18868,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = greedy
 	trait = lustful
@@ -18889,7 +18889,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_intrigue_1
 	trait = humble
@@ -18911,7 +18911,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83061
 	1290.1.1 = {
@@ -18929,7 +18929,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83061
 	1292.1.1 = {
@@ -18947,7 +18947,7 @@
 	diplomacy = 5
 	intrigue = 3
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83061
 	1293.1.1 = {
@@ -18965,7 +18965,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83061
 	1299.1.1 = {
@@ -18983,7 +18983,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83061
 	1305.1.1 = {
@@ -19001,7 +19001,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83061
 	1309.1.1 = {
@@ -19019,7 +19019,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83063
 	1325.1.1 = {
@@ -19037,7 +19037,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83063
 	1327.1.1 = {
@@ -19055,7 +19055,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83065
 	1336.1.1 = {
@@ -19073,7 +19073,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83070
 	1347.1.1 = {
@@ -19092,7 +19092,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = humble
 	trait = education_intrigue_1
@@ -19112,7 +19112,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = brave
 	trait = arrogant
@@ -19132,7 +19132,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = brave
 	trait = education_martial_2
@@ -19152,7 +19152,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = cynical
 	trait = honest
@@ -19173,7 +19173,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_martial_2
 	father = 83080
@@ -19192,7 +19192,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83081
 	trait = ambitious
@@ -19216,7 +19216,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83081
 	1213.1.1 = {
@@ -19234,7 +19234,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83081
 	1214.1.1 = {
@@ -19253,7 +19253,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83081
 	1201.1.1 = {
@@ -19271,7 +19271,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83082
 	1222.1.1 = {
@@ -19289,7 +19289,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83082
 	1227.1.1 = {
@@ -19307,7 +19307,7 @@
 	diplomacy = 6
 	intrigue = 9
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83087
 	1250.1.1 = {
@@ -19325,7 +19325,7 @@
 	diplomacy = 5
 	intrigue = 3
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = hunchbacked
 	father = 83087
@@ -19344,7 +19344,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83089
 	1283.1.1 = {
@@ -19362,7 +19362,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83089
 	1285.1.1 = {
@@ -19380,7 +19380,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83091
 	1314.1.1 = {
@@ -19398,7 +19398,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83091
 	1319.1.1 = {
@@ -19416,7 +19416,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83093
 	1330.1.1 = {
@@ -19434,7 +19434,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83094
 	1336.1.1 = {
@@ -19452,7 +19452,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83083
 	trait = lustful
@@ -19472,7 +19472,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83083
 	1245.1.1 = {
@@ -19490,7 +19490,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83097
 	1272.1.1 = {
@@ -19508,7 +19508,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83097
 	1275.1.1 = {
@@ -19526,7 +19526,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83097
 	1279.1.1 = {
@@ -19544,7 +19544,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83097
 	1284.1.1 = {
@@ -19562,7 +19562,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83097
 	1289.1.1 = {
@@ -19580,7 +19580,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83102
 	1315.1.1 = {
@@ -19598,7 +19598,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83102
 	1323.1.1 = {
@@ -19616,7 +19616,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83102
 	1328.1.1 = {
@@ -19634,7 +19634,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83107
 	1140.1.1 = {
@@ -19652,7 +19652,7 @@
 	diplomacy = 5
 	intrigue = 3
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = wrathful
 	father = 214008
@@ -19671,7 +19671,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = gluttonous
 	father = 214008
@@ -19690,7 +19690,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = humble
 	trait = temperate
@@ -19710,7 +19710,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83109
 	1156.1.1 = {
@@ -19728,7 +19728,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = humble
 	trait = temperate
@@ -19748,7 +19748,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83120
 	1131.1.1 = {
@@ -19766,7 +19766,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83149
 	1113.1.1 = {
@@ -19784,7 +19784,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83149 #Máel-Sechlainn son of Domnall
 	1114.7.1 = {
@@ -19802,7 +19802,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 7193 #Domnall son of Murchad
 	1127.1.1 = {
@@ -19821,7 +19821,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 7194 #Murchad son of Domnall
 	1115.1.1 = {
@@ -19839,7 +19839,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214555
 	mother = 83234
@@ -19858,7 +19858,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83195
 	1221.1.1 = {
@@ -19876,7 +19876,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83195
 	1223.1.1 = {
@@ -19894,7 +19894,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214550
 	mother = 214551
@@ -19913,7 +19913,7 @@
 	diplomacy = 3
 	intrigue = 6
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214550
 	mother = 214551
@@ -19932,7 +19932,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83193
 	mother = 83233
@@ -19954,7 +19954,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83196
 	1268.1.1 = {
@@ -19972,7 +19972,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83197
 	1263.1.1 = {
@@ -19990,7 +19990,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83202
 	1302.7.1 = {
@@ -20008,7 +20008,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83203
 	1330.1.1 = {
@@ -20026,7 +20026,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83203
 	1333.1.1 = {
@@ -20044,7 +20044,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83201
 	1299.1.1 = {
@@ -20062,7 +20062,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83206
 	1324.1.1 = {
@@ -20080,7 +20080,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83206
 	1327.1.1 = {
@@ -20099,7 +20099,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83226
 	1150.1.1 = {
@@ -20117,7 +20117,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83216
 	1123.1.1 = {
@@ -20135,7 +20135,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83236
 	1128.1.1 = {
@@ -20153,7 +20153,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83226
 	1152.1.1 = {
@@ -20171,7 +20171,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83226
 	1171.1.1 = {
@@ -20190,7 +20190,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214550
 	1169.1.1 = {
@@ -20208,7 +20208,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83237
 	1101.1.1 = {
@@ -20226,7 +20226,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83230
 	1120.1.1 = {
@@ -20244,7 +20244,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83230
 	1122.1.1 = {
@@ -20263,7 +20263,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83230
 	1128.1.1 = {
@@ -20282,7 +20282,7 @@
 	diplomacy = 3
 	intrigue = 5
 	stewardship = 9
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83230
 	1135.1.1 = {
@@ -20300,7 +20300,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = just
 	trait = education_martial_3
@@ -20327,7 +20327,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83257
 	1121.1.1 = {
@@ -20345,7 +20345,7 @@
 	diplomacy = 5
 	intrigue = 3
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83257
 	1124.1.1 = {
@@ -20363,7 +20363,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83257
 	1126.1.1 = {
@@ -20381,7 +20381,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83258
 	1150.1.1 = {
@@ -20399,7 +20399,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83258
 	1153.1.1 = {
@@ -20417,7 +20417,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83265
 	1136.1.1 = {
@@ -20435,7 +20435,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83271
 	1163.1.1 = {
@@ -20453,7 +20453,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83267
 	1180.1.1 = {
@@ -20471,7 +20471,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83267
 	1185.1.1 = {
@@ -20489,7 +20489,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83267
 	1187.1.1 = {
@@ -20507,7 +20507,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214610
 	1142.1.1 = {
@@ -20525,7 +20525,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214600
 	1185.1.1 = {
@@ -20543,7 +20543,7 @@
 	diplomacy = 3
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83272
 	1220.1.1 = {
@@ -20561,7 +20561,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83272
 	1223.1.1 = {
@@ -20579,7 +20579,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83272
 	1231.1.1 = {
@@ -20597,7 +20597,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83272
 	1239.1.1 = {
@@ -20615,7 +20615,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214601
 	1202.1.1 = {
@@ -20633,7 +20633,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83277
 	1232.1.1 = {
@@ -20651,7 +20651,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214602
 	1232.1.1 = {
@@ -20669,7 +20669,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214602
 	1236.1.1 = {
@@ -20688,7 +20688,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214602
 	1239.1.1 = {
@@ -20707,7 +20707,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83281
 	1287.1.1 = {
@@ -20725,7 +20725,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83282
 	1305.1.1 = {
@@ -20744,7 +20744,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83283
 	1336.1.1 = {
@@ -20762,7 +20762,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83279
 	1280.1.1 = {
@@ -20780,7 +20780,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83279
 	1283.1.1 = {
@@ -20798,7 +20798,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83285
 	1297.1.1 = {
@@ -20816,7 +20816,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83285
 	1300.1.1 = {
@@ -20834,7 +20834,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83288
 	1325.1.1 = {
@@ -20852,7 +20852,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83288
 	1328.1.1 = {
@@ -20870,7 +20870,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83288
 	1331.1.1 = {
@@ -20888,7 +20888,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83276
 	1282.1.1 = {
@@ -20906,7 +20906,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83276
 	1279.1.1 = {
@@ -20924,7 +20924,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83292
 	1311.1.1 = {
@@ -20942,7 +20942,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83292
 	1315.1.1 = {
@@ -20960,7 +20960,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 9
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = cynical
 	trait = lustful
@@ -20983,7 +20983,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214590
 	1138.1.1 = {
@@ -21001,7 +21001,7 @@
 	diplomacy = 5
 	intrigue = 2
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214590
 	1142.1.1 = {
@@ -21019,7 +21019,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214583 #Donnchad Cairprech mac Domnaill
 	1189.1.1 = {
@@ -21037,7 +21037,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214583 #Donnchad Cairprech mac Domnaill
 	1192.1.1 = {
@@ -21055,7 +21055,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214583 #Donnchad Cairprech mac Domnaill
 	1195.1.1 = {
@@ -21073,7 +21073,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83340 #Conchobar na Siudaine
 	1235.1.1 = {
@@ -21091,7 +21091,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83340 #Conchobar na Siudaine
 	1238.1.1 = {
@@ -21109,7 +21109,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83340 #Conchobar na Siudaine
 	1240.1.1 = {
@@ -21127,7 +21127,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83343 #Brian Ruad mac Conchobair
 	1259.1.1 = {
@@ -21145,7 +21145,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83343 #Brian Ruad mac Conchobair
 	1261.1.1 = {
@@ -21163,7 +21163,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83343 #Brian Ruad mac Conchobair
 	1263.1.1 = {
@@ -21181,7 +21181,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83344 #Donnchad mac Briain Ruaid
 	1278.1.1 = {
@@ -21199,7 +21199,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83345 #Domnall mac Briain Ruaid
 	1282.1.1 = {
@@ -21217,7 +21217,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83345 #Domnall mac Briain Ruaid
 	1286.1.1 = {
@@ -21235,7 +21235,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83349 #Brian Bán
 	1312.1.1 = {
@@ -21253,7 +21253,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 454140 #Toirrdelbach mac Taidg
 	1282.1.1 = {
@@ -21272,7 +21272,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 2
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = generous
 	trait = education_stewardship_1
@@ -21292,7 +21292,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214520 #Toirrdelbach mac Ruaidrí
 	1126.1.1 = {
@@ -21310,7 +21310,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214520 #Toirrdelbach mac Ruaidrí
 	1128.1.1 = {
@@ -21328,7 +21328,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214520 #Toirrdelbach mac Ruaidrí
 	trait = education_martial_3
@@ -21347,7 +21347,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214520 #Toirrdelbach mac Ruaidrí
 	1145.1.1 = {
@@ -21365,7 +21365,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214520 #Toirrdelbach mac Ruaidrí
 	1147.1.1 = {
@@ -21383,7 +21383,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214520 #Toirrdelbach mac Ruaidrí
 	1149.1.1 = {
@@ -21401,7 +21401,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = generous
 	trait = education_learning_2
@@ -21421,7 +21421,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83462 #Cathal Crobderg
 	trait = education_martial_3
@@ -21440,7 +21440,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83462 #Cathal Crobderg
 	trait = education_martial_3
@@ -21459,7 +21459,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214501 #Toirrdelbach mac Ruaidrí
 	1201.1.1 = {
@@ -21477,7 +21477,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214501 #Toirrdelbach mac Ruaidrí
 	1203.1.1 = {
@@ -21495,7 +21495,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83461 #Áed Dall
 	1148.1.1 = {
@@ -21513,7 +21513,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83461 #Áed Dall
 	1150.1.1 = {
@@ -21531,7 +21531,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83461 #Áed Dall
 	1152.1.1 = {
@@ -21549,7 +21549,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = zealous
 	trait = education_learning_4
@@ -21569,7 +21569,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83473
 	1179.1.1 = {
@@ -21587,7 +21587,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83473
 	1180.1.1 = {
@@ -21605,7 +21605,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83475
 	1198.1.1 = {
@@ -21623,7 +21623,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = chaste
 	trait = education_learning_4
@@ -21643,7 +21643,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83463 #Brian Luignech
 	1171.1.1 = {
@@ -21661,7 +21661,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83479
 	1201.1.1 = {
@@ -21679,7 +21679,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83480
 	1246.1.1 = {
@@ -21697,7 +21697,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83481
 	1279.1.1 = {
@@ -21718,7 +21718,7 @@
 	diplomacy = 3
 	intrigue = 3
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83482 #Domnall mac Taidg Ua Conchobair
 	1296.1.1 = {
@@ -21736,7 +21736,7 @@
 	diplomacy = 3
 	intrigue = 3
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83482 #Domnall mac Taidg Ua Conchobair
 	1297.1.1 = {
@@ -21754,7 +21754,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83482 #Domnall mac Taidg Ua Conchobair
 	1298.1.1 = {
@@ -21772,7 +21772,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83484 #Cathal of Ua Conchobair Sligig lord of Cairbre
 	1315.1.1 = {
@@ -21790,7 +21790,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83484 #Cathal of Ua Conchobair Sligig lord of Cairbre
 	1317.1.1 = {
@@ -21808,7 +21808,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83484 #Cathal of Ua Conchobair Sligig lord of Cairbre
 	1319.1.1 = {
@@ -21826,7 +21826,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83485 #Muirchertach mac Domnaill Ua Conchobair Sligig lord of Cairbre
 	1318.1.1 = {
@@ -21844,7 +21844,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83464 #Magnus mac Toirrdelbaigh Ua Conchobair
 	1168.1.1 = {
@@ -21862,7 +21862,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = generous
 	trait = education_learning_2
@@ -21882,7 +21882,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83465 #Muirchertach Muimnech
 	1188.1.1 = {
@@ -21900,7 +21900,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83465 #Muirchertach Muimnech
 	1190.1.1 = {
@@ -21918,7 +21918,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_learning_2
 	father = 83465 #Muirchertach Muimnech
@@ -21937,7 +21937,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83492 #Magnus mac Muirchertaig Ua Conchobair
 	1218.1.1 = {
@@ -21955,7 +21955,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_learning_2
 	father = 83492 #Magnus mac Muirchertaig Ua Conchobair
@@ -21974,7 +21974,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83493 #Conchobar Ruad Ua Conchobair
 	1220.1.1 = {
@@ -21992,7 +21992,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83493 #Conchobar Ruad Ua Conchobair
 	1223.1.1 = {
@@ -22010,7 +22010,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83497 ##Cathal Ruad Ua Conchobair
 	1251.1.1 = {
@@ -22029,7 +22029,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83497 ##Cathal Ruad Ua Conchobair
 	1253.1.1 = {
@@ -22047,7 +22047,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83497 ##Cathal Ruad Ua Conchobair
 	1258.1.1 = {
@@ -22065,7 +22065,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83500 #Áed Bréifnech king of Connaught
 	1282.1.1 = {
@@ -22083,7 +22083,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83500 #Áed Bréifnech king of Connaught
 	1285.1.1 = {
@@ -22101,7 +22101,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83468 #Fedlimid mac Cathail Chrobdeirg
 	trait = education_martial_3
@@ -22120,7 +22120,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83468 #Fedlimid mac Cathail Chrobdeirg
 	trait = education_martial_3
@@ -22140,7 +22140,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83467 #Áed mac Cathail Chrobdeirg
 	trait = hunchbacked
@@ -22159,7 +22159,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = lisping
 	father = 83467 #Áed mac Cathail Chrobdeirg
@@ -22178,7 +22178,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83467 #Áed mac Cathail Chrobdeirg
 	trait = lisping
@@ -22197,7 +22197,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83467 #Áed mac Cathail Chrobdeirg
 	trait = greedy
@@ -22217,7 +22217,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83467 #Áed mac Cathail Chrobdeirg
 	1222.1.1 = {
@@ -22235,7 +22235,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83509 #Toirrdelbach mac Áeda Ua Conchobair king of Connaught
 	trait = greedy
@@ -22255,7 +22255,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83507 #Cathal Dall
 	1246.1.1 = {
@@ -22273,7 +22273,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83508 #Ruaidrí mac Áeda Ua Conchobair
 	trait = lisping
@@ -22292,7 +22292,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83513 #Eógan mac Ruaidrí Ua Conchobair
 	1255.1.1 = {
@@ -22310,7 +22310,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83513 #Eógan mac Ruaidrí Ua Conchobair
 	1257.1.1 = {
@@ -22328,7 +22328,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83514 #Donnchad mac Eógain
 	1275.1.1 = {
@@ -22346,7 +22346,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83515 #Áed mac Eógain king of Connaught
 	1277.1.1 = {
@@ -22367,7 +22367,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83515 #Áed mac Eógain king of Connaught
 	1278.1.1 = {
@@ -22385,7 +22385,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83515 #Áed mac Eógain king of Connaught
 	1279.1.1 = {
@@ -22406,7 +22406,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83517 #Fedlimid king of Connaught progenitor of Ua Connchobar Ruad
 	1309.1.1 = {
@@ -22424,7 +22424,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83519 #Toirrdelbach king of Connaught progenitor of Ua Connchobar Donn
 	1308.1.1 = {
@@ -22442,7 +22442,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83519 #Toirrdelbach king of Connaught progenitor of Ua Connchobar Donn
 	1311.1.1 = {
@@ -22460,7 +22460,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_learning_1
 	father = 214022 #Tigearnan Mór Ua Ruairc
@@ -22480,7 +22480,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214027 #Ualgarg son of Cathal Liath
 	1202.1.1 = {
@@ -22498,7 +22498,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214027 #Ualgarg son of Cathal Liath
 	1204.1.1 = {
@@ -22516,7 +22516,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83540 #Áed son of Ualgarg son of Cathal Liath
 	1237.1.1 = {
@@ -22534,7 +22534,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 214028 #Domnall son of Cathal Liath
 	1195.1.1 = {
@@ -22552,7 +22552,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83543 #Tigernán son of Domnall son of Cathal Liath
 	1215.1.1 = {
@@ -22570,7 +22570,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83544 #Conchobar son of Tigernán Ua Ruairc
 	1234.1.1 = {
@@ -22588,7 +22588,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83544 #Conchobar son of Tigernán Ua Ruairc
 	1236.1.1 = {
@@ -22606,7 +22606,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83544 #Conchobar son of Tigernán Ua Ruairc
 	1238.1.1 = {
@@ -22624,7 +22624,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83549 #Gilla-Braite mac Domnaill maic Tigernáin
 	1117.1.1 = {
@@ -22642,7 +22642,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83550 #Áed son of Gilla-Braite
 	1156.1.1 = {
@@ -22660,7 +22660,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83551 #Donnchad son of Áed son of Gilla-Braite
 	1198.1.1 = {
@@ -22678,7 +22678,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83552 #Cathal Riabach son of Donnchad
 	1218.1.1 = {
@@ -22696,7 +22696,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83553 #Art son of Cathal Riabach son of Donnchad
 	1245.1.1 = {
@@ -22714,7 +22714,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83548 #Fergal son of Domnall son Tigernán
 	1140.1.1 = {
@@ -22732,7 +22732,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83548 #Fergal son of Domnall son Tigernán
 	1142.1.1 = {
@@ -22750,7 +22750,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83548 #Fergal son of Domnall son Tigernán
 	1144.1.1 = {
@@ -22768,7 +22768,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83548 #Fergal son of Domnall son Tigernán
 	1146.1.1 = {
@@ -22786,7 +22786,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83558 #Congalach son of Fergal
 	1187.1.1 = {
@@ -22804,7 +22804,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83559 #Niall son of Congalach son of Fergal
 	1211.1.1 = {
@@ -22822,7 +22822,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83557 #Domnall son of Fergal
 	1181.1.1 = {
@@ -22840,7 +22840,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = lustful
 	trait = education_martial_2
@@ -22860,7 +22860,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83561 #Art son of Domnall son of Fergal
 	1204.1.1 = {
@@ -22878,7 +22878,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83561 #Art son of Domnall son of Fergal
 	1207.1.1 = {
@@ -22896,7 +22896,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83562 #Amlaíb mac Airt
 	1244.7.1 = {
@@ -22914,7 +22914,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83562 #Amlaíb mac Airt
 	1245.7.1 = {
@@ -22932,7 +22932,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83562 #Amlaíb mac Airt
 	1246.7.1 = {
@@ -22950,7 +22950,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 83562 #Amlaíb mac Airt
 	1248.7.1 = {
@@ -22968,7 +22968,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 454160 #Ualgarg mac Domnaill
 	mother = 454164
@@ -22987,7 +22987,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 454160 #Ualgarg mac Domnaill
 	mother = 454164
@@ -23006,7 +23006,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 454160 #Ualgarg mac Domnaill
 	mother = 454164
@@ -23025,7 +23025,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 454160 #Ualgarg mac Domnaill
 	mother = 454164
@@ -23040,7 +23040,7 @@
 166079 = {
 	name = "Muirgius"
 	dynasty = 9216
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 166076
 	1128.1.1 = {
@@ -23054,7 +23054,7 @@
 166080 = {
 	name = "Conchobar"
 	dynasty = 9216
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 166078
 	1140.1.1 = {
@@ -23071,7 +23071,7 @@
 166081 = {
 	name = "Tomaltach"
 	dynasty = 9216
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 166080
 	1159.1.1 = {
@@ -23088,7 +23088,7 @@
 166082 = {
 	name = "Cathal_Carrach"
 	dynasty = 9216
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 166081
 	1177.1.1 = {
@@ -23105,7 +23105,7 @@
 166083 = {
 	name = "Diarmait"
 	dynasty = 692
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 166082
 	1194.1.1 = {
@@ -23119,7 +23119,7 @@
 166084 = {
 	name = "Cormac"
 	dynasty = 692
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 166083
 	1210.1.1 = {
@@ -23133,7 +23133,7 @@
 166085 = {
 	name = "Muirchertach"
 	dynasty = 692
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 166084
 	1227.1.1 = {
@@ -23147,7 +23147,7 @@
 166086 = {
 	name = "Tadg"
 	dynasty = 692
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 166085
 	1244.1.1 = {
@@ -23161,7 +23161,7 @@
 166087 = {
 	name = "Diarmait_Mideach"
 	dynasty = 692
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 166086
 	1260.1.1 = {
@@ -23175,7 +23175,7 @@
 166088 = {
 	name = "Cathal"
 	dynasty = 692
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 166087
 	1276.1.1 = {
@@ -23189,7 +23189,7 @@
 166089 = {
 	name = "MA_el_Ruanaid"
 	dynasty = 692
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 166088
 	1293.1.1 = {
@@ -23203,7 +23203,7 @@
 166090 = {
 	name = "Tomaltach_gCear"
 	dynasty = 692
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 166089
 	1311.1.1 = {
@@ -23217,7 +23217,7 @@
 166091 = {
 	name = "Conchobar"
 	dynasty = 692
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 166090
 	1327.1.1 = {
@@ -23231,7 +23231,7 @@
 166333 = {
 	name = "Fergal"
 	dynasty = 692
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 166090
 	1343.1.1 = {
@@ -23245,7 +23245,7 @@
 166092 = {
 	name = "A_ed"
 	dynasty = 692
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 166333
 	1359.1.1 = {
@@ -23258,7 +23258,7 @@
 
 166415 = {
 	name = "Gilla-Meic-Liac"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_learning_3
 	1109.1.1 = {
@@ -23271,7 +23271,7 @@
 
 166417 = {
 	name = "Flaithbertach"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_learning_3
 	1116.1.1 = {
@@ -23284,7 +23284,7 @@
 
 166418 = {
 	name = "Gilla-Meic-Liac"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_learning_3
 	1152.1.1 = {
@@ -23297,7 +23297,7 @@
 
 166419 = {
 	name = "Gilla-CrI_st"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_learning_3
 	1158.1.1 = {
@@ -23310,7 +23310,7 @@
 
 166420 = {
 	name = "Fonachtan"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_learning_3
 	1164.1.1 = {
@@ -23323,7 +23323,7 @@
 
 166421 = {
 	name = "Flann"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_learning_3
 	1187.1.1 = {
@@ -23336,7 +23336,7 @@
 
 166422 = {
 	name = "Muichertach"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	trait = education_learning_3
 	1178.1.1 = {
@@ -23350,7 +23350,7 @@
 184097 = {
 	name = "RuaidrI_"
 	dynasty = 9204
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 184106
 	1162.1.1 = {
@@ -23366,7 +23366,7 @@
 184098 = {
 	name = "Muiredach"
 	dynasty = 9204
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 184106
 	1164.1.1 = {
@@ -23379,7 +23379,7 @@
 184099 = {
 	name = "Rudhraighe"
 	dynasty = 9204
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 184098
 	1190.1.1 = {
@@ -23392,7 +23392,7 @@
 184100 = {
 	name = "A_ed" #Mor
 	dynasty = 9204
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 184098
 	1192.1.1 = {
@@ -23405,7 +23405,7 @@
 184101 = {
 	name = "Morogh"
 	dynasty = 9204
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 184100
 	1220.1.1 = {
@@ -23418,7 +23418,7 @@
 184102 = {
 	name = "RuaidrI_"
 	dynasty = 9204
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 184100
 	1222.1.1 = {
@@ -23431,7 +23431,7 @@
 184103 = {
 	name = "A_ed" #Made up
 	dynasty = 9204
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 184102
 	1250.1.1 = {
@@ -23444,7 +23444,7 @@
 184104 = {
 	name = "Brian"
 	dynasty = 9204
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 184103
 	1320.1.1 = {
@@ -23457,7 +23457,7 @@
 184105 = {
 	name = "A_ed"
 	dynasty = 9204
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 184104
 	1350.1.1 = {
@@ -23470,7 +23470,7 @@
 184106 = {
 	name = "A_ed"
 	dynasty = 9204
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 184108
 	1140.1.1 = {
@@ -23483,7 +23483,7 @@
 184107 = {
 	name = "Conchobar"
 	dynasty = 9204
-	religion = "catholic"
+	religion = "nicean"
 	culture = "irish"
 	father = 184106
 	1160.1.1 = {

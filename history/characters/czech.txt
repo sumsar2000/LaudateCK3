@@ -6,7 +6,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = diligent
 	trait = just
@@ -30,7 +30,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = paranoid
 	trait = education_martial_3
@@ -60,7 +60,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = craven
 	trait = greedy
@@ -85,7 +85,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = brave
 	trait = lazy
@@ -115,7 +115,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = education_diplomacy_2
 	father = 212850
@@ -136,7 +136,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = generous
 	trait = temperate
@@ -159,7 +159,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = arrogant
 	trait = lustful
@@ -189,7 +189,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = just
 	trait = humble
@@ -211,7 +211,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = stuttering
 	trait = temperate
@@ -234,7 +234,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = ambitious
 	trait = education_learning_3
@@ -257,7 +257,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = lustful
 	trait = deceitful
@@ -279,7 +279,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = trusting
 	trait = education_martial_2
@@ -303,7 +303,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = content
 	trait = diligent
@@ -328,7 +328,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = chaste
 	trait = calm
@@ -352,7 +352,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = arrogant
 	trait = lustful
@@ -374,7 +374,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = wrathful
 	trait = just
@@ -399,7 +399,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = humble
 	trait = education_stewardship_1
@@ -421,7 +421,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = zealous
 	trait = diligent
@@ -444,7 +444,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = deceitful
 	trait = education_learning_3
@@ -466,7 +466,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = arrogant
 	trait = education_diplomacy_1
@@ -486,7 +486,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = brave
 	trait = calm
@@ -511,7 +511,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = just
 	trait = education_intrigue_1
@@ -536,7 +536,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = education_intrigue_1
 	father = 212872
@@ -558,7 +558,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	disallow_random_traits = yes
 	trait = generous
@@ -584,7 +584,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = education_martial_2
 	father = 526
@@ -608,7 +608,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	disallow_random_traits = yes
 	trait = patient
@@ -640,7 +640,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = education_martial_2
 	father = 96009
@@ -661,7 +661,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = wrathful
 	trait = diligent
@@ -682,7 +682,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = chaste
 	trait = calm
@@ -705,7 +705,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 6	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = lustful
 	trait = intellect_good_1
@@ -728,7 +728,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = ambitious
 	trait = education_stewardship_2
@@ -754,7 +754,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = calm
 	trait = education_intrigue_2
@@ -779,7 +779,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = just
 #	trait = stressed
@@ -803,7 +803,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = chaste
 	trait = education_martial_2
@@ -839,7 +839,7 @@
 		add_spouse = 501
 	}
 	883.1.1 = {
-		religion = nicean
+		religion = "nicean"
 
 	}
 	890.1.1 = {
@@ -865,7 +865,7 @@
 		birth = "858.1.1"
 	}
 	883.1.1 = {
-		religion = "catholic"
+		religion = "nicean"
 
 	}
 	921.9.15 = {
@@ -881,7 +881,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = calm
 	trait = deceitful
@@ -892,7 +892,7 @@
 		birth = "875.1.1"
 	}
 	883.1.1 = {
-		religion = "catholic"
+		religion = "nicean"
 
 	}
 	915.1.1 = {
@@ -907,7 +907,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 7
-	religion = nicean
+	religion = "nicean"
 	culture = "czech"
 	trait = humble
 	trait = education_learning_2
@@ -932,7 +932,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = temperate
 	trait = education_martial_3
@@ -956,7 +956,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = diligent
 	trait = cynical
@@ -976,7 +976,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = lisping
 	trait = kinslayer_3
@@ -1005,7 +1005,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = arrogant
 	trait = cynical
@@ -1027,7 +1027,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = just
 	trait = education_stewardship_3
@@ -1056,7 +1056,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = calm
 	trait = education_martial_2
@@ -1078,7 +1078,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = honest
 	trait = disfigured
@@ -1100,7 +1100,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = lustful
 	trait = education_martial_2
@@ -1142,7 +1142,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = deceitful
 	trait = education_martial_2
@@ -1166,7 +1166,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = education_martial_2
 	father = 518
@@ -1190,7 +1190,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = just
 	trait = diligent
@@ -1224,7 +1224,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = generous
 	trait = arrogant
@@ -1251,7 +1251,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = arbitrary
 	trait = lazy
@@ -1274,7 +1274,7 @@
 	diplomacy = 6
 	intrigue = 3
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	disallow_random_traits = yes
 	trait = compassionate
@@ -1304,7 +1304,7 @@
 	diplomacy = 5
 	intrigue = 2
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = education_learning_2
 	father = 520
@@ -1324,7 +1324,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = diligent
 	trait = education_stewardship_2
@@ -1346,7 +1346,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = education_learning_2
 	father = 522
@@ -1366,7 +1366,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 2
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = greedy
 	trait = trusting
@@ -1394,7 +1394,7 @@
 	name = "VA_clav"
 	# AKA: Vaclav
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = arbitrary
 	trait = calm
@@ -1423,7 +1423,7 @@
 	name = "PR_emysl"
 	# AKA: Otakar
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = ambitious
 	trait = wrathful
@@ -1457,7 +1457,7 @@
 	name = "VA_clav"
 	# AKA: Vaclav
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = lustful
 	trait = generous
@@ -1483,7 +1483,7 @@
 	name = "VA_clav"
 	# AKA: Vaclav
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = reveler_1
 	trait = lazy
@@ -1508,7 +1508,7 @@
 96004 = {
 	name = "Vratislav"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96012
 	1112.1.1 = {
@@ -1522,7 +1522,7 @@
 96005 = {
 	name = "SpytihnE_v"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96004
 	1143.1.1 = {
@@ -1536,7 +1536,7 @@
 96006 = {
 	name = "Svatopluk"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96004
 	1145.1.1 = {
@@ -1551,7 +1551,7 @@
 	name = "VA_clav"
 	# AKA: Vaclav Jindrich
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96011
 	1107.1.1 = {
@@ -1566,7 +1566,7 @@
 	name = "Eufemie"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96012
 	mother = 96073
@@ -1581,7 +1581,7 @@
 96009 = {
 	name = "Ota"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = wrathful
 	trait = arrogant
@@ -1604,7 +1604,7 @@
 	name = "Svatava"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 212893
 	1144.1.1 = {
@@ -1618,7 +1618,7 @@
 96011 = {
 	name = "Svatopluk"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = calm
 	trait = diligent
@@ -1636,7 +1636,7 @@
 96012 = {
 	name = "OldR_ich"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = deceitful
 	trait = education_martial_2
@@ -1654,7 +1654,7 @@
 	name = "Eufemie"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 212893
 	1149.1.1 = {
@@ -1669,7 +1669,7 @@
 	name = "Hedvika"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96009
 	1126.1.1 = {
@@ -1684,7 +1684,7 @@
 	name = "Marie"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 212893
 	1151.1.1 = {
@@ -1698,7 +1698,7 @@
 96017 = {
 	name = "BR_etislav"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 530
 	#mother = Lukarta von Bogen
@@ -1714,7 +1714,7 @@
 	name = "JaromI_r"
 	# AKA: Jaromir
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = hunter_1
 	trait = education_martial_2
@@ -1731,7 +1731,7 @@
 96019 = {
 	name = "SpytihnE_v"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 8504
 	mother = 183188 #Gerberga von Babenberg
@@ -1747,7 +1747,7 @@
 	name = "Litold"
 	# AKA: Lupold
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 8504
 	mother = 183188 #Gerberga von Babenberg
@@ -1764,7 +1764,7 @@
 	# AKA: Richza
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 8504
 	mother = 183188 #Gerberga von Babenberg
@@ -1779,7 +1779,7 @@
 96022 = {
 	name = "Albrecht"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 8504
 	mother = 183188 #Gerberga von Babenberg
@@ -1795,7 +1795,7 @@
 	name = "Judita"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 522
 	mother = 765
@@ -1810,7 +1810,7 @@
 96024 = {
 	name = "Vladislav"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 212872
 	mother = 219533
@@ -1826,7 +1826,7 @@
 	name = "Marie"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 212872
 	mother = 219533
@@ -1842,7 +1842,7 @@
 	name = "Svatava"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 212861
 	mother = 212862
@@ -1857,7 +1857,7 @@
 96027 = {
 	name = "Diepold"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = education_learning_3
 	father = 212866
@@ -1873,7 +1873,7 @@
 96028 = {
 	name = "Boleslav"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = education_martial_2
 	father = 212866
@@ -1889,7 +1889,7 @@
 96029 = {
 	name = "SobE_slav"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 212866
 	mother = 221540
@@ -1904,7 +1904,7 @@
 96030 = {
 	name = "BoR_ivoj"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 212866
 	mother = 221540
@@ -1919,7 +1919,7 @@
 96032 = {
 	name = "Vratislav"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 212850
 	mother = 219512
@@ -1935,7 +1935,7 @@
 	name = "Olga"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 212850
 	mother = 219512
@@ -1952,7 +1952,7 @@
 	# AKA: Marketa
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 212850
 	mother = 219512
@@ -1967,7 +1967,7 @@
 96035 = {
 	name = "Svatopluk"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = wrathful
 	father = 212851
@@ -1986,7 +1986,7 @@
 96036 = {
 	name = "Vratislav"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = education_martial_1
 	father = 212855
@@ -2010,7 +2010,7 @@
 	# AKA: Marketa
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = gregarious
 	father = 212855
@@ -2027,7 +2027,7 @@
 	name = "BoZ_islava"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 212855
 	mother = 212044
@@ -2043,7 +2043,7 @@
 	name = "Hedvika"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 212855
 	mother = 212044
@@ -2058,7 +2058,7 @@
 96040 = {
 	name = "Vratislav"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 212855
 	mother = 219503
@@ -2074,7 +2074,7 @@
 	name = "Judita"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 212855
 	mother = 219503
@@ -2090,7 +2090,7 @@
 	name = "Anna"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = diligent
 	trait = education_learning_2
@@ -2107,7 +2107,7 @@
 96043 = {
 	name = "Vladislav"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 212855
 	mother = 219503
@@ -2122,7 +2122,7 @@
 96044 = {
 	name = "PR_emysl"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = ambitious
 	father = 212855
@@ -2142,7 +2142,7 @@
 	name = "AneZ_ka"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = humble
 	trait = generous
@@ -2166,7 +2166,7 @@
 	# AKA: Vilemina
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = gregarious
 	trait = education_learning_2
@@ -2183,7 +2183,7 @@
 96047 = {
 	name = "Vladislav"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96000
 	mother = 30777
@@ -2202,7 +2202,7 @@
 	name = "AneZ_ka"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96000
 	mother = 30777
@@ -2218,7 +2218,7 @@
 	name = "BoZ_ena"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96000
 	mother = 30777
@@ -2234,7 +2234,7 @@
 	name = "Kunhuta"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = education_learning_1
 	father = 96001
@@ -2251,7 +2251,7 @@
 	name = "AneZ_ka"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96001
 	mother = 98016
@@ -2267,7 +2267,7 @@
 	name = "MikulA_S_"
 	# AKA: Mikulas
 	dynasty = 10110
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = bastard
 	trait = just
@@ -2285,7 +2285,7 @@
 	name = "MikulA_s"
 	# AKA: Mikulas
 	dynasty = 10110
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96052
 	1288.1.1 = {
@@ -2302,7 +2302,7 @@
 96054 = {
 	name = "Jan"
 	dynasty = 10110
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96053
 	#mother = Anna Raciborska
@@ -2317,7 +2317,7 @@
 96055 = {
 	name = "Jan"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = bastard
 	trait = cynical
@@ -2335,7 +2335,7 @@
 96056 = {
 	name = "PR_emysl"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96002
 	mother = 7526 #Jutta von Habsburg
@@ -2351,7 +2351,7 @@
 	name = "AneZ_ka"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = twin
 	father = 96002
@@ -2368,7 +2368,7 @@
 	name = "Anna"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96002
 	mother = 7526 #Jutta von Habsburg
@@ -2384,7 +2384,7 @@
 	name = "Guta"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96002
 	mother = 7526 #Jutta von Habsburg
@@ -2399,7 +2399,7 @@
 96060 = {
 	name = "Jan"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96002
 	mother = 7526 #Jutta von Habsburg
@@ -2416,7 +2416,7 @@
 	# AKA: Marketa
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = shy
 	trait = content
@@ -2434,7 +2434,7 @@
 	name = "Guta"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96002
 	mother = 7526 #Jutta von Habsburg
@@ -2450,7 +2450,7 @@
 	name = "AneZ_ka"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96002
 	mother = 125978 #Elzbieta Ryksa
@@ -2465,7 +2465,7 @@
 96064 = {
 	name = "Jan"
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = bastard
 	trait = education_learning_3
@@ -2483,7 +2483,7 @@
 	# AKA: Marketa
 	female = yes
 	dynasty = 10110
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96053
 	#mother = Anna Raciborska
@@ -2498,7 +2498,7 @@
 96066 = {
 	name = "Budivoj"
 	dynasty = 10106
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	1220.1.1 = {
 		birth = "1220.1.1"
@@ -2515,7 +2515,7 @@
 	name = "Perchta"
 	female = yes
 	dynasty = 10105
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	1222.1.1 = {
 		birth = "1222.1.1"
@@ -2529,7 +2529,7 @@
 	name = "ZA_viS_"
 	# AKA: Zavis
 	dynasty = 10106
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = ambitious
 	trait = beauty_good_1
@@ -2557,7 +2557,7 @@
 96069 = {
 	name = "JeS_ek"
 	dynasty = 10106
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = bastard
 	trait = education_learning_2
@@ -2579,7 +2579,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = education_learning_2
 	father = 212851
@@ -2596,7 +2596,7 @@
 	name = "Eufemia"
 	female = yes
 	dynasty = 10110
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 96053
 	mother = 125972
@@ -2610,7 +2610,7 @@
 
 96070 = {
 	name = "Radim-Gaudentius"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = bastard
 	trait = education_learning_3
@@ -2629,7 +2629,7 @@
 
 96113 = {
 	name = "Prokop"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	1227.1.1 = {
 		birth = "1227.1.1"
@@ -2642,7 +2642,7 @@
 221551 = {
 	name = "Ludmila"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	1150.1.2 = {
 		birth = "1150.1.2"
@@ -2866,7 +2866,7 @@
 		birth = "850.1.1"
 	}
 	883.1.1 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	910.1.1 = {
 		death = "910.1.1"
@@ -2876,7 +2876,7 @@
 168358 = {
 	name = "Vok"
 	dynasty = 9588
-	religion = nicean
+	religion = "nicean"
 	culture = "czech"
 	father = 168357
 	890.1.1 = {
@@ -2891,7 +2891,7 @@
 168360 = {
 	name = "SlavnI_k"
 	dynasty = 9588
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 168358
 	920.1.1 = {
@@ -2911,7 +2911,7 @@
 	name = "StR_ezislava"
 	female = yes
 	dynasty = 506
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 504
 	mother = 505
@@ -2928,7 +2928,7 @@
 168362 = {
 	name = "VojtE_ch" #Saint Adalbert of Prague
 	dynasty = 9588
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	trait = education_learning_4
 	trait = celibate
@@ -2953,7 +2953,7 @@
 168363 = {
 	name = "SobE_slav"
 	dynasty = 9588
-	religion = "catholic"
+	religion = "nicean"
 	culture = "czech"
 	father = 168360
 	mother = 168361
@@ -2970,7 +2970,7 @@
 	name = "SlavomI_r"
 	#placeholder
 	dynasty = 9603
-	religion = nicean
+	religion = "nicean"
 	culture = "czech"
 	845.1.1 = {
 		birth = yes
@@ -2987,7 +2987,7 @@
 	name = "Draslav"
 	#placeholder
 	dynasty = 9604
-	religion = nicean
+	religion = "nicean"
 	culture = "czech"
 	845.1.1 = {
 		birth = yes
@@ -3044,7 +3044,7 @@
 
 273020 = { #prior of capitule of Litomerice, originally German, but naturalized czech
 	name = "LanZ_"
-	religion = catholic
+	religion = nicean
 	culture = saxon
 	trait = education_learning_4
 	1022.1.1 = {
@@ -3124,7 +3124,7 @@
 273025 = { #fictional forefather of the dynasty
 	name = "VrS_a" #fictional
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	918.1.1 = {
 		birth = yes
@@ -3136,7 +3136,7 @@
 273026 = {
 	name = "Kochan" #unknown by name - a husband of daughter of Boleslav
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273029
 	976.1.1 = {
@@ -3153,7 +3153,7 @@
 	name = "Svatava" #unknown daughter of Boleslav III.
 	female = yes
 	dynasty = 506
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 512
 	mother = 273028
@@ -3170,7 +3170,7 @@
 273028 = {
 	name = "Svatava" #unknown wife of Boleslav III.
 	female = yes
-	religion = catholic
+	religion = nicean
 	culture = czech
 	957.1.1 = {
 		birth = yes
@@ -3185,7 +3185,7 @@
 273029 = {
 	name = "Kochan" #fictional
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273025
 	950.1.1 = {
@@ -3198,7 +3198,7 @@
 273030 = {
 	name = "BoZ_ej" #in 1014 the leader of Vršovci - at that date a possible Vršovic grandson of Boleslav III was still too young.
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273029
 	980.1.1 = {
@@ -3211,7 +3211,7 @@
 273031 = {
 	name = "Kochan" #murderer of Jaromír Premyslid
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273026
 	mother = 273027
@@ -3225,7 +3225,7 @@
 273032 = {
 	name = "CC_aslav" #fictional link between the first Vršovci and those massacred in 1108
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273031
 	1033.1.1 = {
@@ -3238,7 +3238,7 @@
 273033 = {
 	name = "Nemoj" #in 1107 gave large territories to Vyšehrad kapitula
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273031
 	1034.1.1 = {
@@ -3251,7 +3251,7 @@
 273034 = {
 	name = "Mutina" #1092-1096 and 1101-1108 Litomerice
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273032
 	1059.1.1 = {
@@ -3264,7 +3264,7 @@
 273035 = {
 	name = "Mutina" #son of Mutina murdered in 1108
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273034
 	1083.1.1 = {
@@ -3277,7 +3277,7 @@
 273036 = {
 	name = "Nemoj" #son of Mutina murdered in 1108
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273034
 	1087.1.1 = {
@@ -3290,7 +3290,7 @@
 273037 = {
 	name = "Vnislav" #murdered in 1108 together with Mutina
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273033
 	1064.1.1 = {
@@ -3303,7 +3303,7 @@
 273038 = {
 	name = "DamaS_a" #murdered in 1108 together with Mutina
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273033
 	1066.1.1 = {
@@ -3316,7 +3316,7 @@
 273039 = {
 	name = "NeuS_a" #in 1108 was with Mutina, escaped, but was murdered later
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273033
 	1083.1.1 = {
@@ -3329,7 +3329,7 @@
 273040 = {
 	name = "BoZ_ej"
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273031
 	1036.1.1 = {
@@ -3342,7 +3342,7 @@
 273041 = {
 	name = "BoZ_ej" #1092-1096 and 1101-1108 Zatec, Murdered in 1108
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273040
 	1065.1.1 = {
@@ -3355,7 +3355,7 @@
 273042 = {
 	name = "CCesta" #Murdered in 1108
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273040
 	1066.1.1 = {
@@ -3368,7 +3368,7 @@
 273043 = {
 	name = "Borut" #son of Bozej of Zatec, Murdered in 1108
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273041
 	1093.1.1 = {
@@ -3381,7 +3381,7 @@
 273044 = {
 	name = "Jan" #son of Czesta (Česta), the only one from czech, who survived the massacre of 1108
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273042
 	1092.1.1 = {
@@ -3395,7 +3395,7 @@
 273045 = {
 	name = "Hruta" #castellan of Bitov
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273033
 	1065.1.1 = {
@@ -3408,7 +3408,7 @@
 273046 = {
 	name = "Detrich" #castellan of Bitov 1112-1155
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273045
 	1093.1.1 = {
@@ -3421,7 +3421,7 @@
 273047 = {
 	name = "Detrich" #castellan of Bitov 1155-1170
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273046
 	1115.1.1 = {
@@ -3434,7 +3434,7 @@
 273048 = {
 	name = "Hruta" #castellan of Bitov 1170-1192
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273046
 	1122.1.1 = {
@@ -3448,7 +3448,7 @@
 273049 = {
 	name = "Nemoj" #fictional son of Jan, who survived the massacre of 1108
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273044
 	1110.1.1 = {
@@ -3461,7 +3461,7 @@
 273050 = {
 	name = "Nemoj" # Nemoj II. in 1160 castellan of Litomerice, since 1160 also steward
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273049
 	1127.1.1 = {
@@ -3474,7 +3474,7 @@
 273051 = {
 	name = "JarohnEE_v" # 1146-77 castellan of Zatec
 	dynasty = 10107
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 273049
 	1128.1.1 = {
@@ -3489,7 +3489,7 @@
 273053 = {
 	name = "SpytimIr"
 	dynasty = 9588
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 168360
 	mother = 168361
@@ -3503,7 +3503,7 @@
 273054 = {
 	name = "Pobreslav"
 	dynasty = 9588
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 168360
 	mother = 168361
@@ -3517,7 +3517,7 @@
 273055 = {
 	name = "Porej"
 	dynasty = 9588
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 168360
 	mother = 168361
@@ -3531,7 +3531,7 @@
 273056 = {
 	name = "CCaslav"
 	dynasty = 9588
-	religion = catholic
+	religion = nicean
 	culture = czech
 	father = 168360
 	mother = 168361

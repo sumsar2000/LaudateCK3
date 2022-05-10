@@ -1,10 +1,10 @@
 #k_bulgaria
 
 ##Religious note
-#Khan Boris I sought conversion to monotheism in 863, finally converting to Orthodoxy in 864 (BYZ pressure)
+#Khan Boris I sought conversion to monotheism in 863, finally converting to niceany in 864 (BYZ pressure)
 #Before that, his land was still pagan, but some of his people had already converted
-#So, we set as orthodox from the get go the southern parts of k_bulgaria (Bulgaria & Philippopolis) due to their closeness to BYZ
-#Additionnally, Moesia will also start as orthodox, as it's the ruler's "capital territory"
+#So, we set as nicean from the get go the southern parts of k_bulgaria (Bulgaria & Philippopolis) due to their closeness to BYZ
+#Additionnally, Moesia will also start as nicean, as it's the ruler's "capital territory"
 #Dobrudja & Vidin will stay as slavic_pagan from start, and convert in 893 (after Boris' son, Vladimir,'s defeat when he tried a pagan uprising)
 #Then, in the 1st half of the Xth century, Bogomilism appeared in south-western Bulgaria, until the end of the 2nd Bulgarian Empire
 

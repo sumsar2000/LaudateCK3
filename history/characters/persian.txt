@@ -2058,7 +2058,7 @@
 180612 = {
 	name = "Hormazd"
 	dynasty = 1029100
-	religion = nicean
+	religion = "nicean"
 	culture = "persian"
 	father = 180611
 	299.1.1 = {
@@ -2072,7 +2072,7 @@
 	name = "Hormazd"
 	# Byzantine proconsul
 	dynasty = 1029100
-	religion = nicean
+	religion = "nicean"
 	culture = "greek"
 	father = 180612
 	325.1.1 = {

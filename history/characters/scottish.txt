@@ -6,7 +6,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = cynical
 	trait = ambitious
@@ -35,7 +35,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_learning_2
 	father = 984
@@ -55,7 +55,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arbitrary
 	father = 984
@@ -76,7 +76,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = content
 	trait = education_learning_3
@@ -97,7 +97,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	1000.1.2 = {
 		birth = "1000.1.2"
@@ -115,7 +115,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 6005
 	1030.1.2 = {
@@ -133,7 +133,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 6010
 	mother = 6009
@@ -152,7 +152,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 6010
 	mother = 6009
@@ -168,7 +168,7 @@
 	name = "Bethoc"
 	female = yes
 	dynasty = 1687
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 986
 	1079.1.1 = {
@@ -182,7 +182,7 @@
 7389 = {
 	name = "Malcolm"
 	dynasty_house = house_british_isles_atholl
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7390
 	mother = 220037
@@ -197,7 +197,7 @@
 7390 = {  	
 	name = "Matad"
 	dynasty = 1687
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 994
 	1096.1.1 = {
@@ -215,7 +215,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 220031
@@ -234,7 +234,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = craven
 	trait = education_intrigue_2
@@ -257,7 +257,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	mother = 4071
@@ -278,7 +278,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = cynical
 	trait = education_diplomacy_2
@@ -297,7 +297,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = brave
 	father = 976
@@ -316,7 +316,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arbitrary
 	father = 131101
@@ -336,7 +336,7 @@
 	diplomacy = 5
 	intrigue = 3
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = just
 	father = 131102
@@ -356,7 +356,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 984
 	mother = 113
@@ -376,7 +376,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 984
 	mother = 113
@@ -398,7 +398,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_3
 	father = 988
@@ -417,7 +417,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arrogant
 	trait = diligent
@@ -443,7 +443,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = brave
 	trait = temperate
@@ -463,7 +463,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = generous
 	trait = arrogant
@@ -486,7 +486,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = brave
 	trait = temperate
@@ -508,7 +508,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 202971
@@ -529,7 +529,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 202971
 	mother = 202972
@@ -548,7 +548,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 202978
 	1120.1.1 = {
@@ -566,7 +566,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 131004
 	1100.1.1 = {
@@ -585,7 +585,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	trait = lustful
@@ -611,7 +611,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_learning_2
 	trait = chaste
@@ -633,7 +633,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 83591
 	1199.1.1 = {
@@ -651,7 +651,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = chaste
 	trait = lazy
@@ -673,7 +673,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = gluttonous
 	trait = wrathful
@@ -694,7 +694,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = greedy
 	trait = temperate
@@ -720,7 +720,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = brave
 	trait = education_martial_2
@@ -739,7 +739,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = just
 	trait = brave
@@ -761,7 +761,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_stewardship_2
 	father = 202977
@@ -780,7 +780,7 @@
 	name = "Alesta"
 	female = yes
 	dynasty = 100042
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203060 # Morgann of Mar
 	mother = 203061
@@ -799,7 +799,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = chaste
 	trait = education_martial_3
@@ -823,7 +823,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = bastard
 	trait = education_diplomacy_1
@@ -843,7 +843,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203014
 	mother = 203015
@@ -862,7 +862,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = brave
 	trait = lustful
@@ -887,7 +887,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 203072
@@ -907,7 +907,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203072
 	1183.1.1 = {
@@ -926,7 +926,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = bastard
 	trait = education_intrigue_2
@@ -947,7 +947,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_stewardship_2
 	father = 203010
@@ -967,7 +967,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 203010
@@ -983,7 +983,7 @@
 203059 = {  	
 	name = "Gillocher"
 	dynasty = 100042
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = honest
 	trait = education_martial_2
@@ -999,7 +999,7 @@
 203060 = {  	
 	name = "Morgan" # AKA: Morggan
 	dynasty = 100042
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = honest
 	trait = education_martial_2
@@ -1023,7 +1023,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = greedy
 	trait = calm
@@ -1045,7 +1045,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = brave
 	trait = greedy
@@ -1069,7 +1069,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = wrathful
 	trait = arrogant
@@ -1093,7 +1093,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = wrathful
 	trait = greedy
@@ -1116,7 +1116,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = generous
 	trait = calm
@@ -1139,7 +1139,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = generous
 	trait = education_martial_2
@@ -1160,7 +1160,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_intrigue_1
 	father = 20071
@@ -1179,7 +1179,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = generous
 	trait = chaste
@@ -1202,7 +1202,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arrogant
 	trait = calm
@@ -1224,7 +1224,7 @@
 	diplomacy = 5
 	intrigue = 3
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arrogant
 	trait = greedy
@@ -1247,7 +1247,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = honest
 	trait = lustful
@@ -1270,7 +1270,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_learning_3
 	1150.1.2 = {
@@ -1290,7 +1290,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = chaste
 	trait = temperate
@@ -1313,7 +1313,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lazy
 	trait = education_martial_2
@@ -1334,7 +1334,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_intrigue_1
 	father = 203511
@@ -1354,7 +1354,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = calm
 	trait = education_martial_3
@@ -1379,7 +1379,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_learning_2
 	father = 203511
@@ -1399,7 +1399,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_3
 	father = 203511
@@ -1423,7 +1423,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 203542
@@ -1442,7 +1442,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_intrigue_3
 	father = 203547
@@ -1465,7 +1465,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_intrigue_3
 	father = 144947
@@ -1488,7 +1488,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_3
 	father = 203520
@@ -1509,7 +1509,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = zealous
 	trait = education_learning_2
@@ -1534,7 +1534,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203560
 	mother = 203561
@@ -1553,7 +1553,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	1113.1.1 = {
 		birth = "1113.1.1"
@@ -1574,7 +1574,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = gluttonous
 	trait = education_learning_3
@@ -1593,7 +1593,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 220019
@@ -1613,7 +1613,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 220019
@@ -1633,7 +1633,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 220019
 	mother = 220028
@@ -1653,7 +1653,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_stewardship_2
 	trait = wrathful
@@ -1674,7 +1674,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_intrigue_1
 	father = 202977
@@ -1693,7 +1693,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_stewardship_2
 	father = 220020
@@ -1714,7 +1714,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 220020
@@ -1735,7 +1735,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_stewardship_2
 	father = 220020
@@ -1756,7 +1756,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arrogant
 	trait = education_diplomacy_3
@@ -1776,7 +1776,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_3
 	father = 203520
@@ -1797,7 +1797,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203572
 	mother = 230521
@@ -1817,7 +1817,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 230523
 	mother = 230522
@@ -1839,7 +1839,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 230524
 	mother = 230529
@@ -1859,7 +1859,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arbitrary
 	trait = greedy
@@ -1884,7 +1884,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 984
 	mother = 113
@@ -1903,7 +1903,7 @@
 	diplomacy = 2
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	1169.1.2 = {
@@ -1921,7 +1921,7 @@
 	diplomacy = 9
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = honest
 	trait = education_learning_2
@@ -1940,7 +1940,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 9
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = bastard
 	trait = lazy
@@ -1960,7 +1960,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 332019
@@ -1983,7 +1983,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_learning_2
 	father = 332019
@@ -2003,7 +2003,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = diligent
 	father = 332019
@@ -2023,7 +2023,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = cynical
 	father = 332019
@@ -2043,7 +2043,7 @@
 	diplomacy = 5
 	intrigue = 9
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = cynical
 	1145.1.1 = {
@@ -2061,7 +2061,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = diligent
 	trait = honest
@@ -2081,7 +2081,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = deceitful
 	trait = greedy
@@ -2104,7 +2104,7 @@
 	diplomacy = 8
 	intrigue = 3
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = humble
 	1163.1.1 = {
@@ -2122,7 +2122,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 453055
@@ -2137,7 +2137,7 @@
 450820 = {  	
 	name = "Malise" # the V, 8th Earl of Strathearn
 	dynasty = 9101
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = generous
 	trait = cynical
@@ -2162,7 +2162,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_3
 	father = 82033
@@ -2189,7 +2189,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_learning_2
 	1250.1.2 = {
@@ -2204,7 +2204,7 @@
 	name = "Joan" # or Johanna
 	female = yes
 	dynasty = 123 # de Menteith
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188926
 	1307.1.1 = {
@@ -2223,7 +2223,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arrogant
 	trait = education_learning_2
@@ -2245,7 +2245,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lazy
 	trait = education_learning_3
@@ -2267,7 +2267,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = gluttonous
 	trait = education_stewardship_2
@@ -2289,7 +2289,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = just
 	trait = education_stewardship_2
@@ -2311,7 +2311,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = greedy
 	trait = education_stewardship_2
@@ -2332,7 +2332,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 453037
@@ -2352,7 +2352,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = wrathful
 	trait = education_martial_2
@@ -2376,7 +2376,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = honest
 	trait = stuttering
@@ -2401,7 +2401,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 453020
@@ -2421,7 +2421,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 453027
@@ -2441,7 +2441,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 453041
@@ -2457,7 +2457,7 @@
 453009 = {  	
 	name = "Colin" # Colin Og (the Young)
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	trait = brave
@@ -2483,7 +2483,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = diligent
 	trait = generous
@@ -2509,7 +2509,7 @@
 	diplomacy = 4
 	intrigue = 9
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = cynical
 	trait = education_martial_2
@@ -2533,7 +2533,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 453022
@@ -2557,7 +2557,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arbitrary
 	trait = education_learning_2
@@ -2577,7 +2577,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 453023
@@ -2596,7 +2596,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 7367
@@ -2617,7 +2617,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_intrigue_1
 	father = 453023
@@ -2637,7 +2637,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_intrigue_1
 	father = 453023
@@ -2657,7 +2657,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_stewardship_2
 	father = 453020
@@ -2677,7 +2677,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 453028
@@ -2699,7 +2699,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 453029
@@ -2718,7 +2718,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 453030
@@ -2738,7 +2738,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 203013
@@ -2759,7 +2759,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = calm
 	trait = education_intrigue_2
@@ -2778,7 +2778,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 453030
@@ -2798,7 +2798,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 453032
@@ -2820,7 +2820,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 9
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lustful
 	trait = education_martial_2
@@ -2845,7 +2845,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = just
 	trait = education_intrigue_2
@@ -2865,7 +2865,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_stewardship_2
 	father = 453034
@@ -2885,7 +2885,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	1290.1.1 = {
@@ -2906,7 +2906,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 7366
@@ -2928,7 +2928,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 453038
@@ -2949,7 +2949,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_intrigue_2
 	father = 7359
@@ -2969,7 +2969,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 453039
@@ -2993,7 +2993,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_intrigue_1
 	father = 7294
@@ -3012,7 +3012,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7298
 	trait = arrogant
@@ -3039,7 +3039,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lustful
 	trait = education_intrigue_1
@@ -3062,7 +3062,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lustful
 	trait = education_intrigue_1
@@ -3083,7 +3083,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lustful
 	trait = education_martial_2
@@ -3104,7 +3104,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = legitimized_bastard
 	trait = education_martial_2
@@ -3125,7 +3125,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lustful
 	trait = education_intrigue_1
@@ -3146,7 +3146,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = brave
 	trait = education_martial_2
@@ -3170,7 +3170,7 @@
 	diplomacy = 3
 	intrigue = 6
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lustful
 	trait = calm
@@ -3191,7 +3191,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	1255.1.1 = {
@@ -3210,7 +3210,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = temperate
 	trait = education_intrigue_2
@@ -3232,7 +3232,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = brave
 	trait = diligent
@@ -3255,7 +3255,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = brave
 	trait = education_martial_2
@@ -3280,7 +3280,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = brave
 	trait = education_martial_2
@@ -3299,7 +3299,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = honest
 	trait = education_martial_2
@@ -3320,7 +3320,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arrogant
 	trait = education_intrigue_1
@@ -3335,7 +3335,7 @@
 453071 = {  	
 	name = "Neil" # Sir Neil
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = brave
 	trait = education_martial_2
@@ -3359,7 +3359,7 @@
 	name = "Alice" # Alyse de Crawford
 	female = yes
 	dynasty = 101601
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188951
 	1284.1.1 = {
@@ -3378,7 +3378,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lustful
 	trait = education_intrigue_1
@@ -3395,7 +3395,7 @@
 453074 = {  	
 	name = "Dugald"
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 453071
 	mother = 453072
@@ -3410,7 +3410,7 @@
 453075 = {  	
 	name = "John" # Earl of Atholl
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = humble
 	trait = zealous
@@ -3433,7 +3433,7 @@
 	# AKA: Helena Mor
 	female = yes
 	dynasty = 123 # de Menteith
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188926
 	1300.1.1 = {
@@ -3447,7 +3447,7 @@
 453077 = {  	
 	name = "Dugald"
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 453009
@@ -3463,7 +3463,7 @@
 453078 = {  	
 	name = "Archibald"
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arrogant
 	trait = education_martial_2
@@ -3484,7 +3484,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 2
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arrogant
 	trait = education_martial_2
@@ -3505,7 +3505,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = bastard
 	trait = honest
@@ -3527,7 +3527,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arbitrary
 	trait = education_learning_2
@@ -3548,7 +3548,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lustful
 	trait = brave
@@ -3577,7 +3577,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_intrigue_1
 	father = 454106
@@ -3598,7 +3598,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = humble
 	trait = education_intrigue_1
@@ -3620,7 +3620,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lazy
 	trait = education_learning_1
@@ -3642,7 +3642,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arbitrary
 	trait = education_stewardship_2
@@ -3664,7 +3664,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = calm
 	trait = education_learning_2
@@ -3686,7 +3686,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = bastard
 	trait = chaste
@@ -3710,7 +3710,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = bastard
 	trait = arrogant
@@ -3732,7 +3732,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = bastard
 	trait = humble
@@ -3754,7 +3754,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = bastard
 	trait = education_stewardship_2
@@ -3774,7 +3774,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lustful
 	trait = brave
@@ -3796,7 +3796,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_intrigue_3
 	father = 203546
@@ -3820,7 +3820,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = calm
 	trait = education_intrigue_1
@@ -3845,7 +3845,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_intrigue_1
 	father = 453512
@@ -3865,7 +3865,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lustful
 	trait = education_martial_2
@@ -3890,7 +3890,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 453038
@@ -3910,7 +3910,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 453515
@@ -3934,7 +3934,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = generous
 	trait = arrogant
@@ -3957,7 +3957,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_stewardship_2
 	father = 453517
@@ -3977,7 +3977,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = bastard
 	trait = education_martial_2
@@ -4001,7 +4001,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = greedy
 	trait = temperate
@@ -4021,7 +4021,7 @@
 	diplomacy = 2
 	intrigue = 5
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = temperate
 	trait = brave
@@ -4044,7 +4044,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = brave
 	trait = education_intrigue_2
@@ -4071,7 +4071,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_intrigue_1
 	father = 453030
@@ -4092,7 +4092,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_intrigue_2
 	1223.1.1 = {
@@ -4110,7 +4110,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = brave
 	trait = honest
@@ -4132,7 +4132,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arrogant
 	trait = education_martial_2
@@ -4152,7 +4152,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_stewardship_2
 	father = 453603
@@ -4171,7 +4171,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = honest
 	trait = education_martial_2
@@ -4192,7 +4192,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lustful
 	trait = education_martial_2
@@ -4216,7 +4216,7 @@
 	diplomacy = 3
 	intrigue = 3
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = stuttering
 	trait = education_martial_2
@@ -4237,7 +4237,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = just
 	trait = greedy
@@ -4260,7 +4260,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = wrathful
 	trait = education_intrigue_2
@@ -4281,7 +4281,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lustful
 	trait = education_martial_2
@@ -4303,7 +4303,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = generous
 	trait = education_learning_2
@@ -4324,7 +4324,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	trait = lustful
@@ -4351,7 +4351,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	trait = lustful
@@ -4376,7 +4376,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_stewardship_3
 	father = 6902
@@ -4394,7 +4394,7 @@
 7289 = {  	
 	name = "William"
 	dynasty = 3125
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7290
 	1220.1.1 = {
@@ -4408,7 +4408,7 @@
 7279 = {  	
 	name = "Colin" # Cailean Mór
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188920
 	mother = 188921
@@ -4428,7 +4428,7 @@
 7290 = {  	
 	name = "Archibald"
 	dynasty = 3125
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7291
 	1198.1.1 = {
@@ -4443,7 +4443,7 @@
 7291 = {  	
 	name = "William"
 	dynasty = 3125
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	1150.1.1 = {
 		birth = "1150.1.1"
@@ -4456,7 +4456,7 @@
 7294 = {  	
 	name = "Alexander"
 	dynasty = 101600
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7363
 	1260.1.1 = {
@@ -4470,7 +4470,7 @@
 7295 = {  	
 	name = "John"
 	dynasty = 101600
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7363
 	1259.1.1 = {
@@ -4486,7 +4486,7 @@
 	name = "Jean"
 	female = yes
 	dynasty = 101600
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203005
 	1192.1.1 = {
@@ -4501,7 +4501,7 @@
 7297 = {  	
 	name = "William"
 	dynasty = 100039
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 83593
 	mother = 203002
@@ -4519,7 +4519,7 @@
 7298 = {  	
 	name = "William"
 	dynasty = 100039
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7297
 	mother = 7296
@@ -4534,7 +4534,7 @@
 7342 = {  	
 	name = "John"
 	dynasty = 101600
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7359
 	mother = 7365
@@ -4549,7 +4549,7 @@
 7343 = {  	
 	name = "Magnus"
 	dynasty = 20083
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7344
 	1285.1.1 = {
@@ -4563,7 +4563,7 @@
 7344 = {  	
 	name = "John"
 	dynasty = 20083
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7346
 	1255.1.1 = {
@@ -4578,7 +4578,7 @@
 	name = "Maud"
 	female = yes
 	dynasty = 20083
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7347
 	1226.1.1 = {
@@ -4592,7 +4592,7 @@
 7346 = {  	
 	name = "Magnus"
 	dynasty = 20083
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7347
 	1225.1.1 = {
@@ -4606,7 +4606,7 @@
 7347 = {  	
 	name = "Gilbride"
 	dynasty = 20083
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203080
 	1198.1.1 = {
@@ -4620,7 +4620,7 @@
 7359 = {  	
 	name = "John"
 	dynasty = 101600
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7361
 	mother = 7360
@@ -4639,7 +4639,7 @@
 	name = "Eleanor"
 	female = yes
 	dynasty = 103
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 230523
 	mother = 230522
@@ -4654,7 +4654,7 @@
 7361 = {  	
 	name = "John"
 	dynasty = 101600
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7362
 	1230.1.1 = {
@@ -4671,7 +4671,7 @@
 7362 = {  	
 	name = "John"
 	dynasty = 101600
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7358
 	1210.1.1 = {
@@ -4685,7 +4685,7 @@
 7363 = {  	
 	name = "Alexander"
 	dynasty = 101600
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203005
 	mother = 332001
@@ -4701,7 +4701,7 @@
 	name = "Elspeth"
 	female = yes
 	dynasty = 101600
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203005
 	mother = 332001
@@ -4718,7 +4718,7 @@
 7366 = {  	
 	name = "David"
 	dynasty_house = house_british_isles_duib
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7369
 	mother = 7370
@@ -4733,7 +4733,7 @@
 7367 = {  	
 	name = "William"
 	dynasty = 100042
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203062
 	1185.1.1 = {
@@ -4750,7 +4750,7 @@
 7369 = {  	
 	name = "John"
 	dynasty_house = house_british_isles_duib
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7386
 	1196.1.1 = {
@@ -4768,7 +4768,7 @@
 	name = "Ada"
 	female = yes
 	dynasty = 1687
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203520
 	mother = 204681
@@ -4783,7 +4783,7 @@
 7383 = {  	
 	name = "Patrick"
 	dynasty = 371
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203573
 	mother = 7384
@@ -4799,7 +4799,7 @@
 	name = "Isabel"
 	female = yes
 	dynasty_house = house_british_isles_atholl
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7411
 	1163.1.1 = {
@@ -4814,7 +4814,7 @@
 	name = "Forflissa"
 	female = yes
 	dynasty_house = house_british_isles_atholl
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7411
 	1164.1.1 = {
@@ -4828,7 +4828,7 @@
 7386 = {  	
 	name = "David"
 	dynasty_house = house_british_isles_duib
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203010
 	mother = 203032
@@ -4843,7 +4843,7 @@
 7411 = {  	
 	name = "Henry"
 	dynasty_house = house_british_isles_atholl
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7389
 	1143.1.1 = {
@@ -4857,7 +4857,7 @@
 7397 = {  	
 	name = "Thomas"
 	dynasty = 3146
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = brave
 	trait = education_martial_2
@@ -4874,7 +4874,7 @@
 7398 = {  	
 	name = "Malcolm"
 	dynasty_house = house_british_isles_duib
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203034
 	1210.1.1 = {
@@ -4889,7 +4889,7 @@
 7399 = {  	
 	name = "Colban"
 	dynasty_house = house_british_isles_duib
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7398
 	1244.1.1 = {
@@ -4903,7 +4903,7 @@
 7459 = {  	
 	name = "John"
 	dynasty = 1687
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203520
 	mother = 204681
@@ -4923,7 +4923,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = brave
 	trait = education_martial_2
@@ -4947,7 +4947,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_intrigue_3
 	father = 203546
@@ -4969,7 +4969,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82012
 	trait = brave
@@ -4989,7 +4989,7 @@
 	diplomacy = 5
 	intrigue = 9
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82013
 	1130.1.2 = {
@@ -5011,7 +5011,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	1131.1.2 = {
 		birth = "1131.1.2"
@@ -5028,7 +5028,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_learning_2
 	father = 82014
@@ -5051,7 +5051,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82014
 	mother = 82015
@@ -5070,7 +5070,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82014
 	mother = 82015
@@ -5090,7 +5090,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82016
 	mother = 82019
@@ -5109,7 +5109,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82016
 	mother = 82019
@@ -5128,7 +5128,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82016
 	mother = 82019
@@ -5147,7 +5147,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82016
 	mother = 82019
@@ -5166,7 +5166,7 @@
 	diplomacy = 6
 	intrigue = 3
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82016
 	mother = 82019
@@ -5185,7 +5185,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82016
 	mother = 82019
@@ -5205,7 +5205,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82016
 	mother = 82019
@@ -5225,7 +5225,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82016
 	mother = 82019
@@ -5245,7 +5245,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82016
 	mother = 82019
@@ -5265,7 +5265,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82016
 	mother = 82019
@@ -5285,7 +5285,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82023
 	1221.5.1 = {
@@ -5306,7 +5306,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82023
 	1224.1.1 = {
@@ -5325,7 +5325,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82023
 	1227.1.1 = {
@@ -5343,7 +5343,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82030
 	mother = 7345
@@ -5365,7 +5365,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	1297.1.1 = {
@@ -5384,7 +5384,7 @@
 	diplomacy = 3
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_diplomacy_2
 	trait = drunkard
@@ -5405,7 +5405,7 @@
 	diplomacy = 10
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish" # was born to Gaelic family, but raised speaking English
 	trait = wrathful
 	trait = cynical
@@ -5449,7 +5449,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203022
 	1193.1.1 = {
@@ -5467,7 +5467,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	trait = bastard
 	trait = education_learning_3
 	culture = "scottish"
@@ -5488,7 +5488,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 83300
 	1224.1.1 = {
@@ -5507,7 +5507,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arbitrary
 	trait = bastard
@@ -5529,7 +5529,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 6014
 	1097.1.1 = {
@@ -5547,7 +5547,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 83588
 	1115.1.1 = {
@@ -5565,7 +5565,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 83589
 	1145.1.1 = {
@@ -5583,7 +5583,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 83590
 	1164.1.1 = {
@@ -5601,7 +5601,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	1190.1.1 = {
 		birth = "1190.1.1"
@@ -5617,7 +5617,7 @@
 144947 = {  	
 	name = "William"
 	dynasty = 3123
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 144948
 	1168.1.1 = {
@@ -5631,7 +5631,7 @@
 144948 = {  	
 	name = "Robert"
 	dynasty = 3123
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 144949
 	1138.1.1 = {
@@ -5651,7 +5651,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 984
 	mother = 113
@@ -5674,7 +5674,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_stewardship_2
 	father = 220019
@@ -5695,7 +5695,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = honest
 	trait = greedy
@@ -5718,7 +5718,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 2
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = cynical
 	trait = greedy
@@ -5736,7 +5736,7 @@
 203011 = {
 	name = "Alan"
 	dynasty = 3134
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lustful
 	trait = education_martial_3
@@ -5760,7 +5760,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_stewardship_2
 	father = 203011
@@ -5780,7 +5780,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 203011
@@ -5801,7 +5801,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arbitrary
 	trait = education_stewardship_2
@@ -5822,7 +5822,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203041
 	1105.1.1 = {
@@ -5843,7 +5843,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	1208.1.1 = {
 		birth = "1208.1.1"
@@ -5864,7 +5864,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = temperate
 	trait = arrogant
@@ -5883,7 +5883,7 @@
 	name = "Ada"
 	female = yes
 	dynasty = 103
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 230523
 	mother = 230522
@@ -5901,7 +5901,7 @@
 161375 = {  	
 	name = "William"
 	dynasty = 3122
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	1150.1.1 = {
 		birth = "1150.1.1"
@@ -5916,7 +5916,7 @@
 161376 = {  	
 	name = "Walter"
 	dynasty = 3122
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 161375
 	1170.1.1 = {
@@ -5932,7 +5932,7 @@
 161377 = {  	
 	name = "William"
 	dynasty = 3122
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 161376
 	1190.1.1 = {
@@ -5949,7 +5949,7 @@
 161378 = {  	
 	name = "Walter"
 	dynasty = 3122
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 161377
 	1221.1.1 = {
@@ -5965,7 +5965,7 @@
 161379 = {  	
 	name = "William"
 	dynasty = 3122
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 161375
 	1175.1.1 = {
@@ -5979,7 +5979,7 @@
 161380 = {  	
 	name = "David"
 	dynasty = 3122
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 161379
 	1200.1.1 = {
@@ -5995,7 +5995,7 @@
 161381 = {  	
 	name = "David"
 	dynasty = 3122
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 161380
 	1225.1.1 = {
@@ -6011,7 +6011,7 @@
 161382 = {  	
 	name = "Alexander"
 	dynasty = 3122
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 161381
 	1260.1.1 = {
@@ -6026,7 +6026,7 @@
 161383 = {  	
 	name = "Hugh"
 	dynasty = 103
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 230523
 	mother = 230522
@@ -6041,7 +6041,7 @@
 161384 = {  	
 	name = "Alexander"
 	dynasty = 103
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 230523
 	mother = 230522
@@ -6060,7 +6060,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = diligent
 	trait = brave
@@ -6082,7 +6082,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = humble
 	trait = zealous
@@ -6103,7 +6103,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = humble
 	trait = greedy
@@ -6125,7 +6125,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	1117.1.1 = {
 		birth = "1117.1.1"
@@ -6146,7 +6146,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 232600
@@ -6167,7 +6167,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = diligent
 	trait = education_diplomacy_2
@@ -6189,7 +6189,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = temperate
 	father = 232602
@@ -6209,7 +6209,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 9
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = bastard
 	father = 232600
@@ -6229,7 +6229,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 332002
 	1166.1.2 = {
@@ -6248,7 +6248,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = bastard
 	father = 232600
@@ -6268,7 +6268,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = bastard
 	father = 232600
@@ -6287,7 +6287,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_learning_3
 	father = 203029
@@ -6310,7 +6310,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	1125.1.1 = {
 		birth = "1125.1.1"
@@ -6326,7 +6326,7 @@
 7358 = {
 	name = "Richard"
 	dynasty = 101600
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203005
 	1191.1.1 = {
@@ -6341,7 +6341,7 @@
 	name = "Gilbert"
 	# AKA: Giolla-Bhrighde
 	dynasty = 371
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = cynical
 	trait = education_learning_3
@@ -6364,7 +6364,7 @@
 203540 = {
 	name = "Duncan" # Donnchadh of Carrick
 	dynasty = 371
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 203550
@@ -6383,7 +6383,7 @@
 83122 = {
 	name = "Colin"
 	dynasty = 371
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203540
 	mother = 203541
@@ -6405,7 +6405,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 203550
@@ -6424,7 +6424,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lisping
 	trait = education_learning_1
@@ -6444,7 +6444,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 83122
@@ -6464,7 +6464,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_intrigue_2
 	father = 203560
@@ -6490,7 +6490,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = just
 	trait = honest
@@ -6513,7 +6513,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = gluttonous
 	trait = education_intrigue_2
@@ -6537,7 +6537,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203570
 	mother = 203571
@@ -6566,7 +6566,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203570
 	mother = 203571
@@ -6585,7 +6585,7 @@
 	name = "Helen"
 	female = yes
 	dynasty = 371
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203572
 	mother = 7428
@@ -6604,7 +6604,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 220027
@@ -6624,7 +6624,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 2
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = generous
 	trait = education_stewardship_2
@@ -6645,7 +6645,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lisping
 	trait = education_martial_2
@@ -6667,7 +6667,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 9
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_learning_2
 	father = 220027
@@ -6687,7 +6687,7 @@
 	diplomacy = 6
 	intrigue = 9
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 220027
@@ -6703,7 +6703,7 @@
 7278 = {
 	name = "Ewan"
 	dynasty = 25046
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = generous
 	trait = education_stewardship_2
@@ -6720,7 +6720,7 @@
 	name = "Agnes"
 	female = yes
 	dynasty = 101600
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7363
 	1259.1.1 = {
@@ -6735,7 +6735,7 @@
 	name = "Mary"
 	female = yes
 	dynasty = 9101
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 450821
 	mother = 188933
@@ -6751,7 +6751,7 @@
 	name = "Maud"
 	female = yes
 	dynasty = 9101
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82033
 	mother = 161655
@@ -6766,7 +6766,7 @@
 161658 = {  	
 	name = "Gilbride"
 	dynasty = 9101
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82033
 	mother = 161655
@@ -6781,7 +6781,7 @@
 161659 = {  	
 	name = "Robert"
 	dynasty = 9101
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82033
 	mother = 161655
@@ -6800,7 +6800,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = lustful
 	trait = education_diplomacy_2
@@ -6829,7 +6829,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arrogant
 	trait = cynical
@@ -6847,7 +6847,7 @@
 232598 = {
 	name = "Gartnait"
 	dynasty = 20085
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_learning_2
 	father = 131006
@@ -6867,7 +6867,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = arbitrary
 	trait = calm
@@ -6884,7 +6884,7 @@
 167014 = {  	
 	name = "Edward"
 	dynasty = 1687
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 984
 	mother = 113
@@ -6899,7 +6899,7 @@
 167015 = {  	
 	name = "Edmund"
 	dynasty = 1687
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 984
 	mother = 113
@@ -6914,7 +6914,7 @@
 167016 = {  	
 	name = "Ethelred"
 	dynasty = 1687
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = clubfooted
 	trait = celibate
@@ -6932,7 +6932,7 @@
 167017 = {  	
 	name = "Malcolm"
 	dynasty = 1687
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_intrigue_1
 	father = 984
@@ -6948,7 +6948,7 @@
 167018 = {  	
 	name = "Ladhmann"
 	dynasty = 1687
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 992
 	1083.1.1 = {
@@ -6968,7 +6968,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_intrigue_2
 	1042.1.2 = {
@@ -6986,7 +6986,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 85018
 	mother = 967
@@ -7005,7 +7005,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = zealous
 	trait = education_learning_2
@@ -7027,7 +7027,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_learning_2
 	father = 85018
@@ -7048,7 +7048,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = deceitful
 	trait = arbitrary
@@ -7069,7 +7069,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 85018
 	mother = 967
@@ -7087,7 +7087,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203018
 	1129.1.1 = {
@@ -7105,7 +7105,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203019
 	1106.1.1 = {
@@ -7124,7 +7124,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203019
 	1118.1.1 = {
@@ -7143,7 +7143,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_learning_2
 	father = 332019
@@ -7163,7 +7163,7 @@
 	diplomacy = 6
 	intrigue = 3
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	trait = education_martial_2
 	father = 332019
@@ -7179,7 +7179,7 @@
 183532 = {
 	name = "William"
 	dynasty = 25054
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 183531
 	1214.1.1 = {
@@ -7193,7 +7193,7 @@
 183533 = {
 	name = "Peter"
 	dynasty = 25054
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 183531
 	1217.1.1 = {
@@ -7207,7 +7207,7 @@
 180716 = {
 	name = "Simon"
 	dynasty = 3134
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203041
 	mother = 180782
@@ -7221,7 +7221,7 @@
 180717 = {
 	name = "Robert"
 	dynasty = 3134
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 180716
 	1150.1.1 = {
@@ -7235,7 +7235,7 @@
 188920 = {
 	name = "Archibald" # Gilleasbaig of Menstrie
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188934
 	1215.1.1 = {
@@ -7253,7 +7253,7 @@
 	name = "Affraic" # or Efrica, Afraig, Afraica, Efferick
 	female = yes
 	dynasty = 371
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 83122 # he was possibly her brother
 	mother = 83086
@@ -7269,7 +7269,7 @@
 	name = "Janet"
 	female = yes
 	dynasty = 214012 # Saint-Clair
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188923
 	1245.1.1 = {
@@ -7283,7 +7283,7 @@
 188923 = {
 	name = "John"
 	dynasty = 214012 # Saint-Clair
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	1218.1.1 = {
 		birth = yes
@@ -7297,7 +7297,7 @@
 	name = "Maura" # name made up, possibly didn't exist
 	female = yes
 	dynasty_house = house_british_isles_duib
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 202977
 	1152.1.1 = {
@@ -7311,7 +7311,7 @@
 188925 = {  	
 	name = "Walter" # Walter Ballioch
 	dynasty = 3134
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 203013
 	# mother = Beatrix of Angus
@@ -7326,7 +7326,7 @@
 188926 = {  	
 	name = "John"
 	dynasty = 123 # de Menteith
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188925
 	mother = 188928
@@ -7341,7 +7341,7 @@
 188927 = {  	
 	name = "Alexander"
 	dynasty = 123 # de Menteith
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188925
 	mother = 188928
@@ -7360,7 +7360,7 @@
 	name = "Mary"
 	female = yes
 	dynasty = 123 # de Menteith
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188930
 	1226.1.1 = {
@@ -7378,7 +7378,7 @@
 	name = "Isabel"
 	female = yes
 	dynasty = 123 # de Menteith
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188930
 	1222.1.1 = {
@@ -7392,7 +7392,7 @@
 188930 = {  	
 	name = "Murdoch" # II (the younger)
 	dynasty = 123 # de Menteith
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188932
 	1189.1.1 = {
@@ -7406,7 +7406,7 @@
 188931 = {  	
 	name = "Murdoch" # I (the elder)
 	dynasty = 123 # de Menteith
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188932
 	1184.1.1 = {
@@ -7420,7 +7420,7 @@
 188932 = {  	
 	name = "Gilchrist"
 	dynasty = 123 # de Menteith
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	1144.1.1 = {
 		birth = yes
@@ -7433,7 +7433,7 @@
 188933 = {  	
 	name = "Agnes" # first wife of Malise IV of Strathearn
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	1273.1.1 = {
 		birth = yes
@@ -7446,7 +7446,7 @@
 188934 = {
 	name = "Dugald" # Campbell progenitor
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	1185.1.1 = {
 		birth = yes
@@ -7459,7 +7459,7 @@
 188935 = {
 	name = "Duncan" # Duncan Dubh
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188934
 	1213.1.1 = {
@@ -7474,7 +7474,7 @@
 188936 = {
 	name = "Arthur" # founder of Arthur Campbells of Strachur
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188935
 	1248.1.1 = {
@@ -7488,7 +7488,7 @@
 188937 = {
 	name = "Arthur"
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188936
 	1285.1.1 = {
@@ -7502,7 +7502,7 @@
 188938 = {
 	name = "Iver"
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188936
 	1291.1.1 = {
@@ -7516,7 +7516,7 @@
 188939 = {
 	name = "Arthur"
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188938
 	1320.1.1 = {
@@ -7530,7 +7530,7 @@
 188940 = {  	
 	name = "Donald" # progenitor of Campbells of Loudon
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7279
 	mother = 188922
@@ -7548,7 +7548,7 @@
 188941 = {  	
 	name = "Duncan"
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188940
 	mother = 188952 # possibly his spouse instead of mother
@@ -7563,7 +7563,7 @@
 188942 = {  	
 	name = "Andrew"
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188941
 	1327.1.1 = {
@@ -7577,7 +7577,7 @@
 188943 = {  	
 	name = "Dugald" # Laird of Menstrie in Clackmannanshire
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 7279
 	mother = 188922
@@ -7592,7 +7592,7 @@
 188944 = {  	
 	name = "John"
 	dynasty = 3128
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188943
 	1327.1.1 = {
@@ -7606,7 +7606,7 @@
 188945 = {  	
 	name = "Alan"
 	dynasty = 123 # de Menteith
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188927
 	mother = 188947
@@ -7621,7 +7621,7 @@
 188946 = {  	
 	name = "Murdoch"
 	dynasty = 123 # de Menteith
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188927
 	mother = 188947
@@ -7637,7 +7637,7 @@
 	name = "Maud" # or Matilda
 	female = yes
 	dynasty = 9101 # of Strathearn
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 82023
 	1245.1.1 = {
@@ -7652,7 +7652,7 @@
 	name = "Mary" # the II
 	female = yes
 	dynasty = 123 # de Menteith
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188953
 	1317.1.1 = {
@@ -7667,7 +7667,7 @@
 	name = "Margaret"
 	female = yes
 	dynasty = 214013 # Graham
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188950
 	mother = 188948
@@ -7682,7 +7682,7 @@
 188950 = {  	
 	name = "John"
 	dynasty = 214013 # Graham
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	1306.1.1 = {
 		birth = yes
@@ -7698,7 +7698,7 @@
 188951 = {  	
 	name = "Andrew"
 	dynasty = 101601 # Crawford
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188955 # possibly
 	1260.1.1 = {
@@ -7713,7 +7713,7 @@
 	name = "Susanna"
 	female = yes
 	dynasty = 101601 # Crawford
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188951
 	1282.1.1 = {
@@ -7727,7 +7727,7 @@
 188953 = {  	
 	name = "Alan" # the II
 	dynasty = 123 # de Menteith
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188945
 	1299.1.1 = {
@@ -7741,7 +7741,7 @@
 188954 = {  	
 	name = "Reginald"
 	dynasty = 101601 # Crawford
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188955
 	1256.1.1 = {
@@ -7755,7 +7755,7 @@
 188955 = {  	
 	name = "Hugh" # Sheriff of Ayr
 	dynasty = 101601 # Crawford
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188961
 	1227.1.1 = {
@@ -7770,7 +7770,7 @@
 	name = "Margaret"
 	female = yes
 	dynasty = 101601 # Crawford
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188955
 	1250.1.1 = {
@@ -7784,7 +7784,7 @@
 188957 = {  	
 	name = "Alan"
 	dynasty = 3133 # Wallace
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	1246.1.1 = {
 		birth = yes
@@ -7800,7 +7800,7 @@
 188958 = {  	
 	name = "William"
 	dynasty = 3133 # Wallace
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188957
 	mother = 188956
@@ -7820,7 +7820,7 @@
 188959 = {  	
 	name = "Malcolm"
 	dynasty = 3133 # Wallace
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188957
 	mother = 188956
@@ -7835,7 +7835,7 @@
 188960 = {  	
 	name = "John"
 	dynasty = 3133 # Wallace
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188957
 	mother = 188956
@@ -7850,7 +7850,7 @@
 188961 = {  	
 	name = "Hugh" # Sheriff of Ayr
 	dynasty = 101601 # Crawford
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188962
 	mother = 188963
@@ -7865,7 +7865,7 @@
 188962 = {  	
 	name = "Reginald" # Sheriff of Ayr
 	dynasty = 101601 # Crawford
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188964
 	1173.1.1 = {
@@ -7883,7 +7883,7 @@
 	name = "Margaret"
 	female = yes
 	dynasty = 214014 # de Loudoun
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188965
 	1176.1.1 = {
@@ -7897,7 +7897,7 @@
 188964 = {  	
 	name = "Gaulterus"
 	dynasty = 101601 # Crawford
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	1140.1.1 = {
 		birth = yes
@@ -7910,7 +7910,7 @@
 188965 = {  	
 	name = "James"
 	dynasty = 214014 # de Loudoun
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	father = 188966
 	1150.1.1 = {
@@ -7924,7 +7924,7 @@
 188966 = {  	
 	name = "Lambinus"
 	dynasty = 214014 # de Loudoun
-	religion = "catholic"
+	religion = "nicean"
 	culture = "scottish"
 	1123.1.1 = {
 		birth = yes

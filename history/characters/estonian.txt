@@ -180,7 +180,7 @@
 		birth = yes
 	}
 	1191.1.1 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	1217.9.21 = {
 		death = yes # Battle of St. Matthew's Day
@@ -355,7 +355,7 @@
 	}
 	1191.1.1 = {
 		name = "Bertold"
-		religion = "catholic"
+		religion = "nicean"
 	}
 	1210.1.1 = {
 		death = yes #Battle of Ümara
@@ -373,7 +373,7 @@
 		birth = yes
 	}
 	1191.1.1 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	1217.9.21 = {
 		employer = 30444 #Volkwin von Naumburg

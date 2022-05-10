@@ -6,7 +6,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = education_intrigue_1
 	sexuality = heterosexual
@@ -40,7 +40,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = diligent
 	trait = zealous
@@ -65,7 +65,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = zealous
 	trait = stuttering
@@ -91,7 +91,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = chaste
 	trait = cynical
@@ -135,7 +135,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = education_intrigue_2
 	father = 106010
@@ -159,7 +159,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = diligent
 	trait = calm
@@ -182,7 +182,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = wrathful
 	trait = education_diplomacy_3
@@ -208,7 +208,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = lustful
 	trait = gluttonous
@@ -233,7 +233,7 @@
 	diplomacy = 8
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = lustful
 	trait = bastard
@@ -264,7 +264,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = gluttonous
 	trait = brave
@@ -286,7 +286,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = gluttonous
 	trait = education_martial_2
@@ -310,7 +310,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = diligent
 	trait = bastard
@@ -332,7 +332,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = bastard
 	trait = education_stewardship_1
@@ -355,7 +355,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = chaste
 	trait = humble
@@ -384,7 +384,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = generous
 	trait = education_intrigue_2
@@ -406,7 +406,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = education_intrigue_1
 	father = 70124
@@ -426,7 +426,7 @@
 	name = "Ximena"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 	
 	966.1.1 = {
@@ -445,7 +445,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = lustful
 	trait = lazy
@@ -467,7 +467,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = just
 	trait = lisping
@@ -489,7 +489,7 @@
 	name = "Toda"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1040.1.1 = {
@@ -507,7 +507,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = education_stewardship_2
 	father = 107520
@@ -530,7 +530,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = education_martial_2
 	1000.1.1 = {
@@ -548,7 +548,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = education_intrigue_2
 	father = 70220
@@ -570,7 +570,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = humble
 	trait = calm
@@ -598,7 +598,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = diligent
 	trait = education_martial_2
@@ -628,7 +628,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = craven
 	trait = education_martial_3
@@ -655,7 +655,7 @@
 	name = "Antsa"
 	female = yes
 	dynasty_house = house_jimena_navarra
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 206510 #Garcia IV Ramirez
 	mother = 207501 #Urraca Alfonsez de Castilla
@@ -676,7 +676,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = craven
 	trait = education_diplomacy_2
@@ -698,7 +698,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = just
 	trait = education_diplomacy_3
@@ -722,7 +722,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 457581
 	mother = 457610
@@ -742,7 +742,7 @@
 	father = 457611
 	mother = 459524
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1316.1.1 = {
@@ -760,7 +760,7 @@
 	father = 457561
 	mother = 71506
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1293.1.1 = {
@@ -781,7 +781,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 7
-	religion = "orthodox"
+	religion = "nicean"
 	culture = "basque"
 	trait = education_intrigue_2
 	1284.1.2 = {
@@ -815,7 +815,7 @@
 	name = "Antsa"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 	
 	1040.1.1 = {
@@ -833,7 +833,7 @@
 	diplomacy = 5
 	intrigue = 3
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = greedy
 	trait = gregarious
@@ -857,7 +857,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = diligent
 	trait = education_martial_1
@@ -884,7 +884,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	sexuality = homosexual
 	trait = education_diplomacy_2
@@ -906,7 +906,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = gluttonous
 	trait = education_intrigue_2
@@ -931,7 +931,7 @@
 	diplomacy = 3
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = zealous
 	trait = wrathful
@@ -954,7 +954,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = shy
 	trait = education_intrigue_1
@@ -975,7 +975,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	trait = brave
 	trait = gregarious
@@ -995,7 +995,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 4
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	trait = greedy
 	trait = education_martial_2
@@ -1015,7 +1015,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 4
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	trait = wrathful
 	trait = brave
@@ -1039,7 +1039,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = intellect_bad_1
 	trait = content
@@ -1067,7 +1067,7 @@
 	diplomacy = 6
 	intrigue = 3
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = intellect_good_1
 	trait = calm
@@ -1092,7 +1092,7 @@
 	father = 70124
 	trait = bastard
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	965.1.1 = {
@@ -1115,7 +1115,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = gregarious
 	trait = arrogant
@@ -1137,7 +1137,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = education_diplomacy_2
 	father = 70122
@@ -1156,7 +1156,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	trait = greedy
 	trait = fickle
@@ -1180,7 +1180,7 @@
 	diplomacy = 5
 	intrigue = 3
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = ambitious
 	trait = lustful
@@ -1203,7 +1203,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = brave
 	trait = hunter_1
@@ -1225,7 +1225,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = calm
 	trait = education_intrigue_2
@@ -1247,7 +1247,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = humble
 	trait = brave
@@ -1270,7 +1270,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = beauty_bad_2
 	trait = education_stewardship_2
@@ -1291,7 +1291,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = shy
 	trait = infirm
@@ -1314,7 +1314,7 @@
 	diplomacy = 7
 	intrigue = 3
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = shy
 	trait = education_stewardship_2
@@ -1335,7 +1335,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = cynical
 	trait = beauty_bad_2
@@ -1359,7 +1359,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = greedy
 	trait = arrogant
@@ -1380,7 +1380,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = calm
 	trait = education_stewardship_1
@@ -1400,7 +1400,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = chaste
 	trait = brave
@@ -1424,7 +1424,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = drunkard
 	trait = gluttonous
@@ -1448,7 +1448,7 @@
 	diplomacy = 4
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = wrathful
 	trait = education_intrigue_2
@@ -1472,7 +1472,7 @@
 	diplomacy = 8
 	intrigue = 3
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = calm
 	trait = intellect_good_1
@@ -1496,7 +1496,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = beauty_bad_2
 	trait = education_martial_2
@@ -1520,7 +1520,7 @@
 	diplomacy = 6
 	intrigue = 3
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = sickly
 	trait = temperate
@@ -1543,7 +1543,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = incapable
 	trait = education_intrigue_3
@@ -1564,7 +1564,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 4
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	trait = blademaster_1
 	trait = wrathful
@@ -1588,7 +1588,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = honest
 	trait = diligent
@@ -1610,7 +1610,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 6
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	trait = temperate
 	trait = deceitful
@@ -1634,7 +1634,7 @@
 	diplomacy = 5
 	intrigue = 3
 	stewardship = 7
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	trait = disfigured
 	trait = education_stewardship_2
@@ -1658,7 +1658,7 @@
 	diplomacy = 6
 	intrigue = 6
 	stewardship = 4
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	trait = arrogant
 	trait = education_diplomacy_2
@@ -1679,7 +1679,7 @@
 	diplomacy = 5
 	intrigue = 5
 	stewardship = 6
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	trait = wrathful
 	trait = brave
@@ -1700,7 +1700,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	trait = ambitious
 	trait = arbitrary
@@ -1725,7 +1725,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = calm
 	trait = gregarious
@@ -1748,7 +1748,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = just
 	trait = content
@@ -1771,7 +1771,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 5
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	trait = cynical
 	trait = greedy
@@ -1788,7 +1788,7 @@
 71335 = {
 	name = "Piarres"
 	dynasty = 8742
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	1060.1.1 = {
 		birth = "1060.1.1"
@@ -1809,7 +1809,7 @@
 	father = 71335
 	mother = 71334
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1088.1.1 = {
@@ -1823,7 +1823,7 @@
 71337 = {
 	name = "Munio"
 	dynasty = 8742
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71335
 	mother = 71334
@@ -1838,7 +1838,7 @@
 71340 = {
 	name = "Egidio"
 	dynasty = 8614
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70073
 	trait = bastard
@@ -1853,7 +1853,7 @@
 71343 = {
 	name = "Rodrigo"
 	dynasty = 8613
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70070
 	mother = 71342
@@ -1868,7 +1868,7 @@
 71344 = {
 	name = "Alvar"
 	dynasty = 8613
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70070
 	mother = 71342
@@ -1883,7 +1883,7 @@
 71345 = {
 	name = "Joanes"
 	dynasty = 8613
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70070
 	mother = 71342
@@ -1899,7 +1899,7 @@
 	name = "Aldontza"
 	dynasty = 8613
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70070
 	mother = 71342
@@ -1915,7 +1915,7 @@
 	name = "Guntroda"
 	dynasty = 8613
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70070
 	mother = 71342
@@ -1931,7 +1931,7 @@
 	name = "Munia"
 	dynasty = 8613
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70070
 	mother = 71342
@@ -1947,7 +1947,7 @@
 	name = "Fakilo"
 	dynasty = 8613
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70070
 	mother = 71342
@@ -1963,7 +1963,7 @@
 	name = "Maria"
 	dynasty = 8613
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70072
 	1088.1.1 = {
@@ -1977,7 +1977,7 @@
 71351 = {
 	name = "Suero"
 	dynasty = 8613
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70072
 	1101.1.1 = {
@@ -1995,7 +1995,7 @@
 	name = "Urraka"
 	dynasty = 8613
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70072
 	1103.1.1 = {
@@ -2010,7 +2010,7 @@
 	name = "Ximena"
 	dynasty = 8613
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70072
 	1105.1.1 = {
@@ -2025,7 +2025,7 @@
 	name = "Anderkina"
 	dynasty = 8613
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70069
 	mother = 106062
@@ -2041,7 +2041,7 @@
 	name = "Teresa"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207560
 	mother = 207657
@@ -2056,7 +2056,7 @@
 71419 = {
 	name = "Lope"
 	dynasty = 681
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71410
 	mother = 71411
@@ -2071,7 +2071,7 @@
 71420 = {
 	name = "Eneko"
 	dynasty = 8748
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	1222.1.1 = {
 		birth = "1222.1.1"
@@ -2085,7 +2085,7 @@
 	name = "Elisabet"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 457581
 	mother = 457610
@@ -2103,7 +2103,7 @@
 	female = yes
 	father = 72027
 	mother = 71431
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	1274.1.1 = {
 		birth = "1274.1.1"
@@ -2116,7 +2116,7 @@
 71507 = {
 	name = "Lope"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 457561
 	mother = 71506
@@ -2132,7 +2132,7 @@
 	name = "Maria"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 457561
 	mother = 71506
@@ -2148,7 +2148,7 @@
 	name = "Joana"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 457581
 	mother = 457610
@@ -2163,7 +2163,7 @@
 71533 = {
 	name = "Alfontso"
 	dynasty_house = house_jimena_navarra
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 106021
 	mother = 71542
@@ -2179,7 +2179,7 @@
 	name = "Elbira"
 	dynasty_house = house_jimena_navarra
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 106021
 	mother = 71542
@@ -2194,7 +2194,7 @@
 71535 = {
 	name = "Plazentzia"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	1050.1.1 = {
 		birth = "1050.1.1"
@@ -2206,7 +2206,7 @@
 
 71536 = {
 	name = "Gartzia"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 106000
 	mother = 71535
@@ -2225,7 +2225,7 @@
 
 71537 = {
 	name = "Gartzia"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 106000
 	mother = 71535
@@ -2244,7 +2244,7 @@
 
 71538 = {
 	name = "Erramun"
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 106000
 	mother = 108520
@@ -2260,7 +2260,7 @@
 71539 = {
 	name = "Urraka"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = bastard
 	trait = education_learning_1
@@ -2278,7 +2278,7 @@
 	name = "Antsa"
 	dynasty = 442
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 106010
 	mother = 1079
@@ -2297,7 +2297,7 @@
 	father = 200164
 	mother = 200165
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1075.1.1 = {
@@ -2314,7 +2314,7 @@
 71552 = {
 	name = "Fortun"
 	dynasty = 8751
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	1050.1.1 = {
 		birth = "1050.1.1"
@@ -2331,7 +2331,7 @@
 	name = "NuN_a"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 107520
 	mother = 107521
@@ -2346,7 +2346,7 @@
 71554 = {
 	name = "Rodrigo"
 	dynasty_house = house_jimena_navarra
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 206510
 	trait = bastard
@@ -2364,7 +2364,7 @@
 71555 = {
 	name = "Gilen"
 	dynasty_house = house_jimena_navarra
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 206502
 	trait = bastard
@@ -2379,7 +2379,7 @@
 71556 = {
 	name = "Rodrigo"
 	dynasty_house = house_jimena_navarra
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 206502
 	trait = bastard
@@ -2394,7 +2394,7 @@
 71557 = {
 	name = "Ramiro"
 	dynasty_house = house_jimena_navarra
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = bastard
 	trait = education_learning_3
@@ -2410,7 +2410,7 @@
 71573 = {
 	name = "Alvar"
 	dynasty = 7001
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72039
 	mother = 72040
@@ -2433,7 +2433,7 @@
 	father = 71573
 	mother = 71570
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1244.1.1 = {
@@ -2452,7 +2452,7 @@
 	father = 71573
 	mother = 71570
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1246.1.1 = {
@@ -2467,7 +2467,7 @@
 	name = "Teresa"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1080.1.1 = {
@@ -2482,7 +2482,7 @@
 	name = "Teresa"
 	dynasty = 785
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = education_learning_1
 	1220.1.1 = {
@@ -2501,7 +2501,7 @@
 	father = 71976
 	mother = 142326
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1268.11.1 = {
@@ -2515,7 +2515,7 @@
 71920 = {
 	name = "Fortun"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 107520
 	mother = 107521
@@ -2531,7 +2531,7 @@
 	name = "NuN_a"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 107520
 	mother = 107521
@@ -2547,7 +2547,7 @@
 	name = "Belaskita"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 107520
 	mother = 107521
@@ -2562,7 +2562,7 @@
 71923 = {
 	name = "Diego"
 	dynasty = 8613
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	1015.1.1 = {
 		birth = "1015.1.1"
@@ -2575,7 +2575,7 @@
 71924 = {
 	name = "Gontzal"
 	dynasty = 8613
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71923
 	1052.1.1 = {
@@ -2590,7 +2590,7 @@
 	name = "Tekla"
 	dynasty = 8613
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71923
 	1064.1.1 = {
@@ -2604,7 +2604,7 @@
 71926 = {
 	name = "Antso"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207600
 	mother = 207610
@@ -2620,7 +2620,7 @@
 	name = "Toda"
 	female = yes
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 107523
 	mother = 71925
@@ -2635,7 +2635,7 @@
 71928 = {
 	name = "Lope"
 	dynasty = 12113
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	1070.1.1 = {
 		birth = "1070.1.1"
@@ -2651,7 +2651,7 @@
 71929 = {
 	name = "Antso"
 	dynasty = 12113
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71928
 	mother = 71927
@@ -2667,7 +2667,7 @@
 	name = "Maria"
 	dynasty = 12113
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71928
 	mother = 71927
@@ -2683,7 +2683,7 @@
 	name = "Antsa"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 107523
 	mother = 71925
@@ -2699,7 +2699,7 @@
 	name = "Teresa"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 107523
 	mother = 71925
@@ -2714,7 +2714,7 @@
 71933 = {
 	name = "Antso"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 107523
 	mother = 71925
@@ -2729,7 +2729,7 @@
 71934 = {
 	name = "Fortun"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207600
 	mother = 207610
@@ -2744,7 +2744,7 @@
 71935 = {
 	name = "Egidio"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207600
 	mother = 207610
@@ -2759,7 +2759,7 @@
 71936 = {
 	name = "NuN_o"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = bastard
 	father = 207600
@@ -2775,7 +2775,7 @@
 	name = "Antsa"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = bastard
 	father = 207600
@@ -2790,7 +2790,7 @@
 71948 = {
 	name = "Joanes"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71947
 	1196.1.1 = {
@@ -2804,7 +2804,7 @@
 71950 = {
 	name = "Rodrigo"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207570
 	mother = 207571
@@ -2819,7 +2819,7 @@
 71951 = {
 	name = "Piarres"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207570
 	mother = 207571
@@ -2834,7 +2834,7 @@
 71952 = {
 	name = "Gartzia"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207570
 	mother = 207571
@@ -2850,7 +2850,7 @@
 	name = "Antsa"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207570
 	mother = 207571
@@ -2866,7 +2866,7 @@
 	name = "Aldontza"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207570
 	mother = 207571
@@ -2882,7 +2882,7 @@
 	name = "Elbira"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207570
 	mother = 207571
@@ -2898,7 +2898,7 @@
 	name = "Estefania"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207570
 	mother = 207571
@@ -2914,7 +2914,7 @@
 	name = "Toda"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207570
 	mother = 207571
@@ -2930,7 +2930,7 @@
 	name = "Maria"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207570
 	mother = 207571
@@ -2945,7 +2945,7 @@
 71959 = {
 	name = "Lope"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = education_learning_1
 	father = 207570
@@ -2961,7 +2961,7 @@
 71960 = {
 	name = "Antso"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = education_learning_1
 	trait = bastard
@@ -2977,7 +2977,7 @@
 71961 = {
 	name = "Martin"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207570
 	trait = bastard
@@ -2992,7 +2992,7 @@
 71962 = {
 	name = "Alfontso"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207570
 	trait = bastard
@@ -3011,7 +3011,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = deceitful
 	trait = trusting
@@ -3032,7 +3032,7 @@
 71964 = {
 	name = "Piarres"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207560
 	mother = 72050
@@ -3048,7 +3048,7 @@
 	name = "Maria"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207560
 	mother = 72050
@@ -3064,7 +3064,7 @@
 	name = "Mentzia"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207560
 	mother = 72050
@@ -3080,7 +3080,7 @@
 	name = "Urraka"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207560
 	mother = 72050
@@ -3096,7 +3096,7 @@
 	name = "Aldontza"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207560
 	mother = 72050
@@ -3115,7 +3115,7 @@
 	father = 71963
 	mother = 71441
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1220.1.1 = {
@@ -3133,7 +3133,7 @@
 	name = "Teresa"
 	female = yes
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71963
 	mother = 71441
@@ -3148,7 +3148,7 @@
 71971 = {
 	name = "Alvar"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71963
 	mother = 71441
@@ -3164,7 +3164,7 @@
 	name = "Mentzia"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71963
 	mother = 71441
@@ -3180,7 +3180,7 @@
 	name = "Berengaria"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71963
 	mother = 71441
@@ -3195,7 +3195,7 @@
 71974 = {
 	name = "Antso"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71963
 	mother = 71441
@@ -3210,7 +3210,7 @@
 71975 = {
 	name = "Alfontso"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71963
 	mother = 71441
@@ -3232,7 +3232,7 @@
 	father = 71975
 	mother = 71985
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1248.9.5 = {
@@ -3253,7 +3253,7 @@
 	father = 71976
 	mother = 142326
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1271.1.1 = {
@@ -3274,7 +3274,7 @@
 	father = 71976
 	mother = 142326
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1273.1.1 = {
@@ -3292,7 +3292,7 @@
 	name = "Aines"
 	dynasty = 12111
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71979
 	mother = 71980
@@ -3307,7 +3307,7 @@
 71982 = {
 	name = "Alfontso"
 	dynasty = 12111
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71979
 	mother = 71980
@@ -3325,7 +3325,7 @@
 71984 = {
 	name = "Joanes"
 	dynasty = 12111
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71982
 	mother = 71983
@@ -3341,7 +3341,7 @@
 	name = "Maria"
 	dynasty = 12111
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71986
 	mother = 71966
@@ -3356,7 +3356,7 @@
 71986 = {
 	name = "Alvar"
 	dynasty = 12111
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71987
 	mother = 71988
@@ -3374,7 +3374,7 @@
 71987 = {
 	name = "Diego"
 	dynasty = 12111
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71992
 	mother = 71993
@@ -3392,7 +3392,7 @@
 71989 = {
 	name = "Rodrigo"
 	dynasty = 12111
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71987
 	mother = 71988
@@ -3414,7 +3414,7 @@
 	father = 71989
 	mother = 71968
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1219.1.1 = {
@@ -3432,7 +3432,7 @@
 	name = "Elbira"
 	dynasty = 12111
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71989
 	mother = 71968
@@ -3447,7 +3447,7 @@
 71992 = {
 	name = "Ximeno"
 	dynasty = 12111
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72005
 	mother = 72423
@@ -3465,7 +3465,7 @@
 71993 = {
 	name = "Endulcia"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	1112.1.1 = {
 		birth = "1112.1.1"
@@ -3478,7 +3478,7 @@
 71994 = {
 	name = "Piarres"
 	dynasty = 12111
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71992
 	mother = 71993
@@ -3494,7 +3494,7 @@
 	name = "Teresa"
 	dynasty = 12111
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71992
 	mother = 71993
@@ -3509,7 +3509,7 @@
 71996 = {
 	name = "Lope"
 	dynasty = 101909
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72051
 	1139.1.1 = {
@@ -3526,7 +3526,7 @@
 71997 = {
 	name = "Eneko"
 	dynasty = 101909
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71996
 	mother = 71995
@@ -3544,7 +3544,7 @@
 71998 = {
 	name = "Lope"
 	dynasty = 101909
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71996
 	mother = 71995
@@ -3560,7 +3560,7 @@
 	name = "Emili"
 	dynasty = 101909
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71997
 	mother = 71999
@@ -3576,7 +3576,7 @@
 	name = "Aines"
 	dynasty = 101909
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71997
 	mother = 71999
@@ -3591,7 +3591,7 @@
 72002 = {
 	name = "Emili"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	1204.1.1 = {
 		birth = "1204.1.1"
@@ -3604,7 +3604,7 @@
 72003 = {
 	name = "Eneko"
 	dynasty = 101909
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71998
 	1185.1.1 = {
@@ -3622,7 +3622,7 @@
 	name = "Aines"
 	dynasty = 101909
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72003
 	mother = 72002
@@ -3637,7 +3637,7 @@
 72005 = {
 	name = "Eneko"
 	dynasty = 12111
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	1077.1.1 = {
 		birth = "1077.1.1"
@@ -3653,7 +3653,7 @@
 72006 = {
 	name = "Lope"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71963
 	mother = 71441
@@ -3671,7 +3671,7 @@
 72008 = {
 	name = "Diego"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72006
 	mother = 72007
@@ -3686,7 +3686,7 @@
 72009 = {
 	name = "Lope"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72006
 	mother = 72007
@@ -3704,7 +3704,7 @@
 72010 = {
 	name = "Maior"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	1250.1.1 = {
 		birth = "1250.1.1"
@@ -3717,7 +3717,7 @@
 72011 = {
 	name = "Diego"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72009
 	mother = 72010
@@ -3736,7 +3736,7 @@
 	name = "Berengaria"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72009
 	mother = 72010
@@ -3751,7 +3751,7 @@
 72014 = {
 	name = "Rodrigo"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72006
 	mother = 72007
@@ -3769,7 +3769,7 @@
 72015 = {
 	name = "Antsa"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	1250.1.1 = {
 		birth = "1250.1.1"
@@ -3783,7 +3783,7 @@
 	name = "Joana"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72014
 	mother = 72015
@@ -3799,7 +3799,7 @@
 	name = "Maria"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72006
 	mother = 72007
@@ -3815,7 +3815,7 @@
 	name = "Berengaria"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = education_learning_1
 	father = 72006
@@ -3831,7 +3831,7 @@
 72019 = {
 	name = "Manrike"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71963
 	mother = 71441
@@ -3846,7 +3846,7 @@
 72020 = {
 	name = "Fernando"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71963
 	mother = 71441
@@ -3861,7 +3861,7 @@
 72021 = {
 	name = "Alfontso"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = bastard
 	trait = education_learning_2
@@ -3878,7 +3878,7 @@
 72022 = {
 	name = "Diego"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71963
 	trait = bastard
@@ -3897,7 +3897,7 @@
 	name = "Maria"
 	female = yes
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72022
 	mother = 72518
@@ -3912,7 +3912,7 @@
 72024 = {
 	name = "Antso"
 	dynasty = 7036
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71963
 	trait = bastard
@@ -3927,7 +3927,7 @@
 72025 = {
 	name = "Lope"
 	dynasty = 7036
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72024
 	1270.1.1 = {
@@ -3941,7 +3941,7 @@
 72026 = {
 	name = "Antso"
 	dynasty = 7036
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72025
 	1305.1.1 = {
@@ -3959,7 +3959,7 @@
 	father = 71969
 	mother = 200109
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1245.1.1 = {
@@ -3980,7 +3980,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = lazy
 	trait = zealous
@@ -4002,7 +4002,7 @@
 	father = 71969
 	mother = 200109
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1250.1.1 = {
@@ -4024,7 +4024,7 @@
 	father = 71969
 	mother = 200109
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1252.1.1 = {
@@ -4043,7 +4043,7 @@
 	father = 71969
 	mother = 200109
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1255.1.1 = {
@@ -4062,7 +4062,7 @@
 	father = 71969
 	mother = 200109
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1254.1.1 = {
@@ -4076,7 +4076,7 @@
 72033 = {
 	name = "Lope"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72029
 	mother = 71513
@@ -4094,7 +4094,7 @@
 72034 = {
 	name = "Fernando"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72029
 	mother = 71513
@@ -4112,7 +4112,7 @@
 72035 = {
 	name = "Diego"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72034
 	mother = 459525
@@ -4127,7 +4127,7 @@
 72036 = {
 	name = "Piarres"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72034
 	mother = 459525
@@ -4142,7 +4142,7 @@
 72037 = {
 	name = "Piarres"
 	dynasty = 778
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72029
 	mother = 71513
@@ -4158,7 +4158,7 @@
 	name = "Maria"
 	dynasty = 778
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72029
 	mother = 71513
@@ -4173,7 +4173,7 @@
 72039 = {
 	name = "Piarres"
 	dynasty = 7001
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72044
 	mother = 72045
@@ -4191,7 +4191,7 @@
 72040 = {
 	name = "Eliza"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	1203.1.1 = {
 		birth = "1203.1.1"
@@ -4204,7 +4204,7 @@
 72041 = {
 	name = "Piarres"
 	dynasty = 7001
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72039
 	mother = 72040
@@ -4219,7 +4219,7 @@
 72042 = {
 	name = "Gartzia"
 	dynasty = 7001
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72039
 	mother = 72040
@@ -4235,7 +4235,7 @@
 	name = "Antsa"
 	dynasty = 7001
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72039
 	mother = 72040
@@ -4250,7 +4250,7 @@
 72044 = {
 	name = "Fernando"
 	dynasty = 7001
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72046
 	mother = 72047
@@ -4273,7 +4273,7 @@
 	father = 200182
 	mother = 200183
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1170.1.1 = {
@@ -4288,7 +4288,7 @@
 	name = "Rodrigo"
 	dynasty = 7001
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1103.1.1 = {
@@ -4306,7 +4306,7 @@
 	name = "Toda"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1138.1.1 = {
@@ -4320,7 +4320,7 @@
 72048 = {
 	name = "Piarres"
 	dynasty = 7001
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72046
 	mother = 72047
@@ -4338,7 +4338,7 @@
 72049 = {
 	name = "Toda"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	1160.1.1 = {
 		birth = "1160.1.1"
@@ -4352,7 +4352,7 @@
 	name = "Toda"
 	female = yes
 	dynasty = 7001
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72048
 	mother = 72049
@@ -4371,7 +4371,7 @@
 	diplomacy = 6
 	intrigue = 4
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = just
 	trait = zealous
@@ -4402,7 +4402,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = greedy
 	father = 207570
@@ -4426,7 +4426,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = cynical
 	father = 207570
@@ -4446,7 +4446,7 @@
 	diplomacy = 6
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = cynical
 	trait = education_martial_2
@@ -4470,7 +4470,7 @@
 	diplomacy = 7
 	intrigue = 8
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	1095.1.1 = {
 		birth = "1095.1.1"
@@ -4483,7 +4483,7 @@
 71384 = {
 	name = "Diego"
 	dynasty = 101909
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72051
 	1138.1.1 = {
@@ -4505,7 +4505,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 207570
 	mother = 207571
@@ -4524,7 +4524,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = education_martial_3
 	father = 207600
@@ -4546,7 +4546,7 @@
 72051 = {
 	name = "Lope"
 	dynasty = 101909
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	1115.1.1 = {
 		birth = "1115.1.1"
@@ -4559,7 +4559,7 @@
 72342 = {
 	name = "Toda"
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	1263.1.1 = {
 		birth = "1263.1.1"
@@ -4572,7 +4572,7 @@
 72650 = {
 	name = "Fernando"
 	dynasty = 8614
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70073
 	trait = bastard
@@ -4587,7 +4587,7 @@
 72651 = {
 	name = "Fortun"
 	dynasty = 8614
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70073
 	trait = bastard
@@ -4602,7 +4602,7 @@
 72652 = {
 	name = "Gartzia"
 	dynasty = 8614
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70073
 	trait = bastard
@@ -4618,7 +4618,7 @@
 	name = "Andregoto"
 	dynasty = 8614
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70073
 	trait = bastard
@@ -4634,7 +4634,7 @@
 	name = "Antsa"
 	dynasty = 8614
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70073
 	trait = bastard
@@ -4650,7 +4650,7 @@
 	name = "Antsa"
 	dynasty = 8614
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70073
 	trait = bastard
@@ -4665,7 +4665,7 @@
 72656 = {
 	name = "Antso"
 	dynasty = 8614
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72651
 	1134.1.1 = {
@@ -4679,7 +4679,7 @@
 72657 = {
 	name = "Antso"
 	dynasty = 8614
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72652
 	1138.1.1 = {
@@ -4693,7 +4693,7 @@
 72668 = {
 	name = "Gontzal"
 	dynasty = 7026
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	1135.1.1 = {
 		birth = "1135.1.1"
@@ -4709,7 +4709,7 @@
 72669 = {
 	name = "Fernando"
 	dynasty = 7026
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72668
 	mother = 72664
@@ -4724,7 +4724,7 @@
 72670 = {
 	name = "Piarres"
 	dynasty = 7026
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72668
 	mother = 72664
@@ -4739,7 +4739,7 @@
 72671 = {
 	name = "Rodrigo"
 	dynasty = 7026
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72668
 	mother = 72664
@@ -4754,7 +4754,7 @@
 72672 = {
 	name = "NuN_o"
 	dynasty = 7026
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72668
 	mother = 72664
@@ -4769,7 +4769,7 @@
 72673 = {
 	name = "GO_mez"
 	dynasty = 7026
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72668
 	mother = 72664
@@ -4785,7 +4785,7 @@
 	name = "Aines"
 	female = yes
 	dynasty = 7026
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72668
 	mother = 72664
@@ -4800,7 +4800,7 @@
 72675 = {
 	name = "Gil"
 	dynasty = 7026
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72670
 	1190.1.1 = {
@@ -4814,7 +4814,7 @@
 72676 = {
 	name = "Gontzal"
 	dynasty = 7026
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72670
 	1192.1.1 = {
@@ -4829,7 +4829,7 @@
 	name = "Aines"
 	female = yes
 	dynasty = 7026
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 72670
 	1194.1.1 = {
@@ -4847,7 +4847,7 @@
 	diplomacy = 4
 	intrigue = 6
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = sadistic
 	trait = lazy
@@ -4869,7 +4869,7 @@
 
 	father = 200095
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1045.1.1 = {
@@ -4887,7 +4887,7 @@
 	name = "Fronilde"
 	dynasty = 8741
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71333
 	mother = 70049
@@ -4903,7 +4903,7 @@
 	name = "Ximena"
 	dynasty = 8741
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 71333
 	mother = 70049
@@ -4918,7 +4918,7 @@
 71341 = {
 	name = "Ramiro"
 	dynasty = 8614
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 70073
 	trait = bastard
@@ -4938,7 +4938,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = temperate
 	trait = education_stewardship_2
@@ -4958,7 +4958,7 @@
 
 	father = 70123
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	936.1.1 = {
@@ -4977,7 +4977,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = brave
 	trait = education_diplomacy_2
@@ -4999,7 +4999,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = education_diplomacy_1
 	father = 206500
@@ -5019,7 +5019,7 @@
 	diplomacy = 4
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = wrathful
 	trait = education_martial_2
@@ -5041,7 +5041,7 @@
 	diplomacy = 4
 	intrigue = 5
 	stewardship = 8
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = lustful
 	trait = cynical
@@ -5063,7 +5063,7 @@
 	diplomacy = 6
 	intrigue = 5
 	stewardship = 3
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = wrathful
 	trait = education_diplomacy_1
@@ -5080,7 +5080,7 @@
 73150 = {
 	name = "Gartzia"
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1105.1.1 = {
@@ -5096,7 +5096,7 @@
 	female = yes
 	dynasty = 442
 
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 
 	father = 70121
@@ -5113,7 +5113,7 @@
 	name = "Gartzia"
 	dynasty_house = house_aragon
 
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 
 	father = 70276
@@ -5132,7 +5132,7 @@
 	female = yes
 	dynasty_house = house_iniga
 
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 
 	father = 70292
@@ -5150,7 +5150,7 @@
 	female = yes
 	dynasty_house = house_iniga
 
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 
 	father = 70291
@@ -5168,7 +5168,7 @@
 	female = yes
 	dynasty_house = house_iniga
 
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 
 	father = 70291
@@ -5186,7 +5186,7 @@
 	female = yes
 	dynasty_house = house_iniga
 
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 
 	father = 70295
@@ -5224,7 +5224,7 @@
 	name = "Aznar"
 	dynasty_house = house_iniga
 
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 
 	father = 70293
@@ -5242,7 +5242,7 @@
 	name = "Belasko"
 	dynasty_house = house_iniga
 
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 
 	father = 70293
@@ -5260,7 +5260,7 @@
 	name = "Lope"
 	dynasty_house = house_iniga
 
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 
 	father = 70293
@@ -5278,7 +5278,7 @@
 	name = "Oria"
 	female = yes
 
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 
 	833.1.1 = {
@@ -5332,7 +5332,7 @@
 	diplomacy = 9
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = generous
 	trait = just
@@ -5355,7 +5355,7 @@
 	diplomacy = 6
 	intrigue = 8
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = ambitious
 	trait = diligent
@@ -5384,7 +5384,7 @@
 
 	father = 70274
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 	
 	917.1.1 = {
@@ -5402,7 +5402,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = wrathful
 	trait = brave
@@ -5427,7 +5427,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 4
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	trait = craven
 	trait = content
@@ -5448,7 +5448,7 @@
 	diplomacy = 6
 	intrigue = 3
 	stewardship = 6
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	trait = generous
 	trait = education_martial_2
@@ -5469,7 +5469,7 @@
 	diplomacy = 7
 	intrigue = 4
 	stewardship = 5
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	trait = depressed_1
 	trait = education_stewardship_1
@@ -5516,7 +5516,7 @@
 	diplomacy = 5
 	intrigue = 4
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = ill
 	trait = education_martial_1
@@ -5534,7 +5534,7 @@
 7562 = {
 	name = "Antso" #Sancho IV de Gascogne
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 7563
 	890.1.1 = {
@@ -5548,7 +5548,7 @@
 7563 = {
 	name = "Gartzia"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 163060
 	mother = 168126
@@ -5564,7 +5564,7 @@
 	name = "Toda-Adalais" #de Gascogne
 	female = yes
 	dynasty = 388
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 127049 #Guillaume Sache de Gascogne
 	#mother Urraca de Pampelune
@@ -5583,7 +5583,7 @@
 	dynasty = 388
 	female = yes
 	
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 127049
 	
@@ -5600,7 +5600,7 @@
 	dynasty = 388
 	female = yes
 	
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 7563
 	883.1.1 = {
@@ -5619,7 +5619,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 127049
 	980.1.1 = {
@@ -5633,7 +5633,7 @@
 127049 = {
 	name = "Gilen" #Guillaume-Sanche de Gascogne
 	dynasty = 388
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 7562
 	913.1.1 = {
@@ -5647,7 +5647,7 @@
 127050 = {
 	name = "Bernart" #Bernard-Guillaume de Gascogne
 	dynasty = 388
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 127049
 	974.1.1 = {
@@ -5661,7 +5661,7 @@
 127051 = {
 	name = "Antso" #Sanche-Guillaume de Gascogne
 	dynasty = 388
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 127049
 	978.1.1 = {
@@ -5676,7 +5676,7 @@
 	name = "Adalais"
 	dynasty = 388
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 127049
 	980.1.1 = {
@@ -5691,7 +5691,7 @@
 	name = "Alausia" #de Gascogne
 	dynasty = 388
 	female = yes
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 127051
 	1003.1.1 = {
@@ -5707,7 +5707,7 @@
 	# TODO_CD_P: Send to a monastery instead of his employment in 1061
 	name = "Bernart"
 	dynasty = 388
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	mother = 127053
 	1010.1.1 = {
@@ -5724,7 +5724,7 @@
 138162 = {
 	name = "Lope" #Centulle Loup I de Béarn
 	dynasty_house = house_bearn
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168123
 	850.1.1 = {
@@ -5738,7 +5738,7 @@
 138188 = {
 	name = "Aznar" #Aznar III de Comminges
 	dynasty_house = house_comminges
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168120
 	890.1.1 = {
@@ -5752,7 +5752,7 @@
 163060 = {
 	name = "Antso"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168111
 	820.1.1 = {
@@ -5769,7 +5769,7 @@
 163061 = {
 	name = "Antso"
 	dynasty = 388
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	father = 7562
 	924.1.1 = {
@@ -5783,7 +5783,7 @@
 168104 = {
 	name = "Lope"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	trait = ambitious
 	720.1.1 = {
@@ -5811,7 +5811,7 @@
 168105 = {
 	name = "Ximeno"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168104
 	740.1.1 = {
@@ -5825,7 +5825,7 @@
 168106 = {
 	name = "Antso"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168104
 	755.1.1 = {
@@ -5839,7 +5839,7 @@
 168107 = {
 	name = "Zentulo"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168104
 	760.1.1 = {
@@ -5853,7 +5853,7 @@
 168108 = {
 	name = "Donato"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168104
 	765.1.1 = {
@@ -5867,7 +5867,7 @@
 168109 = {
 	name = "Gartzia"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168105
 	760.1.1 = {
@@ -5882,7 +5882,7 @@
 168110 = {
 	name = "Eneko"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168109
 	785.1.1 = {
@@ -5898,7 +5898,7 @@
 168111 = {
 	name = "Ximeno"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168109
 	790.1.1 = {
@@ -5913,7 +5913,7 @@
 168112 = {
 	name = "Gartzia"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168111
 	815.1.1 = {
@@ -5929,7 +5929,7 @@
 168113 = {
 	name = "Vela"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168111
 	821.1.1 = {
@@ -5943,7 +5943,7 @@
 168114 = {
 	name = "Rodrigo"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168111
 	822.1.1 = {
@@ -5958,7 +5958,7 @@
 168115 = {
 	name = "Jakue"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168114
 	845.1.1 = {
@@ -5977,7 +5977,7 @@
 	name = "Antsa"
 	female = yes
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168106
 	790.1.1 = {
@@ -5991,7 +5991,7 @@
 168118 = {
 	name = "Gartzia"
 	dynasty_house = house_comminges
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 70300
 	805.1.1 = {
@@ -6005,7 +6005,7 @@
 168119 = {
 	name = "Aznar"
 	dynasty_house = house_comminges
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168118
 	830.1.1 = {
@@ -6019,7 +6019,7 @@
 168120 = {
 	name = "Lope"
 	dynasty_house = house_comminges
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168119
 	860.1.1 = {
@@ -6034,7 +6034,7 @@
 168121 = {
 	name = "Lope"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168107
 	780.1.1 = {
@@ -6048,7 +6048,7 @@
 168122 = {
 	name = "Lope"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168121
 	805.1.1 = {
@@ -6062,7 +6062,7 @@
 168123 = {
 	name = "Zentulo"
 	dynasty_house = house_bearn
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168121
 	810.1.1 = {
@@ -6076,7 +6076,7 @@
 168124 = {
 	name = "Donato"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168108
 	790.1.1 = {
@@ -6090,7 +6090,7 @@
 168125 = {
 	name = "Gartzia"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168124
 	810.1.1 = {
@@ -6105,7 +6105,7 @@
 	name = "Kisilo"
 	female = yes
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168124
 	830.1.1 = {
@@ -6119,7 +6119,7 @@
 168143 = {
 	name = "Antso"
 	dynasty = 388
-	religion = nicean
+	religion = "nicean"
 	culture = "basque"
 	father = 168106
 	788.1.1 = {
@@ -6137,7 +6137,7 @@
 	diplomacy = 8
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "basque"
 	trait = education_intrigue_2
 	father = 106010
@@ -6152,7 +6152,7 @@
 
 #71543 = { #Could find no support for this son actually existing
 #	name = "Fernando"
-#	religion = "catholic"
+#	religion = "nicean"
 #	culture = "basque"
 #	father = 106000
 #	trait = bastard
@@ -6686,7 +6686,7 @@
 	father = 207561
 	mother = 210575
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1174.1.1 = {
@@ -6704,7 +6704,7 @@
 	father = 73034
 	mother = 73044
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1042.1.1 = {
@@ -6721,7 +6721,7 @@
 	father = 108570
 	trait = bastard
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1025.1.1 = {
@@ -6745,7 +6745,7 @@
 	father = 70076
 	mother = 70077
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 	
 	1048.1.1 = {
@@ -6764,7 +6764,7 @@
 	father = 70076
 	mother = 70077
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 	
 	1050.1.1 = {
@@ -6778,7 +6778,7 @@
 	name = "Ximena"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1040.1.1 = {
@@ -6795,7 +6795,7 @@
 	father = 70271
 	mother = 70273
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	921.1.1 = {
@@ -6814,7 +6814,7 @@
 
 	father = 70272
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 	
 	905.1.1 = {
@@ -6846,7 +6846,7 @@
 	name = "Beatritz"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1044.1.1 = {
@@ -6860,7 +6860,7 @@
 	name = "Mentzia"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1129.1.1 = {
@@ -6874,7 +6874,7 @@
 	name = "Teresa"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1253.1.1 = {
@@ -6890,7 +6890,7 @@
 
 	father = 200163
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	908.1.1 = {
@@ -6907,7 +6907,7 @@
 
 	father = 200163
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	900.1.1 = {
@@ -6924,7 +6924,7 @@
 
 	father = 73896
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	931.1.1 = {
@@ -7043,7 +7043,7 @@
 
 	father = 200092
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	958.1.1 = {
@@ -7060,7 +7060,7 @@
 
 	father = 200090
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	980.1.1 = {
@@ -7078,7 +7078,7 @@
 	father = 200093
 	mother = 107681
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	931.1.1 = {
@@ -7130,7 +7130,7 @@
 
 	father = 200091
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1008.1.1 = {
@@ -7254,7 +7254,7 @@
 
 	father = 200166
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1029.1.1 = {
@@ -7272,7 +7272,7 @@
 	name = "Maior"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1057.1.1 = {
@@ -7289,7 +7289,7 @@
 
 	father = 200168
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1000.1.1 = {
@@ -7306,7 +7306,7 @@
 
 	father = 200166
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1027.1.1 = {
@@ -7323,7 +7323,7 @@
 
 	father = 200169
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	977.1.1 = {
@@ -7340,7 +7340,7 @@
 
 	father = 73896
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	943.1.1 = {
@@ -7355,7 +7355,7 @@
 	name = "Konstantzia"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1058.1.1 = {
@@ -7373,7 +7373,7 @@
 	father = 200164
 	mother = 200165
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1077.1.1 = {
@@ -7391,7 +7391,7 @@
 	name = "Oria"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1080.1.1 = {
@@ -7409,7 +7409,7 @@
 	father = 200164
 	mother = 200165
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1079.1.1 = {
@@ -7427,7 +7427,7 @@
 	father = 200171
 	mother = 200172
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1099.1.1 = {
@@ -7445,7 +7445,7 @@
 	name = "Teresa"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1100.1.1 = {
@@ -7462,7 +7462,7 @@
 
 	father = 200171
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1101.1.1 = {
@@ -7480,7 +7480,7 @@
 	name = "Munia"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1107.1.1 = {
@@ -7499,7 +7499,7 @@
 	father = 200171
 	mother = 200172
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1103.1.1 = {
@@ -7517,7 +7517,7 @@
 	father = 200176
 	mother = 200177
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1128.1.1 = {
@@ -7535,7 +7535,7 @@
 	father = 200174
 	mother = 200175
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1119.1.1 = {
@@ -7553,7 +7553,7 @@
 	name = "Belaskita"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1125.1.1 = {
@@ -7571,7 +7571,7 @@
 	father = 200180
 	mother = 200181
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1143.1.1 = {
@@ -7589,7 +7589,7 @@
 	name = "Mentzia"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1150.1.1 = {
@@ -7607,7 +7607,7 @@
 	father = 200180
 	mother = 200181
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1145.1.1 = {
@@ -7625,7 +7625,7 @@
 	name = "Toda"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1147.1.1 = {
@@ -7643,7 +7643,7 @@
 	father = 200184
 	mother = 200185
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1165.1.1 = {
@@ -7892,7 +7892,7 @@
 	father = 70269
 	mother = 54000
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	942.1.1 = {
@@ -7907,7 +7907,7 @@
 	name = "Ximena"
 	female = yes
 
-	religion = catholic
+	religion = nicean
 	culture = basque
 
 	1040.1.1 = {

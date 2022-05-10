@@ -738,7 +738,7 @@
 		birth = yes
 	}
 	1090.1.1 = {
-		religion = catholic
+		religion = nicean
 		name = "Ilizabeth"
 	}
 	1107.9.13 = {
@@ -3481,7 +3481,7 @@
 		birth = "940.1.1" #Unknown
 	}
 	961.1.1 = {
-		religion = "orthodox"
+		religion = "nicean"
 		dynasty = 101183
 	}
 	971.1.1 = {

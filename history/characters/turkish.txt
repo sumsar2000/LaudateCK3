@@ -2205,7 +2205,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 6
-	religion = "orthodox"
+	religion = "nicean"
 	culture = "turkish"
 	trait = diligent
 	trait = content
@@ -5126,7 +5126,7 @@
 		add_spouse = 466518
 	}
 	1219.1.1 = {
-		religion = "orthodox"
+		religion = "nicean"
 	}
 	1230.1.1 = {
 		death = "1230.1.1"

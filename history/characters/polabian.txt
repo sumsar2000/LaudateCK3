@@ -310,7 +310,7 @@
 	}
 	
 	1168.1.1 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	
 	1170.1.1 = {
@@ -326,7 +326,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 4
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 221735
 	mother = 201512
@@ -378,7 +378,7 @@
 	#Danes conquer and convert Rügen
 	
 	1168.1.1 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	
 	1178.1.1 = {
@@ -397,7 +397,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 221735
 	mother = 201512
@@ -416,7 +416,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 221735
 	mother = 201512
@@ -496,7 +496,7 @@
 	#Danes conquer and convert Rügen
 	
 	1168.1.1 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	
 	1173.1.1 = {
@@ -518,7 +518,7 @@
 	#Danes conquer and convert Rügen
 	
 	1168.1.1 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	
 	1193.1.1 = {
@@ -533,7 +533,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 221735
 	mother = 201512
@@ -552,7 +552,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 221735
 	mother = 201512
@@ -571,7 +571,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 221737
 	mother = 30488
@@ -590,7 +590,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 221737
 	mother = 30488
@@ -609,7 +609,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 221737
 	mother = 30488
@@ -631,7 +631,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 221737
 	mother = 30488
@@ -650,7 +650,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 221737
 	mother = 30488
@@ -670,7 +670,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 221737
 	mother = 30488
@@ -687,7 +687,7 @@
 	# AKA: Marketa
 	female = yes
 	dynasty = 101890
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 30491
 	mother = 30461
@@ -702,7 +702,7 @@
 30496 = {
 	name = "Jaromar" #Jaromar III
 	dynasty = 101890
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 30491
 	mother = 30461
@@ -717,7 +717,7 @@
 30497 = {
 	name = "Wizlaw" #Wizlaw II
 	dynasty = 101890
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 30491
 	mother = 30461
@@ -735,7 +735,7 @@
 30498 = {
 	name = "Wizlaw" #Wizlaw III
 	dynasty = 101890
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 30497
 	mother = 30506 #Agnes Welf
@@ -756,7 +756,7 @@
 30499 = {
 	name = "Jaromar"
 	dynasty = 101890
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 30497
 	mother = 30506 #Agnes Welf
@@ -771,7 +771,7 @@
 30500 = {
 	name = "Sambor"
 	dynasty = 101890
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	trait = education_learning_2
 	father = 30497
@@ -787,7 +787,7 @@
 30501 = {
 	name = "Swietopelk"
 	dynasty = 101890
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	trait = education_learning_2
 	father = 30497
@@ -805,7 +805,7 @@
 	# AKA: Marketa
 	female = yes
 	dynasty = 101890
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	trait = education_learning_2
 	father = 30497
@@ -823,7 +823,7 @@
 	# AKA: Helena
 	female = yes
 	dynasty = 101890
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	trait = education_learning_2
 	father = 30497
@@ -840,7 +840,7 @@
 	name = "Sophia"
 	female = yes
 	dynasty = 101890
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	trait = education_learning_2
 	father = 30497
@@ -861,7 +861,7 @@
 	diplomacy = 4
 	intrigue = 4
 	stewardship = 6
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	trait = chaste
 	trait = lazy
@@ -880,7 +880,7 @@
 	name = "Eufemia"
 	female = yes
 	dynasty = 101890
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	trait = ill
 	father = 30498
@@ -897,7 +897,7 @@
 	name = "Agnes"
 	female = yes
 	dynasty = 101890
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 30498
 	mother = 33279
@@ -912,7 +912,7 @@
 33284 = {
 	name = "Jaromar"
 	dynasty = 101890
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 30498
 	mother = 33279
@@ -951,7 +951,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	trait = wrathful
 	trait = arrogant
@@ -972,7 +972,7 @@
 	diplomacy = 5
 	intrigue = 8
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	trait = wrathful
 	trait = education_martial_2
@@ -998,7 +998,7 @@
 	diplomacy = 7
 	intrigue = 7
 	stewardship = 7
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	trait = zealous
 	trait = generous
@@ -1031,7 +1031,7 @@
 		birth = "970.1.1"
 	}
 	1000.1.1 = {
-		religion = "catholic"
+		religion = "nicean"
 	}
 	1028.1.1 = {
 		death = "1028.1.1"
@@ -1054,7 +1054,7 @@
 		birth = "948.1.1"
 	}
 	965.1.2 = {
-		religion = "catholic"
+		religion = "nicean"
 	}	
 	970.1.1 = {
 		death = "970.1.1"
@@ -1118,7 +1118,7 @@
 30507 = {
 	name = "Przybyslaw"
 	dynasty = 101906
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 8400 #Budivoj
 	1070.1.1 = {
@@ -1132,7 +1132,7 @@
 30508 = {
 	name = "Swietopelk"
 	dynasty = 101906
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 8402 #Henrik
 	mother = 30480 #Slavia
@@ -1147,7 +1147,7 @@
 30509 = {
 	name = "Kanut"
 	dynasty = 101906
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 8402 #Henrik
 	mother = 30480 #Slavia
@@ -1162,7 +1162,7 @@
 30510 = {
 	name = "Msciwoj"
 	dynasty = 101906
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 8402 #Henrik
 	1085.1.1 = {
@@ -1176,7 +1176,7 @@
 30511 = {
 	name = "Valdemar"
 	dynasty = 101906
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 8402 #Henrik
 	1088.1.1 = {
@@ -1190,7 +1190,7 @@
 30512 = {
 	name = "Zvinike"
 	dynasty = 101906
-	religion = "catholic"
+	religion = "nicean"
 	culture = "polabian"
 	father = 30508 #Swietopelk
 	1112.1.1 = {

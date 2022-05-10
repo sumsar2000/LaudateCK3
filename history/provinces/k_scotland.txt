@@ -246,7 +246,7 @@
 }
 1691 = {	#Mull
 	holding = church_holding
-	#settled by irish religion = niceans before CK timeframe
+	#settled by irish niceans before CK timeframe
 }
 
 ###c_outer_hebrides

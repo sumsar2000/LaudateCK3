@@ -64,7 +64,7 @@
 		birth = "850.1.1"
 	}
 	884.1.1 = {
-		religion = nicean
+		religion = "nicean"
 	}
 	891.1.1 = {
 		death = "891.1.1"
@@ -81,7 +81,7 @@
 		birth = "852.1.1"
 	}
 	884.1.1 = {
-		religion = "orthodox"
+		religion = "nicean"
 	}
 	909.1.1 = {
 		death = "909.1.1"
@@ -250,7 +250,7 @@
 		birth = yes
 	}
 	797.1.1 = {
-		religion = nicean
+		religion = "nicean"
 		name = "Theodorus"
 	}
 	814.1.1 = {
@@ -268,7 +268,7 @@
 		birth = yes
 	}
 	797.1.1 = {
-		religion = nicean
+		religion = "nicean"
 		name = "Abraham"
 	}
 	829.1.1 = {
@@ -279,7 +279,7 @@
 146142 = {
 	name = "Isaac"
 	dynasty = 1022368
-	religion = nicean
+	religion = "nicean"
 	culture = "avar"
 	father = 146141
 	799.1.1 = {

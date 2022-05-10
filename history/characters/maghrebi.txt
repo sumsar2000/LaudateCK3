@@ -617,7 +617,7 @@ maghrebi0015 = {
 		add_unpressed_claim = title:c_palermo # claims of ibn al-Hawas
 	}
 	1087.1.1 = {
-		religion = catholic
+		religion = nicean
 	}
 	1095.1.1 = {
 		death = yes

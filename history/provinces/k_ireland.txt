@@ -43,7 +43,7 @@
 	988.1.1 = {
 		holding = castle_holding
 	}
-	1185.1.1 = {	#Norman invasion brings religion = nicean dominance.
+	1185.1.1 = {	#Norman invasion brings nicean dominance.
 		religion = nicean
 	}
 }
@@ -91,7 +91,7 @@
 	988.1.1 = {
 		holding = castle_holding
 	}
-	1189.1.1 = {	#Norman invasion brings religion = nicean dominance.
+	1189.1.1 = {	#Norman invasion brings nicean dominance.
 		religion = nicean
 	}
 }
@@ -201,7 +201,7 @@
 	988.1.1 = {
 		holding = castle_holding
 	}
-	1172.1.1 = {	#Norman invasion brings religion = nicean dominance.
+	1172.1.1 = {	#Norman invasion brings nicean dominance.
 		religion = nicean
 	}
 }
@@ -230,7 +230,7 @@
 	988.1.1 = {
 		holding = castle_holding
 	}
-	1169.1.1 = {	#Norman invasion brings religion = nicean dominance.
+	1169.1.1 = {	#Norman invasion brings nicean dominance.
 		religion = nicean
 	}
 }
@@ -252,7 +252,7 @@
 	988.1.1 = {
 		holding = castle_holding
 	}
-	1177.1.1 = {	#Norman invasion brings religion = nicean dominance.
+	1177.1.1 = {	#Norman invasion brings nicean dominance.
 		religion = nicean
 	}
 }
